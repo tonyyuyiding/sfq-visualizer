@@ -103,10 +103,10 @@ def read_and_process_csv(directory, yss: YSS) -> pd.DataFrame:
     
     # Convert scores
     if yss < YSS(2020, Semester.Fall, School.ENG):
-        df["course_mean"].apply(lambda x: x / 25 + 1)
-        df["course_sd"].apply(lambda x: x / 625)
-        df["instructor_mean"].apply(lambda x: x / 25 + 1)
-        df["instructor_sd"].apply(lambda x: x / 625)
+        df["course_mean"] = df["course_mean"].apply(lambda x: x / 25 + 1)
+        df["course_sd"] = df["course_sd"].apply(lambda x: x / 625)
+        df["instructor_mean"] = df["instructor_mean"].apply(lambda x: x / 25 + 1)
+        df["instructor_sd"] = df["instructor_sd"].apply(lambda x: x / 625)
 
     return df
 
