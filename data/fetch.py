@@ -5,12 +5,12 @@ from datetime import datetime
 from utils import BASE_URL_EXCEL, YSStqdm
 
 
-def fetch_file(file_name, save_path) -> int:
+def fetch_file(file_name, save_directory) -> int:
     url = f"{BASE_URL_EXCEL}/{file_name}"
     r = requests.get(url)
 
     if r.ok:
-        file_path = os.path.join(save_path, file_name)
+        file_path = os.path.join(save_directory, file_name)
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
         with open(file_path, "wb") as file:

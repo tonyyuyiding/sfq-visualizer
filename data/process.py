@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-from utils import YSS, YSStqdm
+from utils import YSS, YSStqdm, Semester, School
 
 
 def excel_to_csv(from_path, to_path) -> bool:
@@ -71,7 +71,8 @@ def process_csv(directory, yss: YSS) -> pd.DataFrame:
     
     # Delete unnessary rows
     df = df.loc[df["acad_year"] == "23-24"]
-    df = df.loc[df["level"].isin(["Section", "Instructor"])]
+    df = df.loc[df["level"] == "Instructor"]
+    df= df.drop(columns=["level"])
     
     # Delete rows with unexpected values
     df = df.loc[df["num_enrollment"] != "-"]
@@ -95,3 +96,7 @@ def process_csv(directory, yss: YSS) -> pd.DataFrame:
     df.drop(columns=["response_rate"])
     
     return df
+
+if __name__ == "__main__":
+    yss = YSS(year=2023, semester=Semester.Fall, school=School.ENG)
+    print(process_csv(f"csv_raw/{yss.school}", yss))

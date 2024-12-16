@@ -1,5 +1,6 @@
 import enum
 from tqdm import tqdm
+from typing import overload
 
 BASE_URL_EXCEL = "https://student-survey.hkust.edu.hk/SFQ_Survey_Results/Excel"
 
@@ -55,23 +56,48 @@ SCHOOL_LIST = [
 ]
 
 
-class YearSemesterSchool:
-    def __init__(self, year, semester, school):
-        self.year = year
-        self.semester = semester
-        self.school = school
+class YSS:
+
+    @staticmethod
+    def year_to_academic_year(year: int, semester: Semester) -> str:
+        year_two_digit = year % 100
+        if semester != Semester.Fall:
+            year_two_digit -= 1
+        return f"{year_two_digit}-{year_two_digit + 1}"
+
+    @staticmethod
+    def academic_year_to_year(academic_year: str, semester: Semester) -> int:
+        if len(academic_year) != 5:
+            raise TypeError("Academic year should be a string with length 5")
+        year = int(academic_year[-2:]) + 2000
+        if semester == Semester.Fall:
+            year -= 1
+        return year
+
+    def __init__(self, year: int | str, semester: Semester, school: School):
+        """
+        :param year: int with 4 digits or str with length 5
+        """
+        if isinstance(year, int):
+            self.year = year
+            self.semester = semester
+            self.school = school
+            self.academic_year = YSS.year_to_academic_year(year, semester)
+        elif isinstance(year, str):
+            self.academic_year = year
+            self.semester = semester
+            self.school = school
+            self.year = YSS.academic_year_to_year(year, semester)
+        else:
+            raise TypeError("year should be either int or str")
 
     @property
     def file_name_xlsx(self):
-        return get_file_name(self.school, self.semester, self.year, "xlsx")
+        return get_file_name(self.school, self.semester, self.year % 100, "xlsx")
 
     @property
     def file_name_csv(self):
-        return get_file_name(self.school, self.semester, self.year, "csv")
-
-
-class YSS(YearSemesterSchool):
-    pass
+        return get_file_name(self.school, self.semester, self.year % 100, "csv")
 
 
 class YSStqdm:
@@ -111,18 +137,20 @@ class YSStqdm:
                             self.pbar_school = None
                     self.pbar_semester = None
             self.pbar_year = None
-        print(f"Success: {self.num_success}, Failure: {self.num_failure}, Skipped: {self.num_skipped}")
-            
+        print(
+            f"Success: {self.num_success}, Failure: {self.num_failure}, Skipped: {self.num_skipped}"
+        )
+
     def add_success(self) -> None:
         self.pbar_school.colour = "green"
         self.num_success += 1
         self.num_skipped -= 1
-        
+
     def add_failure(self) -> None:
         self.pbar_school.colour = "red"
         self.num_failure += 1
         self.num_skipped -= 1
-        
+
     def add(self, succ: bool) -> bool:
         if succ:
             self.add_success()
