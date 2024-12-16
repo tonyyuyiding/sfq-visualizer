@@ -1,0 +1,70 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - Mean,Course Overall - SD,Instructor Overall - Mean,Instructor Overall - SD
+23-24,FALL,University,-,-,-,1427.0,0.434,4.14,0.93,4.27,0.88
+23-24,FALL,School,SBM,-,-,419.0,0.427,4.24,0.89,4.35,0.86
+23-24,FALL,Dept,SBM,ACCT,Accounting,56.0,0.436,4.14,0.88,4.26,0.88
+23-24,FALL,Dept,SBM,BIBU-SBM,Biotechnology and Business,1.0,0.237,4.0,0.87,4.0,0.91
+23-24,FALL,Dept,SBM,ECON,Economics,63.0,0.431,4.3,0.86,4.38,0.85
+23-24,FALL,Dept,SBM,ENTR-SBM,Entrepreneurship,2.0,0.274,3.95,1.23,4.21,1.01
+23-24,FALL,Dept,SBM,FINA,Finance,59.0,0.498,4.44,0.78,4.54,0.74
+23-24,FALL,Dept,SBM,GBUS,Global Business,4.0,0.317,4.26,0.76,4.5,0.65
+23-24,FALL,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",127.0,0.392,4.23,0.9,4.33,0.87
+23-24,FALL,Dept,SBM,MIMT,MSc Program in International Management,9.0,0.623,4.34,0.97,4.42,0.93
+23-24,FALL,Dept,SBM,MGMT,Management,63.0,0.424,4.16,0.94,4.34,0.83
+23-24,FALL,Dept,SBM,MARK,Marketing,35.0,0.427,4.1,1.01,4.2,1.03
+23-24,FALL,Dept,SBM,RMBI,Risk Management and Business Intelligence,1.0,0.093,4.0,0.82,4.0,0.82
+23-24,FALL,Dept,SBM,WBBA,SF Program in World Business,1.0,0.731,4.37,0.63,4.2,0.84
+23-24,FALL,Dept,SBM,SBMT,School of Business and Management,4.0,0.44,4.25,1.02,4.28,1.01
+23-24,FALL,School,SENG,-,-,218.0,0.375,4.09,0.94,4.24,0.89
+23-24,FALL,Dept,SENG,CENG,Chemical and Biological Engineering,20.0,0.434,3.83,1.03,3.98,1.08
+23-24,FALL,Dept,SENG,CIVL,Civil and Environmental Engineering,28.0,0.315,4.14,0.84,4.19,0.88
+23-24,FALL,Dept,SENG,COMP,Computer Science and Engineering,72.0,0.384,4.09,0.93,4.35,0.81
+23-24,FALL,Dept,SENG,ELEC,Electronic and Computer Engineering,42.0,0.391,4.15,0.95,4.26,0.91
+23-24,FALL,Dept,SENG,ENEG,Energy Technology,3.0,0.397,4.39,0.58,4.57,0.57
+23-24,FALL,Dept,SENG,ENTR-SENG,Entrepreneurship,2.0,0.274,3.95,1.23,4.21,1.01
+23-24,FALL,Dept,SENG,IEDA,Industrial Engineering and Decision Analytics,17.0,0.287,4.07,0.85,4.21,0.86
+23-24,FALL,Dept,SENG,MECH,Mechanical Engineering,28.0,0.412,4.04,1.0,4.16,0.99
+23-24,FALL,Dept,SENG,ENGG,School of Engineering,6.0,0.472,4.15,0.94,4.17,0.87
+23-24,FALL,School,SHSS,-,-,102.0,0.426,4.27,0.86,4.39,0.81
+23-24,FALL,Dept,SHSS,HUMA,Humanities,43.0,0.393,4.18,0.95,4.31,0.91
+23-24,FALL,Dept,SHSS,HMMA,MA Program in Chinese Culture,1.0,0.712,4.4,0.66,4.54,0.68
+23-24,FALL,Dept,SHSS,MGCS,MSc Program in Global China Studies,7.0,0.738,4.63,0.71,4.71,0.67
+23-24,FALL,Dept,SHSS,MILE,MSc Program in International Language Education,6.0,0.916,4.49,0.65,4.56,0.72
+23-24,FALL,Dept,SHSS,MASS,Master of Arts in Social Science,7.0,0.764,4.5,0.73,4.53,0.72
+23-24,FALL,Dept,SHSS,SOSC,Social Science,38.0,0.352,4.19,0.83,4.31,0.78
+23-24,FALL,School,SSCI,-,-,233.0,0.406,3.98,0.97,4.07,0.95
+23-24,FALL,Dept,SSCI,CHMS,Analytical Chemistry,4.0,0.437,4.57,0.58,4.61,0.56
+23-24,FALL,Dept,SSCI,BIBU-SSCI,Biotechnology and Business,1.0,0.237,4.0,0.87,4.0,0.91
+23-24,FALL,Dept,SSCI,CHEM,Chemistry,38.0,0.464,3.98,0.9,3.96,0.94
+23-24,FALL,Dept,SSCI,DASC,Data Analytics in Science,4.0,0.447,3.88,0.91,4.13,1.05
+23-24,FALL,Dept,SSCI,ENTR-SSCI,Entrepreneurship,2.0,0.274,3.95,1.23,4.21,1.01
+23-24,FALL,Dept,SSCI,LIFS,Life Science,25.0,0.389,3.95,0.84,4.09,0.89
+23-24,FALL,Dept,SSCI,MAED,MSc Program in Mathematics for Educators,6.0,0.785,4.8,0.47,4.8,0.43
+23-24,FALL,Dept,SSCI,MSDM,MSc in Data-Driven Modeling Program,6.0,0.353,4.3,0.76,4.41,0.75
+23-24,FALL,Dept,SSCI,MATH,Mathematics,81.0,0.378,3.81,1.05,3.92,1.07
+23-24,FALL,Dept,SSCI,NANO,NANO Science and Technology,1.0,0.714,4.4,0.55,4.6,0.55
+23-24,FALL,Dept,SSCI,OCES,Ocean Science,16.0,0.493,4.2,0.74,4.13,0.79
+23-24,FALL,Dept,SSCI,PHYS,Physics,38.0,0.385,3.87,0.98,4.0,0.97
+23-24,FALL,Dept,SSCI,SCIE,School of Science,2.0,0.65,4.38,0.51,4.38,0.65
+23-24,FALL,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),9.0,0.291,4.37,0.94,4.4,0.93
+23-24,FALL,School,LANG/LABU/LAGR,-,-,384.0,0.554,4.02,0.95,4.38,0.78
+23-24,FALL,Dept,LANG/LABU/LAGR,LANG,Language,340.0,0.571,4.04,0.94,4.39,0.77
+23-24,FALL,Dept,LANG/LABU/LAGR,LABU,Language for Business,44.0,0.431,3.87,1.03,4.29,0.9
+23-24,FALL,School,AIS,-,-,64.0,0.584,4.34,0.82,4.43,0.77
+23-24,FALL,Dept,AIS,CTDL,Critical Thinking and Data Literacy,2.0,0.439,3.9,0.68,4.07,0.82
+23-24,FALL,Dept,AIS,EMIA,Division of Emerging Interdisciplinary Areas,5.0,0.794,4.35,0.96,4.63,0.64
+23-24,FALL,Dept,AIS,ENVR,Environment and Sustainability,18.0,0.512,4.04,0.88,4.28,0.85
+23-24,FALL,Dept,AIS,EVSM,Environmental Science and Management,3.0,0.57,4.47,0.58,4.54,0.6
+23-24,FALL,Dept,AIS,ISDN,Integrative Systems and Design,12.0,0.476,4.38,0.87,4.47,0.8
+23-24,FALL,Dept,AIS,IDPO,Interdisciplinary Programs Office,2.0,0.478,4.18,1.08,4.69,0.7
+23-24,FALL,Dept,AIS,PPOL,Public Policy,19.0,0.688,4.56,0.7,4.6,0.67
+23-24,FALL,Dept,AIS,TEMG,Technology and Management,3.0,0.745,4.56,0.71,4.73,0.49
+23-24,FALL,School,OTHERS,-,-,12.0,0.656,4.51,0.68,4.72,0.54
+23-24,FALL,Dept,OTHERS,CEI,Center for Education Innovation,10.0,0.665,4.5,0.7,4.75,0.51
+23-24,FALL,Dept,OTHERS,DSTO,Dean of Students' Office,2.0,0.567,4.68,0.47,4.59,0.65
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Note 1: The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,
+Note 2: A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school. The same situation may also occur in the totals for schools and university.,,,,,,,,,,,
+,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,
+2024-01-03 00:00:00,,,,,,,,,,,

@@ -1,0 +1,69 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - UG (Small),Course Overall - UG (Medium),Course Overall - UG (Large),Course Overall - UG Mean,Course Overall - PG (Small),Course Overall - PG (Medium),Course Overall - PG Mean,Course Overall - Overall,Instructor Overall - UG (Small),Instructor Overall - UG (Medium),Instructor Overall - UG (Large),Instructor Overall - UG Mean,Instructor Overall - PG (Small),Instructor Overall - PG (Medium),Instructor Overall - PG Mean,Instructor Overall - Overall
+16-17,SPRING,University,-,-,-,1319.0,0.499,72.78,73.15,68.97,71.86,88.38,85.23,85.97,74.66,82.57,78.34,74.13,77.99,91.72,87.77,88.8,80.1
+16-17,SPRING,School,SBM,-,-,354.0,0.523,79.24,74.02,69.79,73.47,88.89,84.1,84.74,77.1,81.03,79.64,73.63,78.8,91.39,86.43,87.09,81.45
+16-17,SPRING,Dept,SBM,ACCT,Accounting,49.0,0.495,,75.09,,75.09,91.03,91.05,91.05,80.59,,80.18,,80.18,92.31,93.58,93.47,84.76
+16-17,SPRING,Dept,SBM,ECON,Economics,49.0,0.517,75.0,72.59,73.25,73.05,93.02,93.57,93.46,80.34,76.09,75.78,76.37,76.14,93.6,94.88,94.63,82.74
+16-17,SPRING,Dept,SBM,ENTR-SBM,Entrepreneurship,2.0,0.466,87.5,73.86,,75.96,,,,75.96,91.67,81.82,,83.0,,,,83.0
+16-17,SPRING,Dept,SBM,FINA,Finance,55.0,0.528,86.11,77.31,66.03,72.16,93.52,83.8,84.27,76.78,91.67,81.92,70.67,76.69,96.3,85.17,85.71,80.17
+16-17,SPRING,Dept,SBM,GBUS,Global Business,4.0,0.649,,80.74,,80.74,,,,80.74,,85.16,,85.16,,,,85.16
+16-17,SPRING,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",77.0,0.512,80.26,73.56,,73.64,80.97,76.96,77.62,74.66,77.63,78.64,,78.63,85.23,80.31,81.12,79.27
+16-17,SPRING,Dept,SBM,MIMT,MSc Program in International Management,8.0,0.902,,,,,81.94,75.0,75.61,75.61,,,,,100.0,77.48,78.88,78.88
+16-17,SPRING,Dept,SBM,MGMT,Management,66.0,0.523,,69.17,,69.17,90.77,82.81,84.31,74.79,,78.77,,78.77,92.12,84.38,85.79,81.43
+16-17,SPRING,Dept,SBM,MARK,Marketing,39.0,0.523,100.0,76.18,,76.21,88.24,71.94,74.35,75.98,100.0,81.3,,81.32,89.71,76.53,78.48,80.97
+16-17,SPRING,Dept,SBM,WBBA,SF Program in World Business,1.0,0.726,,76.64,,76.64,,,,76.64,,70.9,,70.9,,,,70.9
+16-17,SPRING,Dept,SBM,SBMT,School of Business and Management,4.0,0.403,66.67,,,66.67,95.0,96.48,96.28,95.13,91.67,,,91.67,97.5,97.27,97.3,97.08
+16-17,SPRING,School,SENG,-,-,219.0,0.411,79.7,73.15,72.28,73.14,88.74,83.81,85.49,74.76,83.7,79.34,74.46,77.89,92.46,89.11,90.45,79.35
+16-17,SPRING,Dept,SENG,BIEN,Bioengineering,2.0,0.546,,71.43,,71.43,85.0,,85.0,73.73,,78.57,,78.57,90.0,,90.0,80.51
+16-17,SPRING,Dept,SENG,CENG,Chemical and Biomolecular Engineering,19.0,0.45,78.85,66.46,49.36,65.34,83.87,90.22,86.57,68.51,86.96,73.71,50.64,71.68,87.9,94.57,90.74,74.64
+16-17,SPRING,Dept,SENG,CIVL,Civil and Environmental Engineering,36.0,0.435,88.39,77.08,74.85,75.52,91.4,83.06,85.43,76.92,93.75,81.64,77.13,78.23,94.09,88.54,90.45,79.8
+16-17,SPRING,Dept,SENG,COMP,Computer Science and Engineering,61.0,0.42,61.29,76.61,80.75,76.61,84.09,86.46,86.29,77.62,62.9,83.66,88.72,83.6,88.64,88.11,88.15,84.1
+16-17,SPRING,Dept,SENG,ELEC,Electronic and Computer Engineering,41.0,0.365,88.64,76.76,68.57,74.91,90.51,86.43,89.25,77.32,88.28,81.86,68.0,77.93,93.06,95.83,93.61,80.08
+16-17,SPRING,Dept,SENG,ENEG,Energy Technology,2.0,0.714,,,,,80.0,,80.0,80.0,,,,,92.5,,92.5,92.5
+16-17,SPRING,Dept,SENG,ENTR-SENG,Entrepreneurship,2.0,0.466,87.5,73.86,,75.96,,,,75.96,91.67,81.82,,83.0,,,,83.0
+16-17,SPRING,Dept,SENG,IELM,Industrial Engineering and Logistics Management,18.0,0.361,75.0,69.87,57.47,67.28,95.31,,95.31,68.6,80.43,75.11,55.19,70.76,100.0,,100.0,72.13
+16-17,SPRING,Dept,SENG,MECH,Mechanical Engineering,34.0,0.421,82.24,67.36,62.35,67.63,85.58,74.19,79.39,69.5,88.82,72.93,65.74,72.96,90.38,83.82,88.77,74.59
+16-17,SPRING,Dept,SENG,ENGG,School of Engineering,4.0,0.317,91.67,56.82,,58.62,,,,58.62,83.33,68.0,,68.59,,,,68.59
+16-17,SPRING,School,SHSS,-,-,103.0,0.532,82.71,73.17,69.38,71.4,93.01,90.53,91.76,74.51,88.13,78.03,75.62,77.07,94.85,93.95,94.41,79.78
+16-17,SPRING,Dept,SHSS,SSMA,Graduate Diploma and MA Programs in Social Science,4.0,0.886,,,,,95.83,88.27,89.25,89.25,,,,,95.83,92.28,92.74,92.74
+16-17,SPRING,Dept,SHSS,HUMA,Humanities,44.0,0.544,82.81,71.13,62.45,67.22,95.99,94.81,95.52,69.56,88.54,76.17,70.64,73.84,97.53,98.11,97.76,75.82
+16-17,SPRING,Dept,SHSS,HMMA,MA Program in Chinese Culture,2.0,0.655,,,,,,90.79,90.79,90.79,,,,,,92.76,92.76,92.76
+16-17,SPRING,Dept,SHSS,MGCS,MSc Program in Global China Studies,3.0,0.663,,,,,90.0,86.63,87.26,87.26,,,,,92.5,90.7,91.04,91.04
+16-17,SPRING,Dept,SHSS,MALE,MSc Program in International Language Education,8.0,0.909,,,,,88.38,91.67,88.96,88.96,,,,,91.29,95.24,91.92,91.92
+16-17,SPRING,Dept,SHSS,SOSC,Social Science,42.0,0.484,82.64,76.99,75.11,76.05,97.12,95.0,96.53,77.09,87.85,81.5,79.73,80.67,98.56,97.5,98.26,81.56
+16-17,SPRING,School,SSCI,-,-,225.0,0.441,75.53,69.49,66.68,68.27,88.76,87.82,88.0,72.02,79.19,72.68,73.23,73.38,91.09,89.39,89.73,76.51
+16-17,SPRING,Dept,SSCI,CHMS,Analytical Chemistry,5.0,0.695,,,,,,89.04,89.04,89.04,,,,,,90.64,90.64,90.64
+16-17,SPRING,Dept,SSCI,CHEM,Chemistry,44.0,0.479,70.59,68.65,64.23,66.51,81.25,88.16,85.0,67.01,78.26,72.98,69.07,71.2,82.81,92.11,87.86,71.66
+16-17,SPRING,Dept,SSCI,ENTR-SSCI,Entrepreneurship,2.0,0.466,87.5,73.86,,75.96,,,,75.96,91.67,81.82,,83.0,,,,83.0
+16-17,SPRING,Dept,SSCI,ENVS,Environmental Science,9.0,0.432,81.67,68.8,,70.27,,85.0,85.0,78.77,85.0,68.59,,70.45,,87.85,87.85,80.47
+16-17,SPRING,Dept,SSCI,LIFS,Life Science,26.0,0.35,70.16,68.93,71.27,70.85,86.92,85.47,85.87,74.16,74.52,71.51,74.03,73.66,91.54,86.19,87.66,76.69
+16-17,SPRING,Dept,SSCI,MAED,MSc Program in Mathematics for Educators,4.0,0.778,,,,,88.1,,88.1,88.1,,,,,88.69,,88.69,88.69
+16-17,SPRING,Dept,SSCI,MATH,Mathematics,74.0,0.451,82.01,70.29,64.0,67.86,93.63,89.18,91.1,69.7,82.62,72.48,73.93,73.81,93.63,91.79,92.58,75.3
+16-17,SPRING,Dept,SSCI,NANO,NANO Science and Technology,2.0,0.667,,,,,81.25,,81.25,81.25,,,,,87.5,,87.5,87.5
+16-17,SPRING,Dept,SSCI,PHYS,Physics,48.0,0.458,71.84,69.53,68.42,69.13,90.0,84.78,88.1,70.27,76.19,73.38,76.92,75.71,92.79,85.87,90.67,76.73
+16-17,SPRING,Dept,SSCI,SCIE,School of Science,5.0,0.381,95.83,69.75,62.64,66.35,,,,66.35,100.0,74.1,70.2,72.32,,,,72.32
+16-17,SPRING,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),8.0,0.566,,,,,,90.28,90.28,90.28,,,,,,91.07,91.07,91.07
+16-17,SPRING,School,LANG/LABU/LAGR,-,-,376.0,0.685,71.52,86.71,,72.38,83.9,,83.9,73.09,82.37,89.66,,82.78,89.84,,89.84,83.21
+16-17,SPRING,Dept,LANG/LABU/LAGR,LANG,Language,310.0,0.696,72.23,86.71,,73.21,83.9,,83.9,74.0,82.7,89.66,,83.17,89.84,,89.84,83.66
+16-17,SPRING,Dept,LANG/LABU/LAGR,LABU,Language for Business,66.0,0.629,68.18,,,68.18,,,,68.18,80.78,,,80.78,,,,80.78
+16-17,SPRING,School,IPO,-,-,34.0,0.581,87.31,69.9,,72.37,79.17,81.36,80.84,74.51,92.8,75.77,,78.22,84.72,87.5,86.84,80.37
+16-17,SPRING,Dept,IPO,ENVR,Environment and Sustainability,28.0,0.59,86.32,68.9,,71.3,79.17,84.06,82.38,73.67,92.59,75.08,,77.53,84.72,89.49,87.86,79.74
+16-17,SPRING,Dept,IPO,EVSM,Environmental Science and Management,2.0,0.613,,,,,,77.55,77.55,77.55,,,,,,84.57,84.57,84.57
+16-17,SPRING,Dept,IPO,RMBI,Risk Management and Business Intelligence,3.0,0.488,,75.42,,75.42,,,,75.42,,79.58,,79.58,,,,79.58
+16-17,SPRING,Dept,IPO,TEMG,Technology and Management,1.0,0.667,91.67,,,91.67,,,,91.67,93.75,,,93.75,,,,93.75
+16-17,SPRING,School,OTHERS,-,-,11.0,0.396,87.84,84.04,,85.71,,,,85.71,93.24,85.11,,88.69,,,,88.69
+16-17,SPRING,Dept,OTHERS,SAO,Student Affairs Office,2.0,0.509,80.56,90.28,,87.04,,,,87.04,86.11,95.83,,92.59,,,,92.59
+16-17,SPRING,Dept,OTHERS,UCE,Undergraduate Core Education,9.0,0.358,90.18,80.17,,85.09,,,,85.09,95.54,78.45,,86.84,,,,86.84
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Key:,,,,,,,,,,,,,,,,,,,,,,,
+UG(Small): Undergraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+UG(Medium): Undergraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+UG(Large): Undergraduate courses with enrolment over 100,,,,,,,,,,,,,,,,,,,,,,,
+UG Mean: Mean of responses of all UG courses,,,,,,,,,,,,,,,,,,,,,,,
+PG(Small): Postgraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+PG(Medium): Postgraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+PG Mean: Mean of responses of all PG courses,,,,,,,,,,,,,,,,,,,,,,,
+"If there is no entry, there were no classes of the type indicated.",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,
+2017-06-21 00:00:00,,,,,,,,,,,,,,,,,,,,,,,

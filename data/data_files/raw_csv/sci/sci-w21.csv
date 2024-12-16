@@ -1,0 +1,23 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+20-21,WINTER,School,SSCI,-,-,-,-,-,-,-,-,-,-,0.583,Y,-,3,4.07,-,0.73,-,4.5,-,0.52,-
+20-21,WINTER,Dept / Course Group,SSCI,MATH,-,-,-,-,-,-,-,-,-,0.583,Y,-,3,4.07,-,0.73,-,4.5,-,0.52,-
+20-21,WINTER,Course,SSCI,MATH,MATH,1012,-,20-21-WINTER-MATH-1012,-,-,-,-,-,0.611,Y,0.5,1,4.09,4.11,0.7,0.6,4.45,4.44,0.52,0.53
+20-21,WINTER,Section,SSCI,MATH,MATH,1012,L1,20-21-WINTER-MATH-1012,20-21-WINTER-MATH-1012-L1,-,-,-,18,0.611,Y,0.5,-,4.09,4.11,0.7,0.6,4.45,4.44,0.52,0.53
+20-21,WINTER,Instructor,SSCI,MATH,MATH,1012,L1,20-21-WINTER-MATH-1012,20-21-WINTER-MATH-1012-L1,20-21-WINTER-MATH-1012-L1-SI,"LAM, Tsz Kin",tklam,18,0.611,Y,0.5,-,4.09,4.11,0.7,0.6,4.45,4.44,0.52,0.53
+20-21,WINTER,Course,SSCI,MATH,MATH,1013,-,20-21-WINTER-MATH-1013,-,-,-,-,-,0.4,Y,-,1,4.5,-,0.71,-,5.0,-,0.0,-
+20-21,WINTER,Section,SSCI,MATH,MATH,1013,L1,20-21-WINTER-MATH-1013,20-21-WINTER-MATH-1013-L1,-,-,-,5,0.4,Y,-,-,4.5,-,0.71,-,5.0,-,0.0,-
+20-21,WINTER,Instructor,SSCI,MATH,MATH,1013,L1,20-21-WINTER-MATH-1013,20-21-WINTER-MATH-1013-L1,20-21-WINTER-MATH-1013-L1-SI,"LAM, Tsz Kin",tklam,5,0.4,Y,-,-,4.5,-,0.71,-,5.0,-,0.0,-
+20-21,WINTER,Course,SSCI,MATH,MATH,4984N,-,20-21-WINTER-MATH-4984N,-,-,-,-,-,1.0,,-,1,3.0,-,0.0,-,4.0,-,0.0,-
+20-21,WINTER,Section,SSCI,MATH,MATH,4984N,L1,20-21-WINTER-MATH-4984N,20-21-WINTER-MATH-4984N-L1,-,-,-,1,1.0,,-,-,3.0,-,0.0,-,4.0,-,0.0,-
+20-21,WINTER,Instructor,SSCI,MATH,MATH,4984N,L1,20-21-WINTER-MATH-4984N,20-21-WINTER-MATH-4984N-L1,20-21-WINTER-MATH-4984N-L1-SI,"JING, Bing-yi",majing,1,1.0,,-,-,3.0,-,0.0,-,4.0,-,0.0,-
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-02-16 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,61 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - Mean,Course Overall - SD,Instructor Overall - Mean,Instructor Overall - SD
+17-18,FALL,University,-,-,-,1301.0,0.551,74.3,24.6,79.4,23.7
+17-18,FALL,School,SBM,-,-,335.0,0.562,76.0,24.7,81.1,23.6
+17-18,FALL,Dept,SBM,ACCT,Accounting,48.0,0.575,75.6,23.4,80.5,22.9
+17-18,FALL,Dept,SBM,ECON,Economics,50.0,0.591,78.1,23.7,81.4,23.8
+17-18,FALL,Dept,SBM,ENTR-SBM,Entrepreneurship,2.0,0.674,87.9,15.8,92.0,11.9
+17-18,FALL,Dept,SBM,FINA,Finance,41.0,0.575,76.2,25.8,81.3,23.9
+17-18,FALL,Dept,SBM,GBUS,Global Business,3.0,0.621,76.5,25.3,77.8,24.1
+17-18,FALL,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",90.0,0.526,77.5,24.2,81.8,23.6
+17-18,FALL,Dept,SBM,MIMT,MSc Program in International Management,6.0,0.994,73.1,24.4,83.5,18.3
+17-18,FALL,Dept,SBM,MGMT,Management,66.0,0.553,74.3,25.2,82.7,21.5
+17-18,FALL,Dept,SBM,MARK,Marketing,29.0,0.542,69.4,27.5,74.8,27.6
+17-18,FALL,School,SENG,-,-,213.0,0.497,75.2,24.5,79.7,23.9
+17-18,FALL,Dept,SENG,BIEN,Bioengineering,1.0,0.592,79.6,19.6,85.6,17.3
+17-18,FALL,Dept,SENG,CENG,Chemical and Biological Engineering,17.0,0.608,73.5,22.2,82.3,19.5
+17-18,FALL,Dept,SENG,CIVL,Civil and Environmental Engineering,37.0,0.509,73.6,25.4,77.1,25.4
+17-18,FALL,Dept,SENG,COMP,Computer Science and Engineering,62.0,0.488,77.6,23.8,82.1,23.1
+17-18,FALL,Dept,SENG,ELEC,Electronic and Computer Engineering,41.0,0.461,77.7,23.2,81.1,22.3
+17-18,FALL,Dept,SENG,ENTR-SENG,Entrepreneurship,2.0,0.674,87.9,15.8,92.0,11.9
+17-18,FALL,Dept,SENG,IEDA,Industrial Engineering and Decision Analytics,16.0,0.447,74.6,24.2,79.6,22.7
+17-18,FALL,Dept,SENG,MECH,Mechanical Engineering,32.0,0.517,71.4,26.2,75.4,26.5
+17-18,FALL,Dept,SENG,ENGG,School of Engineering,5.0,0.559,66.7,28.7,78.5,23.7
+17-18,FALL,School,SHSS,-,-,90.0,0.553,76.6,23.4,82.4,21.6
+17-18,FALL,Dept,SHSS,SSMA,Graduate Diploma and MA Programs in Social Science,4.0,0.526,89.7,14.3,92.6,13.5
+17-18,FALL,Dept,SHSS,HUMA,Humanities,40.0,0.55,72.2,24.8,78.6,22.9
+17-18,FALL,Dept,SHSS,HMMA,MA Program in Chinese Culture,3.0,0.865,92.5,13.9,94.8,12.6
+17-18,FALL,Dept,SHSS,MGCS,MSc Program in Global China Studies,3.0,0.657,88.0,19.3,93.0,14.7
+17-18,FALL,Dept,SHSS,MILE,MSc Program in International Language Education,8.0,0.776,82.9,18.4,89.4,17.0
+17-18,FALL,Dept,SHSS,HSS,School of Humanities & Social Science,2.0,0.618,91.3,16.8,92.5,18.3
+17-18,FALL,Dept,SHSS,SOSC,Social Science,30.0,0.505,77.7,21.9,83.3,20.9
+17-18,FALL,School,SSCI,-,-,213.0,0.498,71.2,24.9,73.7,25.2
+17-18,FALL,Dept,SSCI,CHMS,Analytical Chemistry,4.0,0.588,90.1,14.8,92.4,13.7
+17-18,FALL,Dept,SSCI,CHEM,Chemistry,19.0,0.559,70.7,25.0,73.7,25.5
+17-18,FALL,Dept,SSCI,ENTR-SSCI,Entrepreneurship,2.0,0.674,87.9,15.8,92.0,11.9
+17-18,FALL,Dept,SSCI,ENVS,Environmental Science,8.0,0.499,78.7,21.0,80.8,22.4
+17-18,FALL,Dept,SSCI,LIFS,Life Science,28.0,0.424,71.7,23.3,73.7,24.4
+17-18,FALL,Dept,SSCI,MAED,MSc Program in Mathematics for Educators,5.0,0.758,85.9,18.4,92.4,14.4
+17-18,FALL,Dept,SSCI,MATH,Mathematics,79.0,0.542,68.1,25.7,71.9,26.0
+17-18,FALL,Dept,SSCI,NANO,NANO Science and Technology,2.0,0.682,88.3,16.0,95.0,10.4
+17-18,FALL,Dept,SSCI,PHYS,Physics,52.0,0.547,66.8,25.9,69.7,25.1
+17-18,FALL,Dept,SSCI,SCIE,School of Science,4.0,0.585,68.4,27.6,74.2,26.3
+17-18,FALL,Dept,SSCI,CSIC,Scientific Computation,1.0,0.8,91.3,14.7,93.8,11.1
+17-18,FALL,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),10.0,0.483,93.4,14.1,94.9,12.9
+17-18,FALL,School,LANG/LABU/LAGR,-,-,414.0,0.75,74.0,24.2,84.1,19.7
+17-18,FALL,Dept,LANG/LABU/LAGR,LANG,Language,356.0,0.758,74.2,24.1,84.2,19.6
+17-18,FALL,Dept,LANG/LABU/LAGR,LABU,Language for Business,58.0,0.701,72.4,24.6,83.6,20.2
+17-18,FALL,School,IPO,-,-,30.0,0.599,77.4,22.4,83.8,19.6
+17-18,FALL,Dept,IPO,ENVR,Environment and Sustainability,19.0,0.566,73.7,23.1,80.6,21.2
+17-18,FALL,Dept,IPO,EVSM,Environmental Science and Management,3.0,0.669,85.0,18.5,88.6,15.6
+17-18,FALL,Dept,IPO,PPOL,Public Policy,3.0,0.923,81.3,15.5,93.8,11.3
+17-18,FALL,Dept,IPO,RMBI,Risk Management and Business Intelligence,4.0,0.586,76.8,24.5,85.4,19.2
+17-18,FALL,Dept,IPO,TEMG,Technology and Management,1.0,0.714,85.0,15.8,90.0,12.7
+17-18,FALL,School,OTHERS,-,-,10.0,0.665,80.5,23.4,83.0,22.5
+17-18,FALL,Dept,OTHERS,SAO,Student Affairs Office,2.0,0.66,86.4,19.9,90.2,16.5
+17-18,FALL,Dept,OTHERS,UCE,Undergraduate Core Education,8.0,0.667,78.0,24.5,79.9,24.2
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Note 1: The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,
+,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,
+2018-01-17 00:00:00,,,,,,,,,,,

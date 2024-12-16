@@ -1,0 +1,33 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - UG (Small),Course Overall - UG (Medium),Course Overall - UG (Large),Course Overall - UG Mean,Course Overall - PG (Small),Course Overall - PG (Medium),Course Overall - PG Mean,Course Overall - Overall,Instructor Overall - UG (Small),Instructor Overall - UG (Medium),Instructor Overall - UG (Large),Instructor Overall - UG Mean,Instructor Overall - PG (Small),Instructor Overall - PG (Medium),Instructor Overall - PG Mean,Instructor Overall - Overall
+23-24,WINTER,University,-,-,-,27.0,0.36,4.62,4.32,4.34,4.34,4.76,4.47,4.5,4.41,4.62,4.42,4.56,4.47,4.82,4.57,4.59,4.53
+23-24,WINTER,School,SBM,-,-,18.0,0.359,4.75,4.14,4.34,4.25,4.76,4.47,4.5,4.39,5.0,4.27,4.56,4.43,4.82,4.57,4.59,4.53
+23-24,WINTER,Dept,SBM,ECON,Economics,2.0,0.264,,,,,5.0,4.86,4.87,4.87,,,,,5.0,4.9,4.91,4.91
+23-24,WINTER,Dept,SBM,ENTR-SBM,Entrepreneurship,1.0,0.667,4.75,,,4.75,,,,4.75,5.0,,,5.0,,,,5.0
+23-24,WINTER,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",12.0,0.364,,4.14,4.34,4.24,4.73,4.65,4.66,4.43,,4.27,4.56,4.42,4.8,4.69,4.71,4.55
+23-24,WINTER,Dept,SBM,MARK,Marketing,1.0,0.367,,,,,,4.5,4.5,4.5,,,,,,4.64,4.64,4.64
+23-24,WINTER,Dept,SBM,SBMT,School of Business and Management,2.0,0.381,,,,,,3.66,3.66,3.66,,,,,,4.19,4.19,4.19
+23-24,WINTER,School,SENG,-,-,7.0,0.318,4.58,4.53,,4.54,,,,4.54,4.58,4.41,,4.44,,,,4.44
+23-24,WINTER,Dept,SENG,COMP,Computer Science and Engineering,4.0,0.261,4.0,4.46,,4.44,,,,4.44,4.0,4.41,,4.39,,,,4.39
+23-24,WINTER,Dept,SENG,ENTR-SENG,Entrepreneurship,1.0,0.667,4.75,,,4.75,,,,4.75,5.0,,,5.0,,,,5.0
+23-24,WINTER,Dept,SENG,ENGG,School of Engineering,2.0,0.514,4.67,4.75,,4.72,,,,4.72,4.5,4.42,,4.44,,,,4.44
+23-24,WINTER,School,SSCI,-,-,1.0,0.667,4.75,,,4.75,,,,4.75,5.0,,,5.0,,,,5.0
+23-24,WINTER,Dept,SSCI,ENTR-SSCI,Entrepreneurship,1.0,0.667,4.75,,,4.75,,,,4.75,5.0,,,5.0,,,,5.0
+23-24,WINTER,School,AIS,-,-,3.0,0.488,5.0,4.37,,4.38,,,,4.38,5.0,4.68,,4.69,,,,4.69
+23-24,WINTER,Dept,AIS,ENVR,Environment and Sustainability,1.0,0.433,,4.31,,4.31,,,,4.31,,4.69,,4.69,,,,4.69
+23-24,WINTER,Dept,AIS,ISDN,Integrative Systems and Design,1.0,0.5,5.0,,,5.0,,,,5.0,5.0,,,5.0,,,,5.0
+23-24,WINTER,Dept,AIS,TEMG,Technology and Management,1.0,0.625,,4.47,,4.47,,,,4.47,,4.67,,4.67,,,,4.67
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Key:,,,,,,,,,,,,,,,,,,,,,,,
+Small UG: Undergraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium UG: Undergraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+Large UG: Undergraduate courses with enrolment over 100,,,,,,,,,,,,,,,,,,,,,,,
+UG Mean: Mean of responses of all UG courses,,,,,,,,,,,,,,,,,,,,,,,
+Small PG: Postgraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium PG: Postgraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+PG Mean: Mean of responses of all PG courses,,,,,,,,,,,,,,,,,,,,,,,
+Overall: Mean of responses of all courses,,,,,,,,,,,,,,,,,,,,,,,
+"If there is no entry, there were no classes of the type indicated.",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-02 00:00:00,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,53 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - UG (Small),Course Overall - UG (Medium),Course Overall - UG (Large),Course Overall - UG Mean,Course Overall - PG (Small),Course Overall - PG (Medium),Course Overall - PG Mean,Course Overall - Overall,Instructor Overall - UG (Small),Instructor Overall - UG (Medium),Instructor Overall - UG (Large),Instructor Overall - UG Mean,Instructor Overall - PG (Small),Instructor Overall - PG (Medium),Instructor Overall - PG Mean,Instructor Overall - Overall
+20-21,SUMMER,University,-,-,-,102.0,0.425,4.35,4.16,3.9,4.17,4.32,4.38,4.37,4.27,4.48,4.23,4.0,4.25,4.32,4.46,4.45,4.35
+20-21,SUMMER,School,SBM,-,-,43.0,0.475,4.24,4.24,,4.24,4.31,4.36,4.36,4.33,4.36,4.31,,4.32,4.31,4.44,4.44,4.41
+20-21,SUMMER,Dept,SBM,ACCT,Accounting,5.0,0.535,4.21,,,4.21,4.67,,4.67,4.32,4.31,,,4.31,4.67,,4.67,4.39
+20-21,SUMMER,Dept,SBM,ENTR-SBM,Entrepreneurship,1.0,0.571,4.5,,,4.5,,,,4.5,4.75,,,4.75,,,,4.75
+20-21,SUMMER,Dept,SBM,FINA,Finance,1.0,0.441,,,,,,4.77,4.77,4.77,,,,,,4.77,4.77,4.77
+20-21,SUMMER,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",7.0,0.336,,4.2,,4.2,,4.52,4.52,4.31,,4.31,,4.31,,4.61,4.61,4.41
+20-21,SUMMER,Dept,SBM,MIMT,MSc Program in International Management,4.0,0.806,,,,,4.19,4.44,4.35,4.35,,,,,4.19,4.5,4.39,4.39
+20-21,SUMMER,Dept,SBM,MGMT,Management,12.0,0.395,,4.18,,4.18,,4.32,4.32,4.27,,4.24,,4.24,,4.41,4.41,4.35
+20-21,SUMMER,Dept,SBM,MARK,Marketing,1.0,0.61,,4.6,,4.6,,,,4.6,,4.6,,4.6,,,,4.6
+20-21,SUMMER,Dept,SBM,SBMT,School of Business and Management,12.0,0.535,,,,,,4.34,4.34,4.34,,,,,,4.42,4.42,4.42
+20-21,SUMMER,School,SENG,-,-,15.0,0.358,4.44,4.26,3.87,4.24,,,,4.24,4.41,4.29,3.9,4.26,,,,4.26
+20-21,SUMMER,Dept,SENG,CENG,Chemical and Biological Engineering,1.0,0.7,,4.26,,4.26,,,,4.26,,4.5,,4.5,,,,4.5
+20-21,SUMMER,Dept,SENG,CIVL,Civil and Environmental Engineering,1.0,0.184,,,3.87,3.87,,,,3.87,,,3.9,3.9,,,,3.9
+20-21,SUMMER,Dept,SENG,COMP,Computer Science and Engineering,6.0,0.313,4.75,4.1,,4.17,,,,4.17,4.88,4.03,,4.12,,,,4.12
+20-21,SUMMER,Dept,SENG,ENTR-SENG,Entrepreneurship,1.0,0.571,4.5,,,4.5,,,,4.5,4.75,,,4.75,,,,4.75
+20-21,SUMMER,Dept,SENG,ISDN,Integrative Systems and Design,1.0,0.5,5.0,,,5.0,,,,5.0,5.0,,,5.0,,,,5.0
+20-21,SUMMER,Dept,SENG,ENGG,School of Engineering,5.0,0.537,4.3,4.71,,4.49,,,,4.49,4.19,4.67,,4.41,,,,4.41
+20-21,SUMMER,School,SHSS,-,-,11.0,0.338,4.88,4.2,4.04,4.22,,4.8,4.8,4.36,4.88,4.23,4.13,4.26,,4.86,4.86,4.41
+20-21,SUMMER,Dept,SHSS,HUMA,Humanities,4.0,0.308,4.91,4.27,,4.37,,,,4.37,4.91,4.27,,4.37,,,,4.37
+20-21,SUMMER,Dept,SHSS,MGCS,MSc Program in Global China Studies,2.0,0.681,,,,,,4.8,4.8,4.8,,,,,,4.86,4.86,4.86
+20-21,SUMMER,Dept,SHSS,SOSC,Social Science,3.0,0.25,,4.08,4.04,4.04,,,,4.04,,4.0,4.13,4.1,,,,4.1
+20-21,SUMMER,Dept,SHSS,HART,Studio Arts courses offered by HUMA,2.0,0.531,4.83,4.0,,4.29,,,,4.29,4.83,4.27,,4.47,,,,4.47
+20-21,SUMMER,School,SSCI,-,-,21.0,0.322,4.41,3.98,3.77,3.99,,4.11,4.11,4.0,4.48,4.09,3.92,4.1,,4.22,4.22,4.11
+20-21,SUMMER,Dept,SSCI,CHEM,Chemistry,3.0,0.4,4.2,4.0,,4.06,,,,4.06,4.4,4.0,,4.13,,,,4.13
+20-21,SUMMER,Dept,SSCI,ENTR-SSCI,Entrepreneurship,1.0,0.571,4.5,,,4.5,,,,4.5,4.75,,,4.75,,,,4.75
+20-21,SUMMER,Dept,SSCI,LIFS,Life Science,2.0,0.294,,4.08,3.77,3.93,,,,3.93,,4.25,3.92,4.08,,,,4.08
+20-21,SUMMER,Dept,SSCI,MATH,Mathematics,7.0,0.432,4.83,4.0,,4.12,,,,4.12,4.83,4.17,,4.27,,,,4.27
+20-21,SUMMER,Dept,SSCI,OCES,Ocean Science,1.0,0.237,,3.78,,3.78,,,,3.78,,3.89,,3.89,,,,3.89
+20-21,SUMMER,Dept,SSCI,PHYS,Physics,5.0,0.369,4.29,3.97,,4.03,,,,4.03,4.29,4.02,,4.07,,,,4.07
+20-21,SUMMER,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),2.0,0.243,,,,,,4.11,4.11,4.11,,,,,,4.22,4.22,4.22
+20-21,SUMMER,School,LANG/LABU/LAGR,-,-,10.0,0.682,4.23,4.54,,4.27,,,,4.27,4.48,4.69,,4.5,,,,4.5
+20-21,SUMMER,Dept,LANG/LABU/LAGR,LANG,Language,10.0,0.682,4.23,4.54,,4.27,,,,4.27,4.48,4.69,,4.5,,,,4.5
+20-21,SUMMER,School,IPO,-,-,3.0,0.696,4.44,4.0,,4.13,,,,4.13,4.56,4.15,,4.27,,,,4.27
+20-21,SUMMER,Dept,IPO,ENVR,Environment and Sustainability,2.0,0.622,,4.0,,4.0,,,,4.0,,4.15,,4.15,,,,4.15
+20-21,SUMMER,Dept,IPO,TEMG,Technology and Management,1.0,1.0,4.44,,,4.44,,,,4.44,4.56,,,4.56,,,,4.56
+20-21,SUMMER,School,INFHUB,-,-,1.0,1.0,,,,,5.0,,5.0,5.0,,,,,5.0,,5.0,5.0
+20-21,SUMMER,Dept,INFHUB,CMAA,Computational Media and Arts,1.0,1.0,,,,,5.0,,5.0,5.0,,,,,5.0,,5.0,5.0
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Key:,,,,,,,,,,,,,,,,,,,,,,,
+Small UG: Undergraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium UG: Undergraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+Large UG: Undergraduate courses with enrolment over 100,,,,,,,,,,,,,,,,,,,,,,,
+UG Mean: Mean of responses of all UG courses,,,,,,,,,,,,,,,,,,,,,,,
+Small PG: Postgraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium PG: Postgraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+PG Mean: Mean of responses of all PG courses,,,,,,,,,,,,,,,,,,,,,,,
+Overall: Mean of responses of all courses,,,,,,,,,,,,,,,,,,,,,,,
+"If there is no entry, there were no classes of the type indicated.",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,
+2021-08-30 00:00:00,,,,,,,,,,,,,,,,,,,,,,,

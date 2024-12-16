@@ -1,0 +1,25 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - Mean,Course Overall - SD,Instructor Overall - Mean,Instructor Overall - SD
+23-24,WINTER,University,-,-,-,27.0,0.36,4.41,0.74,4.53,0.69
+23-24,WINTER,School,SBM,-,-,18.0,0.359,4.39,0.77,4.53,0.7
+23-24,WINTER,Dept,SBM,ECON,Economics,2.0,0.264,4.87,0.34,4.91,0.29
+23-24,WINTER,Dept,SBM,ENTR-SBM,Entrepreneurship,1.0,0.667,4.75,0.5,5.0,0.0
+23-24,WINTER,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",12.0,0.364,4.43,0.69,4.55,0.64
+23-24,WINTER,Dept,SBM,MARK,Marketing,1.0,0.367,4.5,0.51,4.64,0.58
+23-24,WINTER,Dept,SBM,SBMT,School of Business and Management,2.0,0.381,3.66,1.21,4.19,0.96
+23-24,WINTER,School,SENG,-,-,7.0,0.318,4.54,0.62,4.44,0.71
+23-24,WINTER,Dept,SENG,COMP,Computer Science and Engineering,4.0,0.261,4.44,0.63,4.39,0.67
+23-24,WINTER,Dept,SENG,ENTR-SENG,Entrepreneurship,1.0,0.667,4.75,0.5,5.0,0.0
+23-24,WINTER,Dept,SENG,ENGG,School of Engineering,2.0,0.514,4.72,0.57,4.44,0.86
+23-24,WINTER,School,SSCI,-,-,1.0,0.667,4.75,0.5,5.0,0.0
+23-24,WINTER,Dept,SSCI,ENTR-SSCI,Entrepreneurship,1.0,0.667,4.75,0.5,5.0,0.0
+23-24,WINTER,School,AIS,-,-,3.0,0.488,4.38,0.62,4.69,0.52
+23-24,WINTER,Dept,AIS,ENVR,Environment and Sustainability,1.0,0.433,4.31,0.47,4.69,0.47
+23-24,WINTER,Dept,AIS,ISDN,Integrative Systems and Design,1.0,0.5,5.0,0.0,5.0,0.0
+23-24,WINTER,Dept,AIS,TEMG,Technology and Management,1.0,0.625,4.47,0.83,4.67,0.62
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Note 1: The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,
+Note 2: A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school. The same situation may also occur in the totals for schools and university.,,,,,,,,,,,
+,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,
+2024-02-02 00:00:00,,,,,,,,,,,

@@ -1,0 +1,26 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - Mean,Course Overall - SD,Instructor Overall - Mean,Instructor Overall - SD
+20-21,WINTER,University,-,-,-,48.0,0.504,4.33,0.85,4.39,0.81
+20-21,WINTER,School,SBM,-,-,22.0,0.483,4.26,0.9,4.34,0.85
+20-21,WINTER,Dept,SBM,ECON,Economics,3.0,0.521,4.7,0.64,4.77,0.54
+20-21,WINTER,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",12.0,0.461,4.08,0.93,4.16,0.88
+20-21,WINTER,Dept,SBM,MGMT,Management,5.0,0.4,4.42,0.91,4.47,0.93
+20-21,WINTER,Dept,SBM,SBMT,School of Business and Management,2.0,0.684,4.55,0.7,4.63,0.61
+20-21,WINTER,School,SENG,-,-,7.0,0.435,4.34,0.78,4.27,0.81
+20-21,WINTER,Dept,SENG,CIVL,Civil and Environmental Engineering,1.0,1.0,5.0,0.0,5.0,0.0
+20-21,WINTER,Dept,SENG,COMP,Computer Science and Engineering,4.0,0.385,4.27,0.82,4.21,0.85
+20-21,WINTER,Dept,SENG,ENGG,School of Engineering,2.0,0.96,4.63,0.49,4.54,0.59
+20-21,WINTER,School,SHSS,-,-,2.0,0.559,4.7,0.53,4.73,0.45
+20-21,WINTER,Dept,SHSS,MGCS,MSc Program in Global China Studies,2.0,0.559,4.7,0.53,4.73,0.45
+20-21,WINTER,School,SSCI,-,-,3.0,0.583,4.07,0.73,4.5,0.52
+20-21,WINTER,Dept,SSCI,MATH,Mathematics,3.0,0.583,4.07,0.73,4.5,0.52
+20-21,WINTER,School,LANG/LABU/LAGR,-,-,12.0,0.665,4.58,0.67,4.66,0.6
+20-21,WINTER,Dept,LANG/LABU/LAGR,LANG,Language,12.0,0.665,4.58,0.67,4.66,0.6
+20-21,WINTER,School,IPO,-,-,2.0,0.65,4.41,0.94,4.46,0.68
+20-21,WINTER,Dept,IPO,TEMG,Technology and Management,2.0,0.65,4.41,0.94,4.46,0.68
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Note 1: The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,
+Note 2: A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school. The same situation may also occur in the totals for schools and university.,,,,,,,,,,,
+,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,
+2021-02-16 00:00:00,,,,,,,,,,,

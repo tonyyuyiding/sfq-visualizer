@@ -1,0 +1,41 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - Mean,Course Overall - SD,Instructor Overall - Mean,Instructor Overall - SD
+18-19,SUMMER,University,-,-,-,112.0,0.416,85.0,19.7,88.5,18.3
+18-19,SUMMER,School,SBM,-,-,39.0,0.459,87.2,19.9,90.1,18.8
+18-19,SUMMER,Dept,SBM,ACCT,Accounting,2.0,0.563,95.8,9.6,100.0,0.0
+18-19,SUMMER,Dept,SBM,ECON,Economics,1.0,0.218,100.0,0.0,100.0,0.0
+18-19,SUMMER,Dept,SBM,FINA,Finance,4.0,0.552,75.4,24.4,80.1,22.5
+18-19,SUMMER,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",9.0,0.346,85.3,17.0,88.2,19.8
+18-19,SUMMER,Dept,SBM,MIMT,MSc Program in International Management,2.0,0.82,91.5,15.3,95.4,11.2
+18-19,SUMMER,Dept,SBM,MGMT,Management,16.0,0.476,86.3,20.9,89.5,19.5
+18-19,SUMMER,Dept,SBM,MARK,Marketing,2.0,0.763,92.2,13.5,95.7,9.6
+18-19,SUMMER,Dept,SBM,SBMT,School of Business and Management,3.0,0.332,94.2,13.3,93.6,15.8
+18-19,SUMMER,School,SENG,-,-,16.0,0.388,84.6,19.2,88.7,17.6
+18-19,SUMMER,Dept,SENG,CENG,Chemical and Biological Engineering,1.0,0.386,89.8,14.8,92.0,14.2
+18-19,SUMMER,Dept,SENG,CIVL,Civil and Environmental Engineering,4.0,0.332,86.1,17.4,90.2,16.0
+18-19,SUMMER,Dept,SENG,COMP,Computer Science and Engineering,6.0,0.41,81.5,21.8,87.2,23.4
+18-19,SUMMER,Dept,SENG,ELEC,Electronic and Computer Engineering,1.0,0.154,87.5,14.4,81.3,12.5
+18-19,SUMMER,Dept,SENG,ENGG,School of Engineering,4.0,0.581,86.7,17.0,87.2,14.9
+18-19,SUMMER,School,SHSS,-,-,8.0,0.351,83.4,18.5,87.6,15.8
+18-19,SUMMER,Dept,SHSS,HUMA,Humanities,5.0,0.303,81.8,21.1,86.9,18.3
+18-19,SUMMER,Dept,SHSS,HSS,School of Humanities & Social Science,1.0,0.471,96.9,8.8,92.2,17.6
+18-19,SUMMER,Dept,SHSS,SOSC,Social Science,2.0,0.361,83.2,18.0,87.3,14.9
+18-19,SUMMER,School,SSCI,-,-,28.0,0.313,77.8,19.5,82.0,18.8
+18-19,SUMMER,Dept,SSCI,CHEM,Chemistry,2.0,0.328,81.3,17.9,82.5,14.3
+18-19,SUMMER,Dept,SSCI,LIFS,Life Science,2.0,0.248,74.6,17.6,74.8,18.0
+18-19,SUMMER,Dept,SSCI,MATH,Mathematics,10.0,0.37,78.2,22.2,81.1,22.9
+18-19,SUMMER,Dept,SSCI,OCES,Ocean Science,2.0,0.313,75.0,17.7,85.0,13.7
+18-19,SUMMER,Dept,SSCI,PHYS,Physics,10.0,0.349,76.5,18.0,86.9,14.4
+18-19,SUMMER,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),2.0,0.434,91.0,20.8,95.1,14.4
+18-19,SUMMER,School,LANG/LABU/LAGR,-,-,16.0,0.609,90.9,15.5,94.8,12.1
+18-19,SUMMER,Dept,LANG/LABU/LAGR,LANG,Language,16.0,0.609,90.9,15.5,94.8,12.1
+18-19,SUMMER,School,IPO,-,-,3.0,0.554,79.9,20.2,88.6,16.4
+18-19,SUMMER,Dept,IPO,ENVR,Environment and Sustainability,2.0,0.543,76.3,20.1,86.8,17.2
+18-19,SUMMER,Dept,IPO,TEMG,Technology and Management,1.0,0.615,96.9,8.8,96.9,8.8
+18-19,SUMMER,School,OTHERS,-,-,2.0,0.789,83.3,20.4,83.3,20.4
+18-19,SUMMER,Dept,OTHERS,UCE,Undergraduate Core Education,2.0,0.789,83.3,20.4,83.3,20.4
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Note 1: The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,
+,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,
+2019-09-02 00:00:00,,,,,,,,,,,

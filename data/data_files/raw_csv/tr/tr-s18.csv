@@ -1,0 +1,63 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - Mean,Course Overall - SD,Instructor Overall - Mean,Instructor Overall - SD
+17-18,SPRING,University,-,-,-,1352.0,0.505,75.0,24.6,80.1,23.3
+17-18,SPRING,School,SBM,-,-,353.0,0.522,76.8,25.0,81.5,23.6
+17-18,SPRING,Dept,SBM,ACCT,Accounting,47.0,0.509,78.7,22.1,82.7,22.2
+17-18,SPRING,Dept,SBM,ECON,Economics,47.0,0.533,80.7,23.5,84.1,21.7
+17-18,SPRING,Dept,SBM,ENTR-SBM,Entrepreneurship,2.0,0.463,73.3,27.8,80.8,23.4
+17-18,SPRING,Dept,SBM,FINA,Finance,55.0,0.507,78.9,26.2,81.9,25.3
+17-18,SPRING,Dept,SBM,GBUS,Global Business,5.0,0.496,80.1,23.2,83.7,22.2
+17-18,SPRING,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",84.0,0.535,75.3,25.1,80.6,24.0
+17-18,SPRING,Dept,SBM,MIMT,MSc Program in International Management,9.0,0.917,71.3,27.2,86.1,20.8
+17-18,SPRING,Dept,SBM,MGMT,Management,70.0,0.507,74.3,26.7,80.7,23.5
+17-18,SPRING,Dept,SBM,MARK,Marketing,35.0,0.506,74.8,24.2,79.0,24.8
+17-18,SPRING,Dept,SBM,WBBA,SF Program in World Business,1.0,0.531,65.7,23.4,70.6,25.8
+17-18,SPRING,Dept,SBM,SBMT,School of Business and Management,1.0,0.6,87.5,13.7,91.7,12.9
+17-18,SPRING,School,SENG,-,-,239.0,0.427,75.9,24.0,80.7,22.8
+17-18,SPRING,Dept,SENG,BIEN,Bioengineering,3.0,0.667,84.1,21.2,86.4,21.4
+17-18,SPRING,Dept,SENG,CENG,Chemical and Biological Engineering,24.0,0.439,72.1,25.5,78.2,22.6
+17-18,SPRING,Dept,SENG,CIVL,Civil and Environmental Engineering,34.0,0.432,73.9,23.9,77.5,23.6
+17-18,SPRING,Dept,SENG,COMP,Computer Science and Engineering,67.0,0.424,79.8,22.8,86.0,20.8
+17-18,SPRING,Dept,SENG,ELEC,Electronic and Computer Engineering,47.0,0.44,78.2,22.7,81.8,21.5
+17-18,SPRING,Dept,SENG,ENEG,Energy Technology,1.0,0.875,89.3,13.4,96.4,9.4
+17-18,SPRING,Dept,SENG,ENTR-SENG,Entrepreneurship,2.0,0.463,73.3,27.8,80.8,23.4
+17-18,SPRING,Dept,SENG,IEDA,Industrial Engineering and Decision Analytics,18.0,0.33,70.5,26.3,77.4,23.2
+17-18,SPRING,Dept,SENG,MECH,Mechanical Engineering,34.0,0.454,73.0,24.7,77.0,24.3
+17-18,SPRING,Dept,SENG,ENGG,School of Engineering,9.0,0.527,75.1,24.1,80.7,21.6
+17-18,SPRING,School,SHSS,-,-,103.0,0.545,75.0,24.8,79.8,23.4
+17-18,SPRING,Dept,SHSS,SSMA,Graduate Diploma and MA Programs in Social Science,5.0,0.67,91.8,13.5,93.0,13.0
+17-18,SPRING,Dept,SHSS,HUMA,Humanities,48.0,0.556,71.4,26.4,76.9,25.0
+17-18,SPRING,Dept,SHSS,HMMA,MA Program in Chinese Culture,2.0,0.731,84.2,22.1,90.1,17.0
+17-18,SPRING,Dept,SHSS,MGCS,MSc Program in Global China Studies,4.0,0.718,97.1,14.7,99.5,3.5
+17-18,SPRING,Dept,SHSS,MILE,MSc Program in International Language Education,9.0,0.848,81.3,21.8,86.6,19.3
+17-18,SPRING,Dept,SHSS,SOSC,Social Science,35.0,0.496,77.2,22.4,81.2,21.6
+17-18,SPRING,School,SSCI,-,-,246.0,0.443,72.7,24.4,75.8,24.2
+17-18,SPRING,Dept,SSCI,CHMS,Analytical Chemistry,6.0,0.534,91.5,15.3,92.8,14.7
+17-18,SPRING,Dept,SSCI,CHEM,Chemistry,45.0,0.46,70.1,21.7,74.4,21.8
+17-18,SPRING,Dept,SSCI,ENTR-SSCI,Entrepreneurship,2.0,0.463,73.3,27.8,80.8,23.4
+17-18,SPRING,Dept,SSCI,LIFS,Life Science,32.0,0.369,74.7,21.1,76.8,22.9
+17-18,SPRING,Dept,SSCI,MAED,MSc Program in Mathematics for Educators,4.0,0.458,85.5,18.0,92.8,16.3
+17-18,SPRING,Dept,SSCI,MATH,Mathematics,84.0,0.446,71.4,26.8,75.0,27.2
+17-18,SPRING,Dept,SSCI,NANO,NANO Science and Technology,3.0,0.842,82.8,27.0,85.9,27.3
+17-18,SPRING,Dept,SSCI,OCES,Ocean Science,9.0,0.448,76.2,25.6,80.9,23.4
+17-18,SPRING,Dept,SSCI,PHYS,Physics,51.0,0.538,68.9,26.0,72.0,23.8
+17-18,SPRING,Dept,SSCI,SCIE,School of Science,5.0,0.465,72.5,28.4,75.7,26.0
+17-18,SPRING,Dept,SSCI,CSIC,Scientific Computation,1.0,0.694,81.0,25.3,87.0,19.3
+17-18,SPRING,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),6.0,0.367,90.8,16.5,91.7,16.3
+17-18,SPRING,School,LANG/LABU/LAGR,-,-,371.0,0.705,73.9,24.0,83.3,21.1
+17-18,SPRING,Dept,LANG/LABU/LAGR,LANG,Language,310.0,0.712,74.3,23.8,83.7,20.8
+17-18,SPRING,Dept,LANG/LABU/LAGR,LABU,Language for Business,61.0,0.667,71.4,25.2,81.4,22.9
+17-18,SPRING,School,IPO,-,-,34.0,0.605,72.2,24.7,78.3,23.4
+17-18,SPRING,Dept,IPO,ENVR,Environment and Sustainability,24.0,0.645,69.4,24.2,76.1,23.4
+17-18,SPRING,Dept,IPO,EVSM,Environmental Science and Management,3.0,0.783,77.8,23.2,81.3,20.9
+17-18,SPRING,Dept,IPO,IDPO,Interdisciplinary Programs Office,1.0,0.526,87.5,17.7,90.0,17.5
+17-18,SPRING,Dept,IPO,RMBI,Risk Management and Business Intelligence,4.0,0.423,75.4,28.8,83.8,26.8
+17-18,SPRING,Dept,IPO,TEMG,Technology and Management,2.0,0.439,86.1,17.4,85.4,17.3
+17-18,SPRING,School,OTHERS,-,-,10.0,0.518,82.3,20.8,83.4,20.5
+17-18,SPRING,Dept,OTHERS,SAO,Student Affairs Office,2.0,0.522,94.8,10.4,95.8,9.5
+17-18,SPRING,Dept,OTHERS,UCE,Undergraduate Core Education,8.0,0.517,78.9,21.6,80.1,21.4
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Note 1: The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,
+,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,
+2018-06-20 00:00:00,,,,,,,,,,,

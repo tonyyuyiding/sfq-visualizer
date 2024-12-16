@@ -1,0 +1,52 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+19-20,SUMMER,School,SENG,-,-,-,-,-,-,-,-,-,-,0.307,,-,12,81,-,19.5,-,81.9,-,20.9,-
+19-20,SUMMER,Dept / Course Group,SENG,CENG,-,-,-,-,-,-,-,-,-,1.0,,-,1,87.5,-,13.2,-,-,-,-,-
+19-20,SUMMER,Dept / Course Group,SENG,CIVL,-,-,-,-,-,-,-,-,-,0.183,Y,-,3,71.1,-,16.9,-,70.3,-,21.5,-
+19-20,SUMMER,Dept / Course Group,SENG,COMP,-,-,-,-,-,-,-,-,-,0.379,,-,5,79,-,21,-,85,-,22.8,-
+19-20,SUMMER,Dept / Course Group,SENG,ENGG,-,-,-,-,-,-,-,-,-,0.587,,-,3,91.2,-,14.7,-,89.9,-,13.8,-
+19-20,SUMMER,Course,SENG,CENG,CENG,3950,-,19-20-SUMMER-CENG-3950,-,-,-,-,-,1.0,,0.8,1,87.5,87.5,13.2,13.4,-,-,-,-
+19-20,SUMMER,Section,SENG,CENG,CENG,3950,LA1,19-20-SUMMER-CENG-3950,19-20-SUMMER-CENG-3950-LA1,-,-,-,10,1.0,,0.8,-,87.5,87.5,13.2,13.4,-,-,-,-
+19-20,SUMMER,Instructor,SENG,CENG,CENG,3950,LA1,19-20-SUMMER-CENG-3950,19-20-SUMMER-CENG-3950-LA1,19-20-SUMMER-CENG-3950-LA1-SI,Frank L Y Lam,kefrank,10,1.0,,0.8,-,87.5,87.5,13.2,13.4,-,-,-,-
+19-20,SUMMER,Course,SENG,CIVL,CIVL,2020,-,19-20-SUMMER-CIVL-2020,-,-,-,-,-,0.178,Y,0.167,1,70.2,69.8,16.4,15.5,69.4,70.7,21.1,16.5
+19-20,SUMMER,Section,SENG,CIVL,CIVL,2020,L1,19-20-SUMMER-CIVL-2020,19-20-SUMMER-CIVL-2020-L1,-,-,-,174,0.178,Y,0.167,-,70.2,69.8,16.4,15.5,69.4,70.7,21.1,16.5
+19-20,SUMMER,Instructor,SENG,CIVL,CIVL,2020,L1,19-20-SUMMER-CIVL-2020,19-20-SUMMER-CIVL-2020-L1,19-20-SUMMER-CIVL-2020-L1-SI,"HU, Wei Chung",thomashu,174,0.178,Y,0.167,-,70.2,69.8,16.4,15.5,69.4,70.7,21.1,16.5
+19-20,SUMMER,Course,SENG,CIVL,CIVL,6050U,-,19-20-SUMMER-CIVL-6050U,-,-,-,-,-,0.4,Y,-,1,100,-,0,-,100,-,0,-
+19-20,SUMMER,Section,SENG,CIVL,CIVL,6050U,L1,19-20-SUMMER-CIVL-6050U,19-20-SUMMER-CIVL-6050U-L1,-,-,-,5,0.4,Y,-,-,100,-,0,-,100,-,0,-
+19-20,SUMMER,Instructor,SENG,CIVL,CIVL,6050U,L1,19-20-SUMMER-CIVL-6050U,19-20-SUMMER-CIVL-6050U-L1,19-20-SUMMER-CIVL-6050U-L1-SN,,,5,0.4,Y,-,-,100,-,0,-,100,-,0,-
+19-20,SUMMER,Course,SENG,CIVL,CIVL,6060B,-,19-20-SUMMER-CIVL-6060B,-,-,-,-,-,0.0,Y,-,1,-,-,-,-,-,-,-,-
+19-20,SUMMER,Section,SENG,CIVL,CIVL,6060B,L1,19-20-SUMMER-CIVL-6060B,19-20-SUMMER-CIVL-6060B-L1,-,-,-,1,0.0,Y,-,-,-,-,-,-,-,-,-,-
+19-20,SUMMER,Instructor,SENG,CIVL,CIVL,6060B,L1,19-20-SUMMER-CIVL-6060B,19-20-SUMMER-CIVL-6060B-L1,19-20-SUMMER-CIVL-6060B-L1-SN,,,1,0.0,Y,-,-,-,-,-,-,-,-,-,-
+19-20,SUMMER,Course,SENG,COMP,COMP,1029C,-,19-20-SUMMER-COMP-1029C,-,-,-,-,-,0.347,Y,0.306,1,73.5,73.3,18.7,17.6,-,-,-,-
+19-20,SUMMER,Section,SENG,COMP,COMP,1029C,L1,19-20-SUMMER-COMP-1029C,19-20-SUMMER-COMP-1029C-L1,-,-,-,49,0.347,Y,0.306,-,73.5,73.3,18.7,17.6,-,-,-,-
+19-20,SUMMER,Instructor,SENG,COMP,COMP,1029C,L1,19-20-SUMMER-COMP-1029C,19-20-SUMMER-COMP-1029C-L1,19-20-SUMMER-COMP-1029C-L1-SI,"LAM, Gibson",gibson,49,0.347,Y,0.306,-,73.5,73.3,18.7,17.6,-,-,-,-
+19-20,SUMMER,Course,SENG,COMP,COMP,1029J,-,19-20-SUMMER-COMP-1029J,-,-,-,-,-,0.182,Y,0.136,1,78.1,79.2,16,10.2,-,-,-,-
+19-20,SUMMER,Section,SENG,COMP,COMP,1029J,L1,19-20-SUMMER-COMP-1029J,19-20-SUMMER-COMP-1029J-L1,-,-,-,44,0.182,Y,0.136,-,78.1,79.2,16,10.2,-,-,-,-
+19-20,SUMMER,Instructor,SENG,COMP,COMP,1029J,L1,19-20-SUMMER-COMP-1029J,19-20-SUMMER-COMP-1029J-L1,19-20-SUMMER-COMP-1029J-L1-SI,"LAM, Gibson",gibson,44,0.182,Y,0.136,-,78.1,79.2,16,10.2,-,-,-,-
+19-20,SUMMER,Course,SENG,COMP,COMP,1029P,-,19-20-SUMMER-COMP-1029P,-,-,-,-,-,0.204,Y,0.163,1,82.5,84.4,20.6,18.6,-,-,-,-
+19-20,SUMMER,Section,SENG,COMP,COMP,1029P,L1,19-20-SUMMER-COMP-1029P,19-20-SUMMER-COMP-1029P-L1,-,-,-,49,0.204,Y,0.163,-,82.5,84.4,20.6,18.6,-,-,-,-
+19-20,SUMMER,Instructor,SENG,COMP,COMP,1029P,L1,19-20-SUMMER-COMP-1029P,19-20-SUMMER-COMP-1029P-L1,19-20-SUMMER-COMP-1029P-L1-SI,"LAM, Gibson",gibson,49,0.204,Y,0.163,-,82.5,84.4,20.6,18.6,-,-,-,-
+19-20,SUMMER,Course,SENG,COMP,COMP,1029V,-,19-20-SUMMER-COMP-1029V,-,-,-,-,-,0.16,Y,0.12,1,87.5,91.7,18.9,12.9,-,-,-,-
+19-20,SUMMER,Section,SENG,COMP,COMP,1029V,L1,19-20-SUMMER-COMP-1029V,19-20-SUMMER-COMP-1029V-L1,-,-,-,50,0.16,Y,0.12,-,87.5,91.7,18.9,12.9,-,-,-,-
+19-20,SUMMER,Instructor,SENG,COMP,COMP,1029V,L1,19-20-SUMMER-COMP-1029V,19-20-SUMMER-COMP-1029V-L1,19-20-SUMMER-COMP-1029V-L1-SI,"LAM, Gibson",gibson,50,0.16,Y,0.12,-,87.5,91.7,18.9,12.9,-,-,-,-
+19-20,SUMMER,Course,SENG,COMP,COMP,3311,-,19-20-SUMMER-COMP-3311,-,-,-,-,-,0.379,,0.348,1,79,81.5,24.7,18.8,85,88,22.8,14.8
+19-20,SUMMER,Section,SENG,COMP,COMP,3311,L1,19-20-SUMMER-COMP-3311,19-20-SUMMER-COMP-3311-L1,-,-,-,66,0.379,,0.348,-,79,81.5,24.7,18.8,85,88,22.8,14.8
+19-20,SUMMER,Instructor,SENG,COMP,COMP,3311,L1,19-20-SUMMER-COMP-3311,19-20-SUMMER-COMP-3311-L1,19-20-SUMMER-COMP-3311-L1-SI,"LOCHOVSKY, Frederick Horst",fred,66,0.379,,0.348,-,79,81.5,24.7,18.8,85,88,22.8,14.8
+19-20,SUMMER,Course,SENG,ENGG,ENGG,3960J,-,19-20-SUMMER-ENGG-3960J,-,-,-,-,-,0.781,,-,1,91,-,14.2,-,94,-,10.9,-
+19-20,SUMMER,Section,SENG,ENGG,ENGG,3960J,L1,19-20-SUMMER-ENGG-3960J,19-20-SUMMER-ENGG-3960J-L1,-,-,-,31,0.781,,-,-,91,-,14.2,-,94,-,10.9,-
+19-20,SUMMER,Instructor,SENG,ENGG,ENGG,3960J,L1,19-20-SUMMER-ENGG-3960J,19-20-SUMMER-ENGG-3960J-L1,19-20-SUMMER-ENGG-3960J-L1-SI,"WOO, Kam Tim",eetim,31,0.781,,0.719,-,91,92.4,14.2,11.8,94,94.6,10.9,10.5
+19-20,SUMMER,Course,SENG,ENGG,ENGG,3960K,-,19-20-SUMMER-ENGG-3960K,-,-,-,-,-,0.357,Y,-,1,95,-,11.2,-,85,-,13.7,-
+19-20,SUMMER,Section,SENG,ENGG,ENGG,3960K,L1,19-20-SUMMER-ENGG-3960K,19-20-SUMMER-ENGG-3960K-L1,-,-,-,14,0.357,Y,-,-,95,-,11.2,-,85,-,13.7,-
+19-20,SUMMER,Instructor,SENG,ENGG,ENGG,3960K,L1,19-20-SUMMER-ENGG-3960K,19-20-SUMMER-ENGG-3960K-L1,19-20-SUMMER-ENGG-3960K-L1-SI,"WOO, Kam Tim",eetim,14,0.357,Y,0.214,-,95,100,11.2,0,85,83.3,13.7,14.4
+19-20,SUMMER,Course,SENG,ENGG,ENGG,3960L,-,19-20-SUMMER-ENGG-3960L,-,-,-,-,-,0.412,Y,-,1,89.3,-,19.7,-,78.6,-,17.3,-
+19-20,SUMMER,Section,SENG,ENGG,ENGG,3960L,L1,19-20-SUMMER-ENGG-3960L,19-20-SUMMER-ENGG-3960L-L1,-,-,-,17,0.412,Y,-,-,89.3,-,19.7,-,78.6,-,17.3,-
+19-20,SUMMER,Instructor,SENG,ENGG,ENGG,3960L,L1,19-20-SUMMER-ENGG-3960L,19-20-SUMMER-ENGG-3960L-L1,19-20-SUMMER-ENGG-3960L-L1-SI,"WOO, Kam Tim",eetim,17,0.412,Y,0.294,-,89.3,95,19.7,11.2,78.6,80,17.3,11.2
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-03 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

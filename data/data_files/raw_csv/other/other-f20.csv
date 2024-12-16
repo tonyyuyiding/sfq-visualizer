@@ -1,0 +1,27 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+20-21,FALL,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.574,,-,4,4.48,-,0.57,-,4.74,-,0.44,-
+20-21,FALL,Dept / Course Group,OTHERS,CMAA,-,-,-,-,-,-,-,-,-,0.733,Y,-,2,4.18,-,0.6,-,4.55,-,0.52,-
+20-21,FALL,Dept / Course Group,OTHERS,DSTO,-,-,-,-,-,-,-,-,-,0.513,,-,2,4.65,-,0.49,-,4.85,-,0.37,-
+20-21,FALL,Course,OTHERS,CMAA,CMAA,5008,-,20-21-FALL-CMAA-5008,-,-,-,-,-,0.8,Y,0.4,1,3.75,4,0.5,0,4.5,4.5,0.58,0.71
+20-21,FALL,Section,OTHERS,CMAA,CMAA,5008,L1,20-21-FALL-CMAA-5008,20-21-FALL-CMAA-5008-L1,-,-,-,5,0.8,Y,0.4,-,3.75,4,0.5,0,4.5,4.5,0.58,0.71
+20-21,FALL,Instructor,OTHERS,CMAA,CMAA,5008,L1,20-21-FALL-CMAA-5008,20-21-FALL-CMAA-5008-L1,20-21-FALL-CMAA-5008-L1-SI,"YIP, David",daveyip,5,0.8,Y,0.4,-,3.75,4,0.5,0,4.5,4.5,0.58,0.71
+20-21,FALL,Course,OTHERS,CMAA,CMAA,6018,-,20-21-FALL-CMAA-6018,-,-,-,-,-,0.7,Y,-,1,4.43,-,0.53,-,4.57,-,0.53,-
+20-21,FALL,Section,OTHERS,CMAA,CMAA,6018,L1,20-21-FALL-CMAA-6018,20-21-FALL-CMAA-6018-L1,-,-,-,5,0.7,Y,-,-,4.43,-,0.53,-,4.57,-,0.53,-
+20-21,FALL,Instructor,OTHERS,CMAA,CMAA,6018,L1,20-21-FALL-CMAA-6018,20-21-FALL-CMAA-6018-L1,20-21-FALL-CMAA-6018-L1-SI1,"HU, Rui",ruihu,5,0.8,Y,0.4,-,4.25,4,0.5,0,4.5,4.5,0.58,0.71
+20-21,FALL,Instructor,OTHERS,CMAA,CMAA,6018,L1,20-21-FALL-CMAA-6018,20-21-FALL-CMAA-6018-L1,20-21-FALL-CMAA-6018-L1-SI2,"QU, Huamin",huamin,5,0.6,Y,0.2,-,4.67,5,0.58,0,4.67,5,0.58,0
+20-21,FALL,Course,OTHERS,DSTO,GNED,2510,-,20-21-FALL-GNED-2510,-,-,-,-,-,0.513,,0.41,2,4.65,4.69,0.49,0.48,4.85,4.94,0.37,0.25
+20-21,FALL,Section,OTHERS,DSTO,GNED,2510,T1,20-21-FALL-GNED-2510,20-21-FALL-GNED-2510-T1,-,-,-,19,0.526,Y,0.421,-,4.7,4.75,0.48,0.46,4.8,4.88,0.42,0.35
+20-21,FALL,Instructor,OTHERS,DSTO,GNED,2510,T1,20-21-FALL-GNED-2510,20-21-FALL-GNED-2510-T1,20-21-FALL-GNED-2510-T1-SI,"SIU, Grace",sagsiu,19,0.526,Y,0.421,-,4.7,4.75,0.48,0.46,4.8,4.88,0.42,0.35
+20-21,FALL,Section,OTHERS,DSTO,GNED,2510,T2,20-21-FALL-GNED-2510,20-21-FALL-GNED-2510-T2,-,-,-,20,0.5,Y,0.4,-,4.6,4.63,0.52,0.52,4.9,5,0.32,0
+20-21,FALL,Instructor,OTHERS,DSTO,GNED,2510,T2,20-21-FALL-GNED-2510,20-21-FALL-GNED-2510-T2,20-21-FALL-GNED-2510-T2-SI,"SIU, Grace",sagsiu,20,0.5,Y,0.4,-,4.6,4.63,0.52,0.52,4.9,5,0.32,0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-01-15 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,37 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+20-21,WINTER,School,SENG,-,-,-,-,-,-,-,-,-,-,0.435,,-,7,4.34,-,0.78,-,4.27,-,0.81,-
+20-21,WINTER,Dept / Course Group,SENG,CIVL,-,-,-,-,-,-,-,-,-,1.0,,-,1,5.0,-,0.0,-,5.0,-,0.0,-
+20-21,WINTER,Dept / Course Group,SENG,COMP,-,-,-,-,-,-,-,-,-,0.385,,-,4,4.27,-,0.82,-,4.21,-,0.85,-
+20-21,WINTER,Dept / Course Group,SENG,ENGG,-,-,-,-,-,-,-,-,-,0.96,,-,2,4.63,-,0.49,-,4.54,-,0.59,-
+20-21,WINTER,Course,SENG,CIVL,CIVL,6050W,-,20-21-WINTER-CIVL-6050W,-,-,-,-,-,1.0,,-,1,5.0,-,0.0,-,5.0,-,0.0,-
+20-21,WINTER,Section,SENG,CIVL,CIVL,6050W,L1,20-21-WINTER-CIVL-6050W,20-21-WINTER-CIVL-6050W-L1,-,-,-,1,1.0,,-,-,5.0,-,0.0,-,5.0,-,0.0,-
+20-21,WINTER,Instructor,SENG,CIVL,CIVL,6050W,L1,20-21-WINTER-CIVL-6050W,20-21-WINTER-CIVL-6050W-L1,20-21-WINTER-CIVL-6050W-L1-SN,,,1,1.0,,-,-,5.0,-,0.0,-,5.0,-,0.0,-
+20-21,WINTER,Course,SENG,COMP,COMP,1029C,-,20-21-WINTER-COMP-1029C,-,-,-,-,-,0.456,,0.426,1,4.35,4.41,0.8,0.68,4.26,4.28,0.77,0.75
+20-21,WINTER,Section,SENG,COMP,COMP,1029C,L1,20-21-WINTER-COMP-1029C,20-21-WINTER-COMP-1029C-L1,-,-,-,68,0.456,,0.426,-,4.35,4.41,0.8,0.68,4.26,4.28,0.77,0.75
+20-21,WINTER,Instructor,SENG,COMP,COMP,1029C,L1,20-21-WINTER-COMP-1029C,20-21-WINTER-COMP-1029C-L1,20-21-WINTER-COMP-1029C-L1-SI,"LAM, Gibson",gibson,68,0.456,,0.426,-,4.35,4.41,0.8,0.68,4.26,4.28,0.77,0.75
+20-21,WINTER,Course,SENG,COMP,COMP,1029J,-,20-21-WINTER-COMP-1029J,-,-,-,-,-,0.414,,0.386,1,4.28,4.33,0.7,0.55,4.21,4.26,0.82,0.71
+20-21,WINTER,Section,SENG,COMP,COMP,1029J,L1,20-21-WINTER-COMP-1029J,20-21-WINTER-COMP-1029J-L1,-,-,-,70,0.414,,0.386,-,4.28,4.33,0.7,0.55,4.21,4.26,0.82,0.71
+20-21,WINTER,Instructor,SENG,COMP,COMP,1029J,L1,20-21-WINTER-COMP-1029J,20-21-WINTER-COMP-1029J-L1,20-21-WINTER-COMP-1029J-L1-SI,"LAM, Gibson",gibson,70,0.414,,0.386,-,4.28,4.33,0.7,0.55,4.21,4.26,0.82,0.71
+20-21,WINTER,Course,SENG,COMP,COMP,1029P,-,20-21-WINTER-COMP-1029P,-,-,-,-,-,0.261,Y,0.232,1,4.11,4.25,1.02,0.68,4.0,4.13,1.14,0.89
+20-21,WINTER,Section,SENG,COMP,COMP,1029P,L1,20-21-WINTER-COMP-1029P,20-21-WINTER-COMP-1029P-L1,-,-,-,69,0.261,Y,0.232,-,4.11,4.25,1.02,0.68,4.0,4.13,1.14,0.89
+20-21,WINTER,Instructor,SENG,COMP,COMP,1029P,L1,20-21-WINTER-COMP-1029P,20-21-WINTER-COMP-1029P-L1,20-21-WINTER-COMP-1029P-L1-SI,"LAM, Gibson",gibson,69,0.261,Y,0.232,-,4.11,4.25,1.02,0.68,4.0,4.13,1.14,0.89
+20-21,WINTER,Course,SENG,COMP,COMP,1029V,-,20-21-WINTER-COMP-1029V,-,-,-,-,-,0.412,,0.382,1,4.29,4.35,0.85,0.75,4.29,4.35,0.76,0.63
+20-21,WINTER,Section,SENG,COMP,COMP,1029V,L1,20-21-WINTER-COMP-1029V,20-21-WINTER-COMP-1029V-L1,-,-,-,68,0.412,,0.382,-,4.29,4.35,0.85,0.75,4.29,4.35,0.76,0.63
+20-21,WINTER,Instructor,SENG,COMP,COMP,1029V,L1,20-21-WINTER-COMP-1029V,20-21-WINTER-COMP-1029V-L1,20-21-WINTER-COMP-1029V-L1-SI,"LAM, Gibson",gibson,68,0.412,,0.382,-,4.29,4.35,0.85,0.75,4.29,4.35,0.76,0.63
+20-21,WINTER,Course,SENG,ENGG,ENGG,1900,-,20-21-WINTER-ENGG-1900,-,-,-,-,-,1.0,,-,1,4.13,-,0.35,-,4.0,-,0.53,-
+20-21,WINTER,Section,SENG,ENGG,ENGG,1900,L1,20-21-WINTER-ENGG-1900,20-21-WINTER-ENGG-1900-L1,-,-,-,8,1.0,,-,-,4.13,-,0.35,-,4.0,-,0.53,-
+20-21,WINTER,Instructor,SENG,ENGG,ENGG,1900,L1,20-21-WINTER-ENGG-1900,20-21-WINTER-ENGG-1900-L1,20-21-WINTER-ENGG-1900-L1-SI,"WOO, Kam Tim",eetim,8,1.0,,0.75,-,4.13,4,0.35,0,4.0,4,0.53,0
+20-21,WINTER,Course,SENG,ENGG,ENGG,3960E,-,20-21-WINTER-ENGG-3960E,-,-,-,-,-,0.941,,-,1,4.88,-,0.34,-,4.81,-,0.4,-
+20-21,WINTER,Section,SENG,ENGG,ENGG,3960E,L1,20-21-WINTER-ENGG-3960E,20-21-WINTER-ENGG-3960E-L1,-,-,-,17,0.941,,-,-,4.88,-,0.34,-,4.81,-,0.4,-
+20-21,WINTER,Instructor,SENG,ENGG,ENGG,3960E,L1,20-21-WINTER-ENGG-3960E,20-21-WINTER-ENGG-3960E-L1,20-21-WINTER-ENGG-3960E-L1-SI,"WOO, Kam Tim",eetim,17,0.941,,0.824,-,4.88,4.93,0.34,0.27,4.81,4.86,0.4,0.36
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-02-16 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

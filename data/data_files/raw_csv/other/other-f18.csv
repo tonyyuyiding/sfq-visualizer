@@ -1,0 +1,38 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+18-19,FALL,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.613,,-,8,86.0,-,17.1,-,88.1,-,16.2,-
+18-19,FALL,Dept / Course Group,OTHERS,DSTO,-,-,-,-,-,-,-,-,-,0.727,,-,1,89.1,-,20.3,-,95.3,-,10.1,-
+18-19,FALL,Dept / Course Group,OTHERS,UCE,-,-,-,-,-,-,-,-,-,0.591,,-,7,85.3,-,16.3,-,86.4,-,17.0,-
+18-19,FALL,Course,OTHERS,DSTO,GNED,2510,-,18-19-FALL-GNED-2510,-,-,-,-,-,0.727,,0.636,1,89.1,92.9,20.3,11.7,95.3,96.4,10.1,9.1
+18-19,FALL,Section,OTHERS,DSTO,GNED,2510,T1,18-19-FALL-GNED-2510,18-19-FALL-GNED-2510-T1,-,-,-,22,0.727,,0.636,-,89.1,92.9,20.3,11.7,95.3,96.4,10.1,9.1
+18-19,FALL,Instructor,OTHERS,DSTO,GNED,2510,T1,18-19-FALL-GNED-2510,18-19-FALL-GNED-2510-T1,18-19-FALL-GNED-2510-T1-SI,"SIU, Grace",sagsiu,22,0.727,,0.636,-,89.1,92.9,20.3,11.7,95.3,96.4,10.1,9.1
+18-19,FALL,Course,OTHERS,UCE,HART,1014,-,18-19-FALL-HART-1014,-,-,-,-,-,0.4,Y,0.267,1,79.2,87.5,29.2,14.4,83.3,87.5,20.4,14.4
+18-19,FALL,Section,OTHERS,UCE,HART,1014,LA1,18-19-FALL-HART-1014,18-19-FALL-HART-1014-LA1,-,-,-,15,0.4,Y,0.267,-,79.2,87.5,29.2,14.4,83.3,87.5,20.4,14.4
+18-19,FALL,Instructor,OTHERS,UCE,HART,1014,LA1,18-19-FALL-HART-1014,18-19-FALL-HART-1014-LA1,18-19-FALL-HART-1014-LA1-SI,"CHAN, Yung",chanyung,15,0.4,Y,0.267,-,79.2,87.5,29.2,14.4,83.3,87.5,20.4,14.4
+18-19,FALL,Course,OTHERS,UCE,HART,1017,-,18-19-FALL-HART-1017,-,-,-,-,-,0.867,,0.733,1,92.3,93.2,12.0,11.7,98.1,100,6.9,0
+18-19,FALL,Section,OTHERS,UCE,HART,1017,LA1,18-19-FALL-HART-1017,18-19-FALL-HART-1017-LA1,-,-,-,15,0.867,,0.733,-,92.3,93.2,12.0,11.7,98.1,100,6.9,0
+18-19,FALL,Instructor,OTHERS,UCE,HART,1017,LA1,18-19-FALL-HART-1017,18-19-FALL-HART-1017-LA1,18-19-FALL-HART-1017-LA1-SI,"TANG, Cheong Wai Acty",actytang,15,0.867,,0.733,-,92.3,93.2,12.0,11.7,98.1,100,6.9,0
+18-19,FALL,Course,OTHERS,UCE,HART,1024,-,18-19-FALL-HART-1024,-,-,-,-,-,0.583,Y,0.417,1,92.9,95,12.2,11.2,82.1,85,18.9,13.7
+18-19,FALL,Section,OTHERS,UCE,HART,1024,LA1,18-19-FALL-HART-1024,18-19-FALL-HART-1024-LA1,-,-,-,12,0.583,Y,0.417,-,92.9,95,12.2,11.2,82.1,85,18.9,13.7
+18-19,FALL,Instructor,OTHERS,UCE,HART,1024,LA1,18-19-FALL-HART-1024,18-19-FALL-HART-1024-LA1,18-19-FALL-HART-1024-LA1-SI,"WU,Hoi Fai",wuhoifai,12,0.583,Y,0.417,-,92.9,95,12.2,11.2,82.1,85,18.9,13.7
+18-19,FALL,Course,OTHERS,UCE,HART,1027,-,18-19-FALL-HART-1027,-,-,-,-,-,0.688,Y,0.563,1,93.2,94.4,11.7,11,95.5,97.2,10.1,8.3
+18-19,FALL,Section,OTHERS,UCE,HART,1027,LA1,18-19-FALL-HART-1027,18-19-FALL-HART-1027-LA1,-,-,-,16,0.688,Y,0.563,-,93.2,94.4,11.7,11,95.5,97.2,10.1,8.3
+18-19,FALL,Instructor,OTHERS,UCE,HART,1027,LA1,18-19-FALL-HART-1027,18-19-FALL-HART-1027-LA1,18-19-FALL-HART-1027-LA1-SI,"TANG, Cheong Wai Acty",actytang,16,0.688,Y,0.563,-,93.2,94.4,11.7,11,95.5,97.2,10.1,8.3
+18-19,FALL,Course,OTHERS,UCE,HART,1034,-,18-19-FALL-HART-1034,-,-,-,-,-,0.357,Y,0.214,1,75.0,75,17.7,0,80.0,75,11.2,0
+18-19,FALL,Section,OTHERS,UCE,HART,1034,LA1,18-19-FALL-HART-1034,18-19-FALL-HART-1034-LA1,-,-,-,14,0.357,Y,0.214,-,75.0,75,17.7,0,80.0,75,11.2,0
+18-19,FALL,Instructor,OTHERS,UCE,HART,1034,LA1,18-19-FALL-HART-1034,18-19-FALL-HART-1034-LA1,18-19-FALL-HART-1034-LA1-SI,"ERDMANN, Cornelia",cornelia,14,0.357,Y,0.214,-,75.0,75,17.7,0,80.0,75,11.2,0
+18-19,FALL,Course,OTHERS,UCE,HART,1036,-,18-19-FALL-HART-1036,-,-,-,-,-,0.609,Y,0.522,1,75.0,75,13.9,10.7,75.0,75,19.6,18.5
+18-19,FALL,Section,OTHERS,UCE,HART,1036,LA1,18-19-FALL-HART-1036,18-19-FALL-HART-1036-LA1,-,-,-,23,0.609,Y,0.522,-,75.0,75,13.9,10.7,75.0,75,19.6,18.5
+18-19,FALL,Instructor,OTHERS,UCE,HART,1036,LA1,18-19-FALL-HART-1036,18-19-FALL-HART-1036-LA1,18-19-FALL-HART-1036-LA1-SI,"LO, Alice",aliceynlo,23,0.609,Y,0.522,-,75.0,75,13.9,10.7,75.0,75,19.6,18.5
+18-19,FALL,Course,OTHERS,UCE,HART,1038,-,18-19-FALL-HART-1038,-,-,-,-,-,0.6,Y,0.5,1,85.4,85,12.9,12.9,85.4,87.5,16.7,13.2
+18-19,FALL,Section,OTHERS,UCE,HART,1038,LA1,18-19-FALL-HART-1038,18-19-FALL-HART-1038-LA1,-,-,-,20,0.6,Y,0.5,-,85.4,85,12.9,12.9,85.4,87.5,16.7,13.2
+18-19,FALL,Instructor,OTHERS,UCE,HART,1038,LA1,18-19-FALL-HART-1038,18-19-FALL-HART-1038-LA1,18-19-FALL-HART-1038-LA1-SI,"SUEN, Shu Kwan",leonsuen,20,0.6,Y,0.5,-,85.4,85,12.9,12.9,85.4,87.5,16.7,13.2
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-01-11 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

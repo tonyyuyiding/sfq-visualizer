@@ -1,0 +1,98 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - UG (Small),Course Overall - UG (Medium),Course Overall - UG (Large),Course Overall - UG Mean,Course Overall - PG (Small),Course Overall - PG (Medium),Course Overall - PG Mean,Course Overall - Overall,Instructor Overall - UG (Small),Instructor Overall - UG (Medium),Instructor Overall - UG (Large),Instructor Overall - UG Mean,Instructor Overall - PG (Small),Instructor Overall - PG (Medium),Instructor Overall - PG Mean,Instructor Overall - Overall
+23-24,SPRING,University,-,-,-,1513.0,0.394,3.95,4.07,3.96,4.02,4.62,4.49,4.51,4.19,4.31,4.21,4.05,4.18,4.66,4.56,4.57,4.31
+23-24,SPRING,School,SBM,-,-,435.0,0.377,4.27,4.09,3.8,4.08,4.56,4.44,4.45,4.24,4.35,4.22,3.97,4.21,4.63,4.51,4.52,4.35
+23-24,SPRING,Dept,SBM,ACCT,Accounting,47.0,0.346,3.67,4.2,,4.19,4.78,4.57,4.57,4.34,4.17,4.35,,4.34,4.89,4.61,4.62,4.45
+23-24,SPRING,Dept,SBM,BIBU-SBM,Biotechnology and Business,1.0,0.31,,2.85,,2.85,,,,2.85,,3.0,,3.0,,,,3.0
+23-24,SPRING,Dept,SBM,ECON,Economics,59.0,0.361,4.1,4.1,,4.1,4.68,4.62,4.63,4.3,4.23,4.23,,4.23,4.73,4.69,4.69,4.4
+23-24,SPRING,Dept,SBM,ENTR-SBM,Entrepreneurship,2.0,0.571,4.63,,,4.63,,,,4.63,4.38,,,4.38,,,,4.38
+23-24,SPRING,Dept,SBM,FINA,Finance,71.0,0.484,,3.9,3.95,3.91,4.62,4.52,4.53,4.27,,3.96,4.02,3.97,4.69,4.6,4.61,4.35
+23-24,SPRING,Dept,SBM,GBUS,Global Business,6.0,0.319,5.0,4.35,,4.38,,,,4.38,5.0,4.52,,4.54,,,,4.54
+23-24,SPRING,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",116.0,0.329,4.71,4.02,3.77,3.99,4.17,4.43,4.41,4.16,4.71,4.15,3.95,4.13,4.37,4.49,4.48,4.27
+23-24,SPRING,Dept,SBM,MFIT-SBM,MSc Program in Financial Technology,8.0,0.313,,,,,4.83,4.56,4.58,4.58,,,,,4.67,4.57,4.57,4.57
+23-24,SPRING,Dept,SBM,MIMT,MSc Program in International Management,6.0,0.638,,,,,4.7,4.06,4.12,4.12,,,,,4.7,4.2,4.25,4.25
+23-24,SPRING,Dept,SBM,MGMT,Management,68.0,0.372,,4.16,,4.16,4.6,4.46,4.5,4.25,,4.34,,4.34,4.63,4.53,4.56,4.41
+23-24,SPRING,Dept,SBM,MARK,Marketing,41.0,0.368,4.0,4.32,,4.32,4.9,4.11,4.16,4.24,4.0,4.38,,4.38,4.86,4.2,4.24,4.32
+23-24,SPRING,Dept,SBM,RMBI,Risk Management and Business Intelligence,5.0,0.42,4.0,3.48,,3.5,,,,3.5,4.33,3.66,,3.69,,,,3.69
+23-24,SPRING,Dept,SBM,WBBA,SF Program in World Business,1.0,0.673,,4.23,,4.23,,,,4.23,,4.33,,4.33,,,,4.33
+23-24,SPRING,Dept,SBM,SBMT,School of Business and Management,8.0,0.655,4.5,,,4.5,4.5,4.24,4.26,4.27,4.5,,,4.5,4.38,4.38,4.38,4.38
+23-24,SPRING,Dept,SBM,SBMT-SBM,School of Business and Management-SENG,1.0,0.418,,,,,,4.3,4.3,4.3,,,,,,4.41,4.41,4.41
+23-24,SPRING,School,SENG,-,-,334.0,0.363,4.34,4.09,4.02,4.08,4.71,4.52,4.55,4.28,4.41,4.24,4.12,4.21,4.74,4.58,4.6,4.38
+23-24,SPRING,Dept,SENG,CENG,Chemical and Biological Engineering,17.0,0.468,3.57,3.82,4.5,3.97,4.54,4.82,4.64,4.07,4.29,3.98,4.77,4.17,4.54,4.94,4.69,4.24
+23-24,SPRING,Dept,SENG,CIEM,Civil Infrastructural Engineering and Management,10.0,0.307,,,,,4.8,4.39,4.47,4.47,,,,,4.8,4.49,4.55,4.55
+23-24,SPRING,Dept,SENG,CIVL,Civil and Environmental Engineering,32.0,0.284,4.6,4.08,3.89,3.96,4.79,,4.79,4.04,4.6,4.17,3.99,4.04,4.86,,4.86,4.1
+23-24,SPRING,Dept,SENG,COMP,Computer Science and Engineering,75.0,0.331,4.42,4.14,4.29,4.18,4.66,4.6,4.61,4.24,4.48,4.33,4.59,4.39,4.76,4.65,4.67,4.43
+23-24,SPRING,Dept,SENG,ELEC,Electronic and Computer Engineering,45.0,0.334,4.75,4.21,3.88,4.04,4.76,4.41,4.56,4.21,4.81,4.31,3.9,4.09,4.79,4.54,4.63,4.3
+23-24,SPRING,Dept,SENG,ENEG,Energy Technology,1.0,0.692,3.89,,,3.89,,,,3.89,4.11,,,4.11,,,,4.11
+23-24,SPRING,Dept,SENG,EEMT,Engineering Enterprise Management,5.0,0.51,,,,,,4.33,4.33,4.33,,,,,,4.43,4.43,4.43
+23-24,SPRING,Dept,SENG,ENTR-SENG,Entrepreneurship,2.0,0.571,4.63,,,4.63,,,,4.63,4.38,,,4.38,,,,4.38
+23-24,SPRING,Dept,SENG,IEDA,Industrial Engineering and Decision Analytics,14.0,0.289,4.22,4.02,3.95,4.03,4.25,4.27,4.27,4.05,4.39,4.02,3.97,4.05,4.25,4.36,4.33,4.07
+23-24,SPRING,Dept,SENG,CSIT,Information Technology,7.0,0.319,,,,,4.87,4.61,4.65,4.65,,,,,4.93,4.63,4.67,4.67
+23-24,SPRING,Dept,SENG,IBTM,Intelligent Building Technology and Management,6.0,0.42,,,,,,4.49,4.49,4.49,,,,,,4.53,4.53,4.53
+23-24,SPRING,Dept,SENG,MFIT-SENG,MSc Program in Financial Technology,8.0,0.313,,,,,4.83,4.56,4.58,4.58,,,,,4.67,4.57,4.57,4.57
+23-24,SPRING,Dept,SENG,BEHI,MSc in Biomolecular Engineering and Health Informatics,6.0,0.547,,,,,4.5,4.25,4.25,4.25,,,,,4.5,4.38,4.38,4.38
+23-24,SPRING,Dept,SENG,MCEE,MSc in Chemical and Energy Engineering,8.0,0.469,,,,,4.86,4.63,4.64,4.64,,,,,4.71,4.69,4.69,4.69
+23-24,SPRING,Dept,SENG,MECH,Mechanical Engineering,32.0,0.446,4.15,3.95,,3.97,4.72,4.59,4.64,4.09,4.26,4.09,,4.11,4.75,4.62,4.67,4.21
+23-24,SPRING,Dept,SENG,ENGG,School of Engineering,14.0,0.387,4.5,4.51,,4.51,,,,4.51,4.39,4.46,,4.44,,,,4.44
+23-24,SPRING,Dept,SENG,SBMT-SENG,School of Engineering-SBMT,1.0,0.418,,,,,,4.3,4.3,4.3,,,,,,4.41,4.41,4.41
+23-24,SPRING,Dept,SENG,EESM,Self-Financed Electrical and Electronic Engineering Postgraduate Programs,19.0,0.398,,,,,4.48,4.67,4.65,4.65,,,,,4.52,4.71,4.7,4.7
+23-24,SPRING,Dept,SENG,JEVE,"Self-Financed Graduate Diploma and MSc Program in Environmental Engineering, and Environmental Science",6.0,0.669,,,,,,4.51,4.51,4.51,,,,,,4.52,4.52,4.52
+23-24,SPRING,Dept,SENG,MSBD,Self-Financed MSc Program in Big Data Technology,8.0,0.348,,,,,5.0,4.23,4.25,4.25,,,,,5.0,4.29,4.36,4.36
+23-24,SPRING,Dept,SENG,MESF,Self-Financed MSc Program in Mechanical Engineering,6.0,0.479,,,,,4.6,4.79,4.78,4.78,,,,,4.6,4.82,4.8,4.8
+23-24,SPRING,Dept,SENG,MTLE,Self-Financed MSc Program in Technology Leadership and Entrepreneurship,2.0,0.405,,,,,4.17,4.18,4.18,4.18,,,,,4.0,4.45,4.29,4.29
+23-24,SPRING,Dept,SENG,AESF,Self-Financed Mechanical and Aerospace Engineering Postgraduate Programs,10.0,0.482,,,,,5.0,4.58,4.59,4.59,,,,,5.0,4.63,4.64,4.64
+23-24,SPRING,School,SHSS,-,-,106.0,0.389,4.31,4.13,4.23,4.18,4.58,4.6,4.59,4.3,4.38,4.27,4.36,4.32,4.63,4.66,4.65,4.42
+23-24,SPRING,Dept,SHSS,HUMA,Humanities,42.0,0.324,4.31,4.05,4.11,4.09,4.72,4.59,4.65,4.16,4.43,4.21,4.28,4.25,4.7,4.58,4.63,4.3
+23-24,SPRING,Dept,SHSS,HMMA,MA Program in Chinese Culture,2.0,0.729,,,,,,4.54,4.54,4.54,,,,,,4.6,4.6,4.6
+23-24,SPRING,Dept,SHSS,MGCS,MSc Program in Global China Studies,8.0,0.704,,,,,4.74,4.88,4.86,4.86,,,,,4.81,4.91,4.89,4.89
+23-24,SPRING,Dept,SHSS,MILE,MSc Program in International Language Education,12.0,0.81,,,,,4.43,4.33,4.38,4.38,,,,,4.52,4.49,4.51,4.51
+23-24,SPRING,Dept,SHSS,MASS,Master of Arts in Social Science,7.0,0.667,,,,,4.5,4.53,4.53,4.53,,,,,4.5,4.59,4.58,4.58
+23-24,SPRING,Dept,SHSS,HSS,School of Humanities & Social Science,1.0,0.5,4.71,,,4.71,,,,4.71,4.21,,,4.21,,,,4.21
+23-24,SPRING,Dept,SHSS,SOSC,Social Science,34.0,0.363,4.2,4.24,4.29,4.27,4.66,,4.66,4.28,4.36,4.35,4.41,4.38,4.79,,4.79,4.4
+23-24,SPRING,School,SSCI,-,-,250.0,0.377,4.35,4.0,3.84,3.94,4.55,4.52,4.52,4.07,4.35,4.13,3.96,4.04,4.6,4.55,4.56,4.16
+23-24,SPRING,Dept,SSCI,CHMS,Analytical Chemistry,6.0,0.261,,,,,,4.48,4.48,4.48,,,,,,4.54,4.54,4.54
+23-24,SPRING,Dept,SSCI,BTEC,Biotechnology,7.0,0.341,,,,,4.73,4.37,4.42,4.42,,,,,4.64,4.58,4.59,4.59
+23-24,SPRING,Dept,SSCI,BIBU-SSCI,Biotechnology and Business,1.0,0.31,,2.85,,2.85,,,,2.85,,3.0,,3.0,,,,3.0
+23-24,SPRING,Dept,SSCI,CHEM,Chemistry,40.0,0.402,4.51,4.07,3.85,4.01,,4.59,4.59,4.03,4.65,4.15,3.94,4.06,,4.69,4.69,4.08
+23-24,SPRING,Dept,SSCI,DASC,Data Analytics in Science,5.0,0.441,,4.04,,4.04,,,,4.04,,4.13,,4.13,,,,4.13
+23-24,SPRING,Dept,SSCI,ENTR-SSCI,Entrepreneurship,2.0,0.571,4.63,,,4.63,,,,4.63,4.38,,,4.38,,,,4.38
+23-24,SPRING,Dept,SSCI,LIFS,Life Science,30.0,0.363,4.38,3.92,3.91,3.93,4.35,4.39,4.39,4.0,4.42,4.13,3.93,4.02,4.6,4.5,4.52,4.16
+23-24,SPRING,Dept,SSCI,MFIT-SSCI,MSc Program in Financial Technology,8.0,0.313,,,,,4.83,4.56,4.58,4.58,,,,,4.67,4.57,4.57,4.57
+23-24,SPRING,Dept,SSCI,MAED,MSc Program in Mathematics for Educators,6.0,0.652,,,,,,4.72,4.72,4.72,,,,,,4.75,4.75,4.75
+23-24,SPRING,Dept,SSCI,MSDM,MSc in Data-Driven Modeling Program,6.0,0.478,,,,,4.25,4.22,4.22,4.22,,,,,4.25,4.23,4.24,4.24
+23-24,SPRING,Dept,SSCI,MATH,Mathematics,64.0,0.328,4.55,3.99,3.8,3.91,4.83,4.86,4.84,3.97,4.69,4.08,3.96,4.03,4.83,4.93,4.88,4.09
+23-24,SPRING,Dept,SSCI,NANO,NANO Science and Technology,1.0,0.667,,,,,4.5,,4.5,4.5,,,,,4.5,,4.5,4.5
+23-24,SPRING,Dept,SSCI,OCES,Ocean Science,25.0,0.477,4.14,4.1,3.87,3.96,4.43,4.36,4.38,4.08,4.24,4.39,3.95,4.02,4.53,4.4,4.45,4.07
+23-24,SPRING,Dept,SSCI,PHYS,Physics,37.0,0.409,4.35,3.97,3.82,3.92,4.29,4.85,4.65,3.97,4.35,4.08,4.13,4.11,4.46,4.93,4.75,4.16
+23-24,SPRING,Dept,SSCI,SCIE,School of Science,4.0,0.362,3.53,4.32,3.9,3.94,,,,3.94,3.64,4.32,3.89,3.89,,,,3.89
+23-24,SPRING,Dept,SSCI,CSIC,Scientific Computation,1.0,0.538,,,,,4.71,,4.71,4.71,,,,,4.71,,4.71,4.71
+23-24,SPRING,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),7.0,0.296,,,,,,4.57,4.57,4.57,,,,,,4.64,4.64,4.64
+23-24,SPRING,School,LANG/LABU/LAGR,-,-,319.0,0.512,3.88,3.84,,3.87,4.72,4.65,4.67,3.95,4.3,4.26,,4.29,4.8,4.75,4.76,4.33
+23-24,SPRING,Dept,LANG/LABU/LAGR,LANG,Language,270.0,0.527,3.88,3.84,,3.88,4.72,4.65,4.67,3.96,4.28,4.26,,4.27,4.8,4.75,4.76,4.32
+23-24,SPRING,Dept,LANG/LABU/LAGR,LABU,Language for Business,49.0,0.426,3.85,,,3.85,,,,3.85,4.41,,,4.41,,,,4.41
+23-24,SPRING,School,AIS,-,-,87.0,0.512,4.05,4.03,,4.03,4.6,4.47,4.5,4.31,4.34,4.2,,4.22,4.61,4.55,4.56,4.4
+23-24,SPRING,Dept,AIS,CTDL,Critical Thinking and Data Literacy,3.0,0.455,4.0,3.86,,3.88,,,,3.88,4.36,4.1,,4.12,,,,4.12
+23-24,SPRING,Dept,AIS,EMIA,Division of Emerging Interdisciplinary Areas,11.0,0.623,4.04,3.41,,3.78,4.56,4.68,4.62,4.04,4.38,3.73,,4.12,4.56,4.74,4.65,4.26
+23-24,SPRING,Dept,AIS,ENVR,Environment and Sustainability,24.0,0.471,3.82,3.96,,3.95,4.45,4.43,4.43,4.14,4.27,4.12,,4.12,4.45,4.53,4.51,4.27
+23-24,SPRING,Dept,AIS,EVSM,Environmental Science and Management,4.0,0.602,,,,,4.63,4.43,4.44,4.44,,,,,4.75,4.47,4.49,4.49
+23-24,SPRING,Dept,AIS,ISDN,Integrative Systems and Design,16.0,0.406,4.21,4.34,,4.33,4.94,4.79,4.86,4.46,4.29,4.49,,4.47,4.94,4.89,4.92,4.56
+23-24,SPRING,Dept,AIS,IDPO,Interdisciplinary Programs Office,1.0,0.4,,4.17,,4.17,,,,4.17,,4.42,,4.42,,,,4.42
+23-24,SPRING,Dept,AIS,PPOL,Public Policy,25.0,0.566,,,,,4.61,4.47,4.49,4.49,,,,,4.62,4.55,4.56,4.56
+23-24,SPRING,Dept,AIS,TEMG,Technology and Management,3.0,0.563,4.13,4.54,,4.44,,,,4.44,4.25,4.59,,4.54,,,,4.54
+23-24,SPRING,School,OTHERS,-,-,4.0,0.654,,4.64,,4.64,,4.62,4.62,4.62,,4.38,,4.38,,4.79,4.79,4.63
+23-24,SPRING,Dept,OTHERS,CEI,Center for Education Innovation,2.0,0.794,,,,,,4.62,4.62,4.62,,,,,,4.79,4.79,4.79
+23-24,SPRING,Dept,OTHERS,DSTO,Dean of Students' Office,2.0,0.417,,4.64,,4.64,,,,4.64,,4.38,,4.38,,,,4.38
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Key:,,,,,,,,,,,,,,,,,,,,,,,
+Small UG: Undergraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium UG: Undergraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+Large UG: Undergraduate courses with enrolment over 100,,,,,,,,,,,,,,,,,,,,,,,
+UG Mean: Mean of responses of all UG courses,,,,,,,,,,,,,,,,,,,,,,,
+Small PG: Postgraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium PG: Postgraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+PG Mean: Mean of responses of all PG courses,,,,,,,,,,,,,,,,,,,,,,,
+Overall: Mean of responses of all courses,,,,,,,,,,,,,,,,,,,,,,,
+"If there is no entry, there were no classes of the type indicated.",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,,,,,,,,,,,,,
+18 June 2024,,,,,,,,,,,,,,,,,,,,,,,

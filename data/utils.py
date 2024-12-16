@@ -29,6 +29,17 @@ class Semester(enum.Enum):
     def __str__(self):
         return self.value
 
+    def startmonth(self):
+        match self:
+            case Semester.Fall:
+                return 9
+            case Semester.Winter:
+                return 1
+            case Semester.Spring:
+                return 2
+            case Semester.Summer:
+                return 6
+
 
 def get_file_name(
     school: School, semester: Semester, year: int, format: str = "xlsx"
@@ -79,11 +90,15 @@ class YSS:
         :param year: int with 4 digits or str with length 5
         """
         if isinstance(year, int):
+            if year < 2000:
+                raise ValueError("Year should be greater than 2000")
             self.year = year
             self.semester = semester
             self.school = school
             self.academic_year = YSS.year_to_academic_year(year, semester)
         elif isinstance(year, str):
+            if len(year) != 5:
+                raise ValueError("Year should be a string with length 5")
             self.academic_year = year
             self.semester = semester
             self.school = school
@@ -98,6 +113,28 @@ class YSS:
     @property
     def file_name_csv(self):
         return get_file_name(self.school, self.semester, self.year % 100, "csv")
+
+    def __lt__(self, other):
+        if self.year < other.year:
+            return True
+        if self.year > other.year:
+            return False
+        return self.semester.startmonth() < other.semester.startmonth()
+    
+    def __eq__(self, other):
+        return self.year == other.year and self.semester == other.semester
+
+    def __gt__(self, other):
+        return other < self
+
+    def __le__(self, other):
+        return self < other or self == other
+
+    def __ge__(self, other):
+        return self > other or self == other
+
+    def __ne__(self, other):
+        return not (self == other)
 
 
 class YSStqdm:

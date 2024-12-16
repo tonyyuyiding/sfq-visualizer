@@ -1,0 +1,50 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - UG (Small),Course Overall - UG (Medium),Course Overall - UG (Large),Course Overall - UG Mean,Course Overall - PG (Small),Course Overall - PG (Medium),Course Overall - PG Mean,Course Overall - Overall,Instructor Overall - UG (Small),Instructor Overall - UG (Medium),Instructor Overall - UG (Large),Instructor Overall - UG Mean,Instructor Overall - PG (Small),Instructor Overall - PG (Medium),Instructor Overall - PG Mean,Instructor Overall - Overall
+23-24,SUMMER,University,-,-,-,87.0,0.37,4.11,4.12,4.4,4.17,4.53,4.31,4.34,4.26,4.4,4.25,4.48,4.31,4.59,4.49,4.5,4.42
+23-24,SUMMER,School,SBM,-,-,33.0,0.456,4.31,4.15,,4.17,4.38,4.22,4.24,4.23,4.23,4.36,,4.35,4.46,4.43,4.43,4.42
+23-24,SUMMER,Dept,SBM,ACCT,Accounting,4.0,0.36,4.25,,,4.25,4.67,4.29,4.33,4.31,4.17,,,4.17,4.67,4.29,4.31,4.28
+23-24,SUMMER,Dept,SBM,ECON,Economics,2.0,0.214,,,,,4.6,4.8,4.73,4.73,,,,,4.8,4.8,4.8,4.8
+23-24,SUMMER,Dept,SBM,FINA,Finance,1.0,0.771,,,,,,4.97,4.97,4.97,,,,,,4.97,4.97,4.97
+23-24,SUMMER,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",12.0,0.355,5.0,4.07,,4.08,,4.54,4.54,4.39,5.0,4.31,,4.32,,4.63,4.63,4.53
+23-24,SUMMER,Dept,SBM,MIMT,MSc Program in International Management,3.0,0.965,,,,,4.35,,4.35,4.35,,,,,4.42,,4.42,4.42
+23-24,SUMMER,Dept,SBM,MGMT,Management,7.0,0.554,,4.0,,4.0,,3.77,3.77,3.79,,4.31,,4.31,,4.24,4.24,4.24
+23-24,SUMMER,Dept,SBM,MARK,Marketing,1.0,0.356,,4.56,,4.56,,,,4.56,,4.63,,4.63,,,,4.63
+23-24,SUMMER,Dept,SBM,SBMT,School of Business and Management,3.0,0.522,,,,,,4.25,4.25,4.25,,,,,,4.54,4.54,4.54
+23-24,SUMMER,School,SENG,-,-,18.0,0.238,4.14,4.25,,4.24,4.8,4.5,4.55,4.32,4.0,4.2,,4.18,4.8,4.5,4.55,4.27
+23-24,SUMMER,Dept,SENG,CIEM,Civil Infrastructural Engineering and Management,3.0,0.322,,,,,4.8,4.46,4.52,4.52,,,,,4.8,4.42,4.48,4.48
+23-24,SUMMER,Dept,SENG,CIVL,Civil and Environmental Engineering,1.0,0.138,,4.25,,4.25,,,,4.25,,4.5,,4.5,,,,4.5
+23-24,SUMMER,Dept,SENG,COMP,Computer Science and Engineering,6.0,0.229,,3.98,,3.98,,,,3.98,,3.84,,3.84,,,,3.84
+23-24,SUMMER,Dept,SENG,EEMT,Engineering Enterprise Management,1.0,0.133,,,,,,4.75,4.75,4.75,,,,,,5.0,5.0,5.0
+23-24,SUMMER,Dept,SENG,ENGG,School of Engineering,7.0,0.243,4.14,4.68,,4.59,,,,4.59,4.0,4.58,,4.51,,,,4.51
+23-24,SUMMER,School,SHSS,-,-,7.0,0.334,4.73,4.01,4.4,4.23,,,,4.23,4.82,4.16,4.45,4.33,,,,4.33
+23-24,SUMMER,Dept,SHSS,HUMA,Humanities,5.0,0.412,4.73,4.01,,4.08,,,,4.08,4.82,4.16,,4.22,,,,4.22
+23-24,SUMMER,Dept,SHSS,SOSC,Social Science,2.0,0.275,,,4.4,4.4,,,,4.4,,,4.45,4.45,,,,4.45
+23-24,SUMMER,School,SSCI,-,-,13.0,0.257,4.0,4.08,4.43,4.12,,4.63,4.63,4.24,4.43,4.25,4.64,4.31,,4.67,4.67,4.48
+23-24,SUMMER,Dept,SSCI,BTEC,Biotechnology,1.0,0.308,,,,,,4.55,4.55,4.55,,,,,,4.65,4.65,4.65
+23-24,SUMMER,Dept,SSCI,CHEM,Chemistry,2.0,0.279,3.83,4.15,,4.05,,,,4.05,4.5,4.54,,4.52,,,,4.52
+23-24,SUMMER,Dept,SSCI,LIFS,Life Science,1.0,0.27,,4.3,,4.3,,,,4.3,,4.6,,4.6,,,,4.6
+23-24,SUMMER,Dept,SSCI,MATH,Mathematics,3.0,0.281,,3.85,,3.85,,,,3.85,,3.82,,3.82,,,,3.82
+23-24,SUMMER,Dept,SSCI,PHYS,Physics,4.0,0.249,4.5,4.29,4.43,4.34,,,,4.34,4.0,4.46,4.64,4.5,,,,4.5
+23-24,SUMMER,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),2.0,0.172,,,,,,4.73,4.73,4.73,,,,,,4.8,4.8,4.8
+23-24,SUMMER,School,LANG/LABU/LAGR,-,-,8.0,0.537,3.5,4.14,,3.77,,,,3.77,4.13,4.36,,4.22,,,,4.22
+23-24,SUMMER,Dept,LANG/LABU/LAGR,LANG,Language,4.0,0.577,3.08,4.14,,3.8,,,,3.8,4.15,4.36,,4.29,,,,4.29
+23-24,SUMMER,Dept,LANG/LABU/LAGR,LABU,Language for Business,4.0,0.481,3.72,,,3.72,,,,3.72,4.13,,,4.13,,,,4.13
+23-24,SUMMER,School,AIS,-,-,7.0,0.567,4.53,,,4.53,4.95,4.85,4.88,4.8,4.76,,,4.76,4.95,4.9,4.92,4.88
+23-24,SUMMER,Dept,AIS,PPOL,Public Policy,4.0,0.608,,,,,4.95,4.85,4.88,4.88,,,,,4.95,4.9,4.92,4.92
+23-24,SUMMER,Dept,AIS,TEMG,Technology and Management,2.0,0.63,4.53,,,4.53,,,,4.53,4.76,,,4.76,,,,4.76
+23-24,SUMMER,School,OTHERS,-,-,1.0,0.529,4.89,,,4.89,,,,4.89,5.0,,,5.0,,,,5.0
+23-24,SUMMER,Dept,OTHERS,DSTO,Dean of Students' Office,1.0,0.529,4.89,,,4.89,,,,4.89,5.0,,,5.0,,,,5.0
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Key:,,,,,,,,,,,,,,,,,,,,,,,
+Small UG: Undergraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium UG: Undergraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+Large UG: Undergraduate courses with enrolment over 100,,,,,,,,,,,,,,,,,,,,,,,
+UG Mean: Mean of responses of all UG courses,,,,,,,,,,,,,,,,,,,,,,,
+Small PG: Postgraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium PG: Postgraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+PG Mean: Mean of responses of all PG courses,,,,,,,,,,,,,,,,,,,,,,,
+Overall: Mean of responses of all courses,,,,,,,,,,,,,,,,,,,,,,,
+"If there is no entry, there were no classes of the type indicated.",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,,,,,,,,,,,,,
+2 September 2024,,,,,,,,,,,,,,,,,,,,,,,

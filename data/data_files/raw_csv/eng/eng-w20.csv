@@ -1,0 +1,29 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+19-20,WINTER,School,SENG,-,-,-,-,-,-,-,-,-,-,0.75,,-,5,78.9,-,18.5,-,91.7,-,12.1,-
+19-20,WINTER,Dept / Course Group,SENG,COMP,-,-,-,-,-,-,-,-,-,0.405,,-,4,76.3,-,18.7,-,-,-,-,-
+19-20,WINTER,Dept / Course Group,SENG,ENGG,-,-,-,-,-,-,-,-,-,0.75,,-,1,90.3,-,12.5,-,91.7,-,12.1,-
+19-20,WINTER,Course,SENG,COMP,COMP,1029C,-,19-20-WINTER-COMP-1029C,-,-,-,-,-,0.592,,0.551,1,80.2,80.6,16.9,16,-,-,-,-
+19-20,WINTER,Section,SENG,COMP,COMP,1029C,L1,19-20-WINTER-COMP-1029C,19-20-WINTER-COMP-1029C-L1,-,-,-,49,0.592,,0.551,-,80.2,80.6,16.9,16,-,-,-,-
+19-20,WINTER,Instructor,SENG,COMP,COMP,1029C,L1,19-20-WINTER-COMP-1029C,19-20-WINTER-COMP-1029C-L1,19-20-WINTER-COMP-1029C-L1-SI,"LAM, Gibson",gibson,49,0.592,,0.551,-,80.2,80.6,16.9,16,-,-,-,-
+19-20,WINTER,Course,SENG,COMP,COMP,1029J,-,19-20-WINTER-COMP-1029J,-,-,-,-,-,0.408,Y,0.367,1,70.0,70.8,20.8,17.7,-,-,-,-
+19-20,WINTER,Section,SENG,COMP,COMP,1029J,L1,19-20-WINTER-COMP-1029J,19-20-WINTER-COMP-1029J-L1,-,-,-,49,0.408,Y,0.367,-,70.0,70.8,20.8,17.7,-,-,-,-
+19-20,WINTER,Instructor,SENG,COMP,COMP,1029J,L1,19-20-WINTER-COMP-1029J,19-20-WINTER-COMP-1029J-L1,19-20-WINTER-COMP-1029J-L1-SI,"LAM, Gibson",gibson,49,0.408,Y,0.367,-,70.0,70.8,20.8,17.7,-,-,-,-
+19-20,WINTER,Course,SENG,COMP,COMP,1029P,-,19-20-WINTER-COMP-1029P,-,-,-,-,-,0.36,Y,0.32,1,72.2,71.9,19.0,18,-,-,-,-
+19-20,WINTER,Section,SENG,COMP,COMP,1029P,L1,19-20-WINTER-COMP-1029P,19-20-WINTER-COMP-1029P-L1,-,-,-,50,0.36,Y,0.32,-,72.2,71.9,19.0,18,-,-,-,-
+19-20,WINTER,Instructor,SENG,COMP,COMP,1029P,L1,19-20-WINTER-COMP-1029P,19-20-WINTER-COMP-1029P-L1,19-20-WINTER-COMP-1029P-L1-SI,"LAM, Gibson",gibson,50,0.36,Y,0.32,-,72.2,71.9,19.0,18,-,-,-,-
+19-20,WINTER,Course,SENG,COMP,COMP,1029V,-,19-20-WINTER-COMP-1029V,-,-,-,-,-,0.255,Y,0.213,1,83.3,85,16.3,12.9,-,-,-,-
+19-20,WINTER,Section,SENG,COMP,COMP,1029V,L1,19-20-WINTER-COMP-1029V,19-20-WINTER-COMP-1029V-L1,-,-,-,47,0.255,Y,0.213,-,83.3,85,16.3,12.9,-,-,-,-
+19-20,WINTER,Instructor,SENG,COMP,COMP,1029V,L1,19-20-WINTER-COMP-1029V,19-20-WINTER-COMP-1029V-L1,19-20-WINTER-COMP-1029V-L1-SI,"LAM, Gibson",gibson,47,0.255,Y,0.213,-,83.3,85,16.3,12.9,-,-,-,-
+19-20,WINTER,Course,SENG,ENGG,ENGG,3960E,-,19-20-WINTER-ENGG-3960E,-,-,-,-,-,0.75,,-,1,90.3,-,12.5,-,91.7,-,12.1,-
+19-20,WINTER,Section,SENG,ENGG,ENGG,3960E,L1,19-20-WINTER-ENGG-3960E,19-20-WINTER-ENGG-3960E-L1,-,-,-,24,0.75,,-,-,90.3,-,12.5,-,91.7,-,12.1,-
+19-20,WINTER,Instructor,SENG,ENGG,ENGG,3960E,L1,19-20-WINTER-ENGG-3960E,19-20-WINTER-ENGG-3960E-L1,19-20-WINTER-ENGG-3960E-L1-SI,"WOO, Kam Tim",eetim,24,0.75,,0.667,-,90.3,90.6,12.5,12.5,91.7,92.2,12.1,12
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-02-20 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

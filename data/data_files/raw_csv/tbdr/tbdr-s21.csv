@@ -1,0 +1,90 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - UG (Small),Course Overall - UG (Medium),Course Overall - UG (Large),Course Overall - UG Mean,Course Overall - PG (Small),Course Overall - PG (Medium),Course Overall - PG Mean,Course Overall - Overall,Instructor Overall - UG (Small),Instructor Overall - UG (Medium),Instructor Overall - UG (Large),Instructor Overall - UG Mean,Instructor Overall - PG (Small),Instructor Overall - PG (Medium),Instructor Overall - PG Mean,Instructor Overall - Overall
+20-21,SPRING,University,-,-,-,1415.0,0.448,3.99,4.03,4.04,4.03,4.54,4.42,4.44,4.13,4.25,4.13,4.12,4.15,4.61,4.46,4.49,4.24
+20-21,SPRING,School,SBM,-,-,388.0,0.451,4.38,3.99,4.19,4.0,4.59,4.36,4.39,4.14,4.42,4.12,4.21,4.12,4.63,4.4,4.43,4.24
+20-21,SPRING,Dept,SBM,ACCT,Accounting,51.0,0.509,4.86,3.94,,3.94,4.53,4.37,4.38,4.13,4.57,4.07,,4.07,4.5,4.42,4.42,4.22
+20-21,SPRING,Dept,SBM,BIBU-SBM,Biotechnology and Business,1.0,0.577,,2.73,,2.73,,,,2.73,,2.87,,2.87,,,,2.87
+20-21,SPRING,Dept,SBM,ECON,Economics,54.0,0.429,4.11,3.98,4.18,4.01,4.68,4.45,4.47,4.2,4.05,4.07,4.15,4.08,4.68,4.48,4.5,4.25
+20-21,SPRING,Dept,SBM,ENTR-SBM,Entrepreneurship,2.0,0.456,4.22,4.05,,4.1,,,,4.1,4.56,4.23,,4.32,,,,4.32
+20-21,SPRING,Dept,SBM,FINA,Finance,60.0,0.481,4.5,4.15,4.21,4.15,4.76,4.26,4.27,4.22,4.5,4.24,4.3,4.25,4.86,4.31,4.32,4.29
+20-21,SPRING,Dept,SBM,GBUS,Global Business,6.0,0.269,,4.32,,4.32,,,,4.32,,4.47,,4.47,,,,4.47
+20-21,SPRING,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",106.0,0.443,4.33,3.91,,3.92,4.75,4.41,4.42,4.11,4.46,4.08,,4.08,4.77,4.44,4.46,4.23
+20-21,SPRING,Dept,SBM,MIMT,MSc Program in International Management,6.0,0.745,,,,,4.47,,4.47,4.47,,,,,4.51,,4.51,4.51
+20-21,SPRING,Dept,SBM,MGMT,Management,61.0,0.465,4.64,4.06,,4.07,4.69,4.56,4.6,4.2,4.64,4.21,,4.21,4.74,4.58,4.63,4.32
+20-21,SPRING,Dept,SBM,MARK,Marketing,30.0,0.431,,4.0,,4.0,4.4,4.1,4.3,4.05,,4.06,,4.06,4.5,4.13,4.38,4.11
+20-21,SPRING,Dept,SBM,RMBI,Risk Management and Business Intelligence,5.0,0.355,,3.77,,3.77,,,,3.77,,3.98,,3.98,,,,3.98
+20-21,SPRING,Dept,SBM,WBBA,SF Program in World Business,1.0,0.585,,4.25,,4.25,,,,4.25,,4.25,,4.25,,,,4.25
+20-21,SPRING,Dept,SBM,SBMT,School of Business and Management,7.0,0.247,4.5,,,4.5,4.67,4.02,4.03,4.04,4.5,,,4.5,4.33,4.09,4.09,4.1
+20-21,SPRING,School,SENG,-,-,245.0,0.389,4.48,4.06,3.98,4.05,4.62,4.47,4.49,4.13,4.52,4.15,4.06,4.14,4.69,4.48,4.52,4.21
+20-21,SPRING,Dept,SENG,CENG,Chemical and Biological Engineering,21.0,0.413,4.67,3.9,4.37,4.13,4.29,4.79,4.52,4.18,4.67,4.06,4.45,4.24,4.32,4.75,4.52,4.28
+20-21,SPRING,Dept,SENG,CIVL,Civil and Environmental Engineering,36.0,0.364,3.6,3.86,4.03,3.99,4.69,4.36,4.52,4.05,3.6,3.88,4.12,4.06,4.81,4.29,4.53,4.11
+20-21,SPRING,Dept,SENG,COMP,Computer Science and Engineering,74.0,0.39,4.7,4.14,4.12,4.15,4.8,4.37,4.44,4.2,4.78,4.27,4.27,4.28,4.8,4.41,4.47,4.31
+20-21,SPRING,Dept,SENG,ELEC,Electronic and Computer Engineering,43.0,0.38,4.33,3.99,3.81,3.96,4.67,4.62,4.65,4.14,4.38,4.07,3.97,4.05,4.75,4.62,4.7,4.21
+20-21,SPRING,Dept,SENG,ENEG,Energy Technology,1.0,0.308,,3.0,,3.0,,,,3.0,,3.63,,3.63,,,,3.63
+20-21,SPRING,Dept,SENG,ENTR-SENG,Entrepreneurship,2.0,0.456,4.22,4.05,,4.1,,,,4.1,4.56,4.23,,4.32,,,,4.32
+20-21,SPRING,Dept,SENG,IEDA,Industrial Engineering and Decision Analytics,18.0,0.341,4.83,4.18,,4.22,4.83,,4.83,4.27,4.83,4.24,,4.27,4.83,,4.83,4.31
+20-21,SPRING,Dept,SENG,ISDN,Integrative Systems and Design,8.0,0.515,4.5,3.92,,4.07,,,,4.07,4.59,3.91,,4.08,,,,4.08
+20-21,SPRING,Dept,SENG,MECH,Mechanical Engineering,30.0,0.438,4.41,3.98,3.54,3.81,4.47,4.66,4.58,3.95,4.47,4.04,3.54,3.85,4.53,4.69,4.62,3.99
+20-21,SPRING,Dept,SENG,PDEV-SENG,Professional Development for SENG,1.0,0.312,,,,,,,4.16,4.16,,,,,,,4.14,4.14
+20-21,SPRING,Dept,SENG,ENGG,School of Engineering,11.0,0.519,4.57,4.04,,4.23,,,,4.23,4.56,4.06,,4.24,,,,4.24
+20-21,SPRING,School,SHSS,-,-,113.0,0.484,4.49,4.11,4.16,4.15,4.56,4.57,4.57,4.23,4.54,4.21,4.27,4.25,4.61,4.62,4.62,4.32
+20-21,SPRING,Dept,SHSS,HUMA,Humanities,44.0,0.453,4.5,4.19,3.97,4.11,4.92,4.49,4.67,4.16,4.56,4.3,4.14,4.24,4.92,4.47,4.65,4.28
+20-21,SPRING,Dept,SHSS,HMMA,MA Program in Chinese Culture,2.0,0.656,,,,,4.25,4.92,4.67,4.67,,,,,4.25,5.0,4.71,4.71
+20-21,SPRING,Dept,SHSS,MGCS,MSc Program in Global China Studies,5.0,0.71,,,,,4.64,4.73,4.72,4.72,,,,,4.71,4.79,4.78,4.78
+20-21,SPRING,Dept,SHSS,MILE,MSc Program in International Language Education,8.0,0.87,,,,,4.1,4.47,4.42,4.42,,,,,4.1,4.54,4.48,4.48
+20-21,SPRING,Dept,SHSS,MASS,Master of Arts in Social Science,4.0,0.679,,,,,,4.67,4.67,4.67,,,,,,4.68,4.68,4.68
+20-21,SPRING,Dept,SHSS,HSS,School of Humanities & Social Science,1.0,0.526,4.5,,,4.5,,,,4.5,4.6,,,4.6,,,,4.6
+20-21,SPRING,Dept,SHSS,SOSC,Social Science,43.0,0.459,4.25,4.01,4.27,4.18,4.53,,4.53,4.19,4.31,4.11,4.34,4.26,4.64,,4.64,4.27
+20-21,SPRING,Dept,SHSS,HART,Studio Arts courses offered by HUMA,6.0,0.504,4.8,3.92,,4.04,,,,4.04,4.8,3.97,,4.09,,,,4.09
+20-21,SPRING,School,SSCI,-,-,239.0,0.401,4.19,4.02,4.0,4.02,4.53,4.47,4.48,4.1,4.25,4.06,4.08,4.08,4.54,4.51,4.52,4.16
+20-21,SPRING,Dept,SSCI,CHMS,Analytical Chemistry,6.0,0.415,,,,,,4.74,4.74,4.74,,,,,,4.75,4.75,4.75
+20-21,SPRING,Dept,SSCI,BIBU-SSCI,Biotechnology and Business,1.0,0.577,,2.73,,2.73,,,,2.73,,2.87,,2.87,,,,2.87
+20-21,SPRING,Dept,SSCI,CHEM,Chemistry,42.0,0.419,4.48,4.11,4.02,4.06,3.89,4.47,4.38,4.07,4.48,4.13,4.1,4.12,4.22,4.51,4.47,4.13
+20-21,SPRING,Dept,SSCI,ENTR-SSCI,Entrepreneurship,2.0,0.456,4.22,4.05,,4.1,,,,4.1,4.56,4.23,,4.32,,,,4.32
+20-21,SPRING,Dept,SSCI,LIFS,Life Science,33.0,0.313,4.0,4.17,4.1,4.12,4.6,4.41,4.46,4.2,4.05,4.23,4.15,4.17,4.59,4.53,4.55,4.26
+20-21,SPRING,Dept,SSCI,MAED,MSc Program in Mathematics for Educators,4.0,0.632,,,,,,4.58,4.58,4.58,,,,,,4.55,4.55,4.55
+20-21,SPRING,Dept,SSCI,MSDM,MSc in Data-Driven Modeling Program,5.0,0.449,,,,,,4.33,4.33,4.33,,,,,,4.38,4.38,4.38
+20-21,SPRING,Dept,SSCI,MATH,Mathematics,85.0,0.414,4.1,3.99,3.97,3.99,4.74,4.66,4.69,4.05,4.12,4.02,4.03,4.02,4.73,4.68,4.7,4.09
+20-21,SPRING,Dept,SSCI,NANO,NANO Science and Technology,1.0,0.75,,,,,4.22,,4.22,4.22,,,,,4.22,,4.22,4.22
+20-21,SPRING,Dept,SSCI,OCES,Ocean Science,14.0,0.474,,3.89,3.91,3.9,4.0,4.33,4.31,4.04,,3.93,3.94,3.94,4.0,4.36,4.35,4.09
+20-21,SPRING,Dept,SSCI,PHYS,Physics,34.0,0.489,4.11,4.04,3.96,4.0,4.4,4.43,4.42,4.01,4.23,4.09,4.09,4.1,4.47,4.43,4.44,4.11
+20-21,SPRING,Dept,SSCI,SCIE,School of Science,5.0,0.472,4.39,4.64,3.13,3.83,,,,3.83,4.28,4.67,3.63,3.97,,,,3.97
+20-21,SPRING,Dept,SSCI,CSIC,Scientific Computation,1.0,0.5,,,,,4.63,,4.63,4.63,,,,,4.5,,4.5,4.5
+20-21,SPRING,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),8.0,0.235,,,,,3.6,4.23,4.2,4.2,,,,,3.6,4.29,4.25,4.25
+20-21,SPRING,School,LANG/LABU/LAGR,-,-,371.0,0.6,3.92,4.3,,3.94,4.53,,4.53,3.98,4.23,4.45,,4.23,4.67,,4.67,4.27
+20-21,SPRING,Dept,LANG/LABU/LAGR,LANG,Language,307.0,0.632,3.93,4.3,,3.94,4.53,,4.53,4.0,4.23,4.45,,4.24,4.67,,4.67,4.28
+20-21,SPRING,Dept,LANG/LABU/LAGR,LABU,Language for Business,64.0,0.439,3.88,,,3.88,,,,3.88,4.19,,,4.19,,,,4.19
+20-21,SPRING,School,IPO,-,-,47.0,0.559,4.67,4.08,,4.13,3.88,4.47,4.41,4.28,4.72,4.2,,4.24,4.05,4.49,4.45,4.35
+20-21,SPRING,Dept,IPO,ENVR,Environment and Sustainability,25.0,0.547,4.67,4.0,,4.06,4.83,4.38,4.4,4.15,4.72,4.12,,4.19,4.83,4.4,4.42,4.25
+20-21,SPRING,Dept,IPO,EVSM,Environmental Science and Management,4.0,0.626,,,,,,4.53,4.53,4.53,,,,,,4.52,4.52,4.52
+20-21,SPRING,Dept,IPO,IIMP,Individualized Interdisciplinary Major,1.0,0.583,,,,,3.31,,3.31,3.31,,,,,3.57,,3.57,3.57
+20-21,SPRING,Dept,IPO,PPOL,Public Policy,15.0,0.535,,4.28,,4.28,4.63,4.49,4.5,4.48,,4.48,,4.48,4.68,4.53,4.54,4.54
+20-21,SPRING,Dept,IPO,TEMG,Technology and Management,2.0,0.722,,4.52,,4.52,,,,4.52,,4.6,,4.6,,,,4.6
+20-21,SPRING,School,OTHERS,-,-,2.0,0.5,,4.61,,4.61,,,,4.61,,4.67,,4.67,,,,4.67
+20-21,SPRING,Dept,OTHERS,DSTO,Dean of Students' Office,2.0,0.5,,4.61,,4.61,,,,4.61,,4.67,,4.67,,,,4.67
+20-21,SPRING,School,FUNHUB,-,-,1.0,0.693,,,,,,4.54,4.54,4.54,,,,,,4.55,4.55,4.55
+20-21,SPRING,Dept,FUNHUB,FUNH,Function Hub Core Course,1.0,0.693,,,,,,4.54,4.54,4.54,,,,,,4.55,4.55,4.55
+20-21,SPRING,School,INFHUB,-,-,9.0,0.519,,,,,4.46,4.68,4.54,4.54,,,,,4.56,4.71,4.61,4.61
+20-21,SPRING,Dept,INFHUB,CMAA,Computational Media and Arts,3.0,0.644,,,,,4.45,,4.45,4.45,,,,,4.53,,4.53,4.53
+20-21,SPRING,Dept,INFHUB,DSAA,Data Science and Analytics,5.0,0.407,,,,,4.71,4.68,4.69,4.69,,,,,4.71,4.71,4.71,4.71
+20-21,SPRING,Dept,INFHUB,IOTA,Internet of Things,1.0,0.778,,,,,4.29,,4.29,4.29,,,,,4.57,,4.57,4.57
+20-21,SPRING,School,SOCHUB,-,-,4.0,0.837,,,,,4.44,,4.44,4.44,,,,,4.63,,4.63,4.63
+20-21,SPRING,Dept,SOCHUB,FTEC,Financial Technology,1.0,0.875,,,,,5.0,,5.0,5.0,,,,,5.0,,5.0,5.0
+20-21,SPRING,Dept,SOCHUB,IPEN,Innovation Policy and Entrepreneurship,2.0,0.806,,,,,4.56,,4.56,4.56,,,,,4.8,,4.8,4.8
+20-21,SPRING,Dept,SOCHUB,UGOD,Urban Governance and Design,1.0,0.9,,,,,3.67,,3.67,3.67,,,,,3.89,,3.89,3.89
+20-21,SPRING,School,SYSHUB,-,-,1.0,0.673,,,,,,3.84,3.84,3.84,,,,,,4.05,4.05,4.05
+20-21,SPRING,Dept,SYSHUB,SYSH,Systems Hub Core Course,1.0,0.673,,,,,,3.84,3.84,3.84,,,,,,4.05,4.05,4.05
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Key:,,,,,,,,,,,,,,,,,,,,,,,
+Small UG: Undergraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium UG: Undergraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+Large UG: Undergraduate courses with enrolment over 100,,,,,,,,,,,,,,,,,,,,,,,
+UG Mean: Mean of responses of all UG courses,,,,,,,,,,,,,,,,,,,,,,,
+Small PG: Postgraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium PG: Postgraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+PG Mean: Mean of responses of all PG courses,,,,,,,,,,,,,,,,,,,,,,,
+Overall: Mean of responses of all courses,,,,,,,,,,,,,,,,,,,,,,,
+"If there is no entry, there were no classes of the type indicated.",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,
+2021-06-18 00:00:00,,,,,,,,,,,,,,,,,,,,,,,

@@ -22,7 +22,9 @@ def fetch_file(file_name, save_directory) -> int:
 
 
 def fetch_file_exc() -> None:
-    log_dir = "log"
+    print("Fetching raw files...")
+    
+    log_dir = "logs/fetch_log"
     os.makedirs(log_dir, exist_ok=True)
     log_file = os.path.join(
         log_dir, f"log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
@@ -33,7 +35,7 @@ def fetch_file_exc() -> None:
     with open(log_file, "w") as log:
         for yss in yss_tqdm:
             file_name = yss.file_name_xlsx
-            status = fetch_file(file_name, f"raw/{yss.school}")
+            status = fetch_file(file_name, f"data_files/raw_excel/{yss.school}")
             if status == 0:
                 yss_tqdm.add_success()
                 log.write(f"SUCCESS: {file_name}\n")

@@ -1,0 +1,42 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - Mean,Course Overall - SD,Instructor Overall - Mean,Instructor Overall - SD
+21-22,SUMMER,University,-,-,-,107.0,0.455,4.29,0.87,4.36,0.82
+21-22,SUMMER,School,SBM,-,-,48.0,0.482,4.36,0.87,4.41,0.82
+21-22,SUMMER,Dept,SBM,ACCT,Accounting,5.0,0.538,4.19,0.98,4.3,0.89
+21-22,SUMMER,Dept,SBM,ECON,Economics,1.0,0.1,5.0,0.0,5.0,0.0
+21-22,SUMMER,Dept,SBM,ENTR-SBM,Entrepreneurship,1.0,1.0,4.33,0.58,4.33,0.58
+21-22,SUMMER,Dept,SBM,FINA,Finance,1.0,0.417,4.8,0.41,4.8,0.41
+21-22,SUMMER,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",13.0,0.412,4.45,0.78,4.48,0.78
+21-22,SUMMER,Dept,SBM,MIMT,MSc Program in International Management,4.0,0.593,4.28,1.02,4.43,0.86
+21-22,SUMMER,Dept,SBM,MGMT,Management,7.0,0.411,4.17,0.9,4.22,0.9
+21-22,SUMMER,Dept,SBM,MARK,Marketing,1.0,0.613,4.53,0.51,4.68,0.48
+21-22,SUMMER,Dept,SBM,SBMT,School of Business and Management,15.0,0.521,4.36,0.88,4.41,0.83
+21-22,SUMMER,School,SENG,-,-,20.0,0.402,4.11,0.83,4.09,0.84
+21-22,SUMMER,Dept,SENG,CIVL,Civil and Environmental Engineering,5.0,0.31,3.77,0.82,3.81,0.85
+21-22,SUMMER,Dept,SENG,COMP,Computer Science and Engineering,5.0,0.446,4.18,0.8,4.14,0.82
+21-22,SUMMER,Dept,SENG,ENTR-SENG,Entrepreneurship,1.0,1.0,4.33,0.58,4.33,0.58
+21-22,SUMMER,Dept,SENG,ISDN,Integrative Systems and Design,3.0,0.5,4.43,0.53,4.75,0.45
+21-22,SUMMER,Dept,SENG,ENGG,School of Engineering,6.0,0.425,4.23,0.87,4.12,0.84
+21-22,SUMMER,School,SHSS,-,-,13.0,0.425,4.38,0.74,4.46,0.72
+21-22,SUMMER,Dept,SHSS,HUMA,Humanities,5.0,0.489,4.65,0.62,4.68,0.59
+21-22,SUMMER,Dept,SHSS,MGCS,MSc Program in Global China Studies,2.0,0.625,4.73,0.45,4.8,0.41
+21-22,SUMMER,Dept,SHSS,SOSC,Social Science,6.0,0.379,4.19,0.77,4.29,0.76
+21-22,SUMMER,School,SSCI,-,-,17.0,0.375,4.14,0.9,4.25,0.86
+21-22,SUMMER,Dept,SSCI,CHEM,Chemistry,3.0,0.545,4.33,0.65,4.33,0.89
+21-22,SUMMER,Dept,SSCI,ENTR-SSCI,Entrepreneurship,1.0,1.0,4.33,0.58,4.33,0.58
+21-22,SUMMER,Dept,SSCI,LIFS,Life Science,1.0,0.333,4.0,0.82,4.25,0.46
+21-22,SUMMER,Dept,SSCI,MATH,Mathematics,5.0,0.456,3.99,0.97,4.19,0.9
+21-22,SUMMER,Dept,SSCI,OCES,Ocean Science,1.0,0.297,3.89,0.8,3.93,0.82
+21-22,SUMMER,Dept,SSCI,PHYS,Physics,4.0,0.345,4.28,0.86,4.62,0.67
+21-22,SUMMER,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),2.0,0.286,4.55,0.91,4.5,0.96
+21-22,SUMMER,School,LANG/LABU/LAGR,-,-,8.0,0.636,3.72,1.09,4.35,0.71
+21-22,SUMMER,Dept,LANG/LABU/LAGR,LANG,Language,6.0,0.644,3.69,1.08,4.31,0.73
+21-22,SUMMER,Dept,LANG/LABU/LAGR,LABU,Language for Business,2.0,0.588,3.9,1.2,4.6,0.52
+21-22,SUMMER,School,IPO,-,-,3.0,0.615,4.38,0.82,4.5,0.74
+21-22,SUMMER,Dept,IPO,PPOL,Public Policy,3.0,0.615,4.38,0.82,4.5,0.74
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Note 1: The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,
+Note 2: A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school. The same situation may also occur in the totals for schools and university.,,,,,,,,,,,
+,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,
+2022-08-29 00:00:00,,,,,,,,,,,

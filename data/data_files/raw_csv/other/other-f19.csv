@@ -1,0 +1,18 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+19-20,FALL,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.482,,-,2,99.1,-,4.8,-,99.1,-,4.8,-
+19-20,FALL,Dept / Course Group,OTHERS,DSTO,-,-,-,-,-,-,-,-,-,0.482,,-,2,99.1,-,4.8,-,99.1,-,4.8,-
+19-20,FALL,Course,OTHERS,DSTO,GNED,2510,-,19-20-FALL-GNED-2510,-,-,-,-,-,0.482,,0.411,2,99.1,100,4.8,0,99.1,100,4.8,0
+19-20,FALL,Section,OTHERS,DSTO,GNED,2510,T1,19-20-FALL-GNED-2510,19-20-FALL-GNED-2510-T1,-,-,-,26,0.5,Y,0.423,-,100.0,100,0.0,0,100.0,100,0.0,0
+19-20,FALL,Instructor,OTHERS,DSTO,GNED,2510,T1,19-20-FALL-GNED-2510,19-20-FALL-GNED-2510-T1,19-20-FALL-GNED-2510-T1-SI,"SIU, Grace",sagsiu,26,0.5,Y,0.423,-,100.0,100,0.0,0,100.0,100,0.0,0
+19-20,FALL,Section,OTHERS,DSTO,GNED,2510,T2,19-20-FALL-GNED-2510,19-20-FALL-GNED-2510-T2,-,-,-,30,0.467,Y,0.4,-,98.2,100,6.7,0,98.2,100,6.7,0
+19-20,FALL,Instructor,OTHERS,DSTO,GNED,2510,T2,19-20-FALL-GNED-2510,19-20-FALL-GNED-2510-T2,19-20-FALL-GNED-2510-T2-SI,"SIU, Grace",sagsiu,30,0.467,Y,0.4,-,98.2,100,6.7,0,98.2,100,6.7,0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-02-07 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

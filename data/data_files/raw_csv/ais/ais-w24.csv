@@ -1,0 +1,25 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+23-24,WINTER,School,AIS,-,-,-,-,-,-,-,-,-,-,0.488,,-,3,4.38,-,0.62,-,4.69,-,0.52,-
+23-24,WINTER,Dept / Course Group,AIS,ENVR,-,-,-,-,-,-,-,-,-,0.433,,-,1,4.31,-,0.47,-,4.69,-,0.47,-
+23-24,WINTER,Dept / Course Group,AIS,ISDN,-,-,-,-,-,-,-,-,-,0.5,Y,-,1,5.0,-,0.0,-,5.0,-,0.0,-
+23-24,WINTER,Dept / Course Group,AIS,TEMG,-,-,-,-,-,-,-,-,-,0.625,,-,1,4.47,-,0.83,-,4.67,-,0.62,-
+23-24,WINTER,Course,AIS,ENVR,ENVR,1080,-,23-24-WINTER-ENVR-1080,-,-,-,-,-,0.433,,0.4,1,4.31,4.29,0.47,0.46,4.69,4.71,0.47,0.46
+23-24,WINTER,Section,AIS,ENVR,ENVR,1080,L1,23-24-WINTER-ENVR-1080,23-24-WINTER-ENVR-1080-L1,-,-,-,60,0.433,,0.4,-,4.31,4.29,0.47,0.46,4.69,4.71,0.47,0.46
+23-24,WINTER,Instructor,AIS,ENVR,ENVR,1080,L1,23-24-WINTER-ENVR-1080,23-24-WINTER-ENVR-1080-L1,23-24-WINTER-ENVR-1080-L1-SI,"SAUERWEIN, Meike",meike,60,0.433,,0.4,-,4.31,4.29,0.47,0.46,4.69,4.71,0.47,0.46
+23-24,WINTER,Course,AIS,ISDN,ISDN,3360,-,23-24-WINTER-ISDN-3360,-,-,-,-,-,0.5,Y,-,1,5.0,-,0.0,-,5.0,-,0.0,-
+23-24,WINTER,Section,AIS,ISDN,ISDN,3360,L1,23-24-WINTER-ISDN-3360,23-24-WINTER-ISDN-3360-L1,-,-,-,2,0.5,Y,-,-,5.0,-,0.0,-,5.0,-,0.0,-
+23-24,WINTER,Instructor,AIS,ISDN,ISDN,3360,L1,23-24-WINTER-ISDN-3360,23-24-WINTER-ISDN-3360-L1,23-24-WINTER-ISDN-3360-L1-SI,"LEUNG, Suk Wai Winnie",eewswleung,2,0.5,Y,-,-,5.0,-,0.0,-,5.0,-,0.0,-
+23-24,WINTER,Course,AIS,TEMG,TEMG,4970B,-,23-24-WINTER-TEMG-4970B,-,-,-,-,-,0.625,,0.542,1,4.47,4.62,0.83,0.51,4.67,4.77,0.62,0.44
+23-24,WINTER,Section,AIS,TEMG,TEMG,4970B,L1,23-24-WINTER-TEMG-4970B,23-24-WINTER-TEMG-4970B-L1,-,-,-,24,0.625,,0.542,-,4.47,4.62,0.83,0.51,4.67,4.77,0.62,0.44
+23-24,WINTER,Instructor,AIS,TEMG,TEMG,4970B,L1,23-24-WINTER-TEMG-4970B,23-24-WINTER-TEMG-4970B-L1,23-24-WINTER-TEMG-4970B-L1-SI,"LIN, Betty Fwei-chien",bettylin,24,0.625,,0.542,-,4.47,4.62,0.83,0.51,4.67,4.77,0.62,0.44
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-02 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,48 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+21-22,WINTER,School,SENG,-,-,-,-,-,-,-,-,-,-,0.455,,-,10,4.42,-,0.65,-,4.38,-,0.69,-
+21-22,WINTER,Dept / Course Group,SENG,CIVL,-,-,-,-,-,-,-,-,-,0.333,Y,-,1,4.0,-,0.0,-,4.0,-,0.0,-
+21-22,WINTER,Dept / Course Group,SENG,COMP,-,-,-,-,-,-,-,-,-,0.374,,-,4,4.3,-,0.7,-,4.23,-,0.73,-
+21-22,WINTER,Dept / Course Group,SENG,ENTR-SENG,-,-,-,-,-,-,-,-,-,1.0,,-,1,4.67,-,0.58,-,5.0,-,0.0,-
+21-22,WINTER,Dept / Course Group,SENG,ISDN,-,-,-,-,-,-,-,-,-,0.647,,-,3,4.59,-,0.5,-,4.73,-,0.46,-
+21-22,WINTER,Dept / Course Group,SENG,ENGG,-,-,-,-,-,-,-,-,-,0.895,,-,1,4.71,-,0.47,-,4.53,-,0.62,-
+21-22,WINTER,Course,SENG,CIVL,CIVL,6050Z,-,21-22-WINTER-CIVL-6050Z,-,-,-,-,-,0.333,Y,-,1,4.0,-,0.0,-,4.0,-,0.0,-
+21-22,WINTER,Section,SENG,CIVL,CIVL,6050Z,L1,21-22-WINTER-CIVL-6050Z,21-22-WINTER-CIVL-6050Z-L1,-,-,-,3,0.333,Y,-,-,4.0,-,0.0,-,4.0,-,0.0,-
+21-22,WINTER,Instructor,SENG,CIVL,CIVL,6050Z,L1,21-22-WINTER-CIVL-6050Z,21-22-WINTER-CIVL-6050Z-L1,21-22-WINTER-CIVL-6050Z-L1-SN,,,3,0.333,Y,-,-,4.0,-,0.0,-,4.0,-,0.0,-
+21-22,WINTER,Course,SENG,COMP,COMP,1029C,-,21-22-WINTER-COMP-1029C,-,-,-,-,-,0.449,,0.408,1,4.32,4.35,0.57,0.49,4.23,4.25,0.69,0.64
+21-22,WINTER,Section,SENG,COMP,COMP,1029C,L1,21-22-WINTER-COMP-1029C,21-22-WINTER-COMP-1029C-L1,-,-,-,49,0.449,,0.408,-,4.32,4.35,0.57,0.49,4.23,4.25,0.69,0.64
+21-22,WINTER,Instructor,SENG,COMP,COMP,1029C,L1,21-22-WINTER-COMP-1029C,21-22-WINTER-COMP-1029C-L1,21-22-WINTER-COMP-1029C-L1-SI,"LAM, Gibson",gibson,49,0.449,,0.408,-,4.32,4.35,0.57,0.49,4.23,4.25,0.69,0.64
+21-22,WINTER,Course,SENG,COMP,COMP,1029J,-,21-22-WINTER-COMP-1029J,-,-,-,-,-,0.449,,0.408,1,4.32,4.35,0.72,0.67,4.32,4.35,0.72,0.67
+21-22,WINTER,Section,SENG,COMP,COMP,1029J,L1,21-22-WINTER-COMP-1029J,21-22-WINTER-COMP-1029J-L1,-,-,-,49,0.449,,0.408,-,4.32,4.35,0.72,0.67,4.32,4.35,0.72,0.67
+21-22,WINTER,Instructor,SENG,COMP,COMP,1029J,L1,21-22-WINTER-COMP-1029J,21-22-WINTER-COMP-1029J-L1,21-22-WINTER-COMP-1029J-L1-SI,"LAM, Gibson",gibson,49,0.449,,0.408,-,4.32,4.35,0.72,0.67,4.32,4.35,0.72,0.67
+21-22,WINTER,Course,SENG,COMP,COMP,1029P,-,21-22-WINTER-COMP-1029P,-,-,-,-,-,0.3,Y,0.26,1,4.13,4.23,0.99,0.83,4.13,4.15,0.92,0.9
+21-22,WINTER,Section,SENG,COMP,COMP,1029P,L1,21-22-WINTER-COMP-1029P,21-22-WINTER-COMP-1029P-L1,-,-,-,50,0.3,Y,0.26,-,4.13,4.23,0.99,0.83,4.13,4.15,0.92,0.9
+21-22,WINTER,Instructor,SENG,COMP,COMP,1029P,L1,21-22-WINTER-COMP-1029P,21-22-WINTER-COMP-1029P-L1,21-22-WINTER-COMP-1029P-L1-SI,"LAM, Gibson",gibson,50,0.3,Y,0.26,-,4.13,4.23,0.99,0.83,4.13,4.15,0.92,0.9
+21-22,WINTER,Course,SENG,COMP,COMP,1029V,-,21-22-WINTER-COMP-1029V,-,-,-,-,-,0.3,Y,0.26,1,4.4,4.38,0.51,0.51,4.2,4.23,0.68,0.6
+21-22,WINTER,Section,SENG,COMP,COMP,1029V,L1,21-22-WINTER-COMP-1029V,21-22-WINTER-COMP-1029V-L1,-,-,-,50,0.3,Y,0.26,-,4.4,4.38,0.51,0.51,4.2,4.23,0.68,0.6
+21-22,WINTER,Instructor,SENG,COMP,COMP,1029V,L1,21-22-WINTER-COMP-1029V,21-22-WINTER-COMP-1029V-L1,21-22-WINTER-COMP-1029V-L1-SI,"LAM, Gibson",gibson,50,0.3,Y,0.26,-,4.4,4.38,0.51,0.51,4.2,4.23,0.68,0.6
+21-22,WINTER,Course,SENG,ENTR-SENG,ENTR,3360,-,21-22-WINTER-ENTR-3360,-,-,-,-,-,1.0,,0.333,1,4.67,5,0.58,0,5.0,5,0.0,0
+21-22,WINTER,Section,SENG,ENTR-SENG,ENTR,3360,L1,21-22-WINTER-ENTR-3360,21-22-WINTER-ENTR-3360-L1,-,-,-,3,1.0,,0.333,-,4.67,5,0.58,0,5.0,5,0.0,0
+21-22,WINTER,Instructor,SENG,ENTR-SENG,ENTR,3360,L1,21-22-WINTER-ENTR-3360,21-22-WINTER-ENTR-3360-L1,21-22-WINTER-ENTR-3360-L1-SI,"LEUNG, Suk Wai Winnie",eewswleung,3,1.0,,0.333,-,4.67,5,0.58,0,5.0,5,0.0,0
+21-22,WINTER,Course,SENG,ISDN,ISDN,3360,-,21-22-WINTER-ISDN-3360,-,-,-,-,-,0.111,Y,-,1,4.0,-,0.0,-,5.0,-,0.0,-
+21-22,WINTER,Section,SENG,ISDN,ISDN,3360,L1,21-22-WINTER-ISDN-3360,21-22-WINTER-ISDN-3360-L1,-,-,-,9,0.111,Y,-,-,4.0,-,0.0,-,5.0,-,0.0,-
+21-22,WINTER,Instructor,SENG,ISDN,ISDN,3360,L1,21-22-WINTER-ISDN-3360,21-22-WINTER-ISDN-3360-L1,21-22-WINTER-ISDN-3360-L1-SI,"LEUNG, Suk Wai Winnie",eewswleung,9,0.111,Y,-,-,4.0,-,0.0,-,5.0,-,0.0,-
+21-22,WINTER,Course,SENG,ISDN,ISDN,4000K,-,21-22-WINTER-ISDN-4000K,-,-,-,-,-,0.867,,0.733,1,4.62,4.64,0.51,0.5,4.62,4.64,0.51,0.5
+21-22,WINTER,Section,SENG,ISDN,ISDN,4000K,L1,21-22-WINTER-ISDN-4000K,21-22-WINTER-ISDN-4000K-L1,-,-,-,15,0.867,,0.733,-,4.62,4.64,0.51,0.5,4.62,4.64,0.51,0.5
+21-22,WINTER,Instructor,SENG,ISDN,ISDN,4000K,L1,21-22-WINTER-ISDN-4000K,21-22-WINTER-ISDN-4000K-L1,21-22-WINTER-ISDN-4000K-L1-SI,"LI, Mitch",mitchli,15,0.867,,0.733,-,4.62,4.64,0.51,0.5,4.62,4.64,0.51,0.5
+21-22,WINTER,Course,SENG,ISDN,ISDN,4000M,-,21-22-WINTER-ISDN-4000M,-,-,-,-,-,0.8,Y,0.6,1,4.63,4.67,0.52,0.52,4.88,5,0.35,0
+21-22,WINTER,Section,SENG,ISDN,ISDN,4000M,L1,21-22-WINTER-ISDN-4000M,21-22-WINTER-ISDN-4000M-L1,-,-,-,10,0.8,Y,0.6,-,4.63,4.67,0.52,0.52,4.88,5,0.35,0
+21-22,WINTER,Instructor,SENG,ISDN,ISDN,4000M,L1,21-22-WINTER-ISDN-4000M,21-22-WINTER-ISDN-4000M-L1,21-22-WINTER-ISDN-4000M-L1-SI,"TSUI, Chi Ying",eetsui,10,0.8,Y,0.6,-,4.63,4.67,0.52,0.52,4.88,5,0.35,0
+21-22,WINTER,Course,SENG,ENGG,ENGG,3960E,-,21-22-WINTER-ENGG-3960E,-,-,-,-,-,0.895,,-,1,4.71,-,0.47,-,4.53,-,0.62,-
+21-22,WINTER,Section,SENG,ENGG,ENGG,3960E,L1,21-22-WINTER-ENGG-3960E,21-22-WINTER-ENGG-3960E-L1,-,-,-,19,0.895,,-,-,4.71,-,0.47,-,4.53,-,0.62,-
+21-22,WINTER,Instructor,SENG,ENGG,ENGG,3960E,L1,21-22-WINTER-ENGG-3960E,21-22-WINTER-ENGG-3960E-L1,21-22-WINTER-ENGG-3960E-L1-SI,"WOO, Kam Tim",eetim,19,0.895,,0.789,-,4.71,4.73,0.47,0.46,4.53,4.6,0.62,0.51
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-02-09 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

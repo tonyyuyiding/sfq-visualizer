@@ -1,0 +1,19 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+20-21,SPRING,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.5,,-,2,4.61,-,0.6,-,4.67,-,0.53,-
+20-21,SPRING,Dept / Course Group,OTHERS,DSTO,-,-,-,-,-,-,-,-,-,0.5,,-,2,4.61,-,0.6,-,4.67,-,0.53,-
+20-21,SPRING,Course,OTHERS,DSTO,GNED,2510,-,20-21-SPRING-GNED-2510,-,-,-,-,-,0.5,,0.444,2,4.61,4.66,0.6,0.55,4.67,4.72,0.53,0.46
+20-21,SPRING,Section,OTHERS,DSTO,GNED,2510,T1,20-21-SPRING-GNED-2510,20-21-SPRING-GNED-2510-T1,-,-,-,43,0.465,,0.419,-,4.5,4.56,0.69,0.62,4.55,4.61,0.6,0.5
+20-21,SPRING,Instructor,OTHERS,DSTO,GNED,2510,T1,20-21-SPRING-GNED-2510,20-21-SPRING-GNED-2510-T1,20-21-SPRING-GNED-2510-T1-SI,"SIU, Grace",sagsiu,43,0.465,,0.419,-,4.5,4.56,0.69,0.62,4.55,4.61,0.6,0.5
+20-21,SPRING,Section,OTHERS,DSTO,GNED,2510,T2,20-21-SPRING-GNED-2510,20-21-SPRING-GNED-2510-T2,-,-,-,28,0.552,Y,0.483,-,4.75,4.79,0.45,0.43,4.81,4.86,0.4,0.36
+20-21,SPRING,Instructor,OTHERS,DSTO,GNED,2510,T2,20-21-SPRING-GNED-2510,20-21-SPRING-GNED-2510-T2,20-21-SPRING-GNED-2510-T2-SI,"SIU, Grace",sagsiu,28,0.552,Y,0.483,-,4.75,4.79,0.45,0.43,4.81,4.86,0.4,0.36
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-06-18 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

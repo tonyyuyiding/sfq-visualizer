@@ -1,0 +1,46 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - UG (Small),Course Overall - UG (Medium),Course Overall - UG (Large),Course Overall - UG Mean,Course Overall - PG (Small),Course Overall - PG (Medium),Course Overall - PG Mean,Course Overall - Overall,Instructor Overall - UG (Small),Instructor Overall - UG (Medium),Instructor Overall - UG (Large),Instructor Overall - UG Mean,Instructor Overall - PG (Small),Instructor Overall - PG (Medium),Instructor Overall - PG Mean,Instructor Overall - Overall
+19-20,SUMMER,University,-,-,-,126.0,0.38,84.73,78.51,77.0,79.47,90.63,83.77,82.73,80.87,87.5,81.08,79.83,82.17,90.63,87.6,87.69,84.59
+19-20,SUMMER,School,SBM,-,-,44.0,0.413,79.0,75.51,,76.21,90.22,83.25,82.22,80.96,82.5,77.27,,78.33,90.22,87.21,87.34,85.46
+19-20,SUMMER,Dept,SBM,ACCT,Accounting,5.0,0.53,75.0,,,75.0,81.82,94.74,90.0,81.43,78.75,,,78.75,81.82,93.42,89.17,83.21
+19-20,SUMMER,Dept,SBM,ECON,Economics,1.0,0.029,,,,,,25.0,25.0,25.0,,,,,,0.0,0.0,0.0
+19-20,SUMMER,Dept,SBM,FINA,Finance,1.0,0.625,,,,,,90.0,90.0,90.0,,,,,,93.33,93.33,93.33
+19-20,SUMMER,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",10.0,0.385,95.0,73.9,,76.6,97.92,90.0,91.23,83.87,97.5,73.53,,76.6,97.92,93.08,93.83,85.16
+19-20,SUMMER,Dept,SBM,MIMT,MSc Program in International Management,2.0,0.583,,,,,,87.86,87.86,87.86,,,,,,92.86,92.86,92.86
+19-20,SUMMER,Dept,SBM,MGMT,Management,12.0,0.351,,71.24,,71.24,,78.64,76.6,75.37,,73.39,,73.39,,84.22,85.42,82.65
+19-20,SUMMER,Dept,SBM,MARK,Marketing,1.0,0.755,,89.19,,89.19,,,,89.19,,93.92,,93.92,,,,93.92
+19-20,SUMMER,Dept,SBM,SBMT,School of Business and Management,12.0,0.476,,,,,,83.57,83.57,83.57,,,,,,87.21,87.21,87.21
+19-20,SUMMER,School,SENG,-,-,12.0,0.307,89.77,82.26,70.16,80.82,100.0,,100.0,80.95,81.25,89.5,69.35,81.72,100.0,,100.0,81.91
+19-20,SUMMER,Dept,SENG,CENG,Chemical and Biological Engineering,1.0,1.0,87.5,,,87.5,,,,87.5,,,,,,,,
+19-20,SUMMER,Dept,SENG,CIVL,Civil and Environmental Engineering,3.0,0.183,,,70.16,70.16,100.0,,100.0,71.09,,,69.35,69.35,100.0,,100.0,70.31
+19-20,SUMMER,Dept,SENG,COMP,Computer Science and Engineering,5.0,0.379,,79.04,,79.04,,,,79.04,,85.0,,85.0,,,,85.0
+19-20,SUMMER,Dept,SENG,ENGG,School of Engineering,3.0,0.587,91.67,91.0,,91.22,,,,91.22,81.25,94.0,,89.86,,,,89.86
+19-20,SUMMER,School,SHSS,-,-,7.0,0.382,91.67,85.29,83.37,83.79,,,,83.79,94.44,88.24,88.55,88.74,,,,88.74
+19-20,SUMMER,Dept,SHSS,HUMA,Humanities,1.0,0.171,,70.83,,70.83,,,,70.83,,75.0,,75.0,,,,75.0
+19-20,SUMMER,Dept,SHSS,SOSC,Social Science,4.0,0.388,,,83.37,83.37,,,,83.37,,,88.55,88.55,,,,88.55
+19-20,SUMMER,Dept,SHSS,HART,Studio Arts courses offered by HUMA,2.0,0.476,91.67,93.18,,92.5,,,,92.5,94.44,95.45,,95.0,,,,95.0
+19-20,SUMMER,School,SSCI,-,-,36.0,0.276,73.71,76.56,70.57,73.35,,92.93,92.93,75.33,78.95,78.13,71.22,75.0,,94.57,94.57,76.98
+19-20,SUMMER,Dept,SSCI,CHEM,Chemistry,1.0,0.281,,79.69,,79.69,,,,79.69,,84.38,,84.38,,,,84.38
+19-20,SUMMER,Dept,SSCI,LIFS,Life Science,2.0,0.216,,79.9,70.49,74.39,,,,74.39,,81.86,69.44,74.59,,,,74.59
+19-20,SUMMER,Dept,SSCI,MATH,Mathematics,9.0,0.352,95.0,74.28,,75.68,,,,75.68,100.0,73.55,,75.34,,,,75.34
+19-20,SUMMER,Dept,SSCI,OCES,Ocean Science,3.0,0.241,60.0,,74.46,73.04,,,,73.04,55.0,,74.18,72.3,,,,72.3
+19-20,SUMMER,Dept,SSCI,PHYS,Physics,18.0,0.34,74.42,73.96,58.04,69.47,,,,69.47,82.14,79.17,66.07,76.6,,,,76.6
+19-20,SUMMER,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),3.0,0.404,,,,,,92.93,92.93,92.93,,,,,,94.57,94.57,94.57
+19-20,SUMMER,School,LANG/LABU/LAGR,-,-,25.0,0.66,89.1,87.5,,88.85,,,,88.85,91.86,90.63,,91.67,,,,91.67
+19-20,SUMMER,Dept,LANG/LABU/LAGR,LANG,Language,25.0,0.66,89.1,87.5,,88.85,,,,88.85,91.86,90.63,,91.67,,,,91.67
+19-20,SUMMER,School,IPO,-,-,2.0,0.527,,81.63,,81.63,,,,81.63,,88.78,,88.78,,,,88.78
+19-20,SUMMER,Dept,IPO,ENVR,Environment and Sustainability,2.0,0.527,,81.63,,81.63,,,,81.63,,88.78,,88.78,,,,88.78
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Key:,,,,,,,,,,,,,,,,,,,,,,,
+Small UG: Undergraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium UG: Undergraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+Large UG: Undergraduate courses with enrolment over 100,,,,,,,,,,,,,,,,,,,,,,,
+UG Mean: Mean of responses of all UG courses,,,,,,,,,,,,,,,,,,,,,,,
+Small PG: Postgraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium PG: Postgraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+PG Mean: Mean of responses of all PG courses,,,,,,,,,,,,,,,,,,,,,,,
+Overall: Mean of responses of all courses,,,,,,,,,,,,,,,,,,,,,,,
+"If there is no entry, there were no classes of the type indicated.",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-03 00:00:00,,,,,,,,,,,,,,,,,,,,,,,

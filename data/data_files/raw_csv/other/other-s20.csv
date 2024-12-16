@@ -1,0 +1,18 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+19-20,SPRING,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.415,Y,-,2,86.8,-,17.9,-,89.7,-,12.7,-
+19-20,SPRING,Dept / Course Group,OTHERS,DSTO,-,-,-,-,-,-,-,-,-,0.415,Y,-,2,86.8,-,17.9,-,89.7,-,12.7,-
+19-20,SPRING,Course,OTHERS,DSTO,GNED,2510,-,19-20-SPRING-GNED-2510,-,-,-,-,-,0.415,Y,0.317,2,86.8,88.5,17.9,16.5,89.7,90.4,12.7,12.7
+19-20,SPRING,Section,OTHERS,DSTO,GNED,2510,T1,19-20-SPRING-GNED-2510,19-20-SPRING-GNED-2510-T1,-,-,-,22,0.455,Y,0.364,-,90.0,90.6,12.9,12.9,90.0,90.6,12.9,12.9
+19-20,SPRING,Instructor,OTHERS,DSTO,GNED,2510,T1,19-20-SPRING-GNED-2510,19-20-SPRING-GNED-2510-T1,19-20-SPRING-GNED-2510-T1-SI,"SIU, Grace",sagsiu,22,0.455,Y,0.364,-,90.0,90.6,12.9,12.9,90.0,90.6,12.9,12.9
+19-20,SPRING,Section,OTHERS,DSTO,GNED,2510,T2,19-20-SPRING-GNED-2510,19-20-SPRING-GNED-2510-T2,-,-,-,19,0.368,Y,0.263,-,82.1,85,23.8,22.4,89.3,90,13.4,13.7
+19-20,SPRING,Instructor,OTHERS,DSTO,GNED,2510,T2,19-20-SPRING-GNED-2510,19-20-SPRING-GNED-2510-T2,19-20-SPRING-GNED-2510-T2-SI,"SIU, Grace",sagsiu,19,0.368,Y,0.263,-,82.1,85,23.8,22.4,89.3,90,13.4,13.7
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-06-26 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

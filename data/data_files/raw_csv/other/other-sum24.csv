@@ -1,0 +1,17 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+23-24,SUMMER,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.529,Y,-,1,4.89,-,0.33,-,5.0,-,0.0,-
+23-24,SUMMER,Dept / Course Group,OTHERS,DSTO,-,-,-,-,-,-,-,-,-,0.529,Y,-,1,4.89,-,0.33,-,5.0,-,0.0,-
+23-24,SUMMER,Course,OTHERS,DSTO,GNED,2510,-,23-24-SUMMER-GNED-2510,-,-,-,-,-,0.529,Y,0.412,1,4.89,5,0.33,0,5.0,5,0.0,0
+23-24,SUMMER,Section,OTHERS,DSTO,GNED,2510,T1,23-24-SUMMER-GNED-2510,23-24-SUMMER-GNED-2510-T1,-,-,-,17,0.529,Y,0.412,-,4.89,5,0.33,0,5.0,5,0.0,0
+23-24,SUMMER,Instructor,OTHERS,DSTO,GNED,2510,T1,23-24-SUMMER-GNED-2510,23-24-SUMMER-GNED-2510-T1,23-24-SUMMER-GNED-2510-T1-SI,"SIU, Grace",sagsiu,17,0.529,Y,0.412,-,4.89,5,0.33,0,5.0,5,0.0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,,,,,,,,,,,,,,,
+2 September 2024,,,,,,,,,,,,,,,,,,,,,,,,,

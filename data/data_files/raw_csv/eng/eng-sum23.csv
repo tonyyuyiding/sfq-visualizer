@@ -1,0 +1,53 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+22-23,SUMMER,School,SENG,-,-,-,-,-,-,-,-,-,-,0.415,,-,12,4.25,-,0.88,-,4.27,-,0.92,-
+22-23,SUMMER,Dept / Course Group,SENG,CIVL,-,-,-,-,-,-,-,-,-,0.211,Y,-,1,3.25,-,0.96,-,3.0,-,1.15,-
+22-23,SUMMER,Dept / Course Group,SENG,COMP,-,-,-,-,-,-,-,-,-,0.341,,-,6,4.14,-,0.87,-,4.26,-,0.86,-
+22-23,SUMMER,Dept / Course Group,SENG,ENGG,-,-,-,-,-,-,-,-,-,0.556,,-,5,4.42,-,0.84,-,4.33,-,0.92,-
+22-23,SUMMER,Course,SENG,CIVL,CIVL,2120,-,22-23-SUMMER-CIVL-2120,-,-,-,-,-,0.211,Y,-,1,3.25,-,0.96,-,3.0,-,1.15,-
+22-23,SUMMER,Section,SENG,CIVL,CIVL,2120,L1,22-23-SUMMER-CIVL-2120,22-23-SUMMER-CIVL-2120-L1,-,-,-,19,0.211,Y,-,-,3.25,-,0.96,-,3.0,-,1.15,-
+22-23,SUMMER,Instructor,SENG,CIVL,CIVL,2120,L1,22-23-SUMMER-CIVL-2120,22-23-SUMMER-CIVL-2120-L1,22-23-SUMMER-CIVL-2120-L1-SI,"HU, Wei Chung",thomashu,19,0.211,Y,0.105,-,3.25,3.5,0.96,0.71,3.0,3,1.15,1.41
+22-23,SUMMER,Course,SENG,COMP,COMP,1029C,-,22-23-SUMMER-COMP-1029C,-,-,-,-,-,0.38,Y,0.34,1,3.89,3.94,0.88,0.75,4.05,4.06,0.78,0.75
+22-23,SUMMER,Section,SENG,COMP,COMP,1029C,L1,22-23-SUMMER-COMP-1029C,22-23-SUMMER-COMP-1029C-L1,-,-,-,50,0.38,Y,0.34,-,3.89,3.94,0.88,0.75,4.05,4.06,0.78,0.75
+22-23,SUMMER,Instructor,SENG,COMP,COMP,1029C,L1,22-23-SUMMER-COMP-1029C,22-23-SUMMER-COMP-1029C-L1,22-23-SUMMER-COMP-1029C-L1-SI,"LAM, Gibson",gibson,50,0.38,Y,0.34,-,3.89,3.94,0.88,0.75,4.05,4.06,0.78,0.75
+22-23,SUMMER,Course,SENG,COMP,COMP,1029J,-,22-23-SUMMER-COMP-1029J,-,-,-,-,-,0.432,Y,0.386,1,3.95,4,0.91,0.79,4.0,4,0.88,0.87
+22-23,SUMMER,Section,SENG,COMP,COMP,1029J,L1,22-23-SUMMER-COMP-1029J,22-23-SUMMER-COMP-1029J-L1,-,-,-,44,0.432,Y,0.386,-,3.95,4,0.91,0.79,4.0,4,0.88,0.87
+22-23,SUMMER,Instructor,SENG,COMP,COMP,1029J,L1,22-23-SUMMER-COMP-1029J,22-23-SUMMER-COMP-1029J-L1,22-23-SUMMER-COMP-1029J-L1-SI,"LAM, Gibson",gibson,44,0.432,Y,0.386,-,3.95,4,0.91,0.79,4.0,4,0.88,0.87
+22-23,SUMMER,Course,SENG,COMP,COMP,1029P,-,22-23-SUMMER-COMP-1029P,-,-,-,-,-,0.25,Y,-,1,4.0,-,0.0,-,4.5,-,0.71,-
+22-23,SUMMER,Section,SENG,COMP,COMP,1029P,L1,22-23-SUMMER-COMP-1029P,22-23-SUMMER-COMP-1029P-L1,-,-,-,8,0.25,Y,-,-,4.0,-,0.0,-,4.5,-,0.71,-
+22-23,SUMMER,Instructor,SENG,COMP,COMP,1029P,L1,22-23-SUMMER-COMP-1029P,22-23-SUMMER-COMP-1029P-L1,22-23-SUMMER-COMP-1029P-L1-SI,"LAM, Gibson",gibson,8,0.25,Y,-,-,4.0,-,0.0,-,4.5,-,0.71,-
+22-23,SUMMER,Course,SENG,COMP,COMP,1029V,-,22-23-SUMMER-COMP-1029V,-,-,-,-,-,0.265,Y,0.224,1,4.23,4.27,0.6,0.47,4.31,4.36,0.75,0.67
+22-23,SUMMER,Section,SENG,COMP,COMP,1029V,L1,22-23-SUMMER-COMP-1029V,22-23-SUMMER-COMP-1029V-L1,-,-,-,49,0.265,Y,0.224,-,4.23,4.27,0.6,0.47,4.31,4.36,0.75,0.67
+22-23,SUMMER,Instructor,SENG,COMP,COMP,1029V,L1,22-23-SUMMER-COMP-1029V,22-23-SUMMER-COMP-1029V-L1,22-23-SUMMER-COMP-1029V-L1-SI,"LAM, Gibson",gibson,49,0.265,Y,0.224,-,4.23,4.27,0.6,0.47,4.31,4.36,0.75,0.67
+22-23,SUMMER,Course,SENG,COMP,COMP,3311,-,22-23-SUMMER-COMP-3311,-,-,-,-,-,0.156,Y,0.111,1,3.86,4.2,1.35,0.45,4.0,4.4,1.41,0.55
+22-23,SUMMER,Section,SENG,COMP,COMP,3311,L1,22-23-SUMMER-COMP-3311,22-23-SUMMER-COMP-3311-L1,-,-,-,45,0.156,Y,0.111,-,3.86,4.2,1.35,0.45,4.0,4.4,1.41,0.55
+22-23,SUMMER,Instructor,SENG,COMP,COMP,3311,L1,22-23-SUMMER-COMP-3311,22-23-SUMMER-COMP-3311-L1,22-23-SUMMER-COMP-3311-L1-SI,"LOCHOVSKY, Frederick Horst",fred,45,0.156,Y,0.111,-,3.86,4.2,1.35,0.45,4.0,4.4,1.41,0.55
+22-23,SUMMER,Course,SENG,COMP,COMP,4901X,-,22-23-SUMMER-COMP-4901X,-,-,-,-,-,0.667,,0.571,1,4.79,4.83,0.43,0.39,4.93,5,0.27,0
+22-23,SUMMER,Section,SENG,COMP,COMP,4901X,L1,22-23-SUMMER-COMP-4901X,22-23-SUMMER-COMP-4901X-L1,-,-,-,21,0.667,,0.571,-,4.79,4.83,0.43,0.39,4.93,5,0.27,0
+22-23,SUMMER,Instructor,SENG,COMP,COMP,4901X,L1,22-23-SUMMER-COMP-4901X,22-23-SUMMER-COMP-4901X-L1,22-23-SUMMER-COMP-4901X-L1-SI,"GOHARSHADY, Amir",goharshady,21,0.667,,0.571,-,4.79,4.83,0.43,0.39,4.93,5,0.27,0
+22-23,SUMMER,Course,SENG,ENGG,CORE,1200,-,22-23-SUMMER-CORE-1200,-,-,-,-,-,0.368,Y,-,1,3.57,-,1.22,-,3.82,-,1.22,-
+22-23,SUMMER,Section,SENG,ENGG,CORE,1200,T1,22-23-SUMMER-CORE-1200,22-23-SUMMER-CORE-1200-T1,-,-,-,38,0.368,Y,-,-,3.57,-,1.22,-,3.82,-,1.22,-
+22-23,SUMMER,Instructor,SENG,ENGG,CORE,1200,T1,22-23-SUMMER-CORE-1200,22-23-SUMMER-CORE-1200-T1,22-23-SUMMER-CORE-1200-T1-SI,"CHAN, Yui Bun",ybchan,38,0.368,Y,0.316,-,3.57,3.67,1.22,0.98,4.0,4.08,1.11,1
+22-23,SUMMER,Instructor,SENG,ENGG,CORE,1200,T1,22-23-SUMMER-CORE-1200,22-23-SUMMER-CORE-1200-T1,22-23-SUMMER-CORE-1200-T1-SI,LAVIGNE Paul David,egpaul,38,0.368,Y,0.316,-,3.57,3.67,1.22,0.98,3.64,3.75,1.34,1.14
+22-23,SUMMER,Course,SENG,ENGG,ENGG,3960V,-,22-23-SUMMER-ENGG-3960V,-,-,-,-,-,0.529,,-,1,4.72,-,0.46,-,4.61,-,0.7,-
+22-23,SUMMER,Section,SENG,ENGG,ENGG,3960V,L1,22-23-SUMMER-ENGG-3960V,22-23-SUMMER-ENGG-3960V-L1,-,-,-,34,0.529,,-,-,4.72,-,0.46,-,4.61,-,0.7,-
+22-23,SUMMER,Instructor,SENG,ENGG,ENGG,3960V,L1,22-23-SUMMER-ENGG-3960V,22-23-SUMMER-ENGG-3960V-L1,22-23-SUMMER-ENGG-3960V-L1-SI,"WOO, Kam Tim",eetim,34,0.529,,0.471,-,4.72,4.75,0.46,0.45,4.61,4.69,0.7,0.6
+22-23,SUMMER,Course,SENG,ENGG,ENGG,3960W,-,22-23-SUMMER-ENGG-3960W,-,-,-,-,-,0.4,Y,-,1,4.5,-,0.53,-,4.3,-,0.67,-
+22-23,SUMMER,Section,SENG,ENGG,ENGG,3960W,L1,22-23-SUMMER-ENGG-3960W,22-23-SUMMER-ENGG-3960W-L1,-,-,-,25,0.4,Y,-,-,4.5,-,0.53,-,4.3,-,0.67,-
+22-23,SUMMER,Instructor,SENG,ENGG,ENGG,3960W,L1,22-23-SUMMER-ENGG-3960W,22-23-SUMMER-ENGG-3960W-L1,22-23-SUMMER-ENGG-3960W-L1-SI,"WOO, Kam Tim",eetim,25,0.4,Y,0.32,-,4.5,4.5,0.53,0.53,4.3,4.38,0.67,0.52
+22-23,SUMMER,Course,SENG,ENGG,ENGG,3960X,-,22-23-SUMMER-ENGG-3960X,-,-,-,-,-,0.846,,-,1,4.55,-,0.52,-,4.73,-,0.47,-
+22-23,SUMMER,Section,SENG,ENGG,ENGG,3960X,L1,22-23-SUMMER-ENGG-3960X,22-23-SUMMER-ENGG-3960X-L1,-,-,-,13,0.846,,-,-,4.55,-,0.52,-,4.73,-,0.47,-
+22-23,SUMMER,Instructor,SENG,ENGG,ENGG,3960X,L1,22-23-SUMMER-ENGG-3960X,22-23-SUMMER-ENGG-3960X-L1,22-23-SUMMER-ENGG-3960X-L1-SI,"WOO, Kam Tim",eetim,13,0.846,,0.692,-,4.55,4.56,0.52,0.53,4.73,4.78,0.47,0.44
+22-23,SUMMER,Course,SENG,ENGG,ENGG,3960Y,-,22-23-SUMMER-ENGG-3960Y,-,-,-,-,-,0.813,,0.75,1,4.58,4.67,0.76,0.56,4.54,4.58,0.71,0.65
+22-23,SUMMER,Section,SENG,ENGG,ENGG,3960Y,L1,22-23-SUMMER-ENGG-3960Y,22-23-SUMMER-ENGG-3960Y-L1,-,-,-,31,0.813,,0.75,-,4.58,4.67,0.76,0.56,4.54,4.58,0.71,0.65
+22-23,SUMMER,Instructor,SENG,ENGG,ENGG,3960Y,L1,22-23-SUMMER-ENGG-3960Y,22-23-SUMMER-ENGG-3960Y-L1,22-23-SUMMER-ENGG-3960Y-L1-SI,"LEUNG, Suk Wai Winnie",eewswleung,31,0.813,,0.75,-,4.58,4.67,0.76,0.56,4.54,4.58,0.71,0.65
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,,,,,,,,,,,,,,,
+2023-09-25 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

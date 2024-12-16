@@ -1,0 +1,44 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+17-18,SPRING,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.518,,-,10,82.3,-,20.8,-,83.4,-,20.5,-
+17-18,SPRING,Dept / Course Group,OTHERS,SAO,-,-,-,-,-,-,-,-,-,0.522,,-,2,94.8,-,10.4,-,95.8,-,9.5,-
+17-18,SPRING,Dept / Course Group,OTHERS,UCE,-,-,-,-,-,-,-,-,-,0.517,,-,8,78.9,-,21.6,-,80.1,-,21.4,-
+17-18,SPRING,Course,OTHERS,SAO,GNED,2510,-,17-18-SPRING-GNED-2510,-,-,-,-,-,0.522,,0.435,2,94.8,96.3,10.4,9.2,95.8,97.5,9.5,7.7
+17-18,SPRING,Section,OTHERS,SAO,GNED,2510,T1,17-18-SPRING-GNED-2510,17-18-SPRING-GNED-2510-T1,-,-,-,18,0.611,Y,0.5,-,95.5,97.2,10.1,8.3,95.5,97.2,10.1,8.3
+17-18,SPRING,Instructor,OTHERS,SAO,GNED,2510,T1,17-18-SPRING-GNED-2510,17-18-SPRING-GNED-2510-T1,17-18-SPRING-GNED-2510-T1-SI,"SIU, Grace",sagsiu,18,0.611,Y,0.5,-,95.5,97.2,10.1,8.3,95.5,97.2,10.1,8.3
+17-18,SPRING,Section,OTHERS,SAO,GNED,2510,T2,17-18-SPRING-GNED-2510,17-18-SPRING-GNED-2510-T2,-,-,-,28,0.464,Y,0.393,-,94.2,95.5,11.0,10.1,96.2,97.7,9.4,7.5
+17-18,SPRING,Instructor,OTHERS,SAO,GNED,2510,T2,17-18-SPRING-GNED-2510,17-18-SPRING-GNED-2510-T2,17-18-SPRING-GNED-2510-T2-SI,"SIU, Grace",sagsiu,28,0.464,Y,0.393,-,94.2,95.5,11.0,10.1,96.2,97.7,9.4,7.5
+17-18,SPRING,Course,OTHERS,UCE,HART,1001,-,17-18-SPRING-HART-1001,-,-,-,-,-,0.35,Y,-,1,57.1,-,22.8,-,60.7,-,16.2,-
+17-18,SPRING,Section,OTHERS,UCE,HART,1001,L1,17-18-SPRING-HART-1001,17-18-SPRING-HART-1001-L1,-,-,-,20,0.35,Y,-,-,57.1,-,22.8,-,60.7,-,16.2,-
+17-18,SPRING,Instructor,OTHERS,UCE,HART,1001,L1,17-18-SPRING-HART-1001,17-18-SPRING-HART-1001-L1,17-18-SPRING-HART-1001-L1-SI2,"LEE, Ying Lok Anthony",anthonylee,20,0.35,Y,0.25,-,53.6,55,22.5,20.9,60.7,65,19.7,13.7
+17-18,SPRING,Instructor,OTHERS,UCE,HART,1001,L1,17-18-SPRING-HART-1001,17-18-SPRING-HART-1001-L1,17-18-SPRING-HART-1001-L1-SI1,"LO, Alice",aliceynlo,20,0.35,Y,0.25,-,60.7,60,24.4,13.7,60.7,60,13.4,13.7
+17-18,SPRING,Course,OTHERS,UCE,HART,1012,-,17-18-SPRING-HART-1012,-,-,-,-,-,0.708,,0.625,1,85.3,86.7,15.5,12.9,82.4,83.3,17.1,15.4
+17-18,SPRING,Section,OTHERS,UCE,HART,1012,LA1,17-18-SPRING-HART-1012,17-18-SPRING-HART-1012-LA1,-,-,-,24,0.708,,0.625,-,85.3,86.7,15.5,12.9,82.4,83.3,17.1,15.4
+17-18,SPRING,Instructor,OTHERS,UCE,HART,1012,LA1,17-18-SPRING-HART-1012,17-18-SPRING-HART-1012-LA1,17-18-SPRING-HART-1012-LA1-SI,"SUEN, Shu Kwan",leonsuen,24,0.708,,0.625,-,85.3,86.7,15.5,12.9,82.4,83.3,17.1,15.4
+17-18,SPRING,Course,OTHERS,UCE,HART,1015,-,17-18-SPRING-HART-1015,-,-,-,-,-,0.4,Y,0.267,1,70.8,68.8,18.8,12.5,70.8,75,29.2,20.4
+17-18,SPRING,Section,OTHERS,UCE,HART,1015,LA1,17-18-SPRING-HART-1015,17-18-SPRING-HART-1015-LA1,-,-,-,15,0.4,Y,0.267,-,70.8,68.8,18.8,12.5,70.8,75,29.2,20.4
+17-18,SPRING,Instructor,OTHERS,UCE,HART,1015,LA1,17-18-SPRING-HART-1015,17-18-SPRING-HART-1015-LA1,17-18-SPRING-HART-1015-LA1-SI,"LEE, Ying Lok Anthony",anthonylee,15,0.4,Y,0.267,-,70.8,68.8,18.8,12.5,70.8,75,29.2,20.4
+17-18,SPRING,Course,OTHERS,UCE,HART,1022,-,17-18-SPRING-HART-1022,-,-,-,-,-,0.474,Y,0.368,1,86.1,85.7,13.2,13.4,88.9,89.3,13.2,13.4
+17-18,SPRING,Section,OTHERS,UCE,HART,1022,LA1,17-18-SPRING-HART-1022,17-18-SPRING-HART-1022-LA1,-,-,-,19,0.474,Y,0.368,-,86.1,85.7,13.2,13.4,88.9,89.3,13.2,13.4
+17-18,SPRING,Instructor,OTHERS,UCE,HART,1022,LA1,17-18-SPRING-HART-1022,17-18-SPRING-HART-1022-LA1,17-18-SPRING-HART-1022-LA1-SI,"WU,Hoi Fai",wuhoifai,19,0.474,Y,0.368,-,86.1,85.7,13.2,13.4,88.9,89.3,13.2,13.4
+17-18,SPRING,Course,OTHERS,UCE,HART,1026,-,17-18-SPRING-HART-1026,-,-,-,-,-,0.444,Y,0.333,1,96.9,100,8.8,0,96.9,100,8.8,0
+17-18,SPRING,Section,OTHERS,UCE,HART,1026,LA1,17-18-SPRING-HART-1026,17-18-SPRING-HART-1026-LA1,-,-,-,18,0.444,Y,0.333,-,96.9,100,8.8,0,96.9,100,8.8,0
+17-18,SPRING,Instructor,OTHERS,UCE,HART,1026,LA1,17-18-SPRING-HART-1026,17-18-SPRING-HART-1026-LA1,17-18-SPRING-HART-1026-LA1-SI,"LAM,Yin",krissylam,18,0.444,Y,0.333,-,96.9,100,8.8,0,96.9,100,8.8,0
+17-18,SPRING,Course,OTHERS,UCE,HART,1035,-,17-18-SPRING-HART-1035,-,-,-,-,-,0.667,Y,0.533,1,70.0,75,30.7,18.9,82.5,84.4,23.7,22.9
+17-18,SPRING,Section,OTHERS,UCE,HART,1035,LA1,17-18-SPRING-HART-1035,17-18-SPRING-HART-1035-LA1,-,-,-,15,0.667,Y,0.533,-,70.0,75,30.7,18.9,82.5,84.4,23.7,22.9
+17-18,SPRING,Instructor,OTHERS,UCE,HART,1035,LA1,17-18-SPRING-HART-1035,17-18-SPRING-HART-1035-LA1,17-18-SPRING-HART-1035-LA1-SI,"ERDMANN, Cornelia",cornelia,15,0.667,Y,0.533,-,70.0,75,30.7,18.9,82.5,84.4,23.7,22.9
+17-18,SPRING,Course,OTHERS,UCE,HART,1036,-,17-18-SPRING-HART-1036,-,-,-,-,-,0.52,Y,0.44,1,76.9,77.3,16.0,13.5,71.2,72.7,24.7,20.8
+17-18,SPRING,Section,OTHERS,UCE,HART,1036,LA1,17-18-SPRING-HART-1036,17-18-SPRING-HART-1036-LA1,-,-,-,25,0.52,Y,0.44,-,76.9,77.3,16.0,13.5,71.2,72.7,24.7,20.8
+17-18,SPRING,Instructor,OTHERS,UCE,HART,1036,LA1,17-18-SPRING-HART-1036,17-18-SPRING-HART-1036-LA1,17-18-SPRING-HART-1036-LA1-SI,"LO, Alice",aliceynlo,25,0.52,Y,0.44,-,76.9,77.3,16.0,13.5,71.2,72.7,24.7,20.8
+17-18,SPRING,Course,OTHERS,UCE,HART,1042,-,17-18-SPRING-HART-1042,-,-,-,-,-,0.75,,0.625,1,91.7,92.5,12.3,12.1,93.8,95,11.3,10.5
+17-18,SPRING,Section,OTHERS,UCE,HART,1042,LA1,17-18-SPRING-HART-1042,17-18-SPRING-HART-1042-LA1,-,-,-,16,0.75,,0.625,-,91.7,92.5,12.3,12.1,93.8,95,11.3,10.5
+17-18,SPRING,Instructor,OTHERS,UCE,HART,1042,LA1,17-18-SPRING-HART-1042,17-18-SPRING-HART-1042-LA1,17-18-SPRING-HART-1042-LA1-SI,"CHAN, Yung",chanyung,16,0.75,,0.625,-,91.7,92.5,12.3,12.1,93.8,95,11.3,10.5
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-20 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

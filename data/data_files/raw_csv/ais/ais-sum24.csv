@@ -1,0 +1,37 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+23-24,SUMMER,School,AIS,-,-,-,-,-,-,-,-,-,-,0.567,,-,7,4.8,-,0.43,-,4.88,-,0.33,-
+23-24,SUMMER,Dept / Course Group,AIS,ISDN,-,-,-,-,-,-,-,-,-,0.0,Y,-,1,-,-,-,-,-,-,-,-
+23-24,SUMMER,Dept / Course Group,AIS,PPOL,-,-,-,-,-,-,-,-,-,0.608,,-,4,4.88,-,0.33,-,4.92,-,0.28,-
+23-24,SUMMER,Dept / Course Group,AIS,TEMG,-,-,-,-,-,-,-,-,-,0.63,,-,2,4.53,-,0.62,-,4.76,-,0.44,-
+23-24,SUMMER,Course,AIS,ISDN,ISDN,3002,-,23-24-SUMMER-ISDN-3002,-,-,-,-,-,0.0,Y,-,1,-,-,-,-,-,-,-,-
+23-24,SUMMER,Section,AIS,ISDN,ISDN,3002,L1,23-24-SUMMER-ISDN-3002,23-24-SUMMER-ISDN-3002-L1,-,-,-,10,0.0,Y,-,-,-,-,-,-,-,-,-,-
+23-24,SUMMER,Instructor,AIS,ISDN,ISDN,3002,L1,23-24-SUMMER-ISDN-3002,23-24-SUMMER-ISDN-3002-L1,23-24-SUMMER-ISDN-3002-L1-SI,"LEUNG, Suk Wai Winnie",eewswleung,10,0.0,Y,-,-,-,-,-,-,-,-,-,-
+23-24,SUMMER,Course,AIS,PPOL,PPOL,5440,-,23-24-SUMMER-PPOL-5440,-,-,-,-,-,1.0,,0.913,1,4.87,4.9,0.34,0.3,4.91,4.95,0.29,0.22
+23-24,SUMMER,Section,AIS,PPOL,PPOL,5440,L1,23-24-SUMMER-PPOL-5440,23-24-SUMMER-PPOL-5440-L1,-,-,-,23,1.0,,0.913,-,4.87,4.9,0.34,0.3,4.91,4.95,0.29,0.22
+23-24,SUMMER,Instructor,AIS,PPOL,PPOL,5440,L1,23-24-SUMMER-PPOL-5440,23-24-SUMMER-PPOL-5440-L1,23-24-SUMMER-PPOL-5440-L1-SI,"BERNAL GARRIDO, Marie Noel Loullie",mbernal,23,1.0,,0.913,-,4.87,4.9,0.34,0.3,4.91,4.95,0.29,0.22
+23-24,SUMMER,Course,AIS,PPOL,PPOL,6100S,-,23-24-SUMMER-PPOL-6100S,-,-,-,-,-,1.0,,0.833,1,4.92,5,0.29,0,4.92,5,0.29,0
+23-24,SUMMER,Section,AIS,PPOL,PPOL,6100S,L1,23-24-SUMMER-PPOL-6100S,23-24-SUMMER-PPOL-6100S-L1,-,-,-,12,1.0,,0.833,-,4.92,5,0.29,0,4.92,5,0.29,0
+23-24,SUMMER,Instructor,AIS,PPOL,PPOL,6100S,L1,23-24-SUMMER-PPOL-6100S,23-24-SUMMER-PPOL-6100S-L1,23-24-SUMMER-PPOL-6100S-L1-SI,"TYRALA, Michael",mtyrala,12,1.0,,0.833,-,4.92,5,0.29,0,4.92,5,0.29,0
+23-24,SUMMER,Course,AIS,PPOL,PPOL,6100T,-,23-24-SUMMER-PPOL-6100T,-,-,-,-,-,0.533,Y,0.4,1,5,5,0,0,5,5,0,0
+23-24,SUMMER,Section,AIS,PPOL,PPOL,6100T,L1,23-24-SUMMER-PPOL-6100T,23-24-SUMMER-PPOL-6100T-L1,-,-,-,15,0.533,Y,0.4,-,5,5,0,0,5,5,0,0
+23-24,SUMMER,Instructor,AIS,PPOL,PPOL,6100T,L1,23-24-SUMMER-PPOL-6100T,23-24-SUMMER-PPOL-6100T-L1,23-24-SUMMER-PPOL-6100T-L1-SI,"ZHU, Pengyu",pengyuzhu,15,0.533,Y,0.4,-,5,5,0,0,5,5,0,0
+23-24,SUMMER,Course,AIS,PPOL,PPOL,6120,-,23-24-SUMMER-PPOL-6120,-,-,-,-,-,0.34,Y,0.298,1,4.81,4.86,0.4,0.36,4.88,4.93,0.34,0.27
+23-24,SUMMER,Section,AIS,PPOL,PPOL,6120,L1,23-24-SUMMER-PPOL-6120,23-24-SUMMER-PPOL-6120-L1,-,-,-,47,0.34,Y,0.298,-,4.81,4.86,0.4,0.36,4.88,4.93,0.34,0.27
+23-24,SUMMER,Instructor,AIS,PPOL,PPOL,6120,L1,23-24-SUMMER-PPOL-6120,23-24-SUMMER-PPOL-6120-L1,23-24-SUMMER-PPOL-6120-L1-SI,"LOW, Donald",donaldlow,47,0.34,Y,0.298,-,4.81,4.86,0.4,0.36,4.88,4.93,0.34,0.27
+23-24,SUMMER,Course,AIS,TEMG,TEMG,4940D,-,23-24-SUMMER-TEMG-4940D,-,-,-,-,-,0.625,Y,0.375,1,4,4,0.71,0,4.2,4,0.45,0
+23-24,SUMMER,Section,AIS,TEMG,TEMG,4940D,L1,23-24-SUMMER-TEMG-4940D,23-24-SUMMER-TEMG-4940D-L1,-,-,-,8,0.625,Y,0.375,-,4,4,0.71,0,4.2,4,0.45,0
+23-24,SUMMER,Instructor,AIS,TEMG,TEMG,4940D,L1,23-24-SUMMER-TEMG-4940D,23-24-SUMMER-TEMG-4940D-L1,23-24-SUMMER-TEMG-4940D-L1-SI,"CHUN, Daniel",djychun,8,0.625,Y,0.375,-,4,4,0.71,0,4.2,4,0.45,0
+23-24,SUMMER,Course,AIS,TEMG,TEMG,4970C,-,23-24-SUMMER-TEMG-4970C,-,-,-,-,-,0.632,Y,0.526,1,4.75,4.8,0.45,0.42,5,5,0,0
+23-24,SUMMER,Section,AIS,TEMG,TEMG,4970C,L1,23-24-SUMMER-TEMG-4970C,23-24-SUMMER-TEMG-4970C-L1,-,-,-,19,0.632,Y,0.526,-,4.75,4.8,0.45,0.42,5,5,0,0
+23-24,SUMMER,Instructor,AIS,TEMG,TEMG,4970C,L1,23-24-SUMMER-TEMG-4970C,23-24-SUMMER-TEMG-4970C-L1,23-24-SUMMER-TEMG-4970C-L1-SI,"LIN, Betty Fwei-chien",bettylin,19,0.632,Y,0.526,-,4.75,4.8,0.45,0.42,5,5,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,,,,,,,,,,,,,,,
+2 September 2024,,,,,,,,,,,,,,,,,,,,,,,,,

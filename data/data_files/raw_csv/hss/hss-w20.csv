@@ -1,0 +1,19 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+19-20,WINTER,School,SHSS,-,-,-,-,-,-,-,-,-,-,0.565,,-,2,95.2,-,10.0,-,96.2,-,9.2,-
+19-20,WINTER,Dept / Course Group,SHSS,MGCS,-,-,-,-,-,-,-,-,-,0.565,,-,2,95.2,-,10.0,-,96.2,-,9.2,-
+19-20,WINTER,Course,SHSS,MGCS,MGCS,5020,-,19-20-WINTER-MGCS-5020,-,-,-,-,-,0.526,Y,0.421,1,95.0,96.9,10.5,8.8,95.0,96.9,10.5,8.8
+19-20,WINTER,Section,SHSS,MGCS,MGCS,5020,L1,19-20-WINTER-MGCS-5020,19-20-WINTER-MGCS-5020-L1,-,-,-,19,0.526,Y,0.421,-,95.0,96.9,10.5,8.8,95.0,96.9,10.5,8.8
+19-20,WINTER,Instructor,SHSS,MGCS,MGCS,5020,L1,19-20-WINTER-MGCS-5020,19-20-WINTER-MGCS-5020-L1,19-20-WINTER-MGCS-5020-L1-SI,"WU, Xiaogang",sowu,19,0.526,Y,0.421,-,95.0,96.9,10.5,8.8,95.0,96.9,10.5,8.8
+19-20,WINTER,Course,SHSS,MGCS,MGCS,6000E,-,19-20-WINTER-MGCS-6000E,-,-,-,-,-,0.593,,0.519,1,95.3,96.4,10.1,9.1,96.9,98.2,8.5,6.7
+19-20,WINTER,Section,SHSS,MGCS,MGCS,6000E,L1,19-20-WINTER-MGCS-6000E,19-20-WINTER-MGCS-6000E-L1,-,-,-,27,0.593,,0.519,-,95.3,96.4,10.1,9.1,96.9,98.2,8.5,6.7
+19-20,WINTER,Instructor,SHSS,MGCS,MGCS,6000E,L1,19-20-WINTER-MGCS-6000E,19-20-WINTER-MGCS-6000E-L1,19-20-WINTER-MGCS-6000E-L1-SI,"DROSCHA, Isaac",droscha,27,0.593,,0.519,-,95.3,96.4,10.1,9.1,96.9,98.2,8.5,6.7
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-02-20 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,19 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+18-19,SUMMER,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.789,,-,2,83.3,-,20.4,-,83.3,-,20.4,-
+18-19,SUMMER,Dept / Course Group,OTHERS,UCE,-,-,-,-,-,-,-,-,-,0.789,,-,2,83.3,-,20.4,-,83.3,-,20.4,-
+18-19,SUMMER,Course,OTHERS,UCE,HART,1013,-,18-19-SUMMER-HART-1013,-,-,-,-,-,0.7,Y,0.5,1,89.3,90,13.4,13.7,89.3,90,13.4,13.7
+18-19,SUMMER,Section,OTHERS,UCE,HART,1013,LA1,18-19-SUMMER-HART-1013,18-19-SUMMER-HART-1013-LA1,-,-,-,10,0.7,Y,0.5,-,89.3,90,13.4,13.7,89.3,90,13.4,13.7
+18-19,SUMMER,Instructor,OTHERS,UCE,HART,1013,LA1,18-19-SUMMER-HART-1013,18-19-SUMMER-HART-1013-LA1,18-19-SUMMER-HART-1013-LA1-SI,"PAU,Mo Ching",paumoching,10,0.7,Y,0.5,-,89.3,90,13.4,13.7,89.3,90,13.4,13.7
+18-19,SUMMER,Course,OTHERS,UCE,HART,1040,-,18-19-SUMMER-HART-1040,-,-,-,-,-,0.889,Y,0.667,1,78.1,83.3,24.8,12.9,78.1,83.3,24.8,12.9
+18-19,SUMMER,Section,OTHERS,UCE,HART,1040,LA1,18-19-SUMMER-HART-1040,18-19-SUMMER-HART-1040-LA1,-,-,-,9,0.889,Y,0.667,-,78.1,83.3,24.8,12.9,78.1,83.3,24.8,12.9
+18-19,SUMMER,Instructor,OTHERS,UCE,HART,1040,LA1,18-19-SUMMER-HART-1040,18-19-SUMMER-HART-1040-LA1,18-19-SUMMER-HART-1040-LA1-SI,"CHAN, Chung Fai Silvio",silviochan,9,0.889,Y,0.667,-,78.1,83.3,24.8,12.9,78.1,83.3,24.8,12.9
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-09-02 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

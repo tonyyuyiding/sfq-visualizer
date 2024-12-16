@@ -1,0 +1,46 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+18-19,SPRING,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.547,,-,11,81.3,-,23.2,-,83.5,-,22.8,-
+18-19,SPRING,Dept / Course Group,OTHERS,DSTO,-,-,-,-,-,-,-,-,-,0.542,,-,2,93.3,-,13.3,-,95.2,-,10.0,-
+18-19,SPRING,Dept / Course Group,OTHERS,UCE,-,-,-,-,-,-,-,-,-,0.548,,-,9,78.1,-,24.3,-,80.4,-,24.3,-
+18-19,SPRING,Course,OTHERS,DSTO,GNED,2510,-,18-19-SPRING-GNED-2510,-,-,-,-,-,0.542,,0.458,2,93.3,95.5,13.3,9.9,95.2,96.6,10.0,8.8
+18-19,SPRING,Section,OTHERS,DSTO,GNED,2510,T1,18-19-SPRING-GNED-2510,18-19-SPRING-GNED-2510-T1,-,-,-,22,0.727,,0.636,-,95.3,96.4,10.1,9.1,95.3,96.4,10.1,9.1
+18-19,SPRING,Instructor,OTHERS,DSTO,GNED,2510,T1,18-19-SPRING-GNED-2510,18-19-SPRING-GNED-2510-T1,18-19-SPRING-GNED-2510-T1-SI,"SIU, Grace",sagsiu,22,0.727,,0.636,-,95.3,96.4,10.1,9.1,95.3,96.4,10.1,9.1
+18-19,SPRING,Section,OTHERS,DSTO,GNED,2510,T2,18-19-SPRING-GNED-2510,18-19-SPRING-GNED-2510-T2,-,-,-,26,0.385,Y,0.308,-,90.0,93.8,17.5,11.6,95.0,96.9,10.5,8.8
+18-19,SPRING,Instructor,OTHERS,DSTO,GNED,2510,T2,18-19-SPRING-GNED-2510,18-19-SPRING-GNED-2510-T2,18-19-SPRING-GNED-2510-T2-SI,"SIU, Grace",sagsiu,26,0.385,Y,0.308,-,90.0,93.8,17.5,11.6,95.0,96.9,10.5,8.8
+18-19,SPRING,Course,OTHERS,UCE,HART,1012,-,18-19-SPRING-HART-1012,-,-,-,-,-,0.5,,0.417,2,69.8,72.5,25.5,18,69.8,73.8,28.5,19
+18-19,SPRING,Section,OTHERS,UCE,HART,1012,LA1,18-19-SPRING-HART-1012,18-19-SPRING-HART-1012-LA1,-,-,-,24,0.458,Y,0.375,-,68.2,69.4,27.6,24.3,70.5,75,33.2,25
+18-19,SPRING,Instructor,OTHERS,UCE,HART,1012,LA1,18-19-SPRING-HART-1012,18-19-SPRING-HART-1012-LA1,18-19-SPRING-HART-1012-LA1-SI,"SUEN, Shu Kwan",leonsuen,24,0.458,Y,0.375,-,68.2,69.4,27.6,24.3,70.5,75,33.2,25
+18-19,SPRING,Section,OTHERS,UCE,HART,1012,LA2,18-19-SPRING-HART-1012,18-19-SPRING-HART-1012-LA2,-,-,-,24,0.542,Y,0.458,-,71.2,75,24.7,11.2,69.2,72.7,25.3,13.5
+18-19,SPRING,Instructor,OTHERS,UCE,HART,1012,LA2,18-19-SPRING-HART-1012,18-19-SPRING-HART-1012-LA2,18-19-SPRING-HART-1012-LA2-SI,"SUEN, Shu Kwan",leonsuen,24,0.542,Y,0.458,-,71.2,75,24.7,11.2,69.2,72.7,25.3,13.5
+18-19,SPRING,Course,OTHERS,UCE,HART,1018,-,18-19-SPRING-HART-1018,-,-,-,-,-,0.636,Y,0.455,1,92.9,95,12.2,11.2,96.4,100,9.4,0
+18-19,SPRING,Section,OTHERS,UCE,HART,1018,LA1,18-19-SPRING-HART-1018,18-19-SPRING-HART-1018-LA1,-,-,-,11,0.636,Y,0.455,-,92.9,95,12.2,11.2,96.4,100,9.4,0
+18-19,SPRING,Instructor,OTHERS,UCE,HART,1018,LA1,18-19-SPRING-HART-1018,18-19-SPRING-HART-1018-LA1,18-19-SPRING-HART-1018-LA1-SI,"CHUNG, Kun Yee",enidchung,11,0.636,Y,0.455,-,92.9,95,12.2,11.2,96.4,100,9.4,0
+18-19,SPRING,Course,OTHERS,UCE,HART,1021,-,18-19-SPRING-HART-1021,-,-,-,-,-,0.5,Y,0.375,1,93.8,95.8,11.6,10.2,90.6,91.7,12.9,12.9
+18-19,SPRING,Section,OTHERS,UCE,HART,1021,LA1,18-19-SPRING-HART-1021,18-19-SPRING-HART-1021-LA1,-,-,-,16,0.5,Y,0.375,-,93.8,95.8,11.6,10.2,90.6,91.7,12.9,12.9
+18-19,SPRING,Instructor,OTHERS,UCE,HART,1021,LA1,18-19-SPRING-HART-1021,18-19-SPRING-HART-1021-LA1,18-19-SPRING-HART-1021-LA1-SI,"CHARMES, Philippe Jean Michel",pcharmes,16,0.5,Y,0.375,-,93.8,95.8,11.6,10.2,90.6,91.7,12.9,12.9
+18-19,SPRING,Course,OTHERS,UCE,HART,1022,-,18-19-SPRING-HART-1022,-,-,-,-,-,0.571,Y,0.429,1,90.6,91.7,12.9,12.9,90.6,91.7,12.9,12.9
+18-19,SPRING,Section,OTHERS,UCE,HART,1022,LA1,18-19-SPRING-HART-1022,18-19-SPRING-HART-1022-LA1,-,-,-,14,0.571,Y,0.429,-,90.6,91.7,12.9,12.9,90.6,91.7,12.9,12.9
+18-19,SPRING,Instructor,OTHERS,UCE,HART,1022,LA1,18-19-SPRING-HART-1022,18-19-SPRING-HART-1022-LA1,18-19-SPRING-HART-1022-LA1-SI,"TANG, Cheong Wai Acty",actytang,14,0.571,Y,0.429,-,90.6,91.7,12.9,12.9,90.6,91.7,12.9,12.9
+18-19,SPRING,Course,OTHERS,UCE,HART,1023,-,18-19-SPRING-HART-1023,-,-,-,-,-,0.458,Y,0.375,1,88.6,88.9,13.1,13.2,90.9,91.7,12.6,12.5
+18-19,SPRING,Section,OTHERS,UCE,HART,1023,LA1,18-19-SPRING-HART-1023,18-19-SPRING-HART-1023-LA1,-,-,-,24,0.458,Y,0.375,-,88.6,88.9,13.1,13.2,90.9,91.7,12.6,12.5
+18-19,SPRING,Instructor,OTHERS,UCE,HART,1023,LA1,18-19-SPRING-HART-1023,18-19-SPRING-HART-1023-LA1,18-19-SPRING-HART-1023-LA1-SI,"YIU, Kin Kwok Ken",yiukinkwok,24,0.458,Y,0.375,-,88.6,88.9,13.1,13.2,90.9,91.7,12.6,12.5
+18-19,SPRING,Course,OTHERS,UCE,HART,1033,-,18-19-SPRING-HART-1033,-,-,-,-,-,0.676,Y,-,1,71.7,-,27.5,-,76.1,-,24.4,-
+18-19,SPRING,Section,OTHERS,UCE,HART,1033,LA1,18-19-SPRING-HART-1033,18-19-SPRING-HART-1033-LA1,-,-,-,17,0.676,Y,-,-,71.7,-,27.5,-,76.1,-,24.4,-
+18-19,SPRING,Instructor,OTHERS,UCE,HART,1033,LA1,18-19-SPRING-HART-1033,18-19-SPRING-HART-1033-LA1,18-19-SPRING-HART-1033-LA1-SI1,"TANG, Cheong Wai Acty",actytang,17,0.706,Y,0.588,-,70.8,75,29.8,20.4,72.9,77.5,29.1,18.4
+18-19,SPRING,Instructor,OTHERS,UCE,HART,1033,LA1,18-19-SPRING-HART-1033,18-19-SPRING-HART-1033-LA1,18-19-SPRING-HART-1033-LA1-SI2,"YIU, Kin Kwok Ken",yiukinkwok,17,0.647,Y,0.529,-,72.7,75,26.1,21.7,79.5,80.6,18.8,16.7
+18-19,SPRING,Course,OTHERS,UCE,HART,1036,-,18-19-SPRING-HART-1036,-,-,-,-,-,0.412,Y,0.294,1,53.6,55,30.4,11.2,57.1,55,31.3,27.4
+18-19,SPRING,Section,OTHERS,UCE,HART,1036,LA1,18-19-SPRING-HART-1036,18-19-SPRING-HART-1036-LA1,-,-,-,17,0.412,Y,0.294,-,53.6,55,30.4,11.2,57.1,55,31.3,27.4
+18-19,SPRING,Instructor,OTHERS,UCE,HART,1036,LA1,18-19-SPRING-HART-1036,18-19-SPRING-HART-1036-LA1,18-19-SPRING-HART-1036-LA1-SI,"LO, Alice",aliceynlo,17,0.412,Y,0.294,-,53.6,55,30.4,11.2,57.1,55,31.3,27.4
+18-19,SPRING,Course,OTHERS,UCE,HART,1039,-,18-19-SPRING-HART-1039,-,-,-,-,-,0.692,Y,0.538,1,86.1,85.7,13.2,13.4,94.4,96.4,11.0,9.4
+18-19,SPRING,Section,OTHERS,UCE,HART,1039,LA1,18-19-SPRING-HART-1039,18-19-SPRING-HART-1039-LA1,-,-,-,13,0.692,Y,0.538,-,86.1,85.7,13.2,13.4,94.4,96.4,11.0,9.4
+18-19,SPRING,Instructor,OTHERS,UCE,HART,1039,LA1,18-19-SPRING-HART-1039,18-19-SPRING-HART-1039-LA1,18-19-SPRING-HART-1039-LA1-SI,"LAI, Ching Ping Priscilla",priscillalai,13,0.692,Y,0.538,-,86.1,85.7,13.2,13.4,94.4,96.4,11.0,9.4
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-06-14 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

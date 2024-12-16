@@ -1,0 +1,73 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - Mean,Course Overall - SD,Instructor Overall - Mean,Instructor Overall - SD
+22-23,SPRING,University,-,-,-,1454.0,0.48,4.1,0.98,4.26,0.9
+22-23,SPRING,School,SBM,-,-,430.0,0.468,4.26,0.91,4.39,0.85
+22-23,SPRING,Dept,SBM,ACCT,Accounting,56.0,0.469,4.32,0.84,4.42,0.81
+22-23,SPRING,Dept,SBM,BIBU-SBM,Biotechnology and Business,1.0,0.216,3.75,1.49,4.38,0.74
+22-23,SPRING,Dept,SBM,ECON,Economics,56.0,0.473,4.23,0.96,4.36,0.9
+22-23,SPRING,Dept,SBM,ENTR-SBM,Entrepreneurship,2.0,0.388,4.42,0.84,4.26,0.99
+22-23,SPRING,Dept,SBM,FINA,Finance,66.0,0.48,4.44,0.8,4.56,0.71
+22-23,SPRING,Dept,SBM,GBUS,Global Business,5.0,0.479,4.01,1.24,4.26,1.1
+22-23,SPRING,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",119.0,0.438,4.16,0.96,4.3,0.91
+22-23,SPRING,Dept,SBM,MIMT,MSc Program in International Management,8.0,0.815,4.02,1.07,4.23,1.06
+22-23,SPRING,Dept,SBM,MGMT,Management,75.0,0.501,4.25,0.91,4.42,0.81
+22-23,SPRING,Dept,SBM,MARK,Marketing,33.0,0.451,4.24,0.87,4.38,0.8
+22-23,SPRING,Dept,SBM,RMBI,Risk Management and Business Intelligence,4.0,0.374,4.0,1.08,4.19,1.04
+22-23,SPRING,Dept,SBM,WBBA,SF Program in World Business,1.0,0.78,3.94,0.98,4.09,0.97
+22-23,SPRING,Dept,SBM,SBMT,School of Business and Management,7.0,0.545,4.4,0.74,4.47,0.71
+22-23,SPRING,School,SENG,-,-,231.0,0.426,4.1,0.96,4.22,0.91
+22-23,SPRING,Dept,SENG,CENG,Chemical and Biological Engineering,21.0,0.542,3.97,1.03,4.18,0.99
+22-23,SPRING,Dept,SENG,CIVL,Civil and Environmental Engineering,30.0,0.388,3.94,0.9,3.98,0.91
+22-23,SPRING,Dept,SENG,COMP,Computer Science and Engineering,64.0,0.408,4.17,0.94,4.38,0.84
+22-23,SPRING,Dept,SENG,ELEC,Electronic and Computer Engineering,43.0,0.442,4.19,0.87,4.29,0.85
+22-23,SPRING,Dept,SENG,ENEG,Energy Technology,1.0,0.143,5.0,0.0,5.0,0.0
+22-23,SPRING,Dept,SENG,ENTR-SENG,Entrepreneurship,2.0,0.388,4.42,0.84,4.26,0.99
+22-23,SPRING,Dept,SENG,IEDA,Industrial Engineering and Decision Analytics,17.0,0.395,3.9,1.01,4.08,0.95
+22-23,SPRING,Dept,SENG,ISDN,Integrative Systems and Design,15.0,0.476,4.41,0.85,4.54,0.65
+22-23,SPRING,Dept,SENG,MECH,Mechanical Engineering,28.0,0.51,3.86,1.08,4.02,1.01
+22-23,SPRING,Dept,SENG,PDEV-SENG,Professional Development for SENG,1.0,0.296,4.59,0.89,4.61,0.89
+22-23,SPRING,Dept,SENG,ENGG,School of Engineering,9.0,0.475,4.35,0.83,4.37,0.84
+22-23,SPRING,School,SHSS,-,-,146.0,0.516,4.26,0.92,4.33,0.89
+22-23,SPRING,Dept,SHSS,HUMA,Humanities,74.0,0.485,4.11,0.96,4.2,0.95
+22-23,SPRING,Dept,SHSS,HMMA,MA Program in Chinese Culture,3.0,0.881,4.73,0.52,4.78,0.6
+22-23,SPRING,Dept,SHSS,MGCS,MSc Program in Global China Studies,19.0,0.732,4.58,0.72,4.63,0.69
+22-23,SPRING,Dept,SHSS,MILE,MSc Program in International Language Education,10.0,0.894,4.27,0.97,4.24,0.95
+22-23,SPRING,Dept,SHSS,MASS,Master of Arts in Social Science,5.0,0.591,4.66,0.73,4.68,0.73
+22-23,SPRING,Dept,SHSS,HSS,School of Humanities & Social Science,1.0,0.7,4.57,0.53,4.57,0.65
+22-23,SPRING,Dept,SHSS,SOSC,Social Science,34.0,0.399,4.16,0.91,4.26,0.86
+22-23,SPRING,School,SSCI,-,-,228.0,0.463,3.94,1.0,4.07,0.92
+22-23,SPRING,Dept,SSCI,CHMS,Analytical Chemistry,6.0,0.582,4.11,1.03,4.21,1.01
+22-23,SPRING,Dept,SSCI,BIBU-SSCI,Biotechnology and Business,1.0,0.216,3.75,1.49,4.38,0.74
+22-23,SPRING,Dept,SSCI,CHEM,Chemistry,44.0,0.485,3.86,0.95,3.91,0.92
+22-23,SPRING,Dept,SSCI,DASC,Data Analytics in Science,3.0,0.481,3.35,1.2,3.57,1.15
+22-23,SPRING,Dept,SSCI,ENTR-SSCI,Entrepreneurship,2.0,0.388,4.42,0.84,4.26,0.99
+22-23,SPRING,Dept,SSCI,LIFS,Life Science,28.0,0.442,4.01,0.84,4.18,0.86
+22-23,SPRING,Dept,SSCI,MAED,MSc Program in Mathematics for Educators,6.0,0.623,4.59,0.7,4.61,0.69
+22-23,SPRING,Dept,SSCI,MSDM,MSc in Data-Driven Modeling Program,6.0,0.555,4.15,0.95,4.34,0.79
+22-23,SPRING,Dept,SSCI,MATH,Mathematics,58.0,0.421,3.78,1.11,3.99,1.01
+22-23,SPRING,Dept,SSCI,NANO,NANO Science and Technology,2.0,0.682,4.53,0.92,4.48,0.87
+22-23,SPRING,Dept,SSCI,OCES,Ocean Science,22.0,0.519,4.02,0.86,4.01,0.83
+22-23,SPRING,Dept,SSCI,PHYS,Physics,35.0,0.475,3.87,1.0,4.05,0.94
+22-23,SPRING,Dept,SSCI,SCIE,School of Science,5.0,0.447,4.1,0.91,4.11,0.98
+22-23,SPRING,Dept,SSCI,CSIC,Scientific Computation,1.0,0.688,4.73,0.47,4.82,0.4
+22-23,SPRING,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),9.0,0.368,4.59,0.68,4.6,0.68
+22-23,SPRING,School,LANG/LABU/LAGR,-,-,357.0,0.584,3.81,1.07,4.26,0.89
+22-23,SPRING,Dept,LANG/LABU/LAGR,LANG,Language,306.0,0.593,3.79,1.08,4.24,0.89
+22-23,SPRING,Dept,LANG/LABU/LAGR,LABU,Language for Business,51.0,0.529,3.94,1.02,4.36,0.87
+22-23,SPRING,School,IPO,-,-,63.0,0.56,4.21,0.95,4.33,0.84
+22-23,SPRING,Dept,IPO,EMIA,Division of Emerging Interdisciplinary Areas,6.0,0.607,3.09,1.58,3.37,1.53
+22-23,SPRING,Dept,IPO,ENVR,Environment and Sustainability,28.0,0.559,4.17,0.87,4.31,0.8
+22-23,SPRING,Dept,IPO,EVSM,Environmental Science and Management,4.0,0.533,4.13,1.0,4.31,0.84
+22-23,SPRING,Dept,IPO,CORE_IPO,IPO CORE courses,4.0,0.551,3.92,0.7,4.07,0.72
+22-23,SPRING,Dept,IPO,IDPO,Interdisciplinary Programs Office,1.0,0.471,4.63,0.52,4.63,0.74
+22-23,SPRING,Dept,IPO,PPOL,Public Policy,18.0,0.55,4.46,0.78,4.58,0.66
+22-23,SPRING,Dept,IPO,TEMG,Technology and Management,2.0,0.759,4.44,0.71,4.69,0.69
+22-23,SPRING,School,OTHERS,-,-,4.0,0.61,4.61,0.68,4.75,0.53
+22-23,SPRING,Dept,OTHERS,CEI,Center for Education Innovation,2.0,0.775,4.56,0.66,4.78,0.46
+22-23,SPRING,Dept,OTHERS,DSTO,Dean of Students' Office,2.0,0.385,4.75,0.72,4.7,0.61
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Note 1: The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,
+Note 2: A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school. The same situation may also occur in the totals for schools and university.,,,,,,,,,,,
+,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,
+2023-06-19 00:00:00,,,,,,,,,,,

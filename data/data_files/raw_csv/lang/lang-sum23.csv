@@ -1,0 +1,33 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+22-23,SUMMER,School,LANG/LABU/LAGR,-,-,-,-,-,-,-,-,-,-,0.494,,-,6,3.7,-,1.08,-,4.21,-,0.77,-
+22-23,SUMMER,Dept / Course Group,LANG/LABU/LAGR,LANG,-,-,-,-,-,-,-,-,-,0.471,,-,4,3.47,-,1.14,-,4.16,-,0.72,-
+22-23,SUMMER,Dept / Course Group,LANG/LABU/LAGR,LABU,-,-,-,-,-,-,-,-,-,0.579,Y,-,2,4.36,-,0.5,-,4.36,-,0.92,-
+22-23,SUMMER,Course,LANG/LABU/LAGR,LANG,CORE,1416P,-,22-23-SUMMER-CORE-1416P,-,-,-,-,-,0.067,Y,-,1,4.0,-,0.0,-,4.0,-,0.0,-
+22-23,SUMMER,Section,LANG/LABU/LAGR,LANG,CORE,1416P,T01,22-23-SUMMER-CORE-1416P,22-23-SUMMER-CORE-1416P-T01,-,-,-,15,0.067,Y,-,-,4.0,-,0.0,-,4.0,-,0.0,-
+22-23,SUMMER,Instructor,LANG/LABU/LAGR,LANG,CORE,1416P,T01,22-23-SUMMER-CORE-1416P,22-23-SUMMER-CORE-1416P-T01,22-23-SUMMER-CORE-1416P-T01-SI,"XU,Xiufen",lcxfxu,15,0.067,Y,-,-,4.0,-,0.0,-,4.0,-,0.0,-
+22-23,SUMMER,Course,LANG/LABU/LAGR,LANG,CORE,1423,-,22-23-SUMMER-CORE-1423,-,-,-,-,-,0.632,Y,0.526,1,3.75,3.8,0.97,0.79,4.33,4.4,0.65,0.52
+22-23,SUMMER,Section,LANG/LABU/LAGR,LANG,CORE,1423,T01,22-23-SUMMER-CORE-1423,22-23-SUMMER-CORE-1423-T01,-,-,-,19,0.632,Y,0.526,-,3.75,3.8,0.97,0.79,4.33,4.4,0.65,0.52
+22-23,SUMMER,Instructor,LANG/LABU/LAGR,LANG,CORE,1423,T01,22-23-SUMMER-CORE-1423,22-23-SUMMER-CORE-1423-T01,22-23-SUMMER-CORE-1423-T01-SI,"YU, Wai Ying",lcwaiying,19,0.632,Y,0.526,-,3.75,3.8,0.97,0.79,4.33,4.4,0.65,0.52
+22-23,SUMMER,Course,LANG/LABU/LAGR,LANG,LANG,2010,-,22-23-SUMMER-LANG-2010,-,-,-,-,-,0.5,Y,0.4,1,3.1,3.25,1.1,0.89,4.0,4,0.47,0
+22-23,SUMMER,Section,LANG/LABU/LAGR,LANG,LANG,2010,T01,22-23-SUMMER-LANG-2010,22-23-SUMMER-LANG-2010-T01,-,-,-,20,0.5,Y,0.4,-,3.1,3.25,1.1,0.89,4.0,4,0.47,0
+22-23,SUMMER,Instructor,LANG/LABU/LAGR,LANG,LANG,2010,T01,22-23-SUMMER-LANG-2010,22-23-SUMMER-LANG-2010-T01,22-23-SUMMER-LANG-2010-T01-SI,"FUNG , John",lcjohnfung,20,0.5,Y,0.4,-,3.1,3.25,1.1,0.89,4.0,4,0.47,0
+22-23,SUMMER,Course,LANG/LABU/LAGR,LANG,LANG,2030,-,22-23-SUMMER-LANG-2030,-,-,-,-,-,0.643,Y,0.5,1,3.44,3.57,1.42,1.13,4.11,4.29,1.05,0.76
+22-23,SUMMER,Section,LANG/LABU/LAGR,LANG,LANG,2030,T01,22-23-SUMMER-LANG-2030,22-23-SUMMER-LANG-2030-T01,-,-,-,14,0.643,Y,0.5,-,3.44,3.57,1.42,1.13,4.11,4.29,1.05,0.76
+22-23,SUMMER,Instructor,LANG/LABU/LAGR,LANG,LANG,2030,T01,22-23-SUMMER-LANG-2030,22-23-SUMMER-LANG-2030-T01,22-23-SUMMER-LANG-2030-T01-SI,"MAK, Linda Yeung Oi",lclindam,14,0.643,Y,0.5,-,3.44,3.57,1.42,1.13,4.11,4.29,1.05,0.76
+22-23,SUMMER,Course,LANG/LABU/LAGR,LABU,LABU,2040,-,22-23-SUMMER-LABU-2040,-,-,-,-,-,0.6,Y,0.4,1,4.33,4.25,0.52,0.5,4.17,4.5,1.17,0.58
+22-23,SUMMER,Section,LANG/LABU/LAGR,LABU,LABU,2040,T01,22-23-SUMMER-LABU-2040,22-23-SUMMER-LABU-2040-T01,-,-,-,10,0.6,Y,0.4,-,4.33,4.25,0.52,0.5,4.17,4.5,1.17,0.58
+22-23,SUMMER,Instructor,LANG/LABU/LAGR,LABU,LABU,2040,T01,22-23-SUMMER-LABU-2040,22-23-SUMMER-LABU-2040-T01,22-23-SUMMER-LABU-2040-T01-SI,"SIN, Kathy Mun Yee",lckathy,10,0.6,Y,0.4,-,4.33,4.25,0.52,0.5,4.17,4.5,1.17,0.58
+22-23,SUMMER,Course,LANG/LABU/LAGR,LABU,LABU,2060,-,22-23-SUMMER-LABU-2060,-,-,-,-,-,0.556,Y,0.333,1,4.4,4.33,0.55,0.58,4.6,4.67,0.55,0.58
+22-23,SUMMER,Section,LANG/LABU/LAGR,LABU,LABU,2060,T01,22-23-SUMMER-LABU-2060,22-23-SUMMER-LABU-2060-T01,-,-,-,9,0.556,Y,0.333,-,4.4,4.33,0.55,0.58,4.6,4.67,0.55,0.58
+22-23,SUMMER,Instructor,LANG/LABU/LAGR,LABU,LABU,2060,T01,22-23-SUMMER-LABU-2060,22-23-SUMMER-LABU-2060-T01,22-23-SUMMER-LABU-2060-T01-SI,"LI, Angie Wing Chi",lcangie,9,0.556,Y,0.333,-,4.4,4.33,0.55,0.58,4.6,4.67,0.55,0.58
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,,,,,,,,,,,,,,,
+2023-09-25 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

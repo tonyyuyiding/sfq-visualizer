@@ -1,0 +1,64 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+23-24,SUMMER,School,SSCI,-,-,-,-,-,-,-,-,-,-,0.257,,-,13,4.24,-,0.97,-,4.48,-,0.84,-
+23-24,SUMMER,Dept / Course Group,SSCI,BTEC,-,-,-,-,-,-,-,-,-,0.308,Y,-,1,4.55,-,0.6,-,4.65,-,0.58,-
+23-24,SUMMER,Dept / Course Group,SSCI,CHEM,-,-,-,-,-,-,-,-,-,0.279,Y,-,2,4.05,-,1.22,-,4.52,-,0.65,-
+23-24,SUMMER,Dept / Course Group,SSCI,LIFS,-,-,-,-,-,-,-,-,-,0.27,Y,-,1,4.3,-,0.48,-,4.6,-,0.5,-
+23-24,SUMMER,Dept / Course Group,SSCI,MATH,-,-,-,-,-,-,-,-,-,0.281,,-,3,3.85,-,1.27,-,3.82,-,1.48,-
+23-24,SUMMER,Dept / Course Group,SSCI,PHYS,-,-,-,-,-,-,-,-,-,0.249,,-,4,4.34,-,0.78,-,4.5,-,0.59,-
+23-24,SUMMER,Dept / Course Group,SSCI,MAFS,-,-,-,-,-,-,-,-,-,0.172,Y,-,2,4.73,-,0.46,-,4.8,-,0.41,-
+23-24,SUMMER,Course,SSCI,BTEC,BTEC,5210,-,23-24-SUMMER-BTEC-5210,-,-,-,-,-,0.308,Y,-,1,4.55,-,0.6,-,4.65,-,0.58,-
+23-24,SUMMER,Section,SSCI,BTEC,BTEC,5210,L1,23-24-SUMMER-BTEC-5210,23-24-SUMMER-BTEC-5210-L1,-,-,-,65,0.308,Y,-,-,4.55,-,0.6,-,4.65,-,0.58,-
+23-24,SUMMER,Instructor,SSCI,BTEC,BTEC,5210,L1,23-24-SUMMER-BTEC-5210,23-24-SUMMER-BTEC-5210-L1,23-24-SUMMER-BTEC-5210-L1-SI,"CHUNG, Kenny Ka Kin",bckchung,65,0.308,Y,0.277,-,4.55,4.61,0.6,0.5,4.65,4.72,0.59,0.46
+23-24,SUMMER,Instructor,SSCI,BTEC,BTEC,5210,L1,23-24-SUMMER-BTEC-5210,23-24-SUMMER-BTEC-5210-L1,23-24-SUMMER-BTEC-5210-L1-SI,"HIRANO, Yukinori",yukinori,65,0.308,Y,0.277,-,4.55,4.61,0.6,0.5,4.65,4.72,0.59,0.46
+23-24,SUMMER,Instructor,SSCI,BTEC,BTEC,5210,L1,23-24-SUMMER-BTEC-5210,23-24-SUMMER-BTEC-5210-L1,23-24-SUMMER-BTEC-5210-L1-SI,"NGUYEN, Tuan Anh",tuananh,65,0.308,Y,0.277,-,4.55,4.61,0.6,0.5,4.6,4.67,0.6,0.49
+23-24,SUMMER,Instructor,SSCI,BTEC,BTEC,5210,L1,23-24-SUMMER-BTEC-5210,23-24-SUMMER-BTEC-5210-L1,23-24-SUMMER-BTEC-5210-L1-SI,"POON, Randy Yat Choi",rycpoon,65,0.308,Y,0.277,-,4.55,4.61,0.6,0.5,4.7,4.78,0.57,0.43
+23-24,SUMMER,Instructor,SSCI,BTEC,BTEC,5210,L1,23-24-SUMMER-BTEC-5210,23-24-SUMMER-BTEC-5210-L1,23-24-SUMMER-BTEC-5210-L1-SI,"WU, Zhenguo",bczgwu,65,0.308,Y,0.277,-,4.55,4.61,0.6,0.5,4.65,4.72,0.59,0.46
+23-24,SUMMER,Course,SSCI,CHEM,CHEM,1002,-,23-24-SUMMER-CHEM-1002,-,-,-,-,-,0.232,Y,0.196,1,4.15,4.36,1.34,1.03,4.54,4.64,0.78,0.67
+23-24,SUMMER,Section,SSCI,CHEM,CHEM,1002,L1,23-24-SUMMER-CHEM-1002,23-24-SUMMER-CHEM-1002-L1,-,-,-,56,0.232,Y,0.196,-,4.15,4.36,1.34,1.03,4.54,4.64,0.78,0.67
+23-24,SUMMER,Instructor,SSCI,CHEM,CHEM,1002,L1,23-24-SUMMER-CHEM-1002,23-24-SUMMER-CHEM-1002-L1,23-24-SUMMER-CHEM-1002-L1-SI,"CHAN, Ho Wai",chanhw,56,0.232,Y,0.196,-,4.15,4.36,1.34,1.03,4.54,4.64,0.78,0.67
+23-24,SUMMER,Course,SSCI,CHEM,CHEM,1008,-,23-24-SUMMER-CHEM-1008,-,-,-,-,-,0.5,Y,-,1,3.83,-,0.98,-,4.5,-,0.52,-
+23-24,SUMMER,Section,SSCI,CHEM,CHEM,1008,L1,23-24-SUMMER-CHEM-1008,23-24-SUMMER-CHEM-1008-L1,-,-,-,12,0.5,Y,-,-,3.83,-,0.98,-,4.5,-,0.52,-
+23-24,SUMMER,Instructor,SSCI,CHEM,CHEM,1008,L1,23-24-SUMMER-CHEM-1008,23-24-SUMMER-CHEM-1008-L1,23-24-SUMMER-CHEM-1008-L1-SI,"SHEONG, Fu Kit",chemfksheong,12,0.5,Y,0.333,-,3.83,4,0.98,0,4.5,4.5,0.55,0.58
+23-24,SUMMER,Instructor,SSCI,CHEM,CHEM,1008,L1,23-24-SUMMER-CHEM-1008,23-24-SUMMER-CHEM-1008-L1,23-24-SUMMER-CHEM-1008-L1-SI,"TSANG, Ming Wai Emily",chetsang,12,0.5,Y,0.333,-,3.83,4,0.98,0,4.5,4.5,0.55,0.58
+23-24,SUMMER,Course,SSCI,LIFS,LIFS,1020,-,23-24-SUMMER-LIFS-1020,-,-,-,-,-,0.27,Y,-,1,4.3,-,0.48,-,4.6,-,0.5,-
+23-24,SUMMER,Section,SSCI,LIFS,LIFS,1020,L1,23-24-SUMMER-LIFS-1020,23-24-SUMMER-LIFS-1020-L1,-,-,-,37,0.27,Y,-,-,4.3,-,0.48,-,4.6,-,0.5,-
+23-24,SUMMER,Instructor,SSCI,LIFS,LIFS,1020,L1,23-24-SUMMER-LIFS-1020,23-24-SUMMER-LIFS-1020-L1,23-24-SUMMER-LIFS-1020-L1-SI,"LAM, Y Philip",ylam,37,0.27,Y,0.216,-,4.3,4.25,0.48,0.46,4.7,4.75,0.48,0.46
+23-24,SUMMER,Instructor,SSCI,LIFS,LIFS,1020,L1,23-24-SUMMER-LIFS-1020,23-24-SUMMER-LIFS-1020-L1,23-24-SUMMER-LIFS-1020-L1-SI,"TANG, Jessica Ce Mun",bocemun,37,0.27,Y,0.216,-,4.3,4.25,0.48,0.46,4.5,4.5,0.53,0.53
+23-24,SUMMER,Course,SSCI,MATH,MATH,2111,-,23-24-SUMMER-MATH-2111,-,-,-,-,-,0.28,Y,0.24,1,2.79,2.75,1.42,1.29,2.5,2.42,1.61,1.51
+23-24,SUMMER,Section,SSCI,MATH,MATH,2111,L1,23-24-SUMMER-MATH-2111,23-24-SUMMER-MATH-2111-L1,-,-,-,50,0.28,Y,0.24,-,2.79,2.75,1.42,1.29,2.5,2.42,1.61,1.51
+23-24,SUMMER,Instructor,SSCI,MATH,MATH,2111,L1,23-24-SUMMER-MATH-2111,23-24-SUMMER-MATH-2111-L1,23-24-SUMMER-MATH-2111-L1-SI,"WANG, Xiaoyu",maxywang,50,0.28,Y,0.24,-,2.79,2.75,1.42,1.29,2.5,2.42,1.61,1.51
+23-24,SUMMER,Course,SSCI,MATH,MATH,2411,-,23-24-SUMMER-MATH-2411,-,-,-,-,-,0.38,Y,0.34,1,4.47,4.47,0.51,0.51,4.68,4.71,0.48,0.47
+23-24,SUMMER,Section,SSCI,MATH,MATH,2411,L1,23-24-SUMMER-MATH-2411,23-24-SUMMER-MATH-2411-L1,-,-,-,50,0.38,Y,0.34,-,4.47,4.47,0.51,0.51,4.68,4.71,0.48,0.47
+23-24,SUMMER,Instructor,SSCI,MATH,MATH,2411,L1,23-24-SUMMER-MATH-2411,23-24-SUMMER-MATH-2411-L1,23-24-SUMMER-MATH-2411-L1-SI,"YAO, Jing",majyao,50,0.38,Y,0.34,-,4.47,4.47,0.51,0.51,4.68,4.71,0.48,0.47
+23-24,SUMMER,Course,SSCI,MATH,MATH,2421,-,23-24-SUMMER-MATH-2421,-,-,-,-,-,0.154,Y,0.103,1,4.33,4.5,1.03,1,4.17,4.5,1.17,0.58
+23-24,SUMMER,Section,SSCI,MATH,MATH,2421,L1,23-24-SUMMER-MATH-2421,23-24-SUMMER-MATH-2421-L1,-,-,-,39,0.154,Y,0.103,-,4.33,4.5,1.03,1,4.17,4.5,1.17,0.58
+23-24,SUMMER,Instructor,SSCI,MATH,MATH,2421,L1,23-24-SUMMER-MATH-2421,23-24-SUMMER-MATH-2421-L1,23-24-SUMMER-MATH-2421-L1-SI,"YU, Chi Wai",macwyu,39,0.154,Y,0.103,-,4.33,4.5,1.03,1,4.17,4.5,1.17,0.58
+23-24,SUMMER,Course,SSCI,PHYS,PHYS,1002,-,23-24-SUMMER-PHYS-1002,-,-,-,-,-,0.135,Y,-,1,4.43,-,0.65,-,4.64,-,0.5,-
+23-24,SUMMER,Section,SSCI,PHYS,PHYS,1002,L1,23-24-SUMMER-PHYS-1002,23-24-SUMMER-PHYS-1002-L1,-,-,-,104,0.135,Y,-,-,4.43,-,0.65,-,4.64,-,0.5,-
+23-24,SUMMER,Instructor,SSCI,PHYS,PHYS,1002,L1,23-24-SUMMER-PHYS-1002,23-24-SUMMER-PHYS-1002-L1,23-24-SUMMER-PHYS-1002-L1-SI,"CHEN, Tian Wen",twchen,104,0.135,Y,0.115,-,4.43,4.5,0.65,0.52,4.64,4.67,0.5,0.49
+23-24,SUMMER,Course,SSCI,PHYS,PHYS,1113,-,23-24-SUMMER-PHYS-1113,-,-,-,-,-,0.5,Y,-,1,4.5,-,0.71,-,4.0,-,0.0,-
+23-24,SUMMER,Section,SSCI,PHYS,PHYS,1113,T1,23-24-SUMMER-PHYS-1113,23-24-SUMMER-PHYS-1113-T1,-,-,-,4,0.5,Y,-,-,4.5,-,0.71,-,4.0,-,0.0,-
+23-24,SUMMER,Instructor,SSCI,PHYS,PHYS,1113,T1,23-24-SUMMER-PHYS-1113,23-24-SUMMER-PHYS-1113-T1,23-24-SUMMER-PHYS-1113-T1-SI,"PANT, Nidhi",pantnidhi,4,0.5,Y,-,-,4.5,-,0.71,-,4.0,-,0.0,-
+23-24,SUMMER,Course,SSCI,PHYS,PHYS,1114,-,23-24-SUMMER-PHYS-1114,-,-,-,-,-,0.271,Y,-,1,4.08,-,1.12,-,4.38,-,0.77,-
+23-24,SUMMER,Section,SSCI,PHYS,PHYS,1114,L1,23-24-SUMMER-PHYS-1114,23-24-SUMMER-PHYS-1114-L1,-,-,-,48,0.271,Y,-,-,4.08,-,1.12,-,4.38,-,0.77,-
+23-24,SUMMER,Instructor,SSCI,PHYS,PHYS,1114,L1,23-24-SUMMER-PHYS-1114,23-24-SUMMER-PHYS-1114-L1,23-24-SUMMER-PHYS-1114-L1-SI,"CHEUNG, Man Fung",cheungmf,48,0.271,Y,0.229,-,4.08,4.27,1.12,0.65,4.38,4.45,0.77,0.69
+23-24,SUMMER,Course,SSCI,PHYS,PHYS,1115,-,23-24-SUMMER-PHYS-1115,-,-,-,-,-,0.714,,0.619,1,4.47,4.46,0.52,0.52,4.53,4.54,0.52,0.52
+23-24,SUMMER,Section,SSCI,PHYS,PHYS,1115,T1,23-24-SUMMER-PHYS-1115,23-24-SUMMER-PHYS-1115-T1,-,-,-,21,0.714,,0.619,-,4.47,4.46,0.52,0.52,4.53,4.54,0.52,0.52
+23-24,SUMMER,Instructor,SSCI,PHYS,PHYS,1115,T1,23-24-SUMMER-PHYS-1115,23-24-SUMMER-PHYS-1115-T1,23-24-SUMMER-PHYS-1115-T1-SI,"NG, Yee Fai",phyfng,21,0.714,,0.619,-,4.47,4.46,0.52,0.52,4.53,4.54,0.52,0.52
+23-24,SUMMER,Course,SSCI,MAFS,MAFS,5270,-,23-24-SUMMER-MAFS-5270,-,-,-,-,-,0.2,Y,0.156,1,4.67,4.71,0.5,0.49,4.78,4.86,0.44,0.38
+23-24,SUMMER,Section,SSCI,MAFS,MAFS,5270,L1,23-24-SUMMER-MAFS-5270,23-24-SUMMER-MAFS-5270-L1,-,-,-,45,0.2,Y,0.156,-,4.67,4.71,0.5,0.49,4.78,4.86,0.44,0.38
+23-24,SUMMER,Instructor,SSCI,MAFS,MAFS,5270,L1,23-24-SUMMER-MAFS-5270,23-24-SUMMER-MAFS-5270-L1,23-24-SUMMER-MAFS-5270-L1-SI,"CHOU, Hongsong",mahchou,45,0.2,Y,0.156,-,4.67,4.71,0.5,0.49,4.78,4.86,0.44,0.38
+23-24,SUMMER,Course,SSCI,MAFS,MAFS,5360,-,23-24-SUMMER-MAFS-5360,-,-,-,-,-,0.143,Y,0.095,1,4.83,5,0.41,0,4.83,5,0.41,0
+23-24,SUMMER,Section,SSCI,MAFS,MAFS,5360,L1,23-24-SUMMER-MAFS-5360,23-24-SUMMER-MAFS-5360-L1,-,-,-,42,0.143,Y,0.095,-,4.83,5,0.41,0,4.83,5,0.41,0
+23-24,SUMMER,Instructor,SSCI,MAFS,MAFS,5360,L1,23-24-SUMMER-MAFS-5360,23-24-SUMMER-MAFS-5360-L1,23-24-SUMMER-MAFS-5360-L1-SI,"CHOU, Hongsong",mahchou,42,0.143,Y,0.095,-,4.83,5,0.41,0,4.83,5,0.41,0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by SEA,,,,,,,,,,,,,,,,,,,,,,,,,
+2 September 2024,,,,,,,,,,,,,,,,,,,,,,,,,

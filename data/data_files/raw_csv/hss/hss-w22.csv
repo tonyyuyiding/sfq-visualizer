@@ -1,0 +1,21 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+21-22,WINTER,School,SHSS,-,-,-,-,-,-,-,-,-,-,0.319,,-,2,4.17,-,0.93,-,4.22,-,0.93,-
+21-22,WINTER,Dept / Course Group,SHSS,MGCS,-,-,-,-,-,-,-,-,-,0.619,Y,-,1,4.85,-,0.38,-,4.85,-,0.38,-
+21-22,WINTER,Dept / Course Group,SHSS,SOSC,-,-,-,-,-,-,-,-,-,0.302,,-,1,4.09,-,0.95,-,4.15,-,0.94,-
+21-22,WINTER,Course,SHSS,MGCS,MGCS,5025,-,21-22-WINTER-MGCS-5025,-,-,-,-,-,0.619,Y,0.524,1,4.85,4.91,0.38,0.3,4.85,4.91,0.38,0.3
+21-22,WINTER,Section,SHSS,MGCS,MGCS,5025,L1,21-22-WINTER-MGCS-5025,21-22-WINTER-MGCS-5025-L1,-,-,-,21,0.619,Y,0.524,-,4.85,4.91,0.38,0.3,4.85,4.91,0.38,0.3
+21-22,WINTER,Instructor,SHSS,MGCS,MGCS,5025,L1,21-22-WINTER-MGCS-5025,21-22-WINTER-MGCS-5025-L1,21-22-WINTER-MGCS-5025-L1-SI,"SAUTMAN, Barry Victor",sobarrys,21,0.619,Y,0.524,-,4.85,4.91,0.38,0.3,4.85,4.91,0.38,0.3
+21-22,WINTER,Course,SHSS,SOSC,SOSC,1980,-,21-22-WINTER-SOSC-1980,-,-,-,-,-,0.302,,-,1,4.09,-,0.95,-,4.15,-,0.94,-
+21-22,WINTER,Section,SHSS,SOSC,SOSC,1980,L1,21-22-WINTER-SOSC-1980,21-22-WINTER-SOSC-1980-L1,-,-,-,387,0.302,,-,-,4.09,-,0.95,-,4.15,-,0.94,-
+21-22,WINTER,Instructor,SHSS,SOSC,SOSC,1980,L1,21-22-WINTER-SOSC-1980,21-22-WINTER-SOSC-1980-L1,21-22-WINTER-SOSC-1980-L1-SI,Michelle YIK,myik,387,0.302,,0.292,-,4.09,4.13,0.95,0.86,4.15,4.19,0.94,0.85
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-02-09 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

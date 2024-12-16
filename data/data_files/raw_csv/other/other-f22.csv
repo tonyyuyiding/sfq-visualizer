@@ -1,0 +1,22 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+22-23,FALL,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.539,,-,3,4.56,-,0.67,-,4.71,-,0.51,-
+22-23,FALL,Dept / Course Group,OTHERS,DSTO,-,-,-,-,-,-,-,-,-,0.539,,-,3,4.56,-,0.67,-,4.71,-,0.51,-
+22-23,FALL,Course,OTHERS,DSTO,GNED,2510,-,22-23-FALL-GNED-2510,-,-,-,-,-,0.526,,0.456,2,4.53,4.62,0.68,0.57,4.7,4.77,0.54,0.43
+22-23,FALL,Section,OTHERS,DSTO,GNED,2510,T1,22-23-FALL-GNED-2510,22-23-FALL-GNED-2510-T1,-,-,-,29,0.483,Y,0.414,-,4.5,4.58,0.65,0.51,4.79,4.83,0.43,0.39
+22-23,FALL,Instructor,OTHERS,DSTO,GNED,2510,T1,22-23-FALL-GNED-2510,22-23-FALL-GNED-2510-T1,22-23-FALL-GNED-2510-T1-SI,"SIU, Grace",sagsiu,29,0.483,Y,0.414,-,4.5,4.58,0.65,0.51,4.79,4.83,0.43,0.39
+22-23,FALL,Section,OTHERS,DSTO,GNED,2510,T2,22-23-FALL-GNED-2510,22-23-FALL-GNED-2510-T2,-,-,-,28,0.571,,0.5,-,4.56,4.64,0.73,0.63,4.63,4.71,0.62,0.47
+22-23,FALL,Instructor,OTHERS,DSTO,GNED,2510,T2,22-23-FALL-GNED-2510,22-23-FALL-GNED-2510-T2,22-23-FALL-GNED-2510-T2-SI,"SIU, Grace",sagsiu,28,0.571,,0.5,-,4.56,4.64,0.73,0.63,4.63,4.71,0.62,0.47
+22-23,FALL,Course,OTHERS,DSTO,SCIE,1100,-,22-23-FALL-SCIE-1100,-,-,-,-,-,0.579,Y,0.474,1,4.64,4.78,0.67,0.44,4.73,4.78,0.47,0.44
+22-23,FALL,Section,OTHERS,DSTO,SCIE,1100,T1,22-23-FALL-SCIE-1100,22-23-FALL-SCIE-1100-T1,-,-,-,19,0.579,Y,0.474,-,4.64,4.78,0.67,0.44,4.73,4.78,0.47,0.44
+22-23,FALL,Instructor,OTHERS,DSTO,SCIE,1100,T1,22-23-FALL-SCIE-1100,22-23-FALL-SCIE-1100-T1,22-23-FALL-SCIE-1100-T1-SI,"SIU, Grace",sagsiu,19,0.579,Y,0.474,-,4.64,4.78,0.67,0.44,4.73,4.78,0.47,0.44
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-12-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

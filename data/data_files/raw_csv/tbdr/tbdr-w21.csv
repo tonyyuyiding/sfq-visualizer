@@ -1,0 +1,34 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - UG (Small),Course Overall - UG (Medium),Course Overall - UG (Large),Course Overall - UG Mean,Course Overall - PG (Small),Course Overall - PG (Medium),Course Overall - PG Mean,Course Overall - Overall,Instructor Overall - UG (Small),Instructor Overall - UG (Medium),Instructor Overall - UG (Large),Instructor Overall - UG Mean,Instructor Overall - PG (Small),Instructor Overall - PG (Medium),Instructor Overall - PG Mean,Instructor Overall - Overall
+20-21,WINTER,University,-,-,-,48.0,0.504,4.54,4.29,3.98,4.22,4.35,4.49,4.48,4.33,4.65,4.32,4.05,4.27,4.38,4.57,4.56,4.39
+20-21,WINTER,School,SBM,-,-,22.0,0.483,4.33,3.79,3.98,3.95,4.32,4.48,4.47,4.26,4.67,3.87,4.05,4.02,4.36,4.56,4.54,4.34
+20-21,WINTER,Dept,SBM,ECON,Economics,3.0,0.521,4.33,,,4.33,,4.72,4.72,4.7,4.67,,,4.67,,4.77,4.77,4.77
+20-21,WINTER,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",12.0,0.461,,3.79,3.98,3.94,,4.32,4.32,4.08,,3.87,4.05,4.01,,4.43,4.43,4.16
+20-21,WINTER,Dept,SBM,MGMT,Management,5.0,0.4,,,,,4.32,4.46,4.42,4.42,,,,,4.36,4.51,4.47,4.47
+20-21,WINTER,Dept,SBM,SBMT,School of Business and Management,2.0,0.684,,,,,,4.55,4.55,4.55,,,,,,4.63,4.63,4.63
+20-21,WINTER,School,SENG,-,-,7.0,0.435,4.63,4.27,,4.34,5.0,,5.0,4.34,4.54,4.21,,4.27,5.0,,5.0,4.27
+20-21,WINTER,Dept,SENG,CIVL,Civil and Environmental Engineering,1.0,1.0,,,,,5.0,,5.0,5.0,,,,,5.0,,5.0,5.0
+20-21,WINTER,Dept,SENG,COMP,Computer Science and Engineering,4.0,0.385,,4.27,,4.27,,,,4.27,,4.21,,4.21,,,,4.21
+20-21,WINTER,Dept,SENG,ENGG,School of Engineering,2.0,0.96,4.63,,,4.63,,,,4.63,4.54,,,4.54,,,,4.54
+20-21,WINTER,School,SHSS,-,-,2.0,0.559,,,,,,4.7,4.7,4.7,,,,,,4.73,4.73,4.73
+20-21,WINTER,Dept,SHSS,MGCS,MSc Program in Global China Studies,2.0,0.559,,,,,,4.7,4.7,4.7,,,,,,4.73,4.73,4.73
+20-21,WINTER,School,SSCI,-,-,3.0,0.583,4.07,,,4.07,,,,4.07,4.5,,,4.5,,,,4.5
+20-21,WINTER,Dept,SSCI,MATH,Mathematics,3.0,0.583,4.07,,,4.07,,,,4.07,4.5,,,4.5,,,,4.5
+20-21,WINTER,School,LANG/LABU/LAGR,-,-,12.0,0.665,4.64,4.56,,4.58,,,,4.58,4.74,4.62,,4.66,,,,4.66
+20-21,WINTER,Dept,LANG/LABU/LAGR,LANG,Language,12.0,0.665,4.64,4.56,,4.58,,,,4.58,4.74,4.62,,4.66,,,,4.66
+20-21,WINTER,School,IPO,-,-,2.0,0.65,,4.41,,4.41,,,,4.41,,4.46,,4.46,,,,4.46
+20-21,WINTER,Dept,IPO,TEMG,Technology and Management,2.0,0.65,,4.41,,4.41,,,,4.41,,4.46,,4.46,,,,4.46
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Key:,,,,,,,,,,,,,,,,,,,,,,,
+Small UG: Undergraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium UG: Undergraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+Large UG: Undergraduate courses with enrolment over 100,,,,,,,,,,,,,,,,,,,,,,,
+UG Mean: Mean of responses of all UG courses,,,,,,,,,,,,,,,,,,,,,,,
+Small PG: Postgraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium PG: Postgraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+PG Mean: Mean of responses of all PG courses,,,,,,,,,,,,,,,,,,,,,,,
+Overall: Mean of responses of all courses,,,,,,,,,,,,,,,,,,,,,,,
+"If there is no entry, there were no classes of the type indicated.",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,
+2021-02-16 00:00:00,,,,,,,,,,,,,,,,,,,,,,,

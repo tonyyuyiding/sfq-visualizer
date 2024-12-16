@@ -1,0 +1,43 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+17-18,FALL,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.665,,-,10,80.5,-,23.4,-,83.0,-,22.5,-
+17-18,FALL,Dept / Course Group,OTHERS,SAO,-,-,-,-,-,-,-,-,-,0.66,,-,2,86.4,-,19.9,-,90.2,-,16.5,-
+17-18,FALL,Dept / Course Group,OTHERS,UCE,-,-,-,-,-,-,-,-,-,0.667,,-,8,78.0,-,24.5,-,79.9,-,24.2,-
+17-18,FALL,Course,OTHERS,SAO,GNED,2510,-,17-18-FALL-GNED-2510,-,-,-,-,-,0.66,,0.58,2,86.4,88.8,19.9,15.8,90.2,92.2,16.5,13.5
+17-18,FALL,Section,OTHERS,SAO,GNED,2510,T1,17-18-FALL-GNED-2510,17-18-FALL-GNED-2510-T1,-,-,-,25,0.8,,0.72,-,91.3,93.1,16.8,14.4,91.3,93.1,16.8,14.4
+17-18,FALL,Instructor,OTHERS,SAO,GNED,2510,T1,17-18-FALL-GNED-2510,17-18-FALL-GNED-2510-T1,17-18-FALL-GNED-2510-T1-SI,"SIU, Grace",sagsiu,25,0.8,,0.72,-,91.3,93.1,16.8,14.4,91.3,93.1,16.8,14.4
+17-18,FALL,Section,OTHERS,SAO,GNED,2510,T2,17-18-FALL-GNED-2510,17-18-FALL-GNED-2510-T2,-,-,-,25,0.52,Y,0.44,-,78.8,81.8,22.5,16.2,88.5,90.9,16.5,12.6
+17-18,FALL,Instructor,OTHERS,SAO,GNED,2510,T2,17-18-FALL-GNED-2510,17-18-FALL-GNED-2510-T2,17-18-FALL-GNED-2510-T2-SI,"SIU, Grace",sagsiu,25,0.52,Y,0.44,-,78.8,81.8,22.5,16.2,88.5,90.9,16.5,12.6
+17-18,FALL,Course,OTHERS,UCE,HART,1014,-,17-18-FALL-HART-1014,-,-,-,-,-,0.769,Y,0.615,1,80.0,81.3,19.7,17.7,80.0,81.3,23.0,22.2
+17-18,FALL,Section,OTHERS,UCE,HART,1014,LA1,17-18-FALL-HART-1014,17-18-FALL-HART-1014-LA1,-,-,-,13,0.769,Y,0.615,-,80.0,81.3,19.7,17.7,80.0,81.3,23.0,22.2
+17-18,FALL,Instructor,OTHERS,UCE,HART,1014,LA1,17-18-FALL-HART-1014,17-18-FALL-HART-1014-LA1,17-18-FALL-HART-1014-LA1-SI,"CHAN, Yung",chanyung,13,0.769,Y,0.615,-,80.0,81.3,19.7,17.7,80.0,81.3,23.0,22.2
+17-18,FALL,Course,OTHERS,UCE,HART,1017,-,17-18-FALL-HART-1017,-,-,-,-,-,0.55,Y,0.45,1,79.5,83.3,24.5,17.7,86.4,91.7,23.4,12.5
+17-18,FALL,Section,OTHERS,UCE,HART,1017,LA1,17-18-FALL-HART-1017,17-18-FALL-HART-1017-LA1,-,-,-,20,0.55,Y,0.45,-,79.5,83.3,24.5,17.7,86.4,91.7,23.4,12.5
+17-18,FALL,Instructor,OTHERS,UCE,HART,1017,LA1,17-18-FALL-HART-1017,17-18-FALL-HART-1017-LA1,17-18-FALL-HART-1017-LA1-SI,"TANG, Cheong Wai Acty",actytang,20,0.55,Y,0.45,-,79.5,83.3,24.5,17.7,86.4,91.7,23.4,12.5
+17-18,FALL,Course,OTHERS,UCE,HART,1018,-,17-18-FALL-HART-1018,-,-,-,-,-,0.769,Y,0.615,1,97.5,100,7.9,0,97.5,100,7.9,0
+17-18,FALL,Section,OTHERS,UCE,HART,1018,LA1,17-18-FALL-HART-1018,17-18-FALL-HART-1018-LA1,-,-,-,13,0.769,Y,0.615,-,97.5,100,7.9,0,97.5,100,7.9,0
+17-18,FALL,Instructor,OTHERS,UCE,HART,1018,LA1,17-18-FALL-HART-1018,17-18-FALL-HART-1018-LA1,17-18-FALL-HART-1018-LA1-SI,"CHUNG, Kun Yee",enidchung,13,0.769,Y,0.615,-,97.5,100,7.9,0,97.5,100,7.9,0
+17-18,FALL,Course,OTHERS,UCE,HART,1025,-,17-18-FALL-HART-1025,-,-,-,-,-,0.667,Y,0.444,1,70.8,75,29.2,20.4,79.2,81.3,18.8,12.5
+17-18,FALL,Section,OTHERS,UCE,HART,1025,LA1,17-18-FALL-HART-1025,17-18-FALL-HART-1025-LA1,-,-,-,9,0.667,Y,0.444,-,70.8,75,29.2,20.4,79.2,81.3,18.8,12.5
+17-18,FALL,Instructor,OTHERS,UCE,HART,1025,LA1,17-18-FALL-HART-1025,17-18-FALL-HART-1025-LA1,17-18-FALL-HART-1025-LA1-SI,"SUEN, Shu Kwan",leonsuen,9,0.667,Y,0.444,-,70.8,75,29.2,20.4,79.2,81.3,18.8,12.5
+17-18,FALL,Course,OTHERS,UCE,HART,1036,-,17-18-FALL-HART-1036,-,-,-,-,-,0.565,Y,0.478,1,75.0,75,14.4,11.2,73.1,72.7,16.0,13.5
+17-18,FALL,Section,OTHERS,UCE,HART,1036,LA1,17-18-FALL-HART-1036,17-18-FALL-HART-1036-LA1,-,-,-,23,0.565,Y,0.478,-,75.0,75,14.4,11.2,73.1,72.7,16.0,13.5
+17-18,FALL,Instructor,OTHERS,UCE,HART,1036,LA1,17-18-FALL-HART-1036,17-18-FALL-HART-1036-LA1,17-18-FALL-HART-1036-LA1-SI,"LO, Alice",aliceynlo,23,0.565,Y,0.478,-,75.0,75,14.4,11.2,73.1,72.7,16.0,13.5
+17-18,FALL,Course,OTHERS,UCE,HART,1041,-,17-18-FALL-HART-1041,-,-,-,-,-,0.733,Y,0.6,1,79.5,83.3,29.2,25,77.3,83.3,30.5,17.7
+17-18,FALL,Section,OTHERS,UCE,HART,1041,LA1,17-18-FALL-HART-1041,17-18-FALL-HART-1041-LA1,-,-,-,15,0.733,Y,0.6,-,79.5,83.3,29.2,25,77.3,83.3,30.5,17.7
+17-18,FALL,Instructor,OTHERS,UCE,HART,1041,LA1,17-18-FALL-HART-1041,17-18-FALL-HART-1041-LA1,17-18-FALL-HART-1041-LA1-SI,"CHIU,Pak Shing",patrickchiu,15,0.733,Y,0.6,-,79.5,83.3,29.2,25,77.3,83.3,30.5,17.7
+17-18,FALL,Course,OTHERS,UCE,HART,1044,-,17-18-FALL-HART-1044,-,-,-,-,-,0.833,Y,0.5,1,70.0,66.7,20.9,14.4,85.0,83.3,13.7,14.4
+17-18,FALL,Section,OTHERS,UCE,HART,1044,LA1,17-18-FALL-HART-1044,17-18-FALL-HART-1044-LA1,-,-,-,6,0.833,Y,0.5,-,70.0,66.7,20.9,14.4,85.0,83.3,13.7,14.4
+17-18,FALL,Instructor,OTHERS,UCE,HART,1044,LA1,17-18-FALL-HART-1044,17-18-FALL-HART-1044-LA1,17-18-FALL-HART-1044-LA1-SI,"LAM,Yin",krissylam,6,0.833,Y,0.5,-,70.0,66.7,20.9,14.4,85.0,83.3,13.7,14.4
+17-18,FALL,Course,OTHERS,UCE,HART,1045,-,17-18-FALL-HART-1045,-,-,-,-,-,0.667,Y,0.533,1,65.0,68.8,35.7,29.1,65.0,68.8,35.7,29.1
+17-18,FALL,Section,OTHERS,UCE,HART,1045,LA1,17-18-FALL-HART-1045,17-18-FALL-HART-1045-LA1,-,-,-,15,0.667,Y,0.533,-,65.0,68.8,35.7,29.1,65.0,68.8,35.7,29.1
+17-18,FALL,Instructor,OTHERS,UCE,HART,1045,LA1,17-18-FALL-HART-1045,17-18-FALL-HART-1045-LA1,17-18-FALL-HART-1045-LA1-SI,"AYERS, Lydia",lydiaayers,15,0.667,Y,0.533,-,65.0,68.8,35.7,29.1,65.0,68.8,35.7,29.1
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-01-17 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

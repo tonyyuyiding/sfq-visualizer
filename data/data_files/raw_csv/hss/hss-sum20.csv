@@ -1,0 +1,36 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+19-20,SUMMER,School,SHSS,-,-,-,-,-,-,-,-,-,-,0.382,,-,7,83.8,-,19.1,-,88.7,-,18.0,-
+19-20,SUMMER,Dept / Course Group,SHSS,HUMA,-,-,-,-,-,-,-,-,-,0.171,Y,-,1,70.8,-,29.2,-,75.0,-,31.6,-
+19-20,SUMMER,Dept / Course Group,SHSS,SOSC,-,-,-,-,-,-,-,-,-,0.388,,-,4,83.4,-,19.1,-,88.5,-,17.9,-
+19-20,SUMMER,Dept / Course Group,SHSS,HART,-,-,-,-,-,-,-,-,-,0.476,,-,2,92.5,-,11.8,-,95.0,-,10.3,-
+19-20,SUMMER,Course,SHSS,HUMA,HUMA,2440,-,19-20-SUMMER-HUMA-2440,-,-,-,-,-,0.171,Y,-,1,70.8,-,29.2,-,75.0,-,31.6,-
+19-20,SUMMER,Section,SHSS,HUMA,HUMA,2440,L1,19-20-SUMMER-HUMA-2440,19-20-SUMMER-HUMA-2440-L1,-,-,-,35,0.171,Y,-,-,70.8,-,29.2,-,75.0,-,31.6,-
+19-20,SUMMER,Instructor,SHSS,HUMA,HUMA,2440,L1,19-20-SUMMER-HUMA-2440,19-20-SUMMER-HUMA-2440-L1,19-20-SUMMER-HUMA-2440-L1-SI,"CHANG, David C",changcheng,35,0.171,Y,0.114,-,70.8,75,29.2,20.4,75.0,81.3,31.6,23.9
+19-20,SUMMER,Course,SHSS,SOSC,SOSC,1190,-,19-20-SUMMER-SOSC-1190,-,-,-,-,-,0.389,,-,1,79.3,-,21.0,-,81.0,-,18.9,-
+19-20,SUMMER,Section,SHSS,SOSC,SOSC,1190,L1,19-20-SUMMER-SOSC-1190,19-20-SUMMER-SOSC-1190-L1,-,-,-,149,0.389,,-,-,79.3,-,21.0,-,81.0,-,18.9,-
+19-20,SUMMER,Instructor,SHSS,SOSC,SOSC,1190,L1,19-20-SUMMER-SOSC-1190,19-20-SUMMER-SOSC-1190-L1,19-20-SUMMER-SOSC-1190-L1-SI,"HE, Wenkai",hewenkai,149,0.389,,0.376,-,79.3,80.4,21.0,18.3,81.0,81.7,18.9,17.5
+19-20,SUMMER,Course,SHSS,SOSC,SOSC,1300,-,19-20-SUMMER-SOSC-1300,-,-,-,-,-,0.495,,-,1,87.2,-,15.7,-,95.4,-,10.4,-
+19-20,SUMMER,Section,SHSS,SOSC,SOSC,1300,L1,19-20-SUMMER-SOSC-1300,19-20-SUMMER-SOSC-1300-L1,-,-,-,198,0.495,,-,-,87.2,-,15.7,-,95.4,-,10.4,-
+19-20,SUMMER,Instructor,SHSS,SOSC,SOSC,1300,L1,19-20-SUMMER-SOSC-1300,19-20-SUMMER-SOSC-1300-L1,19-20-SUMMER-SOSC-1300-L1-SI,"WONG,James K.",jameskalei,198,0.495,,0.475,-,87.2,88,15.7,14.1,95.4,96,10.4,9.2
+19-20,SUMMER,Course,SHSS,SOSC,SOSC,1960,-,19-20-SUMMER-SOSC-1960,-,-,-,-,-,0.297,,-,1,90.0,-,12.4,-,97.1,-,10.1,-
+19-20,SUMMER,Section,SHSS,SOSC,SOSC,1960,L1,19-20-SUMMER-SOSC-1960,19-20-SUMMER-SOSC-1960-L1,-,-,-,118,0.297,,-,-,90.0,-,12.4,-,97.1,-,10.1,-
+19-20,SUMMER,Instructor,SHSS,SOSC,SOSC,1960,L1,19-20-SUMMER-SOSC-1960,19-20-SUMMER-SOSC-1960-L1,19-20-SUMMER-SOSC-1960-L1-SI,"LAI, Beatrice Pui-yee",beatricelai,118,0.297,,0.28,-,90.0,90.2,12.4,12.4,97.1,98.5,10.1,6.1
+19-20,SUMMER,Course,SHSS,SOSC,SOSC,1980,-,19-20-SUMMER-SOSC-1980,-,-,-,-,-,0.3,,-,1,72.9,-,24.2,-,73.6,-,23.9,-
+19-20,SUMMER,Section,SHSS,SOSC,SOSC,1980,L1,19-20-SUMMER-SOSC-1980,19-20-SUMMER-SOSC-1980-L1,-,-,-,120,0.3,,-,-,72.9,-,24.2,-,73.6,-,23.9,-
+19-20,SUMMER,Instructor,SHSS,SOSC,SOSC,1980,L1,19-20-SUMMER-SOSC-1980,19-20-SUMMER-SOSC-1980-L1,19-20-SUMMER-SOSC-1980-L1-SI,"WIJAYA, Maria Teresa",mtwijaya,120,0.3,,0.283,-,72.9,74.3,24.2,20.9,73.6,75,23.9,20.4
+19-20,SUMMER,Course,SHSS,HART,HART,1030,-,19-20-SUMMER-HART-1030,-,-,-,-,-,0.5,Y,0.389,1,91.7,92.9,12.5,12.2,94.4,96.4,11.0,9.4
+19-20,SUMMER,Section,SHSS,HART,HART,1030,LA1,19-20-SUMMER-HART-1030,19-20-SUMMER-HART-1030-LA1,-,-,-,18,0.5,Y,0.389,-,91.7,92.9,12.5,12.2,94.4,96.4,11.0,9.4
+19-20,SUMMER,Instructor,SHSS,HART,HART,1030,LA1,19-20-SUMMER-HART-1030,19-20-SUMMER-HART-1030-LA1,19-20-SUMMER-HART-1030-LA1-SI,"PAU,Mo Ching",paumoching,18,0.5,Y,0.389,-,91.7,92.9,12.5,12.2,94.4,96.4,11.0,9.4
+19-20,SUMMER,Course,SHSS,HART,HART,1036,-,19-20-SUMMER-HART-1036,-,-,-,-,-,0.458,Y,0.375,1,93.2,94.4,11.7,11,95.5,97.2,10.1,8.3
+19-20,SUMMER,Section,SHSS,HART,HART,1036,LA1,19-20-SUMMER-HART-1036,19-20-SUMMER-HART-1036-LA1,-,-,-,24,0.458,Y,0.375,-,93.2,94.4,11.7,11,95.5,97.2,10.1,8.3
+19-20,SUMMER,Instructor,SHSS,HART,HART,1036,LA1,19-20-SUMMER-HART-1036,19-20-SUMMER-HART-1036-LA1,19-20-SUMMER-HART-1036-LA1-SI,"LAU, Brian Yee Huan",brianlau,24,0.458,Y,0.375,-,93.2,94.4,11.7,11,95.5,97.2,10.1,8.3
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple teaching staff (instructors or TAs). It will be left blank in the cells.,,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-03 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

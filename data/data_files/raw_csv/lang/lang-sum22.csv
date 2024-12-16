@@ -1,0 +1,38 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+21-22,SUMMER,School,LANG/LABU/LAGR,-,-,-,-,-,-,-,-,-,-,0.636,,-,8,3.72,-,1.09,-,4.35,-,0.71,-
+21-22,SUMMER,Dept / Course Group,LANG/LABU/LAGR,LANG,-,-,-,-,-,-,-,-,-,0.644,,-,6,3.69,-,1.08,-,4.31,-,0.73,-
+21-22,SUMMER,Dept / Course Group,LANG/LABU/LAGR,LABU,-,-,-,-,-,-,-,-,-,0.588,Y,-,2,3.9,-,1.2,-,4.6,-,0.52,-
+21-22,SUMMER,Course,LANG/LABU/LAGR,LANG,LANG,1003S,-,21-22-SUMMER-LANG-1003S,-,-,-,-,-,0.5,Y,0.375,1,3.75,3.83,1.17,0.98,4.0,4,0.76,0.63
+21-22,SUMMER,Section,LANG/LABU/LAGR,LANG,LANG,1003S,T01,21-22-SUMMER-LANG-1003S,21-22-SUMMER-LANG-1003S-T01,-,-,-,13,0.5,Y,0.375,-,3.75,3.83,1.17,0.98,4.0,4,0.76,0.63
+21-22,SUMMER,Instructor,LANG/LABU/LAGR,LANG,LANG,1003S,T01,21-22-SUMMER-LANG-1003S,21-22-SUMMER-LANG-1003S-T01,21-22-SUMMER-LANG-1003S-T01-SI,"SIN, Kathy Mun Yee",lckathy,13,0.5,Y,0.375,-,3.75,3.83,1.17,0.98,4.0,4,0.76,0.63
+21-22,SUMMER,Course,LANG/LABU/LAGR,LANG,LANG,1113P,-,21-22-SUMMER-LANG-1113P,-,-,-,-,-,0.444,Y,0.333,1,4.0,4.17,1.07,0.75,4.5,4.5,0.53,0.55
+21-22,SUMMER,Section,LANG/LABU/LAGR,LANG,LANG,1113P,T01,21-22-SUMMER-LANG-1113P,21-22-SUMMER-LANG-1113P-T01,-,-,-,18,0.444,Y,0.333,-,4.0,4.17,1.07,0.75,4.5,4.5,0.53,0.55
+21-22,SUMMER,Instructor,LANG/LABU/LAGR,LANG,LANG,1113P,T01,21-22-SUMMER-LANG-1113P,21-22-SUMMER-LANG-1113P-T01,21-22-SUMMER-LANG-1113P-T01-SI,"XU,Xiufen",lcxfxu,18,0.444,Y,0.333,-,4.0,4.17,1.07,0.75,4.5,4.5,0.53,0.55
+21-22,SUMMER,Course,LANG/LABU/LAGR,LANG,LANG,1117C,-,21-22-SUMMER-LANG-1117C,-,-,-,-,-,0.85,,0.75,1,3.53,3.6,0.94,0.63,4.53,4.6,0.72,0.63
+21-22,SUMMER,Section,LANG/LABU/LAGR,LANG,LANG,1117C,T01,21-22-SUMMER-LANG-1117C,21-22-SUMMER-LANG-1117C-T01,-,-,-,20,0.85,,0.75,-,3.53,3.6,0.94,0.63,4.53,4.6,0.72,0.63
+21-22,SUMMER,Instructor,LANG/LABU/LAGR,LANG,LANG,1117C,T01,21-22-SUMMER-LANG-1117C,21-22-SUMMER-LANG-1117C-T01,21-22-SUMMER-LANG-1117C-T01-SI,"LAU, Lo",lclaulo,20,0.85,,0.75,-,3.53,3.6,0.94,0.63,4.53,4.6,0.72,0.63
+21-22,SUMMER,Course,LANG/LABU/LAGR,LANG,LANG,2010,-,21-22-SUMMER-LANG-2010,-,-,-,-,-,0.692,Y,0.538,1,3.56,3.71,1.24,0.76,4.0,4,0.71,0.58
+21-22,SUMMER,Section,LANG/LABU/LAGR,LANG,LANG,2010,T01,21-22-SUMMER-LANG-2010,21-22-SUMMER-LANG-2010-T01,-,-,-,13,0.692,Y,0.538,-,3.56,3.71,1.24,0.76,4.0,4,0.71,0.58
+21-22,SUMMER,Instructor,LANG/LABU/LAGR,LANG,LANG,2010,T01,21-22-SUMMER-LANG-2010,21-22-SUMMER-LANG-2010-T01,21-22-SUMMER-LANG-2010-T01-SI,"WONG, Elaine Suk Yi",lcsukyi,13,0.692,Y,0.538,-,3.56,3.71,1.24,0.76,4.0,4,0.71,0.58
+21-22,SUMMER,Course,LANG/LABU/LAGR,LANG,LANG,2030,-,21-22-SUMMER-LANG-2030,-,-,-,-,-,0.696,,-,2,3.75,-,1.18,-,4.31,-,0.79,-
+21-22,SUMMER,Section,LANG/LABU/LAGR,LANG,LANG,2030,T01,21-22-SUMMER-LANG-2030,21-22-SUMMER-LANG-2030-T01,-,-,-,11,0.545,Y,0.364,-,3.83,4.25,1.6,0.96,4.67,4.75,0.52,0.5
+21-22,SUMMER,Instructor,LANG/LABU/LAGR,LANG,LANG,2030,T01,21-22-SUMMER-LANG-2030,21-22-SUMMER-LANG-2030-T01,21-22-SUMMER-LANG-2030-T01-SI,"CHAN, Sumie",lcsumiechan,11,0.545,Y,0.364,-,3.83,4.25,1.6,0.96,4.67,4.75,0.52,0.5
+21-22,SUMMER,Section,LANG/LABU/LAGR,LANG,LANG,2030,T02,21-22-SUMMER-LANG-2030,21-22-SUMMER-LANG-2030-T02,-,-,-,12,0.833,Y,0.667,-,3.7,3.75,0.95,0.71,4.1,4.25,0.88,0.46
+21-22,SUMMER,Instructor,LANG/LABU/LAGR,LANG,LANG,2030,T02,21-22-SUMMER-LANG-2030,21-22-SUMMER-LANG-2030-T02,21-22-SUMMER-LANG-2030-T02-SI,"MAK, Linda Yeung Oi",lclindam,12,0.833,Y,0.667,-,3.7,3.75,0.95,0.71,4.1,4.25,0.88,0.46
+21-22,SUMMER,Course,LANG/LABU/LAGR,LABU,LABU,2040,-,21-22-SUMMER-LABU-2040,-,-,-,-,-,0.222,Y,-,1,3.0,-,2.83,-,4.5,-,0.71,-
+21-22,SUMMER,Section,LANG/LABU/LAGR,LABU,LABU,2040,T01,21-22-SUMMER-LABU-2040,21-22-SUMMER-LABU-2040-T01,-,-,-,9,0.222,Y,-,-,3.0,-,2.83,-,4.5,-,0.71,-
+21-22,SUMMER,Instructor,LANG/LABU/LAGR,LABU,LABU,2040,T01,21-22-SUMMER-LABU-2040,21-22-SUMMER-LABU-2040-T01,21-22-SUMMER-LABU-2040-T01-SI,"HO, Fiona",lcfiona,9,0.222,Y,-,-,3.0,-,2.83,-,4.5,-,0.71,-
+21-22,SUMMER,Course,LANG/LABU/LAGR,LABU,LABU,2060,-,21-22-SUMMER-LABU-2060,-,-,-,-,-,1.0,,0.75,1,4.13,4.17,0.64,0.41,4.63,4.67,0.52,0.52
+21-22,SUMMER,Section,LANG/LABU/LAGR,LABU,LABU,2060,T01,21-22-SUMMER-LABU-2060,21-22-SUMMER-LABU-2060-T01,-,-,-,8,1.0,,0.75,-,4.13,4.17,0.64,0.41,4.63,4.67,0.52,0.52
+21-22,SUMMER,Instructor,LANG/LABU/LAGR,LABU,LABU,2060,T01,21-22-SUMMER-LABU-2060,21-22-SUMMER-LABU-2060-T01,21-22-SUMMER-LABU-2060-T01-SI,"LI, Angie Wing Chi",lcangie,8,1.0,,0.75,-,4.13,4.17,0.64,0.41,4.63,4.67,0.52,0.52
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-08-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

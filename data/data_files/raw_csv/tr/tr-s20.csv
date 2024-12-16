@@ -1,0 +1,68 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - Mean,Course Overall - SD,Instructor Overall - Mean,Instructor Overall - SD
+19-20,SPRING,University,-,-,-,1374.0,0.414,76.0,24.8,80.1,24.2
+19-20,SPRING,School,SBM,-,-,396.0,0.434,76.3,26.1,79.9,25.7
+19-20,SPRING,Dept,SBM,ACCT,Accounting,61.0,0.475,72.9,27.9,74.7,29.6
+19-20,SPRING,Dept,SBM,BIBU-SBM,Biotechnology and Business,1.0,0.767,60.6,28.7,72.0,27.1
+19-20,SPRING,Dept,SBM,ECON,Economics,48.0,0.407,76.5,25.7,80.4,25.1
+19-20,SPRING,Dept,SBM,ENTR-SBM,Entrepreneurship,1.0,0.235,77.2,23.7,80.4,21.3
+19-20,SPRING,Dept,SBM,FINA,Finance,59.0,0.457,78.6,26.5,80.3,26.8
+19-20,SPRING,Dept,SBM,GBUS,Global Business,5.0,0.616,80.7,25.3,82.9,23.5
+19-20,SPRING,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",108.0,0.408,74.4,27.0,79.7,25.0
+19-20,SPRING,Dept,SBM,MIMT,MSc Program in International Management,8.0,0.81,81.9,24.3,85.7,21.8
+19-20,SPRING,Dept,SBM,MGMT,Management,63.0,0.419,80.8,22.7,86.0,20.6
+19-20,SPRING,Dept,SBM,MARK,Marketing,30.0,0.421,76.8,22.8,80.5,24.3
+19-20,SPRING,Dept,SBM,RMBI,Risk Management and Business Intelligence,4.0,0.326,72.9,26.0,79.3,21.7
+19-20,SPRING,Dept,SBM,WBBA,SF Program in World Business,1.0,0.631,69.2,25.3,72.7,26.3
+19-20,SPRING,Dept,SBM,SBMT,School of Business and Management,10.0,0.393,73.7,25.9,77.1,25.6
+19-20,SPRING,School,SENG,-,-,237.0,0.364,75.6,25.5,79.8,24.6
+19-20,SPRING,Dept,SENG,CENG,Chemical and Biological Engineering,22.0,0.45,78.3,23.4,84.5,21.3
+19-20,SPRING,Dept,SENG,CIVL,Civil and Environmental Engineering,34.0,0.317,69.9,25.9,74.2,25.4
+19-20,SPRING,Dept,SENG,COMP,Computer Science and Engineering,70.0,0.371,80.3,22.7,85.8,20.5
+19-20,SPRING,Dept,SENG,ELEC,Electronic and Computer Engineering,47.0,0.363,80.2,22.9,82.0,22.6
+19-20,SPRING,Dept,SENG,ENTR-SENG,Entrepreneurship,1.0,0.235,77.2,23.7,80.4,21.3
+19-20,SPRING,Dept,SENG,IEDA,Industrial Engineering and Decision Analytics,17.0,0.383,72.5,26.1,75.0,26.4
+19-20,SPRING,Dept,SENG,ISDN,Integrative Systems and Design,7.0,0.356,81.8,20.5,85.9,19.2
+19-20,SPRING,Dept,SENG,MECH,Mechanical Engineering,32.0,0.408,66.3,31.0,68.4,31.3
+19-20,SPRING,Dept,SENG,PDEV-SENG,Professional Development for SENG,1.0,0.398,86.9,17.2,90.0,15.7
+19-20,SPRING,Dept,SENG,ENGG,School of Engineering,6.0,0.381,75.3,24.7,84.3,19.1
+19-20,SPRING,School,SHSS,-,-,105.0,0.429,80.3,22.4,84.1,21.4
+19-20,SPRING,Dept,SHSS,SSMA,Graduate Diploma and MA Programs in Social Science,5.0,0.764,92.8,12.5,94.4,11.7
+19-20,SPRING,Dept,SHSS,HUMA,Humanities,42.0,0.426,79.2,21.9,84.6,20.0
+19-20,SPRING,Dept,SHSS,HMMA,MA Program in Chinese Culture,2.0,0.385,87.5,17.2,90.0,15.0
+19-20,SPRING,Dept,SHSS,MGCS,MSc Program in Global China Studies,4.0,0.686,85.7,23.7,88.4,24.4
+19-20,SPRING,Dept,SHSS,MILE,MSc Program in International Language Education,12.0,0.729,83.3,19.3,85.9,18.6
+19-20,SPRING,Dept,SHSS,HSS,School of Humanities & Social Science,1.0,0.25,100.0,0.0,100.0,0.0
+19-20,SPRING,Dept,SHSS,SOSC,Social Science,32.0,0.362,78.7,23.9,81.3,23.9
+19-20,SPRING,Dept,SHSS,HART,Studio Arts courses offered by HUMA,7.0,0.558,79.5,23.0,81.3,22.8
+19-20,SPRING,School,SSCI,-,-,219.0,0.366,74.4,23.3,77.1,23.9
+19-20,SPRING,Dept,SSCI,CHMS,Analytical Chemistry,6.0,0.486,86.9,20.9,88.1,20.0
+19-20,SPRING,Dept,SSCI,BIBU-SSCI,Biotechnology and Business,1.0,0.767,60.6,28.7,72.0,27.1
+19-20,SPRING,Dept,SSCI,CHEM,Chemistry,34.0,0.399,70.1,21.9,74.3,22.1
+19-20,SPRING,Dept,SSCI,ENTR-SSCI,Entrepreneurship,1.0,0.235,77.2,23.7,80.4,21.3
+19-20,SPRING,Dept,SSCI,LIFS,Life Science,32.0,0.311,77.1,20.3,79.6,21.3
+19-20,SPRING,Dept,SSCI,MAED,MSc Program in Mathematics for Educators,4.0,0.624,77.6,22.3,80.2,20.8
+19-20,SPRING,Dept,SSCI,MSDM,MSc in Data-Driven Modeling Program,5.0,0.261,86.2,18.1,90.8,13.5
+19-20,SPRING,Dept,SSCI,MATH,Mathematics,78.0,0.397,74.2,26.0,77.0,26.6
+19-20,SPRING,Dept,SSCI,NANO,NANO Science and Technology,3.0,0.647,93.2,11.7,95.5,10.1
+19-20,SPRING,Dept,SSCI,OCES,Ocean Science,11.0,0.352,70.3,20.1,70.1,23.5
+19-20,SPRING,Dept,SSCI,PHYS,Physics,35.0,0.39,74.0,24.5,77.3,24.1
+19-20,SPRING,Dept,SSCI,SCIE,School of Science,3.0,0.295,68.4,26.0,67.7,25.5
+19-20,SPRING,Dept,SSCI,CSIC,Scientific Computation,1.0,0.538,92.9,12.2,92.9,18.9
+19-20,SPRING,Dept,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),7.0,0.35,90.3,18.0,92.8,16.4
+19-20,SPRING,School,LANG/LABU/LAGR,-,-,374.0,0.53,74.4,24.1,82.7,21.5
+19-20,SPRING,Dept,LANG/LABU/LAGR,LANG,Language,320.0,0.53,74.7,24.1,82.8,21.4
+19-20,SPRING,Dept,LANG/LABU/LAGR,LABU,Language for Business,54.0,0.529,72.6,23.9,81.9,22.5
+19-20,SPRING,School,IPO,-,-,44.0,0.518,77.6,23.9,81.8,23.3
+19-20,SPRING,Dept,IPO,ENVR,Environment and Sustainability,25.0,0.564,72.4,24.4,76.7,25.0
+19-20,SPRING,Dept,IPO,EVSM,Environmental Science and Management,4.0,0.632,79.9,20.1,86.4,18.5
+19-20,SPRING,Dept,IPO,IDPO,Interdisciplinary Programs Office,2.0,0.467,89.3,13.4,92.9,12.2
+19-20,SPRING,Dept,IPO,PPOL,Public Policy,11.0,0.406,87.0,21.6,90.2,19.0
+19-20,SPRING,Dept,IPO,TEMG,Technology and Management,2.0,0.603,82.3,20.3,86.0,15.9
+19-20,SPRING,School,OTHERS,-,-,2.0,0.415,86.8,17.9,89.7,12.7
+19-20,SPRING,Dept,OTHERS,DSTO,Dean of Students' Office,2.0,0.415,86.8,17.9,89.7,12.7
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Note 1: The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,
+,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,
+2020-06-26 00:00:00,,,,,,,,,,,

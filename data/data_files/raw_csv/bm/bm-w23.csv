@@ -1,0 +1,69 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+22-23,WINTER,School,SBM,-,-,-,-,-,-,-,-,-,-,0.432,,-,17,4.23,-,0.88,-,4.44,-,0.8,-
+22-23,WINTER,Dept / Course Group,SBM,ECON,-,-,-,-,-,-,-,-,-,0.275,Y,-,2,4.46,-,1.07,-,4.54,-,1.07,-
+22-23,WINTER,Dept / Course Group,SBM,ISOM,-,-,-,-,-,-,-,-,-,0.436,,-,12,4.22,-,0.82,-,4.39,-,0.75,-
+22-23,WINTER,Dept / Course Group,SBM,MARK,-,-,-,-,-,-,-,-,-,0.625,,-,1,3.76,-,1.3,-,4.4,-,0.82,-
+22-23,WINTER,Dept / Course Group,SBM,SBMT,-,-,-,-,-,-,-,-,-,0.514,,-,2,4.44,-,0.81,-,4.59,-,0.85,-
+22-23,WINTER,Course,SBM,ECON,ECON,5341,-,22-23-WINTER-ECON-5341,-,-,-,-,-,0.25,Y,-,1,4.22,-,1.26,-,4.33,-,1.28,-
+22-23,WINTER,Section,SBM,ECON,ECON,5341,L1,22-23-WINTER-ECON-5341,22-23-WINTER-ECON-5341-L1,-,-,-,72,0.25,Y,-,-,4.22,-,1.26,-,4.33,-,1.28,-
+22-23,WINTER,Instructor,SBM,ECON,ECON,5341,L1,22-23-WINTER-ECON-5341,22-23-WINTER-ECON-5341-L1,22-23-WINTER-ECON-5341-L1-SI,"LORETAN, Mico",mico,72,0.25,Y,0.222,-,4.22,4.38,1.26,1.02,4.33,4.5,1.28,1.03
+22-23,WINTER,Course,SBM,ECON,ECON,5343,-,22-23-WINTER-ECON-5343,-,-,-,-,-,0.333,Y,0.267,1,4.9,5,0.32,0,4.9,5,0.32,0
+22-23,WINTER,Section,SBM,ECON,ECON,5343,L1,22-23-WINTER-ECON-5343,22-23-WINTER-ECON-5343-L1,-,-,-,30,0.333,Y,0.267,-,4.9,5,0.32,0,4.9,5,0.32,0
+22-23,WINTER,Instructor,SBM,ECON,ECON,5343,L1,22-23-WINTER-ECON-5343,22-23-WINTER-ECON-5343-L1,22-23-WINTER-ECON-5343-L1-SI,"COOK, David Edward",davcook,30,0.333,Y,0.267,-,4.9,5,0.32,0,4.9,5,0.32,0
+22-23,WINTER,Course,SBM,ISOM,ISOM,1380,-,22-23-WINTER-ISOM-1380,-,-,-,-,-,0.337,,-,2,4.03,-,0.7,-,4.33,-,0.73,-
+22-23,WINTER,Section,SBM,ISOM,ISOM,1380,L1,22-23-WINTER-ISOM-1380,22-23-WINTER-ISOM-1380-L1,-,-,-,98,0.327,,-,-,3.91,-,0.69,-,4.16,-,0.85,-
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,1380,L1,22-23-WINTER-ISOM-1380,22-23-WINTER-ISOM-1380-L1,22-23-WINTER-ISOM-1380-L1-SI,"HONG, Se-joon",sejoon,98,0.327,,0.306,-,3.91,3.93,0.69,0.58,4.16,4.2,0.85,0.76
+22-23,WINTER,Section,SBM,ISOM,ISOM,1380,L2,22-23-WINTER-ISOM-1380,22-23-WINTER-ISOM-1380-L2,-,-,-,98,0.347,,-,-,4.15,-,0.7,-,4.5,-,0.56,-
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,1380,L2,22-23-WINTER-ISOM-1380,22-23-WINTER-ISOM-1380-L2,22-23-WINTER-ISOM-1380-L2-SI,"KIM, Yongsuk",yongskim,98,0.347,,0.327,-,4.15,4.16,0.7,0.68,4.5,4.53,0.56,0.51
+22-23,WINTER,Course,SBM,ISOM,ISOM,1700,-,22-23-WINTER-ISOM-1700,-,-,-,-,-,0.43,,-,1,4.38,-,0.65,-,4.45,-,0.72,-
+22-23,WINTER,Section,SBM,ISOM,ISOM,1700,L1,22-23-WINTER-ISOM-1700,22-23-WINTER-ISOM-1700-L1,-,-,-,178,0.43,,-,-,4.38,-,0.65,-,4.45,-,0.72,-
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,1700,L1,22-23-WINTER-ISOM-1700,22-23-WINTER-ISOM-1700-L1,22-23-WINTER-ISOM-1700-L1-SI,"LAU, Ronald Siu Man",rlau,178,0.43,,0.408,-,4.38,4.4,0.65,0.62,4.45,4.49,0.72,0.65
+22-23,WINTER,Course,SBM,ISOM,ISOM,2400,-,22-23-WINTER-ISOM-2400,-,-,-,-,-,0.36,,-,1,3.87,-,0.94,-,4.11,-,0.83,-
+22-23,WINTER,Section,SBM,ISOM,ISOM,2400,L1,22-23-WINTER-ISOM-2400,22-23-WINTER-ISOM-2400-L1,-,-,-,125,0.36,,-,-,3.87,-,0.94,-,4.11,-,0.83,-
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,2400,L1,22-23-WINTER-ISOM-2400,22-23-WINTER-ISOM-2400-L1,22-23-WINTER-ISOM-2400-L1-SI,"XU, Yan",xuyan,125,0.36,,0.344,-,3.87,3.91,0.94,0.84,4.11,4.16,0.83,0.69
+22-23,WINTER,Course,SBM,ISOM,ISOM,3400,-,22-23-WINTER-ISOM-3400,-,-,-,-,-,0.346,Y,0.269,1,3.44,3.43,0.88,0.53,3.56,3.57,1.01,0.79
+22-23,WINTER,Section,SBM,ISOM,ISOM,3400,L1,22-23-WINTER-ISOM-3400,22-23-WINTER-ISOM-3400-L1,-,-,-,26,0.346,Y,0.269,-,3.44,3.43,0.88,0.53,3.56,3.57,1.01,0.79
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,3400,L1,22-23-WINTER-ISOM-3400,22-23-WINTER-ISOM-3400-L1,22-23-WINTER-ISOM-3400-L1-SI,"JIA, Jia",justinjia,26,0.346,Y,0.269,-,3.44,3.43,0.88,0.53,3.56,3.57,1.01,0.79
+22-23,WINTER,Course,SBM,ISOM,ISOM,4740,-,22-23-WINTER-ISOM-4740,-,-,-,-,-,0.286,Y,-,1,4.75,-,0.5,-,4.5,-,0.58,-
+22-23,WINTER,Section,SBM,ISOM,ISOM,4740,L1,22-23-WINTER-ISOM-4740,22-23-WINTER-ISOM-4740-L1,-,-,-,14,0.286,Y,-,-,4.75,-,0.5,-,4.5,-,0.58,-
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,4740,L1,22-23-WINTER-ISOM-4740,22-23-WINTER-ISOM-4740-L1,22-23-WINTER-ISOM-4740-L1-SI,"LAU, Ronald Siu Man",rlau,14,0.286,Y,0.143,-,4.75,5,0.5,0,4.5,4.5,0.58,0.71
+22-23,WINTER,Course,SBM,ISOM,ISOM,5020,-,22-23-WINTER-ISOM-5020,-,-,-,-,-,0.492,,-,2,4.33,-,1.0,-,4.55,-,0.7,-
+22-23,WINTER,Section,SBM,ISOM,ISOM,5020,L1,22-23-WINTER-ISOM-5020,22-23-WINTER-ISOM-5020-L1,-,-,-,70,0.329,Y,-,-,4.04,-,1.02,-,4.35,-,0.78,-
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,5020,L1,22-23-WINTER-ISOM-5020,22-23-WINTER-ISOM-5020-L1,22-23-WINTER-ISOM-5020-L1-SI,"JAISINGH, Jeevan",jeevan,70,0.329,Y,0.3,-,4.04,4.14,1.02,0.79,4.35,4.43,0.78,0.6
+22-23,WINTER,Section,SBM,ISOM,ISOM,5020,L2,22-23-WINTER-ISOM-5020,22-23-WINTER-ISOM-5020-L2,-,-,-,52,0.712,,-,-,4.51,-,0.96,-,4.68,-,0.63,-
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,5020,L2,22-23-WINTER-ISOM-5020,22-23-WINTER-ISOM-5020-L2,22-23-WINTER-ISOM-5020-L2-SI,"KOH,Tat Koon",koh,52,0.712,,0.673,-,4.51,4.6,0.96,0.77,4.68,4.71,0.63,0.57
+22-23,WINTER,Course,SBM,ISOM,ISOM,5220,-,22-23-WINTER-ISOM-5220,-,-,-,-,-,0.652,,-,1,4.47,-,0.57,-,4.6,-,0.56,-
+22-23,WINTER,Section,SBM,ISOM,ISOM,5220,L1,22-23-WINTER-ISOM-5220,22-23-WINTER-ISOM-5220-L1,-,-,-,45,0.652,,-,-,4.47,-,0.57,-,4.6,-,0.56,-
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,5220,L1,22-23-WINTER-ISOM-5220,22-23-WINTER-ISOM-5220-L1,22-23-WINTER-ISOM-5220-L1-SI,"CLARK, Theodore Henry King",tclark,45,0.652,,0.609,-,4.47,4.5,0.57,0.51,4.6,4.64,0.56,0.49
+22-23,WINTER,Course,SBM,ISOM,ISOM,5370,-,22-23-WINTER-ISOM-5370,-,-,-,-,-,0.517,Y,-,1,4.2,-,0.77,-,4.33,-,0.72,-
+22-23,WINTER,Section,SBM,ISOM,ISOM,5370,L1,22-23-WINTER-ISOM-5370,22-23-WINTER-ISOM-5370-L1,-,-,-,29,0.517,Y,-,-,4.2,-,0.77,-,4.33,-,0.72,-
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,5370,L1,22-23-WINTER-ISOM-5370,22-23-WINTER-ISOM-5370-L1,22-23-WINTER-ISOM-5370-L1-SI,"KIM, Yongsuk",yongskim,29,0.517,Y,0.448,-,4.2,4.23,0.77,0.73,4.33,4.38,0.72,0.65
+22-23,WINTER,Course,SBM,ISOM,ISOM,5720,-,22-23-WINTER-ISOM-5720,-,-,-,-,-,0.857,Y,-,1,5.0,-,0.0,-,5,-,0,-
+22-23,WINTER,Section,SBM,ISOM,ISOM,5720,L1,22-23-WINTER-ISOM-5720,22-23-WINTER-ISOM-5720-L1,-,-,-,7,0.857,Y,-,-,5.0,-,0.0,-,5,-,0,-
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,5720,L1,22-23-WINTER-ISOM-5720,22-23-WINTER-ISOM-5720-L1,22-23-WINTER-ISOM-5720-L1-SI,"LAU, Ronald Siu Man",rlau,7,0.857,Y,0.571,-,5.0,5,0.0,0,5,5,0,0
+22-23,WINTER,Course,SBM,ISOM,ISOM,6790K,-,22-23-WINTER-ISOM-6790K,-,-,-,-,-,0.813,,-,1,4.31,-,0.79,-,-,-,-,-
+22-23,WINTER,Section,SBM,ISOM,ISOM,6790K,L1,22-23-WINTER-ISOM-6790K,22-23-WINTER-ISOM-6790K-L1,-,-,-,32,0.813,,-,-,4.31,-,0.79,-,-,-,-,-
+22-23,WINTER,Instructor,SBM,ISOM,ISOM,6790K,L1,22-23-WINTER-ISOM-6790K,22-23-WINTER-ISOM-6790K-L1,22-23-WINTER-ISOM-6790K-L1-SN2,,,32,0.813,,0.75,-,4.31,4.38,0.79,0.65,-,-,-,-
+22-23,WINTER,Course,SBM,MARK,MARK,5120,-,22-23-WINTER-MARK-5120,-,-,-,-,-,0.625,,0.575,1,3.76,3.83,1.3,1.19,4.4,4.43,0.82,0.79
+22-23,WINTER,Section,SBM,MARK,MARK,5120,L1,22-23-WINTER-MARK-5120,22-23-WINTER-MARK-5120-L1,-,-,-,40,0.625,,0.575,-,3.76,3.83,1.3,1.19,4.4,4.43,0.82,0.79
+22-23,WINTER,Instructor,SBM,MARK,MARK,5120,L1,22-23-WINTER-MARK-5120,22-23-WINTER-MARK-5120-L1,22-23-WINTER-MARK-5120-L1-SI,"SALVACRUZ, Joseph",mkjcs,40,0.625,,0.575,-,3.76,3.83,1.3,1.19,4.4,4.43,0.82,0.79
+22-23,WINTER,Course,SBM,SBMT,SBMT,5300,-,22-23-WINTER-SBMT-5300,-,-,-,-,-,0.571,,-,1,4.63,-,0.65,-,4.59,-,0.85,-
+22-23,WINTER,Section,SBM,SBMT,SBMT,5300,L1,22-23-WINTER-SBMT-5300,22-23-WINTER-SBMT-5300-L1,-,-,-,41,0.571,,-,-,4.63,-,0.65,-,4.59,-,0.85,-
+22-23,WINTER,Instructor,SBM,SBMT,SBMT,5300,L1,22-23-WINTER-SBMT-5300,22-23-WINTER-SBMT-5300-L1,22-23-WINTER-SBMT-5300-L1-SI,"DORAN, Christopher",cjsd,41,0.571,,0.548,-,4.63,4.68,0.65,0.57,4.79,4.91,0.66,0.29
+22-23,WINTER,Instructor,SBM,SBMT,SBMT,5300,L1,22-23-WINTER-SBMT-5300,22-23-WINTER-SBMT-5300-L1,22-23-WINTER-SBMT-5300-L1-SI,"FRANKLIN, Laurence Craig",lcfran,41,0.571,,0.548,-,4.63,4.68,0.65,0.57,4.63,4.73,0.71,0.46
+22-23,WINTER,Instructor,SBM,SBMT,SBMT,5300,L1,22-23-WINTER-SBMT-5300,22-23-WINTER-SBMT-5300-L1,22-23-WINTER-SBMT-5300-L1-SI,"NASON, Stephen William",mnsnason,41,0.571,,0.548,-,4.63,4.68,0.65,0.57,4.58,4.64,0.65,0.58
+22-23,WINTER,Instructor,SBM,SBMT,SBMT,5300,L1,22-23-WINTER-SBMT-5300,22-23-WINTER-SBMT-5300-L1,22-23-WINTER-SBMT-5300-L1-SI,"SALVACRUZ, Joseph",mkjcs,41,0.571,,0.548,-,4.63,4.68,0.65,0.57,4.38,4.5,1.24,1.06
+22-23,WINTER,Course,SBM,SBMT,SBMT,6011K,-,22-23-WINTER-SBMT-6011K,-,-,-,-,-,0.429,Y,0.357,1,4.08,4.2,1.0,0.79,-,-,-,-
+22-23,WINTER,Section,SBM,SBMT,SBMT,6011K,L1,22-23-WINTER-SBMT-6011K,22-23-WINTER-SBMT-6011K-L1,-,-,-,28,0.429,Y,0.357,-,4.08,4.2,1.0,0.79,-,-,-,-
+22-23,WINTER,Instructor,SBM,SBMT,SBMT,6011K,L1,22-23-WINTER-SBMT-6011K,22-23-WINTER-SBMT-6011K-L1,22-23-WINTER-SBMT-6011K-L1-SN,,,28,0.429,Y,0.357,-,4.08,4.2,1.0,0.79,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by OIR,,,,,,,,,,,,,,,,,,,,,,,,,
+2023-02-07 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,
