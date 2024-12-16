@@ -42,3 +42,6 @@ next-env.d.ts
 
 # data logs
 /data/**/*.log
+
+# pycache
+**/__pycache__/
