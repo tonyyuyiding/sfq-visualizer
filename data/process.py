@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-from utils import YSStqdm
+from utils import YSS, YSStqdm
 
 
 def excel_to_csv(from_path, to_path) -> bool:
@@ -25,13 +25,12 @@ def excel_to_csv_exc() -> None:
         )
 
 
-if __name__ == "__main__":
-    # Step 1. Convert all Excel files to CSV files
-    # excel_to_csv_exc()
+def process_csv(directory, yss: YSS) -> pd.DataFrame:
+    file_path = os.path.join(directory, yss.file_name_csv)
     
-    df = pd.read_csv("csv_raw/eng/eng-f23.csv")
+    df = pd.read_csv(file_path)
     
-    # Step 2. Delete unnecessary columns
+    # Delete unnecessary columns
     df = df.filter(
         items=[
             "Academic Year",
@@ -50,7 +49,7 @@ if __name__ == "__main__":
             "Instructor Overall - SD",
         ]
     )
-    # Step 3. Rename columns
+    # Rename columns
     df = df.rename(
         columns={
             "Academic Year": "acad_year",
@@ -69,19 +68,30 @@ if __name__ == "__main__":
             "Instructor Overall - SD": "instructor_sd",
         }
     )
-    # Step 4. Delete unnessary rows
+    
+    # Delete unnessary rows
     df = df.loc[df["acad_year"] == "23-24"]
-    df = df.loc[df["level"].isin(["Course", "Section", "Instructor"])]
-    # Step 5. Delete rows with unexpected values
+    df = df.loc[df["level"].isin(["Section", "Instructor"])]
+    
+    # Delete rows with unexpected values
     df = df.loc[df["num_enrollment"] != "-"]
-    # Step 6. Type casting
-    df["num_enrollment"] = df["num_enrollment"].apply(pd.to_numeric, errors="coerce")
-    df["response_rate"] = df["response_rate"].apply(pd.to_numeric, errors="coerce")
-    df["course_mean"] = df["course_mean"].apply(pd.to_numeric, errors="coerce")
-    df["course_sd"] = df["course_sd"].apply(pd.to_numeric, errors="coerce")
-    df["instructor_mean"] = df["instructor_mean"].apply(pd.to_numeric, errors="coerce")
-    df["instructor_sd"] = df["instructor_sd"].apply(pd.to_numeric, errors="coerce")
-    # Step 7. Calculate the number of responses
+    
+    def to_numeric_with_null(x):
+        try:
+            return float(x)
+        except ValueError:
+            return 0
+    
+    # Type casting
+    df["num_enrollment"] = df["num_enrollment"].apply(to_numeric_with_null)
+    df["response_rate"] = df["response_rate"].apply(to_numeric_with_null)
+    df["course_mean"] = df["course_mean"].apply(to_numeric_with_null)
+    df["course_sd"] = df["course_sd"].apply(to_numeric_with_null)
+    df["instructor_mean"] = df["instructor_mean"].apply(to_numeric_with_null)
+    df["instructor_sd"] = df["instructor_sd"].apply(to_numeric_with_null)
+    
+    # Calculate the number of responses
     df["num_response"] = round(df["num_enrollment"] * df["response_rate"])
     df.drop(columns=["response_rate"])
-    print(df["num_response"])
+    
+    return df
