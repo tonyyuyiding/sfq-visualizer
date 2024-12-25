@@ -217,6 +217,18 @@ def delete_nan(file_path) -> None:
     content = delete_nan_recursion(content)
     with open(file_path, "w") as file:
         json.dump(content, file)
+        
+        
+def generate_itsc_map(file_path, save_path=None) -> dict:
+    with open(file_path, "r") as file:
+        data = json.load(file)
+    res = {}
+    for k, v in data.items():
+        res[k] = v["instructor_name"]
+    if save_path is not None:
+        with open(save_path, "w") as file:
+            json.dump(res, file)
+    return res
 
 
 if __name__ == "__main__":
@@ -238,6 +250,7 @@ if __name__ == "__main__":
     # )
     # delete_nan("data_files/processed/chart_data_instructors.json")
     # delete_nan("data_files/processed/chart_data_courses.json")
+    generate_itsc_map("data_files/processed/ranking_instructors.json", "data_files/processed/itsc_map.json")
     pass
 
 
