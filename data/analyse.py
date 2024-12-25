@@ -7,15 +7,6 @@ from tqdm import tqdm
 # NOTE: score 0 is a placeholder. The minimum score is 1.
 
 
-def merge_with_mean(df: pd.DataFrame, col_groupby: str, col_mean: str, col_count: str) -> pd.DataFrame:
-    df["_mean_times_response"] = df[col_mean] * df[col_count]
-    grouped = df.groupby(col_groupby)
-    df = grouped.agg({"_mean_times_response": "sum", col_count: "sum"})
-    df[col_mean] = df["_mean_times_response"] / df[col_count]
-    df.drop(columns=["_mean_times_response"], inplace=True)
-    return df
-
-
 def add_semester(df: pd.DataFrame) -> pd.DataFrame:
     df["semester"] = df["acad_year"] + " " + df["term"].apply(lambda s: s.lower())
     return df
@@ -37,14 +28,14 @@ def summarize_on_instructors(file_path, save_path=None) -> pd.DataFrame:
         {"mean_times_response_instructor": "sum", "num_response": "sum"}
     )
     df = df.loc[df["num_response"] > 0]
-    df["instructor_mean"] = df["mean_times_response_instructor"] / df["num_response"]
+    df["instructor_mean"] = (df["mean_times_response_instructor"] / df["num_response"]).round(2)
     df.drop(columns=["mean_times_response_instructor"], inplace=True)
     df = df.loc[df["instructor_mean"] >= 1]
 
     # sorting
     df.sort_values(by=["instructor_mean"], ascending=False, inplace=True)
     df["percentile"] = (
-        df["instructor_mean"].rank(ascending=True, method="max", pct=True) * 100
+        df["instructor_mean"].rank(ascending=True, method="max", pct=True).round(4) * 100
     )
 
     # add itsc and names
@@ -71,14 +62,14 @@ def summarize_on_courses(file_path, save_path=None) -> pd.DataFrame:
         {"mean_times_response_course": "sum", "num_response": "sum"}
     )
     df = df.loc[df["num_response"] > 0]
-    df["course_mean"] = df["mean_times_response_course"] / df["num_response"]
+    df["course_mean"] = (df["mean_times_response_course"] / df["num_response"]).round(2)
     df.drop(columns=["mean_times_response_course"], inplace=True)
     df = df.loc[df["course_mean"] >= 1]
 
     # sorting
     df.sort_values(by=["course_mean"], ascending=False, inplace=True)
     df["percentile"] = (
-        df["course_mean"].rank(ascending=True, method="max", pct=True) * 100
+        df["course_mean"].rank(ascending=True, method="max", pct=True).round(4) * 100
     )
 
     if save_path is not None:
@@ -95,14 +86,11 @@ def chart_data_instructors(file_path, save_path=None) -> dict:
     df = add_course_code(df)
     res = {}
 
-    # 学期内数据合并， 索引为semester
-
     itscs = df["instructor_itsc"].unique()
     print("Generating chart data for instructors...")
     for itsc in tqdm(itscs):
         df_filtered = df.loc[df["instructor_itsc"] == itsc][
             [
-                "section",
                 "semester",
                 "course_code",
                 "course_mean",
@@ -124,16 +112,20 @@ def chart_data_instructors(file_path, save_path=None) -> dict:
             df_course = df_filtered.loc[df_filtered["course_code"] == course]
             semesters = df_course["semester"].unique()
             for semester in semesters:
-                df_semester = df_course.loc[df_course["semester"] == semester]
-                df_semester = df_semester.drop(
-                    columns=["semester", "course_code"]
-                )
-                df_semester.index = df_semester["section"]
-                df_semester = df_semester.drop(columns=["section"])
-                try:
-                    res_itsc_course[semester] = df_semester.to_dict(orient="index")
-                except ValueError:
-                    print(df_course)
+                df_semester: pd.DataFrame = df_course.loc[df_course["semester"] == semester]
+                df_semester = df_semester.drop(columns=["semester", "course_code"])
+                df_semester = df_semester.loc[df_semester["nr"] > 0]
+                df_semester["cpd"] = df_semester["cm"] * df_semester["nr"]
+                df_semester["ipd"] = df_semester["im"] * df_semester["nr"]
+                df_semester = df_semester.agg({"cpd": "sum", "ipd": "sum", "nr": "sum"})
+                if isinstance(df_semester, pd.Series):
+                    df_semester = df_semester.to_frame().T
+                df_semester.loc[df_semester["cpd"] == 0, "nr"] = 1
+                df_semester["nr"] = df_semester["nr"].astype(int)
+                df_semester["cm"] = (df_semester["cpd"] / df_semester["nr"]).round(2)
+                df_semester["im"] = (df_semester["ipd"] / df_semester["nr"]).round(2)
+                df_semester = df_semester.drop(columns=["cpd", "ipd"])
+                res_itsc_course[semester] = df_semester.to_dict(orient="records")[0]
 
             res_itsc[course] = res_itsc_course
 
@@ -143,17 +135,23 @@ def chart_data_instructors(file_path, save_path=None) -> dict:
         print(f"Saving to {save_path}")
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         with open(save_path, "w") as file:
-            json.dump(res, file, indent=4)
+            json.dump(res, file)
     return res
 
 
 if __name__ == "__main__":
-    df = summarize_on_instructors("data_files/processed/all_processed_data.csv", "data_files/processed/ranking_instructors.json")
-    df = summarize_on_courses("data_files/processed/all_processed_data.csv", "data_files/processed/ranking_courses.json")
-    res = chart_data_instructors(
-        "data_files/processed/all_processed_data.csv",
-        "data_files/processed/chart_data_instructors.json",
-    )
+    # df = summarize_on_instructors(
+    #     "data_files/processed/all_processed_data.csv",
+    #     "data_files/processed/ranking_instructors.json",
+    # )
+    # df = summarize_on_courses(
+    #     "data_files/processed/all_processed_data.csv",
+    #     "data_files/processed/ranking_courses.json",
+    # )
+    # res = chart_data_instructors(
+    #     "data_files/processed/all_processed_data.csv",
+    #     "data_files/processed/chart_data_instructors.json",
+    # )
     pass
 
 
