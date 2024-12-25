@@ -85,6 +85,9 @@ def read_and_process_csv(directory, yss: YSS) -> pd.DataFrame:
     # df = df.loc[df["num_enrollment"] != "-"]
 
     def to_numeric_with_null(x):
+        """
+        NOTE: The number 0 in processed data is a placeholder. The minimum score is 1.
+        """
         try:
             return float(x)
         except ValueError:
