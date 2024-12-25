@@ -202,6 +202,23 @@ def chart_data_courses(file_path, save_path=None) -> dict:
     return res
 
 
+def delete_nan_recursion(obj) -> any:
+    if isinstance(obj, dict):
+        return {k: delete_nan_recursion(v) for k, v in obj.items() if k != "NaN"}
+    if isinstance(obj, list):
+        return [delete_nan_recursion(v) for v in obj]
+    return obj
+
+
+def delete_nan(file_path) -> None:
+    content = None
+    with open(file_path, "r") as file:
+        content = json.load(file)
+    content = delete_nan_recursion(content)
+    with open(file_path, "w") as file:
+        json.dump(content, file)
+
+
 if __name__ == "__main__":
     # df = summarize_on_instructors(
     #     "data_files/processed/all_processed_data.csv",
@@ -215,10 +232,12 @@ if __name__ == "__main__":
     #     "data_files/processed/all_processed_data.csv",
     #     "data_files/processed/chart_data_instructors.json",
     # )
-    res = chart_data_courses(
-        "data_files/processed/all_processed_data.csv",
-        "data_files/processed/chart_data_courses.json",
-    )
+    # res = chart_data_courses(
+    #     "data_files/processed/all_processed_data.csv",
+    #     "data_files/processed/chart_data_courses.json",
+    # )
+    # delete_nan("data_files/processed/chart_data_instructors.json")
+    # delete_nan("data_files/processed/chart_data_courses.json")
     pass
 
 
