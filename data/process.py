@@ -188,6 +188,18 @@ def process_itsc_name(file_path, save_path=None, itsc_mode=False) -> None:
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         df.to_csv(save_path, encoding="utf-8")
     return df
+
+
+def delete_duplicated_data(file_path, save_path=None) -> None:
+    df = pd.read_csv(file_path)
+    for df_name in df.columns:
+        if "Unnamed" in df_name:
+            df = df.drop(columns=[df_name])
+    df = df.drop_duplicates()
+    if save_path is not None:
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        df.to_csv(save_path, index=False, encoding="utf-8")
+    return df
     
 
 if __name__ == "__main__":
@@ -195,4 +207,5 @@ if __name__ == "__main__":
     # df = read_process_merge_csv_exc(save_path="data_files/processed/all_raw_data.csv")
     # df = process_itsc_name("data_files/processed/all_raw_data.csv", "data_files/processed/name_itsc_processed_1.csv")
     # df = process_itsc_name("data_files/processed/name_itsc_processed_1.csv", "data_files/processed/name_itsc_processed_2.csv", itsc_mode=True)
+    # df = delete_duplicated_data("data_files/processed/name_itsc_processed_2.csv", "data_files/processed/all_processed_data.csv")
     pass
