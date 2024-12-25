@@ -1,10 +1,12 @@
 "use client";
 
 import { useSearchParams } from 'next/navigation'
+import { Suspense } from 'react'
+
 import CourseRankings from './CourseRankings';
 import CourseChart from './CourseChart';
 
-export default function Courses() {
+function CoursesInner() {
     const searchParams = useSearchParams();
     const course_code = searchParams.get('course_code');
 
@@ -18,4 +20,13 @@ export default function Courses() {
             <CourseChart courseCode={course_code} />
         );
     }
+}
+
+
+export default function Courses() {
+    return (
+        <Suspense>
+            <CoursesInner />
+        </Suspense>
+    )
 }
