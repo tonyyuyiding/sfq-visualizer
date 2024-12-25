@@ -77,11 +77,12 @@ def read_and_process_csv(directory, yss: YSS) -> pd.DataFrame:
 
     # Delete unnessary rows
     df = df.loc[df["acad_year"] == yss.academic_year]
+    # df = pd.concat((df.loc[df["level"] == "Instructor"], df.loc[df["level"] == "Course"], ))
     df = df.loc[df["level"] == "Instructor"]
     df = df.drop(columns=["level"])
 
-    # Delete rows with unexpected values
-    df = df.loc[df["num_enrollment"] != "-"]
+    # Delete rows with unexpected values (no need because try-except is used)
+    # df = df.loc[df["num_enrollment"] != "-"]
 
     def to_numeric_with_null(x):
         try:
@@ -111,7 +112,7 @@ def read_and_process_csv(directory, yss: YSS) -> pd.DataFrame:
     return df
 
 
-def read_process_merge_csv_exc(save_path) -> None:
+def read_process_merge_csv_exc(save_path=None) -> pd.DataFrame:
     print("Processing and Merging all raw csv files... (Note: term summary and breakdown files are skipped)")
     
     log_dir = "logs/merge_log"
@@ -145,13 +146,50 @@ def read_process_merge_csv_exc(save_path) -> None:
                 yss_tqdm.add_success()
                 log.write(f"SUCCESS: {yss.file_name_csv}\n")
             
-    if df is not None:
+    if df is not None and save_path is not None:
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         df.to_csv(save_path, index=False, encoding="utf-8")
     return df
 
 
+def process_itsc_name(file_path, save_path=None, itsc_mode=False) -> None:
+    df = pd.read_csv(file_path)
+    df_name_itsc = df[["instructor_name", "instructor_itsc"]].drop_duplicates()
+    df_name_count = df_name_itsc.groupby("instructor_itsc").agg({"instructor_name": "nunique"})
+    df_name_count_filtered = df_name_count.loc[df_name_count["instructor_name"] > 1]
+    if df_name_count_filtered.empty:
+        print("No duplicated names found")
+        return df
+    
+    for itsc in df_name_count_filtered.index:
+        if itsc == "Nil":
+            names = df_name_itsc.loc[df_name_itsc["instructor_itsc"] == itsc]["instructor_name"].values
+            print(f"Found names with no itsc: {names}")
+            for name in names:
+                new_itsc = input(f"> Please enter an itsc for {[name]}: ")
+                df.loc[(df["instructor_itsc"] == itsc) & (df["instructor_name"] == name), "instructor_itsc"] = new_itsc
+        
+        else:
+            names = df_name_itsc.loc[df_name_itsc["instructor_itsc"] == itsc]["instructor_name"].values
+            print(f"Found duplicated names for itsc {itsc}: {names}")
+            if not itsc_mode:
+                for name in names:
+                    new_name = input(f"> Please enter a name to replace {[name]}: ")
+                    df.loc[(df["instructor_itsc"] == itsc) & (df["instructor_name"] == name), "instructor_name"] = new_name
+            else:
+                for name in names:
+                    new_itsc = input(f"> Please enter an itsc for {[name]}: ")
+                    df.loc[(df["instructor_itsc"] == itsc) & (df["instructor_name"] == name), "instructor_itsc"] = new_itsc
+    
+    if save_path is not None:
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        df.to_csv(save_path, encoding="utf-8")
+    return df
+    
+
 if __name__ == "__main__":
     # excel_to_csv_exc()
-    df = read_process_merge_csv_exc(save_path="data_files/processed/all_raw_data.csv")
-    print(df)
+    # df = read_process_merge_csv_exc(save_path="data_files/processed/all_raw_data.csv")
+    # df = process_itsc_name("data_files/processed/all_raw_data.csv", "data_files/processed/name_itsc_processed_1.csv")
+    # df = process_itsc_name("data_files/processed/name_itsc_processed_1.csv", "data_files/processed/name_itsc_processed_2.csv", itsc_mode=True)
+    pass
