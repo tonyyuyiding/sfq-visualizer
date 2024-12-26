@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
+  --background: #eeeeee;
   --foreground: #171717;
   --font-code-like: 'Source Code Pro', monospace;
 }
@@ -21,6 +21,14 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.font-code-like {
-  font-family: var(--font-code-like);
+nav {
+  background-color: #003366;
 }
+
+.bg-background {
+  background-color: var(--background);
+}
+/* 
+.bg-ust-yellow {
+  background-color: #CC9900;
+} */

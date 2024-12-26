@@ -14,13 +14,14 @@ function NavLink(props: { name: string; href: string }) {
 
 export default function Navbar() {
     return (
-        <nav className="bg-gray-800 top-0 w-full sticky flex items-center justify-between px-4 py-4">
+        <nav className="top-0 w-full sticky flex items-center justify-between px-4 py-4">
             <h1 className="text-white">
                 <a href="/">UST SFQ Visualizer</a>
             </h1>
             <div className="flex gap-4">
                 <NavLink name="Courses" href="/courses" />
                 <NavLink name="Instructors" href="/instructors" />
+                <NavLink name="Top" href="#top" />
             </div>
         </nav>
     );
