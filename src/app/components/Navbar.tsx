@@ -21,7 +21,6 @@ export default function Navbar() {
             <div className="flex gap-4">
                 <NavLink name="Courses" href="/courses" />
                 <NavLink name="Instructors" href="/instructors" />
-                <NavLink name="Top" href="#top" />
             </div>
         </nav>
     );
