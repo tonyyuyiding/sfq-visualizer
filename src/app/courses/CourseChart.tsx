@@ -4,13 +4,12 @@ import { Chart } from "chart.js/auto";
 
 import dataRaw from "../../../data/data_files/processed/chart_data_courses.json";
 import { getSemesterListFromObj, getDatasetFromObj, Dataset } from "../utils";
-import { runInCleanSnapshot } from "next/dist/server/app-render/clean-async-snapshot-instance";
+
+const data = JSON.parse(JSON.stringify(dataRaw));
 
 export default function CourseChart(props: { courseCode: string }) {
     const [dataKey, setDataKey] = useState<"cm" | "im">("im");
     const chartRef = useRef<Chart | null>(null);
-
-    const data = JSON.parse(JSON.stringify(dataRaw));
 
     const courseCode: string = props.courseCode
     if (courseCode.length < 5) {
