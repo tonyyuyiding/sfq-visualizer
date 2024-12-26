@@ -1,36 +1,16 @@
 import rankingDataRaw from "../../../data/data_files/processed/ranking_instructors.json";
-import { Ranking, RankingItemProps } from "../components/Ranking";
+import { Ranking, RankingItemRaw } from "../components/Ranking";
+import { getNameByItsc } from "../utils";
 
-const minResponses = parseInt(localStorage.getItem('minResponses') || '0', 10);
 const rankingData = JSON.parse(JSON.stringify(rankingDataRaw));
-const rankingItemProps: RankingItemProps[] = [];
-let rank = 0;
-let hold = 0;
-let lastScore = Infinity;
-
-let numIncluded = 0;
-for (const k in rankingData) {
-    const v = rankingData[k];
-    if (v.num_response >= minResponses) numIncluded++;
-}
+const rankingItems: RankingItemRaw[] = [];
 
 for (const k in rankingData) {
     const v = rankingData[k];
-    if (v.num_response < minResponses) continue;
-    hold++;
-    if (v.instructor_mean < lastScore) {
-        lastScore = v.instructor_mean;
-        rank += hold;
-        hold = 0;
-    }
-    rankingItemProps.push({
-        rank: rank,
-        title: v.instructor_name,
-        desc: [
-            `instructor mean: ${v.instructor_mean.toFixed(2)}`,
-            `percentile: ${((1 - (rank - 1) / numIncluded) * 100).toFixed(2)}%`,
-            `responses: ${v.num_response}`,
-        ],
+    rankingItems.push({
+        title: getNameByItsc(k),
+        score: v.instructor_mean,
+        nr: v.num_response,
         link: "/instructors?itsc=" + k,
     });
 }
@@ -38,7 +18,7 @@ for (const k in rankingData) {
 export default function InstructorRankings() {
     return (
         <div>
-            <Ranking items={rankingItemProps} searchPrompt="Search for instructor here..." />
+            <Ranking items={rankingItems} searchPrompt="Search for instructor here..." scoreName="instructor_mean" />
         </div>
     );
 }

@@ -1,13 +1,21 @@
 import { useState, useEffect } from "react";
 
-export interface RankingItemProps {
+interface RankingItemRaw {
+    title: string;
+    score: number;
+    nr: number;
+    link: string;
+}
+
+interface RankingItemProps {
     rank: number;
     title: string;
     desc: string[];
     link: string;
 }
 
-export function RankingItem(props: RankingItemProps) {
+
+function RankingItem(props: RankingItemProps) {
     return (
         <a href={props.link} className="w-full">
             <div className="px-6 py-4 bg-gray-100 border border-gray-300 rounded-lg hover:shadow-md transition-shadow duration-200">
@@ -17,7 +25,13 @@ export function RankingItem(props: RankingItemProps) {
                     </div>
                     <div className="flex-grow-1">
                         <h3 className="text-lg font-bold">{props.title}</h3>
-                        <p className="text-sm">{props.desc.join(", ")}</p>
+                        <span className="flex flex-wrap gap-x-3">
+                            {props.desc.map((d, i) => {
+                                return (
+                                    <span key={i} className="text-sm">{d}</span>
+                                );
+                            })}
+                        </span>
                     </div>
                 </div>
             </div>
@@ -25,17 +39,57 @@ export function RankingItem(props: RankingItemProps) {
     );
 }
 
-export function Ranking(props: { items: RankingItemProps[], searchPrompt: string }) {
+function Ranking(props: { items: RankingItemRaw[], searchPrompt: string, scoreName: string }) {
+    const [isLoading, setIsLoading] = useState<boolean>(true);
     const [searchQuery, setSearchQuery] = useState<string>("");
-    const [filteredItems, setFilteredItems] = useState<RankingItemProps[]>(props.items);
+    const [filteredItems, setFilteredItems] = useState<RankingItemProps[]>([]);
+    const [foundItems, setFoundItems] = useState<RankingItemProps[]>([]);
 
     useEffect(() => {
-        setFilteredItems(
-            props.items.filter((item) => {
+        setIsLoading(true);
+
+        let items = props.items;
+        // items.sort((a, b) => -(a.score - b.score));
+
+        const minResponses = parseInt(localStorage.getItem('minResponses') || '0', 10);
+        items = items.filter((item) => item.nr >= minResponses);
+        const numIncluded = items.length;
+
+        let rank = 0;
+        let hold = 0;
+        let lastScore = Infinity;
+        let newFilteredItems: RankingItemProps[] = [];
+
+        for (const item of items) {
+            hold++;
+            if (item.score < lastScore) {
+                lastScore = item.score;
+                rank += hold;
+                hold = 0;
+            }
+            newFilteredItems.push({
+                rank: rank,
+                title: item.title,
+                desc: [
+                    `${props.scoreName}: ${item.score.toFixed(2)}`,
+                    `percentile: ${((1 - (rank - 1) / numIncluded) * 100).toFixed(2)}%`,
+                    `num_responses: ${item.nr}`,
+                ],
+                link: item.link,
+            });
+        }
+
+        setFilteredItems(newFilteredItems);
+    }, [props.items]);
+
+    useEffect(() => {
+        setFoundItems(
+            filteredItems.filter((item) => {
                 return item.title.toLowerCase().includes(searchQuery.toLowerCase());
             })
         );
-    }, [searchQuery, props.items]);
+        setIsLoading(false);
+    }, [searchQuery, filteredItems]);
 
     return (
         <div className="flex flex-col items-center">
@@ -51,7 +105,10 @@ export function Ranking(props: { items: RankingItemProps[], searchPrompt: string
             }
             <div className="flex flex-col items-center gap-4 my-6 px-4">
                 {
-                    filteredItems.map((item, index) => {
+                    isLoading && <p>Loading...</p>
+                }
+                {
+                    foundItems.map((item, index) => {
                         return (
                             <div key={index} className="w-full max-w-md px-1">
                                 <RankingItem {...item} />
@@ -62,4 +119,9 @@ export function Ranking(props: { items: RankingItemProps[], searchPrompt: string
             </div>
         </div>
     )
+}
+
+export {
+    type RankingItemRaw,
+    Ranking,
 }
