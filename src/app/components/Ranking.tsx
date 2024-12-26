@@ -44,7 +44,7 @@ export function Ranking(props: { items: RankingItemProps[], searchPrompt: string
                     <div className="w-full max-w-md bg-background">
                         <input type="text" placeholder={props.searchPrompt} className="w-full max-w-md px-4 py-2 mt-6 bg-transparent border-0 border-b border-black focus:outline-none text-lg text-center" value={searchQuery} onChange={(e) => setSearchQuery(e.target.value)} />
                         <p className="text-sm text-center text-gray-500 mt-2 mb-2">
-                            (Click an item to view a more detailed chart)
+                            (Click an item to view a more detailed chart of it)
                         </p>
                     </div>
                 )

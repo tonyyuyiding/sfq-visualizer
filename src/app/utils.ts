@@ -43,7 +43,7 @@ function semesterCmp(a: string, b: string): 1 | 0 | -1 {
     }
 }
 
-export function getSemesterListFromObj(obj: DataObj): string[] {
+export function getSemesterListDSO(obj: DataObj): string[] {
     let semesterSet: Set<string> = new Set();
     for (const [_, v] of Object.entries(obj)) {
         for (const k of Object.keys(v)) {
@@ -53,8 +53,8 @@ export function getSemesterListFromObj(obj: DataObj): string[] {
     return Array.from(semesterSet).sort(semesterCmp);
 }
 
-export function getDatasetFromObj(obj: DataObj, key: "itsc" | "course_code", data_key: "cm" | "im"): Dataset[] {
-    const semesters = getSemesterListFromObj(obj);
+export function getDatasetListDSO(obj: DataObj, secondary_key_type: "itsc" | "course_code", data_key: "cm" | "im"): Dataset[] {
+    const semesters = getSemesterListDSO(obj);
     let datasets: Dataset[] = [];
     for (const [k, v] of Object.entries(obj)) {
         let nrs: number[] = [];
@@ -68,7 +68,7 @@ export function getDatasetFromObj(obj: DataObj, key: "itsc" | "course_code", dat
             }
         }
         datasets.push({
-            label: key === "itsc" ? getNameByItsc(k) : k,
+            label: secondary_key_type === "itsc" ? getNameByItsc(k) : k,
             data: data,
             nrs: nrs,
         });
