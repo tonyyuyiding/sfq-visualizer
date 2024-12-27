@@ -73,5 +73,6 @@ export function getDatasetListDSO(obj: DataObj, secondary_key_type: "itsc" | "co
             nrs: nrs,
         });
     }
+    datasets.sort((a, b) => a.label.localeCompare(b.label));
     return datasets;
 }

@@ -9,6 +9,6 @@ export default function CourseChart(props: { courseCode: string }) {
     const courseCodeWithSpace = props.courseCode.slice(0, 4) + " " + props.courseCode.slice(4);
 
     return (
-        <HistoryChart primaryKey={courseCodeWithSpace} mode="course" title={`History Chart for ${courseCodeWithSpace}`} />
+        <HistoryChart primaryKey={courseCodeWithSpace} mode="course" title={`${courseCodeWithSpace} SFQ History`} />
     )
 }

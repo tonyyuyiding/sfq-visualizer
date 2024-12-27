@@ -5,7 +5,7 @@ function NavLink(props: { name: string; href: string }) {
         <Link
             key={props.name}
             href={props.href}
-            className="flex grow items-center justify-center gap-2 rounded-md text-sm font-large text-white md:flex-none md:justify-start"
+            className="flex grow items-center justify-center gap-2 rounded-md text-normal font-large text-white md:flex-none md:justify-start md:text-base"
         >
             {props.name}
         </Link>
@@ -14,11 +14,11 @@ function NavLink(props: { name: string; href: string }) {
 
 export default function Navbar() {
     return (
-        <nav className="top-0 w-full sticky flex items-center justify-between px-4 py-4">
-            <h1 className="text-white">
+        <nav className="top-0 w-full sticky flex items-center justify-between px-4 py-4 md:px-8">
+            <h1 className="text-white text-lg">
                 <a href="/">UST SFQ Visualizer</a>
             </h1>
-            <div className="flex gap-4">
+            <div className="flex gap-4 md:gap-8 md:mr-6">
                 <NavLink name="Courses" href="/courses" />
                 <NavLink name="Instructors" href="/instructors" />
             </div>
