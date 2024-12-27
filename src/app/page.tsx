@@ -31,6 +31,10 @@ export default function Home() {
             History charts of SFQ results for each course/instructor</li>
         </ul>
         <h3 className="text-xl font-bold py-2 mt-2">How to use</h3>
+        <video className="w-full" controls>
+          <source src="/tutorial.mp4" type="video/mp4" />
+          Your browser does not support the video tag
+        </video>
         <h4 className="text-lg font-bold py-1">1. Rankings</h4>
         <p className="pb-1">
           By clicking on the "Courses" or "Instructors" link in the navigation bar, you can view the rankings of courses or instructors based on SFQ results.
@@ -46,7 +50,7 @@ export default function Home() {
           If you click on any course/instructor in the rankings, you can view the history chart of SFQ results for that course/instructor.
         </p>
         <p className="pb-1">
-          Hover on (or click, for mobile devices,) any data point to see the number of responses for each data point.
+          Hover on (or click, for mobile devices,) any data point to see the exact score and number of responses.
         </p>
         <p className="pb-1">
           You can switch between "Instructor Mean" and "Course Mean" by clicking on the buttons above the chart. These are the two fields in the Student Feedback Questionnaire.
