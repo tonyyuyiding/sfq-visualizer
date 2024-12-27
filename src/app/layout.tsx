@@ -4,8 +4,10 @@ import Navbar from "./components/Navbar";
 import BottomButtons from "./components/BottomButtons";
 
 export const metadata: Metadata = {
-  title: "SFQ Visualizer",
-  description: "HKUST SFQ Visualizer",
+  title: "HKUST SFQ Visualizer",
+  description: "HKUST SFQ Visualizer is a tool to visualize the Student Feedback Questionnaire (SFQ) survey results of HKUST.",
+  keywords: [ "HKUST", "SFQ", "Student Feedback Questionnaire", "Course Review" ],
+  icons: "/favicon.ico",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
