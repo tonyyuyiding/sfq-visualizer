@@ -15,9 +15,9 @@ function NavLink(props: { name: string; href: string }) {
 export default function Navbar() {
     return (
         <nav className="top-0 w-full sticky flex items-center justify-between px-4 py-4 md:px-8">
-            <h1 className="text-white text-lg">
+            <span className="text-white text-lg">
                 <a href="/">UST SFQ Visualizer</a>
-            </h1>
+            </span>
             <div className="flex gap-4 md:gap-8 md:mr-6">
                 <NavLink name="Courses" href="/courses" />
                 <NavLink name="Instructors" href="/instructors" />

@@ -1,3 +1,5 @@
+"use client";
+
 import { useState, useEffect } from "react";
 
 interface RankingItemRaw {
@@ -24,7 +26,7 @@ function RankingItem(props: RankingItemProps) {
                         {props.rank}
                     </div>
                     <div className="flex-grow-1">
-                        <h3 className="text-lg font-bold">{props.title}</h3>
+                        <span className="text-lg font-bold">{props.title}</span>
                         <span className="flex flex-wrap gap-x-3">
                             {props.desc.map((d, i) => {
                                 return (
