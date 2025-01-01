@@ -1,6 +1,8 @@
+"use client";
+
 import { notFound } from "next/navigation";
 import { useEffect, useState, useRef } from "react";
-import { Chart, ChartEvent, LegendItem } from "chart.js/auto";
+import { Chart } from "chart.js/auto";
 
 import coursesDataRaw from "../../../data/data_files/processed/chart_data_courses.json";
 import instructorsDataRaw from "../../../data/data_files/processed/chart_data_instructors.json";
@@ -120,14 +122,13 @@ export default function HistoryChart(props: { primaryKey: string, mode: "course"
         });
 
         chartRef.current.scales['y'].max = 5;
-        console.log(chartRef.current.scales);
     }, [dataKey, datasetsObj]);
 
     return (
         <div className="w-full py-2">
             <div className="p-4 max-w-[90vw] mx-auto flex items-center flex-col gap-4">
                 <div className="w-full flex flex-wrap items-center gap-2 justify-between">
-                    <h2 className="text-2xl font-bold">{props.title}</h2>
+                    <h1 className="text-2xl font-bold">{props.title}</h1>
                     <span className="flex gap-2">
                         <ol className="flex items-center gap-1 px-1 border border-gray-500 bg-gray-200 rounded-2xl">
                             <span className={(dataKey === "im" ? "bg-blue-300 " : "") + "rounded-2xl px-2 my-1"}>

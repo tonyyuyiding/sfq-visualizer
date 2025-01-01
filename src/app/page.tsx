@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container flex justify-center">
       <div className="my-4 mx-4 max-w-lg py-2">
-        <h2 className="text-2xl font-bold text-center py-4">HKUST SFQ Visualizer</h2>
+        <h1 className="text-2xl font-bold text-center py-4">HKUST SFQ Visualizer</h1>
         <div className="border-4 border-w border-gray-300 p-4 mb-2">
           <p className="pb-1">
             It is recommended to use a computer to access this website.
@@ -16,7 +16,7 @@ export default function Home() {
             Email: dyy@cyanfeathers.com
           </p>
         </div>
-        <h3 className="text-xl font-bold py-2 mt-2">Features</h3>
+        <h2 className="text-xl font-bold py-2 mt-2">Features</h2>
         <p className="pb-1">
           This website is a tool to visualize the Student Feedback Questionnaire (SFQ) survey results of HKUST.
         </p>
@@ -30,12 +30,12 @@ export default function Home() {
           <li>
             History charts of SFQ results for each course/instructor</li>
         </ul>
-        <h3 className="text-xl font-bold py-2 mt-2">How to use</h3>
+        <h2 className="text-xl font-bold py-2 mt-2">How to use</h2>
         <video className="w-full" controls>
           <source src="/tutorial.mp4" type="video/mp4" />
           Your browser does not support the video tag
         </video>
-        <h4 className="text-lg font-bold py-1">1. Rankings</h4>
+        <h3 className="text-lg font-bold py-1">1. Rankings</h3>
         <p className="pb-1">
           By clicking on the "Courses" or "Instructors" link in the navigation bar, you can view the rankings of courses or instructors based on SFQ results.
         </p>
@@ -45,7 +45,7 @@ export default function Home() {
         <p className="pb-1">
           By clicking on the "Settings" button at the bottom left corner, you can set the minimum total number of responses required for the rankings. The courses/instructors with less than the specified number of responses will not be included.
         </p>
-        <h4 className="text-lg font-bold py-1">2. SFQ History Charts</h4>
+        <h3 className="text-lg font-bold py-1">2. SFQ History Charts</h3>
         <p className="pb-1">
           If you click on any course/instructor in the rankings, you can view the history chart of SFQ results for that course/instructor.
         </p>
@@ -58,7 +58,7 @@ export default function Home() {
         <p className="pb-1">
           To show/hide some lines in the chart, just click on the legend.
         </p>
-        <h3 className="text-xl font-bold py-2 mt-2">Notes</h3>
+        <h2 className="text-xl font-bold py-2 mt-2">Notes</h2>
         <p className="pb-1">
           The rankings and charts are completely based on the SFQ survey results published by the university. They have nothing to do with the attitude of the developers. The data is up to Summer 2024.
         </p>

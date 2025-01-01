@@ -6,7 +6,7 @@ import BottomButtons from "./components/BottomButtons";
 export const metadata: Metadata = {
   title: "HKUST SFQ Visualizer",
   description: "HKUST SFQ Visualizer is a tool to visualize the Student Feedback Questionnaire (SFQ) survey results of HKUST.",
-  keywords: [ "HKUST", "SFQ", "Student Feedback Questionnaire", "Course Review" ],
+  keywords: ["HKUST", "SFQ", "Student Feedback Questionnaire", "Course Review", "HKUST SFQ Visualizer"],
   icons: "/favicon.ico",
 };
 
