@@ -19,6 +19,7 @@ def add_course_code(df: pd.DataFrame) -> pd.DataFrame:
 
 def summarize_on_instructors(file_path, save_path=None) -> pd.DataFrame:
     df = pd.read_csv(file_path)
+    df = df.loc[df["instructor_mean"] >= 1]
 
     df["mean_times_response_instructor"] = df["instructor_mean"] * df["num_response"]
 
@@ -55,6 +56,7 @@ def summarize_on_instructors(file_path, save_path=None) -> pd.DataFrame:
 
 def summarize_on_courses(file_path, save_path=None) -> pd.DataFrame:
     df = pd.read_csv(file_path)
+    df = df.loc[df["course_mean"] >= 1]
 
     df["mean_times_response_course"] = df["course_mean"] * df["num_response"]
     df = add_course_code(df)
@@ -120,13 +122,17 @@ def chart_data_instructors(file_path, save_path=None) -> dict:
                 df_semester = df_semester.loc[df_semester["nr"] > 0]
                 df_semester["cpd"] = df_semester["cm"] * df_semester["nr"]
                 df_semester["ipd"] = df_semester["im"] * df_semester["nr"]
-                df_semester = df_semester.agg({"cpd": "sum", "ipd": "sum", "nr": "sum"})
+                df_semester["cnr"] = (df_semester["cm"] >= 1) * df_semester["nr"]
+                df_semester["inr"] = (df_semester["im"] >= 1) * df_semester["nr"]
+                df_semester = df_semester.agg({"cpd": "sum", "ipd": "sum", "cnr": "sum", "inr": "sum"})
                 if isinstance(df_semester, pd.Series):
                     df_semester = df_semester.to_frame().T
-                df_semester.loc[df_semester["cpd"] == 0, "nr"] = 1
-                df_semester["nr"] = df_semester["nr"].astype(int)
-                df_semester["cm"] = (df_semester["cpd"] / df_semester["nr"]).round(2)
-                df_semester["im"] = (df_semester["ipd"] / df_semester["nr"]).round(2)
+                df_semester.loc[df_semester["cpd"] == 0, "cnr"] = 1
+                df_semester.loc[df_semester["ipd"] == 0, "inr"] = 1
+                df_semester["cnr"] = df_semester["cnr"].astype(int)
+                df_semester["inr"] = df_semester["inr"].astype(int)
+                df_semester["cm"] = (df_semester["cpd"] / df_semester["cnr"]).round(2)
+                df_semester["im"] = (df_semester["ipd"] / df_semester["inr"]).round(2)
                 df_semester = df_semester.drop(columns=["cpd", "ipd"])
                 res_itsc_course[semester] = df_semester.to_dict(orient="records")[0]
 
@@ -180,13 +186,17 @@ def chart_data_courses(file_path, save_path=None) -> dict:
                 df_semester = df_semester.loc[df_semester["nr"] > 0]
                 df_semester["cpd"] = df_semester["cm"] * df_semester["nr"]
                 df_semester["ipd"] = df_semester["im"] * df_semester["nr"]
-                df_semester = df_semester.agg({"cpd": "sum", "ipd": "sum", "nr": "sum"})
+                df_semester["cnr"] = (df_semester["cm"] >= 1) * df_semester["nr"]
+                df_semester["inr"] = (df_semester["im"] >= 1) * df_semester["nr"]
+                df_semester = df_semester.agg({"cpd": "sum", "ipd": "sum", "cnr": "sum", "inr": "sum"})
                 if isinstance(df_semester, pd.Series):
                     df_semester = df_semester.to_frame().T
-                df_semester.loc[df_semester["cpd"] == 0, "nr"] = 1
-                df_semester["nr"] = df_semester["nr"].astype(int)
-                df_semester["cm"] = (df_semester["cpd"] / df_semester["nr"]).round(2)
-                df_semester["im"] = (df_semester["ipd"] / df_semester["nr"]).round(2)
+                df_semester.loc[df_semester["cpd"] == 0, "cnr"] = 1
+                df_semester.loc[df_semester["ipd"] == 0, "inr"] = 1
+                df_semester["cnr"] = df_semester["cnr"].astype(int)
+                df_semester["inr"] = df_semester["inr"].astype(int)
+                df_semester["cm"] = (df_semester["cpd"] / df_semester["cnr"]).round(2)
+                df_semester["im"] = (df_semester["ipd"] / df_semester["inr"]).round(2)
                 df_semester = df_semester.drop(columns=["cpd", "ipd"])
                 res_course_itsc[semester] = df_semester.to_dict(orient="records")[0]
 
@@ -254,12 +264,7 @@ if __name__ == "__main__":
     pass
 
 
-# Design:
-# a ranking on instructors, demonstrating the instructor score and number of responses for each
-# a ranking on courses, demonstrating the course score and number of responses for each
-# chart of each course / instructor
-# declare the time period
-# an option to filter out those with too few responses
 # NOTE: (im == 0 | cm == 0) && nr == 1 means the number is not available
 # NOTE: num_response may not be reliable
 # NOTE: some NaN itsc is in the json files. should ignore them when making website
+# NOTE: the sitemap should be updated each time the data is updated

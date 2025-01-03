@@ -9,9 +9,10 @@ export function getNameByItsc(itsc: string): string {
 interface DataObj {
     [key: string]: {
         [semester: string]: {
-            nr: number;
             cm: number;
             im: number;
+            cnr: number;
+            inr: number;
         };
     };
 }
@@ -59,12 +60,17 @@ export function getDatasetListDSO(obj: DataObj, secondary_key_type: "itsc" | "co
     for (const [k, v] of Object.entries(obj)) {
         let nrs: number[] = [];
         let data: number[] = [];
+        const nrKey = data_key === "cm" ? "cnr" : "inr";
         for (const sem of semesters) {
-            const nr = sem in v ? v[sem]["nr"] : NaN;
+            const nr = sem in v ? v[sem][nrKey] : NaN;
             const mean = sem in v ? v[sem][data_key] : NaN;
-            if (!(mean < 1)) {
+            if (!(Number.isNaN(mean)) && mean >= 1) {
                 nrs.push(nr);
                 data.push(mean);
+            }
+            else {
+                nrs.push(NaN);
+                data.push(NaN);
             }
         }
         datasets.push({

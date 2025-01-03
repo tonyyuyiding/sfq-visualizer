@@ -1,0 +1,50 @@
+{
+    "itsc_Nil": {
+        "__name__": "__itsc_to_replace_Nil__",
+        "OLSON, Steve": "_OlsonSteve",
+        "Ketty Maisonrouge": "_KettyMaisonrouge",
+        "APABHAI, Mohammed Z": "_ApabhaiMohammedZ",
+        "Francois Lhabitant ": "_FrancoisLhabitant",
+        "KAUL, Mayank": "_KaulMayank",
+        "Penelope Van Niel": "_PenelopeVanNiel",
+        "SEPULCHRE, Alain": "_SepulchreAlain",
+        "CHAN, Yung": "_ChanYung",
+        "WU, Hoi Fai": "_WuHoiFai",
+        "ROSENCRANTZ, Marie": "_RosencrantzMarie",
+        "TERRY, Edith": "_TerryEdith"
+    },
+    "duplicated_name_new_name": {
+        "__name__": "__new_name__",
+        "BERNARD DUFFY": "DUFFY, Bernard",
+        "BERNARD DUFFY, .": "DUFFY, Bernard",
+        "LEE, Ka Wai": "LEE, Ka Wai",
+        "LEE, Ka Wai ": "LEE, Ka Wai",
+        "SIU, Kam Wing": "SIU, Kam Wing",
+        "SIU , Kam Wing": "SIU, Kam Wing",
+        "KWOK, James Tin Yau": "KWOK, James Tin Yau",
+        "KWOK, Tin Yau": "KWOK, James Tin Yau",
+        "KAUL, Mayank": "KAUL, Mayank",
+        "KAUL, mayank": "KAUL, Mayank",
+        "ALIAS MARTINEZ, Ana": "ALIAS MARTINEZ, Ana",
+        "Alias Martinez, Ana": "ALIAS MARTINEZ, Ana",
+        "MA, Wai Leung Bruce": "MA, Wai Leung Bruce",
+        "MA, Bruce Kwong Wai": "MA, Wai Leung Bruce",
+        "WU Shanle": "WU, Shanle",
+        "Chak WONG": "WONG, Chak",
+        "WU, Shaule": "WU, Shanle",
+        "Anthony WOO": "WOO, Anthony",
+        "WU, Shanle": "WU, Shanle",
+        "KWON, Ohchan": "KWON, Ohchan",
+        "KWON, Onchan": "KWON, Ohchan",
+        "ZHANG, Wenwen ": "ZHANG, Wenwen",
+        "ZHANG , Wenwen ": "ZHANG, Wenwen",
+        "FAN, Yiu Kwan": "FAN, Yiu Kwan",
+        "FAN,Yiu Kwan": "FAN, Yiu Kwan"
+    },
+    "duplicated_name_new_itsc": {
+        "__name__": "__new_itsc__",
+        "WU, Shanle": "_WuShanle",
+        "WONG, Chak": "_WongChak",
+        "WOO, Anthony": "_WooAnthony"
+    }
+}

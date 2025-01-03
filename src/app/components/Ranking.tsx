@@ -85,9 +85,10 @@ function Ranking(props: { items: RankingItemRaw[], searchPrompt: string, scoreNa
     }, [props.items]);
 
     useEffect(() => {
+        const keywords = searchQuery.toLowerCase().split(" ").filter(Boolean);
         setFoundItems(
             filteredItems.filter((item) => {
-                return item.title.toLowerCase().includes(searchQuery.toLowerCase());
+                return keywords.every((keyword) => item.title.toLowerCase().includes(keyword));
             })
         );
         setIsLoading(false);
