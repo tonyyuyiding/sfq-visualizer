@@ -1,4 +1,5 @@
 import os
+import json
 import pandas as pd
 from datetime import datetime
 
@@ -107,9 +108,9 @@ def read_and_process_csv(directory, yss: YSS) -> pd.DataFrame:
     
     # Convert scores
     if yss < YSS(2020, Semester.Fall, School.ENG):
-        df["course_mean"] = df["course_mean"].apply(lambda x: x / 25 + 1)
+        df["course_mean"] = df["course_mean"].apply(lambda x: x / 25 + 1 if x >= 1 else 0)
         df["course_sd"] = df["course_sd"].apply(lambda x: x / 625)
-        df["instructor_mean"] = df["instructor_mean"].apply(lambda x: x / 25 + 1)
+        df["instructor_mean"] = df["instructor_mean"].apply(lambda x: x / 25 + 1 if x >= 1 else 0)
         df["instructor_sd"] = df["instructor_sd"].apply(lambda x: x / 625)
 
     return df
@@ -164,12 +165,35 @@ def process_itsc_name(file_path, save_path=None, itsc_mode=False) -> None:
         print("No duplicated names found")
         return df
     
+    json_path = "./settings/itsc_name.json"
+    
+    try:
+        with open(json_path, "r") as file:
+            name_settings = json.load(file)
+    except FileNotFoundError:
+        name_settings = {
+            "itsc_Nil": {
+                "__name__": "__itsc_to_replace_Nil__",
+            },
+            "duplicated_name_new_name": {
+                "__name__": "__new_name__",
+            },
+            "duplicated_name_new_itsc": {
+                "__name__": "__new_itsc__",
+            },
+        }
+    
     for itsc in df_name_count_filtered.index:
         if itsc == "Nil":
             names = df_name_itsc.loc[df_name_itsc["instructor_itsc"] == itsc]["instructor_name"].values
             print(f"Found names with no itsc: {names}")
             for name in names:
-                new_itsc = input(f"> Please enter an itsc for {[name]}: ")
+                if name in name_settings["itsc_Nil"]:
+                    new_itsc = name_settings["itsc_Nil"][name]
+                    print(f"Using setting: {name} -> {new_itsc}")
+                else:
+                    new_itsc = input(f"> Please enter an itsc for {[name]}: ")
+                    name_settings["itsc_Nil"][name] = new_itsc
                 df.loc[(df["instructor_itsc"] == itsc) & (df["instructor_name"] == name), "instructor_itsc"] = new_itsc
         
         else:
@@ -177,16 +201,31 @@ def process_itsc_name(file_path, save_path=None, itsc_mode=False) -> None:
             print(f"Found duplicated names for itsc {itsc}: {names}")
             if not itsc_mode:
                 for name in names:
-                    new_name = input(f"> Please enter a name to replace {[name]}: ")
+                    if name in name_settings["duplicated_name_new_name"]:
+                        new_name = name_settings["duplicated_name_new_name"][name]
+                        print(f"Using setting: {name} -> {new_name}")
+                    else:
+                        new_name = input(f"> Please enter a name to replace {[name]}: ")
+                        name_settings["duplicated_name_new_name"][name] = new_name
                     df.loc[(df["instructor_itsc"] == itsc) & (df["instructor_name"] == name), "instructor_name"] = new_name
             else:
                 for name in names:
-                    new_itsc = input(f"> Please enter an itsc for {[name]}: ")
+                    if name in name_settings["duplicated_name_new_itsc"]:
+                        new_itsc = name_settings["duplicated_name_new_itsc"][name]
+                        print(f"Using setting: {name} -> {new_itsc}")
+                    else:
+                        new_itsc = input(f"> Please enter an itsc for {[name]}: ")
+                        name_settings["duplicated_name_new_itsc"][name] = new_itsc
                     df.loc[(df["instructor_itsc"] == itsc) & (df["instructor_name"] == name), "instructor_itsc"] = new_itsc
+                    
+    input("Press Enter to continue...")
+                    
+    with open(json_path, "w") as file:
+        json.dump(name_settings, file, indent=4)
     
     if save_path is not None:
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
-        df.to_csv(save_path, encoding="utf-8")
+        df.to_csv(save_path, encoding="utf-8", index=False)
     return df
 
 

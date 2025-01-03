@@ -10,16 +10,19 @@ targets = {
 
 
 def generate_sitemap(targets=targets):
+    urls = []
+    for t in targets:
+        if targets[t] is None:
+            urls.append(t)
+        else:
+            with open(targets[t], "r") as fj:
+                jdata = json.load(fj)
+                for k in jdata:
+                    k = k.replace(" ", "")
+                    urls.append(t.replace("?", k))
+    urls = sorted(urls)
     with open("../public/sitemap.txt", "w") as f:
-        for t in targets:
-            if targets[t] is None:
-                f.write(t + "\n")
-            else:
-                with open(targets[t], "r") as fj:
-                    jdata = json.load(fj)
-                    for k in jdata:
-                        k = k.replace(" ", "")
-                        f.write(t.replace("?", k) + "\n")
+        f.write("\n".join(urls))
 
 
 if __name__ == "__main__":
