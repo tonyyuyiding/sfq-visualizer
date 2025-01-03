@@ -5,18 +5,19 @@ export default function Home() {
     <div className="container flex justify-center">
       <div className="my-4 mx-4 max-w-lg py-2">
         <h1 className="text-2xl font-bold text-center py-4">HKUST SFQ Visualizer</h1>
+
         <div className="border-4 border-w border-gray-300 p-4 mb-2">
           <p className="pb-1">
             It is recommended to use a computer to access this website.
           </p>
           <p className="pb-1">
-            SFQ visualizer is an open source project. You can find the source code on <a href="https://github.com/tonyyuyiding/sfq-visualizer" className="underline" target="_blank">github</a>. If you find this website useful, please star the github repository (Thanks!). Contributions and issues are also welcomed!
-          </p>
-          <p className="pb-1">
-            Email: dyy@cyanfeathers.com
+            Quick Start:
+            <a href="/courses" className="m-1 underline text-blue-500">Courses</a>
+            <a href="/instructors" className="m-1 underline text-blue-500">Instructors</a>
           </p>
         </div>
-        <h2 className="text-xl font-bold py-2 mt-2">Features</h2>
+
+        <h2 className="text-xl font-bold py-2 mt-2" id="features">Features</h2>
         <p className="pb-1">
           This website is a tool to visualize the Student Feedback Questionnaire (SFQ) survey results of HKUST.
         </p>
@@ -30,7 +31,8 @@ export default function Home() {
           <li>
             History charts of SFQ results for each course/instructor</li>
         </ul>
-        <h2 className="text-xl font-bold py-2 mt-2">How to use</h2>
+
+        <h2 className="text-xl font-bold py-2 mt-2" id="howtouse">How to use</h2>
         <video className="w-full" controls>
           <source src="/tutorial.mp4" type="video/mp4" />
           Your browser does not support the video tag
@@ -58,16 +60,50 @@ export default function Home() {
         <p className="pb-1">
           To show/hide some lines in the chart, just click on the legend.
         </p>
-        <h2 className="text-xl font-bold py-2 mt-2">Notes</h2>
+
+        <h2 className="text-xl font-bold py-2 mt-2" id="about">About</h2>
+        <p className="pb-1">
+          SFQ visualizer is an open source project. You can find the source code on <a href="https://github.com/tonyyuyiding/sfq-visualizer" className="underline" target="_blank">github</a>. If you find this website useful, please star the github repository (Thanks!). Contributions and issues are also welcomed!
+        </p>
         <p className="pb-1">
           The rankings and charts are completely based on the SFQ survey results published by the university. They have nothing to do with the attitude of the developers. The data is up to Summer 2024.
         </p>
         <p className="pb-1">
           The data is for reference only. Small inaccuracy is possible in calculations. Besides, the SFQ results may be biased. As is mentioned on the university website, large classes tend to get lower ratings, and PG classes usually get higher ratings than UG ones.
         </p>
-        <p>
+        <p className="pb-1">
           The project is developed with <code>React</code> and <code>Next.js</code>. The fantastic charts are made with <code>Chart.js</code>. Data is from HKUST official website, processed using <code>Python</code> and <code>pandas</code>. The webpage is deployed on <code>Cloudflare Pages</code>.
         </p>
+        <p className="pb-1">
+          Email: dyy@cyanfeathers.com
+        </p>
+
+        <h2 className="text-xl font-bold py-2 mt-2" id="ulinks">Useful Links</h2>
+        <ul className="list-disc list-inside ml-6">
+          <li><a href="https://ust.space/home" className="m-1 underline text-blue-500" target="_blank">UST Space</a></li>
+        </ul>
+        <ul className="list-disc list-inside ml-6">
+          <li><a href="https://ust-rankings.com/" className="m-1 underline text-blue-500" target="_blank">UST Rankings</a></li>
+        </ul>
+        <ul className="list-disc list-inside ml-6">
+          <li><a href="https://admlu65.ust.hk/" className="m-1 underline text-blue-500" target="_blank">Timetable Planner</a></li>
+        </ul>
+        <ul className="list-disc list-inside ml-6">
+          <li><a href="https://w5.ab.ust.hk/wcq/cgi-bin/" className="m-1 underline text-blue-500" target="_blank">Class Schedule & Quota</a></li>
+        </ul>
+
+        <h2 className="text-xl font-bold py-2 mt-2" id="changelog">Changelog</h2>
+        <ul className="list-disc list-inside ml-4">
+          <li>
+            2025-01-03: Fix some wrong data. Add more content to homepage.
+          </li>
+          <li>
+            2025-01-02: Update URLs.
+          </li>
+          <li>
+            2024-12-27: First release.
+          </li>
+        </ul>
       </div>
     </div>
   );
