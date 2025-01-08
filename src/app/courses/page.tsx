@@ -34,3 +34,5 @@ export async function generateMetadata({ searchParams }: { searchParams: Promise
         ...(isNoIndex ? { robots: "noindex" } : {}),
     };
 }
+
+export const runtime = "edge";

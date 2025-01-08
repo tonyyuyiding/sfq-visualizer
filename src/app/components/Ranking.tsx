@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, JSX } from "react";
 
 interface RankingItemRaw {
     title: string;
@@ -44,8 +44,8 @@ function RankingItem(props: RankingItemProps) {
 function Ranking(props: { items: RankingItemRaw[], searchPrompt: string, scoreName: string }) {
     const [isLoading, setIsLoading] = useState<boolean>(true);
     const [searchQuery, setSearchQuery] = useState<string>("");
-    const [filteredItems, setFilteredItems] = useState<RankingItemProps[]>([]);
-    const [foundItems, setFoundItems] = useState<RankingItemProps[]>([]);
+    const [enoughResponsesItems, setEnoughResponsesItems] = useState<RankingItemProps[]>([]);
+    const [foundItemsElements, setFoundItemsElements] = useState<JSX.Element[]>([]);
 
     useEffect(() => {
         setIsLoading(true);
@@ -60,7 +60,7 @@ function Ranking(props: { items: RankingItemRaw[], searchPrompt: string, scoreNa
         let rank = 0;
         let hold = 0;
         let lastScore = Infinity;
-        let newFilteredItems: RankingItemProps[] = [];
+        let newEnoughResponsesItems: RankingItemProps[] = [];
 
         for (const item of items) {
             hold++;
@@ -69,7 +69,7 @@ function Ranking(props: { items: RankingItemRaw[], searchPrompt: string, scoreNa
                 rank += hold;
                 hold = 0;
             }
-            newFilteredItems.push({
+            newEnoughResponsesItems.push({
                 rank: rank,
                 title: item.title,
                 desc: [
@@ -81,18 +81,29 @@ function Ranking(props: { items: RankingItemRaw[], searchPrompt: string, scoreNa
             });
         }
 
-        setFilteredItems(newFilteredItems);
+        setEnoughResponsesItems(newEnoughResponsesItems);
     }, [props.items]);
 
     useEffect(() => {
         const keywords = searchQuery.toLowerCase().split(" ").filter(Boolean);
-        setFoundItems(
-            filteredItems.filter((item) => {
-                return keywords.every((keyword) => item.title.toLowerCase().includes(keyword));
-            })
-        );
+        const foundItems = enoughResponsesItems.filter((item) => {
+            return keywords.every((keyword) => item.title.toLowerCase().includes(keyword));
+        });
+        setFoundItemsElements(
+            [...foundItems.map((item, index) => {
+                return (
+                    <div key={index} className="w-full max-w-md px-1">
+                        <RankingItem {...item} />
+                    </div>
+                );
+            }),
+            <div key={1000000} className="w-full max-w-md px-1">
+                If you cannot find what you are looking for, please check your settings for "Minimum number of responses" and double check your search query.
+            </div>
+            ]
+        )
         setIsLoading(false);
-    }, [searchQuery, filteredItems]);
+    }, [searchQuery, enoughResponsesItems]);
 
     return (
         <div className="flex flex-col items-center">
@@ -108,16 +119,11 @@ function Ranking(props: { items: RankingItemRaw[], searchPrompt: string, scoreNa
             }
             <div className="flex flex-col items-center gap-4 my-6 px-4">
                 {
-                    isLoading && <p>Loading...</p>
-                }
-                {
-                    foundItems.map((item, index) => {
-                        return (
-                            <div key={index} className="w-full max-w-md px-1">
-                                <RankingItem {...item} />
-                            </div>
-                        );
-                    })
+                    isLoading ? (
+                        <p>Loading...</p>
+                    ) : (
+                        foundItemsElements
+                    )
                 }
             </div>
         </div>
