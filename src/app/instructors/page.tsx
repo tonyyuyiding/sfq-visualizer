@@ -24,16 +24,10 @@ export default function InstructorRankings() {
     );
 }
 
-export async function generateMetadata({ searchParams }: { searchParams: Promise<{ itsc: string }> }) {
-    const itsc = await searchParams.then(p => p.itsc);
-    const isNoIndex = itsc ? true : false;
-
+export async function generateMetadata() {
     return {
         title: "HKUST Instructor Rankings on SFQ Scores - HKUST SFQ Visualizer",
         description: "Rankings of instructors based on Student Feedback Questionnaire (SFQ) scores",
-        keywords: ["HKUST", "SFQ", "Rankings", "Instructor Evaluation", "Teaching Quality"],
-        ...(isNoIndex ? { robots: "noindex" } : {}),
+        keywords: ["HKUST", "SFQ", "Rankings", "Instructor Evaluation", "Teaching Quality"]
     };
 }
-
-export const runtime = "edge";
