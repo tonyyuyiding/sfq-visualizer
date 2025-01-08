@@ -21,8 +21,8 @@ export async function generateMetadata({ params }: Props) {
     const instructorName = getNameByItsc(await params.then(p => p.itsc));
 
     return {
-        title: `${instructorName} SFQ History`,
+        title: `${instructorName} student feedback history - HKUST SFQ Visualizer`,
         description: `SFQ history chart for ${instructorName}`,
-        keywords: ["HKUST", "SFQ", "Student Feedback Questionnaire", "Instructor Evaluation", "Teaching Quality", instructorName],
+        keywords: [instructorName, "HKUST", "SFQ", "Instructor Evaluation", "Teaching Quality"],
     };
 }

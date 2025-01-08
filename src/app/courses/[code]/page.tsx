@@ -32,8 +32,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const courseCodeWithSpace = addSpaceToCourseCode(await params.then(p => p.code));
 
     return {
-        title: `${courseCodeWithSpace} SFQ History`,
+        title: `${courseCodeWithSpace} student feedback history - HKUST SFQ Visualizer`,
         description: `SFQ history chart for ${courseCodeWithSpace}`,
-        keywords: ["HKUST", "SFQ", "Student Feedback Questionnaire", "Course Review", "Teaching Quality", courseCodeWithSpace],
+        keywords: [courseCodeWithSpace, "HKUST", "SFQ", "Course Review", "Teaching Quality"],
     };
 }

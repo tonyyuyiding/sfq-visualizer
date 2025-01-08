@@ -23,10 +23,14 @@ export default function CourseRankings() {
     );
 }
 
-export async function generateMetadata() {
+export async function generateMetadata({ searchParams }: { searchParams: Promise<{ course_code: string }> }) {
+    const courseCode = await searchParams.then(p => p.course_code);
+    const isNoIndex = courseCode ? true : false;
+
     return {
-        title: "Course Rankings on SFQ Scores",
-        description: "Rankings of courses based on SFQ scores",
-        keywords: ["HKUST", "SFQ", "Rankings", "Student Feedback Questionnaire", "Course Review", "Teaching Quality", "HKUST SFQ Visualizer"],
+        title: "HKUST Course Rankings on SFQ Scores - HKUST SFQ Visualizer",
+        description: "Rankings of courses based on Student Feedback Questionnaire (SFQ) scores",
+        keywords: ["HKUST", "SFQ", "Rankings", "Course Review", "Teaching Quality"],
+        ...(isNoIndex ? { robots: "noindex" } : {}),
     };
 }
