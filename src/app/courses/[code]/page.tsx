@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation"
 import HistoryChart from "../../components/HistoryChart"
 
-type Props = {
+type Args = {
     params: Promise<{ code: string }>;
 }
 
@@ -22,13 +22,13 @@ function CourseChart(props: { courseCode: string }) {
     )
 }
 
-export default async function Page({ params }: Props) {
+export default async function Page({ params }: Args) {
     return <CourseChart courseCode={await params.then(p => p.code)} />
 }
 
 export const runtime = 'edge';
 
-export async function generateMetadata({ params }: Props): Promise<Metadata> {
+export async function generateMetadata({ params }: Args): Promise<Metadata> {
     const courseCodeWithSpace = addSpaceToCourseCode(await params.then(p => p.code));
 
     return {

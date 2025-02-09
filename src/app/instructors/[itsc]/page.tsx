@@ -1,7 +1,7 @@
 import HistoryChart from "../../components/HistoryChart"
 import { getNameByItsc } from "../../utils"
 
-type Props = {
+type Args = {
     params: Promise<{ itsc: string }>;
 }
 
@@ -11,13 +11,13 @@ function InstructorChart(props: { itsc: string }) {
     )
 }
 
-export default async function Page({ params }: Props) {
+export default async function Page({ params }: Args) {
     return <InstructorChart itsc={await params.then(p => p.itsc)} />
 }
 
 export const runtime = 'edge';
 
-export async function generateMetadata({ params }: Props) {
+export async function generateMetadata({ params }: Args) {
     const instructorName = getNameByItsc(await params.then(p => p.itsc));
 
     return {
