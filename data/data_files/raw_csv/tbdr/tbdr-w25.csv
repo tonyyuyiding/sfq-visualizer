@@ -1,0 +1,30 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - UG (Small),Course Overall - UG (Medium),Course Overall - UG (Large),Course Overall - UG Mean,Course Overall - PG (Small),Course Overall - PG (Medium),Course Overall - PG Mean,Course Overall - Overall,Instructor Overall - UG (Small),Instructor Overall - UG (Medium),Instructor Overall - UG (Large),Instructor Overall - UG Mean,Instructor Overall - PG (Small),Instructor Overall - PG (Medium),Instructor Overall - PG Mean,Instructor Overall - Overall
+24-25,WINTER,University,-,-,-,27.0,0.313,4.73,4.0,4.21,4.12,5.0,4.55,4.62,4.38,4.67,4.14,4.34,4.24,5.0,4.7,4.73,4.53
+24-25,WINTER,School,SBM,-,-,19.0,0.317,,3.97,4.21,4.06,5.0,4.55,4.61,4.39,,4.19,4.34,4.25,5.0,4.7,4.73,4.56
+24-25,WINTER,Dept,SBM,ECON,Economics,2.0,0.234,,,,,5.0,,4.96,4.96,,,,,5.0,,5.0,5.0
+24-25,WINTER,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",13.0,0.304,,4.03,4.21,4.11,,4.67,4.67,4.39,,4.24,4.34,4.28,,4.76,4.76,4.52
+24-25,WINTER,Dept,SBM,MGMT,Management,1.0,0.462,,,,,,4.0,4.0,4.0,,,,,,4.17,4.17,4.17
+24-25,WINTER,Dept,SBM,MARK,Marketing,1.0,0.364,,,,,,4.58,4.58,4.58,,,,,,4.67,4.67,4.67
+24-25,WINTER,Dept,SBM,WBBA,SF Program in World Business,1.0,0.38,,3.74,,3.74,,,,3.74,,4.0,,4.0,,,,4.0
+24-25,WINTER,Dept,SBM,SBMT,School of Business and Management,1.0,0.451,,,,,,4.48,4.48,4.48,,,,,,4.76,4.76,4.76
+24-25,WINTER,School,SENG,-,-,6.0,0.275,4.69,4.09,,4.26,,,,4.26,4.62,4.03,,4.19,,,,4.19
+24-25,WINTER,Dept,SENG,COMP,Computer Science and Engineering,4.0,0.23,,4.09,,4.09,,,,4.09,,4.03,,4.03,,,,4.03
+24-25,WINTER,Dept,SENG,ENGG,School of Engineering,2.0,0.565,4.69,,,4.69,,,,4.69,4.62,,,4.62,,,,4.62
+24-25,WINTER,School,AIS,-,-,2.0,0.45,5.0,,,5.0,5.0,,5.0,5.0,5.0,,,5.0,5.0,,5.0,5.0
+24-25,WINTER,Dept,AIS,EMIA,Division of Emerging Interdisciplinary Areas,1.0,0.875,,,,,5.0,,5.0,5.0,,,,,5.0,,5.0,5.0
+24-25,WINTER,Dept,AIS,TEMG,Technology and Management,1.0,0.167,5.0,,,5.0,,,,5.0,5.0,,,5.0,,,,5.0
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Key:,,,,,,,,,,,,,,,,,,,,,,,
+Small UG: Undergraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium UG: Undergraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+Large UG: Undergraduate courses with enrolment over 100,,,,,,,,,,,,,,,,,,,,,,,
+UG Mean: Mean of responses of all UG courses,,,,,,,,,,,,,,,,,,,,,,,
+Small PG: Postgraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium PG: Postgraduate courses with enrolment from 21-100,,,,,,,,,,,,,,,,,,,,,,,
+PG Mean: Mean of responses of all PG courses,,,,,,,,,,,,,,,,,,,,,,,
+Overall: Mean of responses of all courses,,,,,,,,,,,,,,,,,,,,,,,
+"If there is no entry, there were no classes of the type indicated.",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by Academic Quality Advancement Team,,,,,,,,,,,,,,,,,,,,,,,
+2025-02-06 00:00:00,,,,,,,,,,,,,,,,,,,,,,,

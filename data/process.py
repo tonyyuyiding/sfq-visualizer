@@ -6,7 +6,10 @@ from datetime import datetime
 from utils import YSS, YSStqdm, Semester, School
 
 
-def excel_to_csv(from_path, to_path) -> bool:
+def excel_to_csv(from_path, to_path, skip_existing=True) -> bool:
+    if skip_existing and os.path.exists(to_path):
+        return True
+
     try:
         df = pd.read_excel(from_path)
         os.makedirs(os.path.dirname(to_path), exist_ok=True)
@@ -242,9 +245,9 @@ def delete_duplicated_data(file_path, save_path=None) -> None:
     
 
 if __name__ == "__main__":
-    # excel_to_csv_exc()
-    # df = read_process_merge_csv_exc(save_path="data_files/processed/all_raw_data.csv")
-    # df = process_itsc_name("data_files/processed/all_raw_data.csv", "data_files/processed/name_itsc_processed_1.csv")
-    # df = process_itsc_name("data_files/processed/name_itsc_processed_1.csv", "data_files/processed/name_itsc_processed_2.csv", itsc_mode=True)
-    # df = delete_duplicated_data("data_files/processed/name_itsc_processed_2.csv", "data_files/processed/all_processed_data.csv")
+    excel_to_csv_exc()
+    df = read_process_merge_csv_exc(save_path="data_files/processed/all_raw_data.csv")
+    df = process_itsc_name("data_files/processed/all_raw_data.csv", "data_files/processed/name_itsc_processed_1.csv")
+    df = process_itsc_name("data_files/processed/name_itsc_processed_1.csv", "data_files/processed/name_itsc_processed_2.csv", itsc_mode=True)
+    df = delete_duplicated_data("data_files/processed/name_itsc_processed_2.csv", "data_files/processed/all_processed_data.csv")
     pass

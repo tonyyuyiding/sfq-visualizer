@@ -5,12 +5,16 @@ from datetime import datetime
 from utils import BASE_URL_EXCEL, YSStqdm
 
 
-def fetch_file(file_name, save_directory) -> int:
+def fetch_file(file_name, save_directory, skip_existing=True) -> int:
+    file_path = os.path.join(save_directory, file_name)
+    
+    if skip_existing and os.path.exists(file_path):
+        return -1
+    
     url = f"{BASE_URL_EXCEL}/{file_name}"
     r = requests.get(url)
 
     if r.ok:
-        file_path = os.path.join(save_directory, file_name)
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
         with open(file_path, "wb") as file:
@@ -39,6 +43,9 @@ def fetch_file_exc() -> None:
             if status == 0:
                 yss_tqdm.add_success()
                 log.write(f"SUCCESS: {file_name}\n")
+            elif status == -1:
+                yss_tqdm.add_skipped()
+                log.write(f"SKIPPED: {file_name} already exists\n")
             else:
                 yss_tqdm.add_failure()
                 log.write(f"FAILURE: {file_name} with status code {status}\n")

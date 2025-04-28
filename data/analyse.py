@@ -242,24 +242,24 @@ def generate_itsc_map(file_path, save_path=None) -> dict:
 
 
 if __name__ == "__main__":
-    # df = summarize_on_instructors(
-    #     "data_files/processed/all_processed_data.csv",
-    #     "data_files/processed/ranking_instructors.json",
-    # )
-    # df = summarize_on_courses(
-    #     "data_files/processed/all_processed_data.csv",
-    #     "data_files/processed/ranking_courses.json",
-    # )
-    # res = chart_data_instructors(
-    #     "data_files/processed/all_processed_data.csv",
-    #     "data_files/processed/chart_data_instructors.json",
-    # )
-    # res = chart_data_courses(
-    #     "data_files/processed/all_processed_data.csv",
-    #     "data_files/processed/chart_data_courses.json",
-    # )
-    # delete_nan("data_files/processed/chart_data_instructors.json")
-    # delete_nan("data_files/processed/chart_data_courses.json")
+    df = summarize_on_instructors(
+        "data_files/processed/all_processed_data.csv",
+        "data_files/processed/ranking_instructors.json",
+    )
+    df = summarize_on_courses(
+        "data_files/processed/all_processed_data.csv",
+        "data_files/processed/ranking_courses.json",
+    )
+    res = chart_data_instructors(
+        "data_files/processed/all_processed_data.csv",
+        "data_files/processed/chart_data_instructors.json",
+    )
+    res = chart_data_courses(
+        "data_files/processed/all_processed_data.csv",
+        "data_files/processed/chart_data_courses.json",
+    )
+    delete_nan("data_files/processed/chart_data_instructors.json")
+    delete_nan("data_files/processed/chart_data_courses.json")
     generate_itsc_map("data_files/processed/ranking_instructors.json", "data_files/processed/itsc_map.json")
     pass
 

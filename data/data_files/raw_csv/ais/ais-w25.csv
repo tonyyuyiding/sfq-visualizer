@@ -1,0 +1,21 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+24-25,WINTER,School,AIS,-,-,-,-,-,-,-,-,-,-,0.45,Y,-,2,5.0,-,0.0,-,5.0,-,0.0,-
+24-25,WINTER,Dept / Course Group,AIS,EMIA,-,-,-,-,-,-,-,-,-,0.875,Y,-,1,5.0,-,0.0,-,5.0,-,0.0,-
+24-25,WINTER,Dept / Course Group,AIS,TEMG,-,-,-,-,-,-,-,-,-,0.167,Y,-,1,5.0,-,0.0,-,5.0,-,0.0,-
+24-25,WINTER,Course,AIS,EMIA,EMIA,6500I,-,24-25-WINTER-EMIA-6500I,-,-,-,-,-,0.875,Y,0.625,1,5.0,5,0.0,0,5.0,5,0.0,0
+24-25,WINTER,Section,AIS,EMIA,EMIA,6500I,L1,24-25-WINTER-EMIA-6500I,24-25-WINTER-EMIA-6500I-L1,-,-,-,8,0.875,Y,0.625,-,5.0,5,0.0,0,5.0,5,0.0,0
+24-25,WINTER,Instructor,AIS,EMIA,EMIA,6500I,L1,24-25-WINTER-EMIA-6500I,24-25-WINTER-EMIA-6500I-L1,24-25-WINTER-EMIA-6500I-L1-SI,"CHUN, Daniel",djychun,8,0.875,Y,0.625,-,5.0,5,0.0,0,5.0,5,0.0,0
+24-25,WINTER,Course,AIS,TEMG,TEMG,4970D,-,24-25-WINTER-TEMG-4970D,-,-,-,-,-,0.167,Y,-,1,5.0,-,0.0,-,5.0,-,0.0,-
+24-25,WINTER,Section,AIS,TEMG,TEMG,4970D,L1,24-25-WINTER-TEMG-4970D,24-25-WINTER-TEMG-4970D-L1,-,-,-,12,0.167,Y,-,-,5.0,-,0.0,-,5.0,-,0.0,-
+24-25,WINTER,Instructor,AIS,TEMG,TEMG,4970D,L1,24-25-WINTER-TEMG-4970D,24-25-WINTER-TEMG-4970D-L1,24-25-WINTER-TEMG-4970D-L1-SI,"LIN, Betty Fwei-chien",bettylin,12,0.167,Y,-,-,5.0,-,0.0,-,5.0,-,0.0,-
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by Academic Quality Advancement Team,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-02-06 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,

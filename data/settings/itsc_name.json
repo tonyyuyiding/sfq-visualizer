@@ -39,7 +39,9 @@
         "ZHANG, Wenwen ": "ZHANG, Wenwen",
         "ZHANG , Wenwen ": "ZHANG, Wenwen",
         "FAN, Yiu Kwan": "FAN, Yiu Kwan",
-        "FAN,Yiu Kwan": "FAN, Yiu Kwan"
+        "FAN,Yiu Kwan": "FAN, Yiu Kwan",
+        "JUNG SUH": "Jung Suh",
+        "JUNG SUH, .": "Jung Suh"
     },
     "duplicated_name_new_itsc": {
         "__name__": "__new_itsc__",

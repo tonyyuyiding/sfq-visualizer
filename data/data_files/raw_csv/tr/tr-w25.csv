@@ -1,0 +1,22 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,Number of Sections Evaluated,Response Rate,Course Overall - Mean,Course Overall - SD,Instructor Overall - Mean,Instructor Overall - SD
+24-25,WINTER,University,-,-,-,27.0,0.313,4.38,0.86,4.53,0.75
+24-25,WINTER,School,SBM,-,-,19.0,0.317,4.39,0.87,4.56,0.75
+24-25,WINTER,Dept,SBM,ECON,Economics,2.0,0.234,4.96,0.2,5.0,0.0
+24-25,WINTER,Dept,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",13.0,0.304,4.39,0.86,4.52,0.8
+24-25,WINTER,Dept,SBM,MGMT,Management,1.0,0.462,4.0,1.02,4.17,0.87
+24-25,WINTER,Dept,SBM,MARK,Marketing,1.0,0.364,4.58,0.51,4.67,0.49
+24-25,WINTER,Dept,SBM,WBBA,SF Program in World Business,1.0,0.38,3.74,1.05,4.0,1.05
+24-25,WINTER,Dept,SBM,SBMT,School of Business and Management,1.0,0.451,4.48,0.85,4.76,0.5
+24-25,WINTER,School,SENG,-,-,6.0,0.275,4.26,0.82,4.19,0.71
+24-25,WINTER,Dept,SENG,COMP,Computer Science and Engineering,4.0,0.23,4.09,0.83,4.03,0.72
+24-25,WINTER,Dept,SENG,ENGG,School of Engineering,2.0,0.565,4.69,0.63,4.62,0.51
+24-25,WINTER,School,AIS,-,-,2.0,0.45,5.0,0.0,5.0,0.0
+24-25,WINTER,Dept,AIS,EMIA,Division of Emerging Interdisciplinary Areas,1.0,0.875,5.0,0.0,5.0,0.0
+24-25,WINTER,Dept,AIS,TEMG,Technology and Management,1.0,0.167,5.0,0.0,5.0,0.0
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Note 1: The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,
+Note 2: A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school. The same situation may also occur in the totals for schools and university.,,,,,,,,,,,
+,,,,,,,,,,,
+Report prepared by Academic Quality Advancement Team,,,,,,,,,,,
+2025-02-06 00:00:00,,,,,,,,,,,

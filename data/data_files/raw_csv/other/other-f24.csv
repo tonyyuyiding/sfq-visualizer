@@ -1,0 +1,50 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+24-25,FALL,School,OTHERS,-,-,-,-,-,-,-,-,-,-,0.644,,-,14,4.53,-,0.76,-,4.64,-,0.63,-
+24-25,FALL,Dept / Course Group,OTHERS,CEI,-,-,-,-,-,-,-,-,-,0.664,,-,10,4.52,-,0.78,-,4.68,-,0.6,-
+24-25,FALL,Dept / Course Group,OTHERS,DSTO,-,-,-,-,-,-,-,-,-,0.5,,-,3,4.56,-,0.55,-,4.4,-,0.76,-
+24-25,FALL,Dept / Course Group,OTHERS,UROP,-,-,-,-,-,-,-,-,-,0.167,Y,-,1,5.0,-,0.0,-,5.0,-,0.0,-
+24-25,FALL,Course,OTHERS,CEI,PDEV,6800Z,-,24-25-FALL-PDEV-6800Z,-,-,-,-,-,0.664,,-,10,4.52,-,0.78,-,4.68,-,0.6,-
+24-25,FALL,Section,OTHERS,CEI,PDEV,6800Z,T01,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T01,-,-,-,72,0.708,,0.681,-,4.65,4.71,0.77,0.58,4.76,4.82,0.59,0.44
+24-25,FALL,Instructor,OTHERS,CEI,PDEV,6800Z,T01,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T01,24-25-FALL-PDEV-6800Z-T01-SI,"YUEN, Karina",ykh,72,0.708,,0.681,-,4.65,4.71,0.77,0.58,4.76,4.82,0.59,0.44
+24-25,FALL,Section,OTHERS,CEI,PDEV,6800Z,T02,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T02,-,-,-,75,0.693,,0.667,-,4.38,4.44,0.82,0.67,4.58,4.62,0.67,0.57
+24-25,FALL,Instructor,OTHERS,CEI,PDEV,6800Z,T02,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T02,24-25-FALL-PDEV-6800Z-T02-SI,"YUEN, Karina",ykh,75,0.693,,0.667,-,4.38,4.44,0.82,0.67,4.58,4.62,0.67,0.57
+24-25,FALL,Section,OTHERS,CEI,PDEV,6800Z,T03,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T03,-,-,-,74,0.608,,0.581,-,4.6,4.65,0.69,0.57,4.76,4.79,0.48,0.41
+24-25,FALL,Instructor,OTHERS,CEI,PDEV,6800Z,T03,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T03,24-25-FALL-PDEV-6800Z-T03-SI,"YUEN, Karina",ykh,74,0.608,,0.581,-,4.6,4.65,0.69,0.57,4.76,4.79,0.48,0.41
+24-25,FALL,Section,OTHERS,CEI,PDEV,6800Z,T04,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T04,-,-,-,76,0.632,,0.605,-,4.71,4.76,0.65,0.52,4.81,4.85,0.45,0.36
+24-25,FALL,Instructor,OTHERS,CEI,PDEV,6800Z,T04,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T04,24-25-FALL-PDEV-6800Z-T04-SI,"YUEN, Karina",ykh,76,0.632,,0.605,-,4.71,4.76,0.65,0.52,4.81,4.85,0.45,0.36
+24-25,FALL,Section,OTHERS,CEI,PDEV,6800Z,T05,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T05,-,-,-,78,0.718,,0.692,-,4.5,4.56,0.79,0.63,4.66,4.69,0.55,0.51
+24-25,FALL,Instructor,OTHERS,CEI,PDEV,6800Z,T05,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T05,24-25-FALL-PDEV-6800Z-T05-SI,"YUEN, Karina",ykh,78,0.718,,0.692,-,4.5,4.56,0.79,0.63,4.66,4.69,0.55,0.51
+24-25,FALL,Section,OTHERS,CEI,PDEV,6800Z,T06,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T06,-,-,-,73,0.658,,0.63,-,4.44,4.5,0.82,0.66,4.67,4.7,0.56,0.51
+24-25,FALL,Instructor,OTHERS,CEI,PDEV,6800Z,T06,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T06,24-25-FALL-PDEV-6800Z-T06-SI,"YUEN, Karina",ykh,73,0.658,,0.63,-,4.44,4.5,0.82,0.66,4.67,4.7,0.56,0.51
+24-25,FALL,Section,OTHERS,CEI,PDEV,6800Z,T07,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T07,-,-,-,78,0.551,,0.526,-,4.65,4.71,0.72,0.6,4.79,4.83,0.51,0.44
+24-25,FALL,Instructor,OTHERS,CEI,PDEV,6800Z,T07,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T07,24-25-FALL-PDEV-6800Z-T07-SI,"FUNG, Miranda",mirandafung,78,0.551,,0.526,-,4.65,4.71,0.72,0.6,4.79,4.83,0.51,0.44
+24-25,FALL,Section,OTHERS,CEI,PDEV,6800Z,T08,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T08,-,-,-,76,0.684,,0.658,-,4.37,4.42,1.03,0.93,4.52,4.58,0.87,0.73
+24-25,FALL,Instructor,OTHERS,CEI,PDEV,6800Z,T08,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T08,24-25-FALL-PDEV-6800Z-T08-SI,"FUNG, Miranda",mirandafung,76,0.684,,0.658,-,4.37,4.42,1.03,0.93,4.52,4.58,0.87,0.73
+24-25,FALL,Section,OTHERS,CEI,PDEV,6800Z,T09,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T09,-,-,-,71,0.704,,0.676,-,4.44,4.48,0.7,0.62,4.54,4.56,0.61,0.58
+24-25,FALL,Instructor,OTHERS,CEI,PDEV,6800Z,T09,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T09,24-25-FALL-PDEV-6800Z-T09-SI,"FUNG, Miranda",mirandafung,71,0.704,,0.676,-,4.44,4.48,0.7,0.62,4.54,4.56,0.61,0.58
+24-25,FALL,Section,OTHERS,CEI,PDEV,6800Z,T10,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T10,-,-,-,69,0.696,,0.667,-,4.54,4.59,0.68,0.58,4.79,4.83,0.46,0.38
+24-25,FALL,Instructor,OTHERS,CEI,PDEV,6800Z,T10,24-25-FALL-PDEV-6800Z,24-25-FALL-PDEV-6800Z-T10,24-25-FALL-PDEV-6800Z-T10-SI,"FUNG, Miranda",mirandafung,69,0.696,,0.667,-,4.54,4.59,0.68,0.58,4.79,4.83,0.46,0.38
+24-25,FALL,Course,OTHERS,DSTO,GNED,2510,-,24-25-FALL-GNED-2510,-,-,-,-,-,0.5,,-,3,4.56,-,0.55,-,4.4,-,0.76,-
+24-25,FALL,Section,OTHERS,DSTO,GNED,2510,T1,24-25-FALL-GNED-2510,24-25-FALL-GNED-2510-T1,-,-,-,30,0.533,Y,-,-,4.56,-,0.51,-,4.38,-,0.66,-
+24-25,FALL,Instructor,OTHERS,DSTO,GNED,2510,T1,24-25-FALL-GNED-2510,24-25-FALL-GNED-2510-T1,24-25-FALL-GNED-2510-T1-SI,"SIU, Grace",sagsiu,30,0.533,Y,0.467,-,4.56,4.57,0.51,0.51,4.69,4.71,0.48,0.47
+24-25,FALL,Instructor,OTHERS,DSTO,GNED,2510,T1,24-25-FALL-GNED-2510,24-25-FALL-GNED-2510-T1,24-25-FALL-GNED-2510-T1-SI,"YOUSAF, Noorulain",noorulain,30,0.533,Y,0.467,-,4.56,4.57,0.51,0.51,4.06,4.07,0.68,0.62
+24-25,FALL,Section,OTHERS,DSTO,GNED,2510,T2,24-25-FALL-GNED-2510,24-25-FALL-GNED-2510-T2,-,-,-,25,0.423,Y,-,-,4.55,-,0.52,-,4.36,-,0.85,-
+24-25,FALL,Instructor,OTHERS,DSTO,GNED,2510,T2,24-25-FALL-GNED-2510,24-25-FALL-GNED-2510-T2,24-25-FALL-GNED-2510-T2-SI,"SIU, Grace",sagsiu,25,0.423,Y,0.346,-,4.55,4.56,0.52,0.53,4.18,4.22,0.75,0.67
+24-25,FALL,Instructor,OTHERS,DSTO,GNED,2510,T2,24-25-FALL-GNED-2510,24-25-FALL-GNED-2510-T2,24-25-FALL-GNED-2510-T2-SI,"YOUSAF, Noorulain",noorulain,25,0.423,Y,0.346,-,4.55,4.56,0.52,0.53,4.55,4.78,0.93,0.44
+24-25,FALL,Section,OTHERS,DSTO,GNED,2510,T3,24-25-FALL-GNED-2510,24-25-FALL-GNED-2510-T3,-,-,-,30,0.533,Y,-,-,4.56,-,0.63,-,4.44,-,0.8,-
+24-25,FALL,Instructor,OTHERS,DSTO,GNED,2510,T3,24-25-FALL-GNED-2510,24-25-FALL-GNED-2510-T3,24-25-FALL-GNED-2510-T3-SI,"SIU, Grace",sagsiu,30,0.533,Y,0.467,-,4.56,4.64,0.63,0.5,4.81,4.86,0.4,0.36
+24-25,FALL,Instructor,OTHERS,DSTO,GNED,2510,T3,24-25-FALL-GNED-2510,24-25-FALL-GNED-2510-T3,24-25-FALL-GNED-2510-T3-SI,"YOUSAF, Noorulain",noorulain,30,0.533,Y,0.467,-,4.56,4.64,0.63,0.5,4.06,4.14,0.93,0.77
+24-25,FALL,Course,OTHERS,UROP,UROP,3200,-,24-25-FALL-UROP-3200,-,-,-,-,-,0.167,Y,-,1,5.0,-,0.0,-,5.0,-,0.0,-
+24-25,FALL,Section,OTHERS,UROP,UROP,3200,LA1,24-25-FALL-UROP-3200,24-25-FALL-UROP-3200-LA1,-,-,-,6,0.167,Y,-,-,5.0,-,0.0,-,5.0,-,0.0,-
+24-25,FALL,Instructor,OTHERS,UROP,UROP,3200,LA1,24-25-FALL-UROP-3200,24-25-FALL-UROP-3200-LA1,24-25-FALL-UROP-3200-LA1-SI,"UROP, Teaching Team",urop,6,0.167,Y,-,-,5.0,-,0.0,-,5.0,-,0.0,-
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by Academic Quality Advancement Team,,,,,,,,,,,,,,,,,,,,,,,,,
+23 January 2025,,,,,,,,,,,,,,,,,,,,,,,,,

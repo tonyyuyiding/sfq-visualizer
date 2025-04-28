@@ -63,7 +63,7 @@ export default function Home() {
 
         <h2 className="text-xl font-bold py-2 mt-2" id="about">About</h2>
         <p className="pb-1">
-          SFQ visualizer is an open source project. You can find the source code on <a href="https://github.com/tonyyuyiding/sfq-visualizer" className="underline" target="_blank">github</a>. If you find this website useful, please star the github repository (Thanks!). Contributions and issues are also welcomed!
+          SFQ visualizer is an open source project. You can find the source code on <a href="https://github.com/tonyyuyiding/sfq-visualizer" className="underline" target="_blank">github</a>. If you find this website useful, please star the github repository (Thanks!). Contributions and issues are also welcome!
         </p>
         <p className="pb-1">
           The rankings and charts are completely based on the SFQ survey results published by the university. They have nothing to do with the attitude of the developers. The data is up to Summer 2024.
@@ -94,6 +94,9 @@ export default function Home() {
 
         <h2 className="text-xl font-bold py-2 mt-2" id="changelog">Changelog</h2>
         <ul className="list-disc list-inside ml-4">
+          <li>
+            2025-04-28: Add data for Fall 2024 and Winter 2025.
+          </li>
           <li>
             2025-01-03: Fix some wrong data. Add more content to homepage.
           </li>

@@ -47,7 +47,7 @@ def get_file_name(
     return f"{school}-{semester}{year%100}.{format}"
 
 
-YEAR_LIST = list(range(2024, 2016, -1))
+YEAR_LIST = list(range(2025, 2016, -1))
 SEMESTER_LIST = [
     Semester.Winter,
     Semester.Spring,
@@ -187,6 +187,9 @@ class YSStqdm:
         self.pbar_school.colour = "red"
         self.num_failure += 1
         self.num_skipped -= 1
+    
+    def add_skipped(self) -> None:
+        self.pbar_school.colour = "yellow"
 
     def add(self, succ: bool) -> bool:
         if succ:
