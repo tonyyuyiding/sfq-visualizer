@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from '@vercel/analytics/next';
 import "./globals.css";
 import Navbar from "./components/Navbar";
 import BottomButtons from "./components/BottomButtons";
@@ -24,6 +25,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <BottomButtons />
 
+        <Analytics />
       </body>
     </html>
   );
