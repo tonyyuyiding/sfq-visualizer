@@ -15,4 +15,4 @@ The rankings and charts are completely based on the SFQ survey results published
 
 The data is for reference only. Small inaccuracy is possible in calculations. Besides, the SFQ results may be biased. As is mentioned on the university website, large classes tend to get lower ratings, and PG classes usually get higher ratings than UG ones.
 
-**Contributions and issues are welcomed!**
+**Contributions and issues are welcome!**

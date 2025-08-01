@@ -63,12 +63,18 @@ https://sfq.cyanfeathers.com/courses/AESF5380
 https://sfq.cyanfeathers.com/courses/AESF5630
 https://sfq.cyanfeathers.com/courses/AESF5710
 https://sfq.cyanfeathers.com/courses/AESF5720
+https://sfq.cyanfeathers.com/courses/AESF5730
+https://sfq.cyanfeathers.com/courses/AESF5740
+https://sfq.cyanfeathers.com/courses/AESF5750
 https://sfq.cyanfeathers.com/courses/AESF6910V
 https://sfq.cyanfeathers.com/courses/AESF6910W
 https://sfq.cyanfeathers.com/courses/AESF6910X
 https://sfq.cyanfeathers.com/courses/AESF6910Y
 https://sfq.cyanfeathers.com/courses/AESF6910Z
+https://sfq.cyanfeathers.com/courses/AESF6920A
+https://sfq.cyanfeathers.com/courses/AISC2500A
 https://sfq.cyanfeathers.com/courses/BEHI5001
+https://sfq.cyanfeathers.com/courses/BEHI5002
 https://sfq.cyanfeathers.com/courses/BEHI5003
 https://sfq.cyanfeathers.com/courses/BEHI5005
 https://sfq.cyanfeathers.com/courses/BEHI5006
@@ -76,8 +82,10 @@ https://sfq.cyanfeathers.com/courses/BEHI5007
 https://sfq.cyanfeathers.com/courses/BEHI5008
 https://sfq.cyanfeathers.com/courses/BEHI5009
 https://sfq.cyanfeathers.com/courses/BEHI5010
+https://sfq.cyanfeathers.com/courses/BEHI5011
 https://sfq.cyanfeathers.com/courses/BEHI5013
 https://sfq.cyanfeathers.com/courses/BEHI6000A
+https://sfq.cyanfeathers.com/courses/BEHI6000B
 https://sfq.cyanfeathers.com/courses/BIBU4820
 https://sfq.cyanfeathers.com/courses/BIBU4830
 https://sfq.cyanfeathers.com/courses/BIEN1010
@@ -92,12 +100,14 @@ https://sfq.cyanfeathers.com/courses/BIEN3410
 https://sfq.cyanfeathers.com/courses/BIEN4000A
 https://sfq.cyanfeathers.com/courses/BIEN4000B
 https://sfq.cyanfeathers.com/courses/BIEN4000C
+https://sfq.cyanfeathers.com/courses/BIEN4000D
 https://sfq.cyanfeathers.com/courses/BIEN4110
 https://sfq.cyanfeathers.com/courses/BIEN4310
 https://sfq.cyanfeathers.com/courses/BIEN5001
 https://sfq.cyanfeathers.com/courses/BIEN5010
 https://sfq.cyanfeathers.com/courses/BIEN5040
 https://sfq.cyanfeathers.com/courses/BIEN5060
+https://sfq.cyanfeathers.com/courses/BIEN5070
 https://sfq.cyanfeathers.com/courses/BIEN5820
 https://sfq.cyanfeathers.com/courses/BIEN6930B
 https://sfq.cyanfeathers.com/courses/BIEN6930C
@@ -150,6 +160,7 @@ https://sfq.cyanfeathers.com/courses/CENG4130
 https://sfq.cyanfeathers.com/courses/CENG4140
 https://sfq.cyanfeathers.com/courses/CENG4150
 https://sfq.cyanfeathers.com/courses/CENG4160
+https://sfq.cyanfeathers.com/courses/CENG4510
 https://sfq.cyanfeathers.com/courses/CENG4540
 https://sfq.cyanfeathers.com/courses/CENG4620
 https://sfq.cyanfeathers.com/courses/CENG4630
@@ -164,6 +175,7 @@ https://sfq.cyanfeathers.com/courses/CENG5100
 https://sfq.cyanfeathers.com/courses/CENG5210
 https://sfq.cyanfeathers.com/courses/CENG5220
 https://sfq.cyanfeathers.com/courses/CENG5230
+https://sfq.cyanfeathers.com/courses/CENG5240
 https://sfq.cyanfeathers.com/courses/CENG5300
 https://sfq.cyanfeathers.com/courses/CENG5400
 https://sfq.cyanfeathers.com/courses/CENG5520
@@ -180,6 +192,9 @@ https://sfq.cyanfeathers.com/courses/CENG6000K
 https://sfq.cyanfeathers.com/courses/CENG6000L
 https://sfq.cyanfeathers.com/courses/CENG6000M
 https://sfq.cyanfeathers.com/courses/CENG6000N
+https://sfq.cyanfeathers.com/courses/CENG6000Q
+https://sfq.cyanfeathers.com/courses/CENG6000R
+https://sfq.cyanfeathers.com/courses/CENG6000S
 https://sfq.cyanfeathers.com/courses/CHEM1002
 https://sfq.cyanfeathers.com/courses/CHEM1004
 https://sfq.cyanfeathers.com/courses/CHEM1008
@@ -190,6 +205,7 @@ https://sfq.cyanfeathers.com/courses/CHEM1020
 https://sfq.cyanfeathers.com/courses/CHEM1030
 https://sfq.cyanfeathers.com/courses/CHEM1050
 https://sfq.cyanfeathers.com/courses/CHEM1051
+https://sfq.cyanfeathers.com/courses/CHEM1052
 https://sfq.cyanfeathers.com/courses/CHEM1055
 https://sfq.cyanfeathers.com/courses/CHEM2110
 https://sfq.cyanfeathers.com/courses/CHEM2111
@@ -282,6 +298,7 @@ https://sfq.cyanfeathers.com/courses/CIEM5390
 https://sfq.cyanfeathers.com/courses/CIEM5420
 https://sfq.cyanfeathers.com/courses/CIEM5460
 https://sfq.cyanfeathers.com/courses/CIEM5620
+https://sfq.cyanfeathers.com/courses/CIEM5630
 https://sfq.cyanfeathers.com/courses/CIEM5720
 https://sfq.cyanfeathers.com/courses/CIEM5740
 https://sfq.cyanfeathers.com/courses/CIEM5760
@@ -290,6 +307,8 @@ https://sfq.cyanfeathers.com/courses/CIEM5790
 https://sfq.cyanfeathers.com/courses/CIEM5810
 https://sfq.cyanfeathers.com/courses/CIEM6000R
 https://sfq.cyanfeathers.com/courses/CIEM6000U
+https://sfq.cyanfeathers.com/courses/CIEM6000V
+https://sfq.cyanfeathers.com/courses/CIEM6000W
 https://sfq.cyanfeathers.com/courses/CIVL1100
 https://sfq.cyanfeathers.com/courses/CIVL1120
 https://sfq.cyanfeathers.com/courses/CIVL1140
@@ -331,6 +350,7 @@ https://sfq.cyanfeathers.com/courses/CIVL4100R
 https://sfq.cyanfeathers.com/courses/CIVL4100S
 https://sfq.cyanfeathers.com/courses/CIVL4100T
 https://sfq.cyanfeathers.com/courses/CIVL4100U
+https://sfq.cyanfeathers.com/courses/CIVL4100V
 https://sfq.cyanfeathers.com/courses/CIVL4210
 https://sfq.cyanfeathers.com/courses/CIVL4220
 https://sfq.cyanfeathers.com/courses/CIVL4250
@@ -497,6 +517,7 @@ https://sfq.cyanfeathers.com/courses/COMP4632
 https://sfq.cyanfeathers.com/courses/COMP4634
 https://sfq.cyanfeathers.com/courses/COMP4641
 https://sfq.cyanfeathers.com/courses/COMP4651
+https://sfq.cyanfeathers.com/courses/COMP4901A
 https://sfq.cyanfeathers.com/courses/COMP4901F
 https://sfq.cyanfeathers.com/courses/COMP4901I
 https://sfq.cyanfeathers.com/courses/COMP4901J
@@ -553,6 +574,7 @@ https://sfq.cyanfeathers.com/courses/COMP6311F
 https://sfq.cyanfeathers.com/courses/COMP6411B
 https://sfq.cyanfeathers.com/courses/COMP6411C
 https://sfq.cyanfeathers.com/courses/COMP6511B
+https://sfq.cyanfeathers.com/courses/COMP6611C
 https://sfq.cyanfeathers.com/courses/COMP6613A
 https://sfq.cyanfeathers.com/courses/COMP6613B
 https://sfq.cyanfeathers.com/courses/COMP6613C
@@ -645,6 +667,7 @@ https://sfq.cyanfeathers.com/courses/CSIT5970
 https://sfq.cyanfeathers.com/courses/CSIT6000Q
 https://sfq.cyanfeathers.com/courses/CSIT6000R
 https://sfq.cyanfeathers.com/courses/CSIT6000S
+https://sfq.cyanfeathers.com/courses/CSIT6000T
 https://sfq.cyanfeathers.com/courses/CTDL1901
 https://sfq.cyanfeathers.com/courses/CTDL1902
 https://sfq.cyanfeathers.com/courses/DASC2010
@@ -657,12 +680,18 @@ https://sfq.cyanfeathers.com/courses/DASC3230
 https://sfq.cyanfeathers.com/courses/DASC3240
 https://sfq.cyanfeathers.com/courses/DASC3250
 https://sfq.cyanfeathers.com/courses/DASC4010
+https://sfq.cyanfeathers.com/courses/DASC4020
 https://sfq.cyanfeathers.com/courses/DASC4300
 https://sfq.cyanfeathers.com/courses/DRAP5001
 https://sfq.cyanfeathers.com/courses/DRAP5002
+https://sfq.cyanfeathers.com/courses/DRAP5003
+https://sfq.cyanfeathers.com/courses/DRAP5004
 https://sfq.cyanfeathers.com/courses/DRAP5101
 https://sfq.cyanfeathers.com/courses/DRAP5103
+https://sfq.cyanfeathers.com/courses/DRAP5104
+https://sfq.cyanfeathers.com/courses/DRAP5105
 https://sfq.cyanfeathers.com/courses/ECON1220
+https://sfq.cyanfeathers.com/courses/ECON1221
 https://sfq.cyanfeathers.com/courses/ECON1222
 https://sfq.cyanfeathers.com/courses/ECON2103
 https://sfq.cyanfeathers.com/courses/ECON2113
@@ -741,6 +770,7 @@ https://sfq.cyanfeathers.com/courses/ECON5349
 https://sfq.cyanfeathers.com/courses/ECON5350
 https://sfq.cyanfeathers.com/courses/ECON5351
 https://sfq.cyanfeathers.com/courses/ECON5352
+https://sfq.cyanfeathers.com/courses/ECON5353
 https://sfq.cyanfeathers.com/courses/ECON5360
 https://sfq.cyanfeathers.com/courses/ECON5370
 https://sfq.cyanfeathers.com/courses/ECON5390
@@ -794,6 +824,9 @@ https://sfq.cyanfeathers.com/courses/ECON6110T
 https://sfq.cyanfeathers.com/courses/ECON6110U
 https://sfq.cyanfeathers.com/courses/ECON6110V
 https://sfq.cyanfeathers.com/courses/ECON6110W
+https://sfq.cyanfeathers.com/courses/ECON6110X
+https://sfq.cyanfeathers.com/courses/ECON6110Y
+https://sfq.cyanfeathers.com/courses/ECON6110Z
 https://sfq.cyanfeathers.com/courses/ECON6120I
 https://sfq.cyanfeathers.com/courses/ECON6120L
 https://sfq.cyanfeathers.com/courses/ECON6120M
@@ -815,6 +848,7 @@ https://sfq.cyanfeathers.com/courses/EEMT5300
 https://sfq.cyanfeathers.com/courses/EEMT5360
 https://sfq.cyanfeathers.com/courses/EEMT5510
 https://sfq.cyanfeathers.com/courses/EEMT5520
+https://sfq.cyanfeathers.com/courses/EEMT5530
 https://sfq.cyanfeathers.com/courses/EEMT5540
 https://sfq.cyanfeathers.com/courses/EEMT5560
 https://sfq.cyanfeathers.com/courses/EEMT5990
@@ -826,6 +860,7 @@ https://sfq.cyanfeathers.com/courses/EESM5100
 https://sfq.cyanfeathers.com/courses/EESM5120
 https://sfq.cyanfeathers.com/courses/EESM5200
 https://sfq.cyanfeathers.com/courses/EESM5310
+https://sfq.cyanfeathers.com/courses/EESM5515
 https://sfq.cyanfeathers.com/courses/EESM5536
 https://sfq.cyanfeathers.com/courses/EESM5539
 https://sfq.cyanfeathers.com/courses/EESM5540
@@ -846,6 +881,10 @@ https://sfq.cyanfeathers.com/courses/EESM5900S
 https://sfq.cyanfeathers.com/courses/EESM5900T
 https://sfq.cyanfeathers.com/courses/EESM5900U
 https://sfq.cyanfeathers.com/courses/EESM5900V
+https://sfq.cyanfeathers.com/courses/EESM6000A
+https://sfq.cyanfeathers.com/courses/EESM6000B
+https://sfq.cyanfeathers.com/courses/EESM6000C
+https://sfq.cyanfeathers.com/courses/EESM6970
 https://sfq.cyanfeathers.com/courses/EESM6980M
 https://sfq.cyanfeathers.com/courses/ELEC1010
 https://sfq.cyanfeathers.com/courses/ELEC1020
@@ -864,6 +903,7 @@ https://sfq.cyanfeathers.com/courses/ELEC2600
 https://sfq.cyanfeathers.com/courses/ELEC2600H
 https://sfq.cyanfeathers.com/courses/ELEC3100
 https://sfq.cyanfeathers.com/courses/ELEC3120
+https://sfq.cyanfeathers.com/courses/ELEC3130
 https://sfq.cyanfeathers.com/courses/ELEC3180
 https://sfq.cyanfeathers.com/courses/ELEC3200
 https://sfq.cyanfeathers.com/courses/ELEC3210
@@ -883,6 +923,8 @@ https://sfq.cyanfeathers.com/courses/ELEC4010M
 https://sfq.cyanfeathers.com/courses/ELEC4010N
 https://sfq.cyanfeathers.com/courses/ELEC4010O
 https://sfq.cyanfeathers.com/courses/ELEC4010P
+https://sfq.cyanfeathers.com/courses/ELEC4010Q
+https://sfq.cyanfeathers.com/courses/ELEC4010S
 https://sfq.cyanfeathers.com/courses/ELEC4010T
 https://sfq.cyanfeathers.com/courses/ELEC4110
 https://sfq.cyanfeathers.com/courses/ELEC4120
@@ -893,6 +935,7 @@ https://sfq.cyanfeathers.com/courses/ELEC4210
 https://sfq.cyanfeathers.com/courses/ELEC4220
 https://sfq.cyanfeathers.com/courses/ELEC4230
 https://sfq.cyanfeathers.com/courses/ELEC4240
+https://sfq.cyanfeathers.com/courses/ELEC4260
 https://sfq.cyanfeathers.com/courses/ELEC4310
 https://sfq.cyanfeathers.com/courses/ELEC4320
 https://sfq.cyanfeathers.com/courses/ELEC4330
@@ -951,6 +994,8 @@ https://sfq.cyanfeathers.com/courses/ELEC6910E
 https://sfq.cyanfeathers.com/courses/ELEC6910F
 https://sfq.cyanfeathers.com/courses/ELEC6910G
 https://sfq.cyanfeathers.com/courses/ELEC6910H
+https://sfq.cyanfeathers.com/courses/ELEC6910I
+https://sfq.cyanfeathers.com/courses/ELEC6910J
 https://sfq.cyanfeathers.com/courses/ELEC6910Q
 https://sfq.cyanfeathers.com/courses/ELEC6910R
 https://sfq.cyanfeathers.com/courses/ELEC6910T
@@ -964,6 +1009,7 @@ https://sfq.cyanfeathers.com/courses/ELEC6950A
 https://sfq.cyanfeathers.com/courses/ELEC6950B
 https://sfq.cyanfeathers.com/courses/EMIA2020
 https://sfq.cyanfeathers.com/courses/EMIA2200
+https://sfq.cyanfeathers.com/courses/EMIA2220
 https://sfq.cyanfeathers.com/courses/EMIA2500A
 https://sfq.cyanfeathers.com/courses/EMIA4110
 https://sfq.cyanfeathers.com/courses/EMIA4500A
@@ -974,6 +1020,13 @@ https://sfq.cyanfeathers.com/courses/EMIA6500F
 https://sfq.cyanfeathers.com/courses/EMIA6500G
 https://sfq.cyanfeathers.com/courses/EMIA6500H
 https://sfq.cyanfeathers.com/courses/EMIA6500I
+https://sfq.cyanfeathers.com/courses/EMIA6500J
+https://sfq.cyanfeathers.com/courses/EMIA6500K
+https://sfq.cyanfeathers.com/courses/EMIA6500L
+https://sfq.cyanfeathers.com/courses/EMIA6500M
+https://sfq.cyanfeathers.com/courses/EMIA6500N
+https://sfq.cyanfeathers.com/courses/EMIA6500O
+https://sfq.cyanfeathers.com/courses/EMIA6500P
 https://sfq.cyanfeathers.com/courses/ENEG3110
 https://sfq.cyanfeathers.com/courses/ENEG4130
 https://sfq.cyanfeathers.com/courses/ENEG4210
@@ -991,6 +1044,7 @@ https://sfq.cyanfeathers.com/courses/ENGG1200
 https://sfq.cyanfeathers.com/courses/ENGG1300
 https://sfq.cyanfeathers.com/courses/ENGG1400
 https://sfq.cyanfeathers.com/courses/ENGG1900
+https://sfq.cyanfeathers.com/courses/ENGG2010
 https://sfq.cyanfeathers.com/courses/ENGG2900D
 https://sfq.cyanfeathers.com/courses/ENGG2900H
 https://sfq.cyanfeathers.com/courses/ENGG2990J
@@ -1021,6 +1075,11 @@ https://sfq.cyanfeathers.com/courses/ENGG3961A
 https://sfq.cyanfeathers.com/courses/ENGG3961B
 https://sfq.cyanfeathers.com/courses/ENGG3961C
 https://sfq.cyanfeathers.com/courses/ENGG3961D
+https://sfq.cyanfeathers.com/courses/ENGG3961E
+https://sfq.cyanfeathers.com/courses/ENGG3961F
+https://sfq.cyanfeathers.com/courses/ENGG3961G
+https://sfq.cyanfeathers.com/courses/ENGG3961H
+https://sfq.cyanfeathers.com/courses/ENGG3961I
 https://sfq.cyanfeathers.com/courses/ENGG4930A
 https://sfq.cyanfeathers.com/courses/ENGG4930B
 https://sfq.cyanfeathers.com/courses/ENGG4930C
@@ -1059,8 +1118,10 @@ https://sfq.cyanfeathers.com/courses/ENVR4000P
 https://sfq.cyanfeathers.com/courses/ENVR4320
 https://sfq.cyanfeathers.com/courses/ENVR4330
 https://sfq.cyanfeathers.com/courses/ENVR4470
+https://sfq.cyanfeathers.com/courses/ENVR4480
 https://sfq.cyanfeathers.com/courses/ENVR5250
 https://sfq.cyanfeathers.com/courses/ENVR5260
+https://sfq.cyanfeathers.com/courses/ENVR5290
 https://sfq.cyanfeathers.com/courses/ENVR5310
 https://sfq.cyanfeathers.com/courses/ENVR5320
 https://sfq.cyanfeathers.com/courses/ENVR5330
@@ -1072,12 +1133,15 @@ https://sfq.cyanfeathers.com/courses/ENVR5390
 https://sfq.cyanfeathers.com/courses/ENVR5400
 https://sfq.cyanfeathers.com/courses/ENVR5410
 https://sfq.cyanfeathers.com/courses/ENVR5420
+https://sfq.cyanfeathers.com/courses/ENVR5430
 https://sfq.cyanfeathers.com/courses/ENVR6040N
 https://sfq.cyanfeathers.com/courses/ENVR6050
 https://sfq.cyanfeathers.com/courses/ENVR6090E
 https://sfq.cyanfeathers.com/courses/ENVR6090F
 https://sfq.cyanfeathers.com/courses/ENVR6090G
 https://sfq.cyanfeathers.com/courses/ENVR6090H
+https://sfq.cyanfeathers.com/courses/ENVR6090I
+https://sfq.cyanfeathers.com/courses/ENVR6090J
 https://sfq.cyanfeathers.com/courses/ENVS2003
 https://sfq.cyanfeathers.com/courses/ENVS2004
 https://sfq.cyanfeathers.com/courses/ENVS3004
@@ -1124,6 +1188,7 @@ https://sfq.cyanfeathers.com/courses/FINA4403
 https://sfq.cyanfeathers.com/courses/FINA4413
 https://sfq.cyanfeathers.com/courses/FINA4423
 https://sfq.cyanfeathers.com/courses/FINA4503
+https://sfq.cyanfeathers.com/courses/FINA4513
 https://sfq.cyanfeathers.com/courses/FINA4603
 https://sfq.cyanfeathers.com/courses/FINA4703
 https://sfq.cyanfeathers.com/courses/FINA4713
@@ -1211,8 +1276,12 @@ https://sfq.cyanfeathers.com/courses/FINA6910K
 https://sfq.cyanfeathers.com/courses/FINA6910L
 https://sfq.cyanfeathers.com/courses/FINA6910M
 https://sfq.cyanfeathers.com/courses/FINA6910N
+https://sfq.cyanfeathers.com/courses/FINA6910O
+https://sfq.cyanfeathers.com/courses/FINA6910P
 https://sfq.cyanfeathers.com/courses/FINA6910Q
 https://sfq.cyanfeathers.com/courses/FINA6910R
+https://sfq.cyanfeathers.com/courses/FINA6910S
+https://sfq.cyanfeathers.com/courses/FINA6910T
 https://sfq.cyanfeathers.com/courses/FINA7900A
 https://sfq.cyanfeathers.com/courses/FINA7900B
 https://sfq.cyanfeathers.com/courses/FINA7900C
@@ -1221,6 +1290,7 @@ https://sfq.cyanfeathers.com/courses/FINA7900E
 https://sfq.cyanfeathers.com/courses/FINA7900J
 https://sfq.cyanfeathers.com/courses/FINA7900M
 https://sfq.cyanfeathers.com/courses/FINA7900N
+https://sfq.cyanfeathers.com/courses/FINA7900O
 https://sfq.cyanfeathers.com/courses/GBUS2010
 https://sfq.cyanfeathers.com/courses/GBUS2030
 https://sfq.cyanfeathers.com/courses/GBUS2050
@@ -1228,6 +1298,7 @@ https://sfq.cyanfeathers.com/courses/GBUS3010
 https://sfq.cyanfeathers.com/courses/GBUS3030
 https://sfq.cyanfeathers.com/courses/GBUS3040
 https://sfq.cyanfeathers.com/courses/GBUS3050
+https://sfq.cyanfeathers.com/courses/GBUS3060
 https://sfq.cyanfeathers.com/courses/GBUS4000B
 https://sfq.cyanfeathers.com/courses/GBUS4000D
 https://sfq.cyanfeathers.com/courses/GBUS4000E
@@ -1291,6 +1362,7 @@ https://sfq.cyanfeathers.com/courses/HUMA1060
 https://sfq.cyanfeathers.com/courses/HUMA1100
 https://sfq.cyanfeathers.com/courses/HUMA1102
 https://sfq.cyanfeathers.com/courses/HUMA1107
+https://sfq.cyanfeathers.com/courses/HUMA1108
 https://sfq.cyanfeathers.com/courses/HUMA1150
 https://sfq.cyanfeathers.com/courses/HUMA1154
 https://sfq.cyanfeathers.com/courses/HUMA1155
@@ -1315,11 +1387,14 @@ https://sfq.cyanfeathers.com/courses/HUMA1671
 https://sfq.cyanfeathers.com/courses/HUMA1672
 https://sfq.cyanfeathers.com/courses/HUMA1673
 https://sfq.cyanfeathers.com/courses/HUMA1674
+https://sfq.cyanfeathers.com/courses/HUMA1675
 https://sfq.cyanfeathers.com/courses/HUMA1710
 https://sfq.cyanfeathers.com/courses/HUMA1720
 https://sfq.cyanfeathers.com/courses/HUMA1810
 https://sfq.cyanfeathers.com/courses/HUMA1811
 https://sfq.cyanfeathers.com/courses/HUMA1920
+https://sfq.cyanfeathers.com/courses/HUMA1921
+https://sfq.cyanfeathers.com/courses/HUMA1922
 https://sfq.cyanfeathers.com/courses/HUMA1930
 https://sfq.cyanfeathers.com/courses/HUMA2000C
 https://sfq.cyanfeathers.com/courses/HUMA2000E
@@ -1365,6 +1440,7 @@ https://sfq.cyanfeathers.com/courses/HUMA2623
 https://sfq.cyanfeathers.com/courses/HUMA2630
 https://sfq.cyanfeathers.com/courses/HUMA2632
 https://sfq.cyanfeathers.com/courses/HUMA2633
+https://sfq.cyanfeathers.com/courses/HUMA2634
 https://sfq.cyanfeathers.com/courses/HUMA2635
 https://sfq.cyanfeathers.com/courses/HUMA2638
 https://sfq.cyanfeathers.com/courses/HUMA2639
@@ -1387,6 +1463,7 @@ https://sfq.cyanfeathers.com/courses/HUMA3102
 https://sfq.cyanfeathers.com/courses/HUMA3103
 https://sfq.cyanfeathers.com/courses/HUMA3104
 https://sfq.cyanfeathers.com/courses/HUMA3105
+https://sfq.cyanfeathers.com/courses/HUMA3107
 https://sfq.cyanfeathers.com/courses/HUMA3200
 https://sfq.cyanfeathers.com/courses/HUMA3201
 https://sfq.cyanfeathers.com/courses/HUMA3202
@@ -1493,12 +1570,14 @@ https://sfq.cyanfeathers.com/courses/IBTM5430
 https://sfq.cyanfeathers.com/courses/IBTM5460
 https://sfq.cyanfeathers.com/courses/IBTM5500
 https://sfq.cyanfeathers.com/courses/IBTM5530
+https://sfq.cyanfeathers.com/courses/IBTM5620
 https://sfq.cyanfeathers.com/courses/IBTM5650
 https://sfq.cyanfeathers.com/courses/IBTM5660
 https://sfq.cyanfeathers.com/courses/IBTM5670
 https://sfq.cyanfeathers.com/courses/IBTM5680
 https://sfq.cyanfeathers.com/courses/IDPO2500B
 https://sfq.cyanfeathers.com/courses/IDPO2910
+https://sfq.cyanfeathers.com/courses/IEDA1250
 https://sfq.cyanfeathers.com/courses/IEDA2010
 https://sfq.cyanfeathers.com/courses/IEDA2100E
 https://sfq.cyanfeathers.com/courses/IEDA2100S
@@ -1523,6 +1602,8 @@ https://sfq.cyanfeathers.com/courses/IEDA3560
 https://sfq.cyanfeathers.com/courses/IEDA3901
 https://sfq.cyanfeathers.com/courses/IEDA4000A
 https://sfq.cyanfeathers.com/courses/IEDA4000B
+https://sfq.cyanfeathers.com/courses/IEDA4000C
+https://sfq.cyanfeathers.com/courses/IEDA4000D
 https://sfq.cyanfeathers.com/courses/IEDA4100
 https://sfq.cyanfeathers.com/courses/IEDA4130
 https://sfq.cyanfeathers.com/courses/IEDA4180
@@ -1593,12 +1674,14 @@ https://sfq.cyanfeathers.com/courses/ISDN2000
 https://sfq.cyanfeathers.com/courses/ISDN2001
 https://sfq.cyanfeathers.com/courses/ISDN2002
 https://sfq.cyanfeathers.com/courses/ISDN2200
+https://sfq.cyanfeathers.com/courses/ISDN2210
 https://sfq.cyanfeathers.com/courses/ISDN2300
 https://sfq.cyanfeathers.com/courses/ISDN2400
 https://sfq.cyanfeathers.com/courses/ISDN2500
 https://sfq.cyanfeathers.com/courses/ISDN2601
 https://sfq.cyanfeathers.com/courses/ISDN2602
 https://sfq.cyanfeathers.com/courses/ISDN2603
+https://sfq.cyanfeathers.com/courses/ISDN3000A
 https://sfq.cyanfeathers.com/courses/ISDN3001
 https://sfq.cyanfeathers.com/courses/ISDN3002
 https://sfq.cyanfeathers.com/courses/ISDN3004
@@ -1637,10 +1720,12 @@ https://sfq.cyanfeathers.com/courses/ISDN6660C
 https://sfq.cyanfeathers.com/courses/ISDN6660D
 https://sfq.cyanfeathers.com/courses/ISDN6660E
 https://sfq.cyanfeathers.com/courses/ISDN6660F
+https://sfq.cyanfeathers.com/courses/ISDN6660G
 https://sfq.cyanfeathers.com/courses/ISDN6810A
 https://sfq.cyanfeathers.com/courses/ISDN6830A
 https://sfq.cyanfeathers.com/courses/ISDN6830B
 https://sfq.cyanfeathers.com/courses/ISDN6830C
+https://sfq.cyanfeathers.com/courses/ISDN6830D
 https://sfq.cyanfeathers.com/courses/ISOM1090
 https://sfq.cyanfeathers.com/courses/ISOM1380
 https://sfq.cyanfeathers.com/courses/ISOM1500
@@ -1669,6 +1754,7 @@ https://sfq.cyanfeathers.com/courses/ISOM3180
 https://sfq.cyanfeathers.com/courses/ISOM3210
 https://sfq.cyanfeathers.com/courses/ISOM3230
 https://sfq.cyanfeathers.com/courses/ISOM3260
+https://sfq.cyanfeathers.com/courses/ISOM3270
 https://sfq.cyanfeathers.com/courses/ISOM3310
 https://sfq.cyanfeathers.com/courses/ISOM3320
 https://sfq.cyanfeathers.com/courses/ISOM3330
@@ -1685,13 +1771,16 @@ https://sfq.cyanfeathers.com/courses/ISOM3710
 https://sfq.cyanfeathers.com/courses/ISOM3730
 https://sfq.cyanfeathers.com/courses/ISOM3760
 https://sfq.cyanfeathers.com/courses/ISOM3770
+https://sfq.cyanfeathers.com/courses/ISOM3780
 https://sfq.cyanfeathers.com/courses/ISOM3900
 https://sfq.cyanfeathers.com/courses/ISOM4000A
 https://sfq.cyanfeathers.com/courses/ISOM4000B
 https://sfq.cyanfeathers.com/courses/ISOM4000C
+https://sfq.cyanfeathers.com/courses/ISOM4000D
 https://sfq.cyanfeathers.com/courses/ISOM4010
 https://sfq.cyanfeathers.com/courses/ISOM4020
 https://sfq.cyanfeathers.com/courses/ISOM4030
+https://sfq.cyanfeathers.com/courses/ISOM4040
 https://sfq.cyanfeathers.com/courses/ISOM4100
 https://sfq.cyanfeathers.com/courses/ISOM4200
 https://sfq.cyanfeathers.com/courses/ISOM4300
@@ -1711,6 +1800,7 @@ https://sfq.cyanfeathers.com/courses/ISOM4840
 https://sfq.cyanfeathers.com/courses/ISOM5020
 https://sfq.cyanfeathers.com/courses/ISOM5030
 https://sfq.cyanfeathers.com/courses/ISOM5100
+https://sfq.cyanfeathers.com/courses/ISOM5110
 https://sfq.cyanfeathers.com/courses/ISOM5120
 https://sfq.cyanfeathers.com/courses/ISOM5130
 https://sfq.cyanfeathers.com/courses/ISOM5160
@@ -1735,6 +1825,7 @@ https://sfq.cyanfeathers.com/courses/ISOM5380
 https://sfq.cyanfeathers.com/courses/ISOM5390
 https://sfq.cyanfeathers.com/courses/ISOM5400
 https://sfq.cyanfeathers.com/courses/ISOM5420
+https://sfq.cyanfeathers.com/courses/ISOM5430
 https://sfq.cyanfeathers.com/courses/ISOM5450
 https://sfq.cyanfeathers.com/courses/ISOM5460
 https://sfq.cyanfeathers.com/courses/ISOM5470
@@ -1755,10 +1846,12 @@ https://sfq.cyanfeathers.com/courses/ISOM5701
 https://sfq.cyanfeathers.com/courses/ISOM5710
 https://sfq.cyanfeathers.com/courses/ISOM5715
 https://sfq.cyanfeathers.com/courses/ISOM5720
+https://sfq.cyanfeathers.com/courses/ISOM5725
 https://sfq.cyanfeathers.com/courses/ISOM5730
 https://sfq.cyanfeathers.com/courses/ISOM5740
 https://sfq.cyanfeathers.com/courses/ISOM5745
 https://sfq.cyanfeathers.com/courses/ISOM5750
+https://sfq.cyanfeathers.com/courses/ISOM5755
 https://sfq.cyanfeathers.com/courses/ISOM5760
 https://sfq.cyanfeathers.com/courses/ISOM5770
 https://sfq.cyanfeathers.com/courses/ISOM5780
@@ -1782,6 +1875,10 @@ https://sfq.cyanfeathers.com/courses/ISOM6000Q
 https://sfq.cyanfeathers.com/courses/ISOM6000R
 https://sfq.cyanfeathers.com/courses/ISOM6000S
 https://sfq.cyanfeathers.com/courses/ISOM6000T
+https://sfq.cyanfeathers.com/courses/ISOM6000U
+https://sfq.cyanfeathers.com/courses/ISOM6000V
+https://sfq.cyanfeathers.com/courses/ISOM6000W
+https://sfq.cyanfeathers.com/courses/ISOM6000X
 https://sfq.cyanfeathers.com/courses/ISOM6670A
 https://sfq.cyanfeathers.com/courses/ISOM6670B
 https://sfq.cyanfeathers.com/courses/ISOM6670C
@@ -1815,6 +1912,7 @@ https://sfq.cyanfeathers.com/courses/JEVE5480
 https://sfq.cyanfeathers.com/courses/JEVE5530
 https://sfq.cyanfeathers.com/courses/JEVE5820
 https://sfq.cyanfeathers.com/courses/JEVE5900
+https://sfq.cyanfeathers.com/courses/JEVE6000G
 https://sfq.cyanfeathers.com/courses/LABU2020
 https://sfq.cyanfeathers.com/courses/LABU2020G
 https://sfq.cyanfeathers.com/courses/LABU2040
@@ -1864,6 +1962,8 @@ https://sfq.cyanfeathers.com/courses/LANG1404
 https://sfq.cyanfeathers.com/courses/LANG1405
 https://sfq.cyanfeathers.com/courses/LANG1406
 https://sfq.cyanfeathers.com/courses/LANG1407
+https://sfq.cyanfeathers.com/courses/LANG1408
+https://sfq.cyanfeathers.com/courses/LANG1409
 https://sfq.cyanfeathers.com/courses/LANG1410
 https://sfq.cyanfeathers.com/courses/LANG1411
 https://sfq.cyanfeathers.com/courses/LANG1412
@@ -1885,6 +1985,9 @@ https://sfq.cyanfeathers.com/courses/LANG2030H
 https://sfq.cyanfeathers.com/courses/LANG2061
 https://sfq.cyanfeathers.com/courses/LANG2062
 https://sfq.cyanfeathers.com/courses/LANG2062H
+https://sfq.cyanfeathers.com/courses/LANG2063
+https://sfq.cyanfeathers.com/courses/LANG2064
+https://sfq.cyanfeathers.com/courses/LANG2065
 https://sfq.cyanfeathers.com/courses/LANG2070
 https://sfq.cyanfeathers.com/courses/LANG2082
 https://sfq.cyanfeathers.com/courses/LANG2083
@@ -2063,6 +2166,7 @@ https://sfq.cyanfeathers.com/courses/LIFS6115D
 https://sfq.cyanfeathers.com/courses/LIFS6115E
 https://sfq.cyanfeathers.com/courses/LIFS6115F
 https://sfq.cyanfeathers.com/courses/LIFS6115G
+https://sfq.cyanfeathers.com/courses/LIFS6115H
 https://sfq.cyanfeathers.com/courses/LIFS6116A
 https://sfq.cyanfeathers.com/courses/LIFS6116B
 https://sfq.cyanfeathers.com/courses/LIFS6116C
@@ -2070,6 +2174,7 @@ https://sfq.cyanfeathers.com/courses/LIFS6116D
 https://sfq.cyanfeathers.com/courses/LIFS6116E
 https://sfq.cyanfeathers.com/courses/LIFS6116F
 https://sfq.cyanfeathers.com/courses/LIFS6116G
+https://sfq.cyanfeathers.com/courses/LIFS6116H
 https://sfq.cyanfeathers.com/courses/LIFS6117A
 https://sfq.cyanfeathers.com/courses/LIFS6117B
 https://sfq.cyanfeathers.com/courses/LIFS6117C
@@ -2077,11 +2182,13 @@ https://sfq.cyanfeathers.com/courses/LIFS6117D
 https://sfq.cyanfeathers.com/courses/LIFS6117E
 https://sfq.cyanfeathers.com/courses/LIFS6117F
 https://sfq.cyanfeathers.com/courses/LIFS6117G
+https://sfq.cyanfeathers.com/courses/LIFS6117H
 https://sfq.cyanfeathers.com/courses/LIFS6170
 https://sfq.cyanfeathers.com/courses/LIFS6660
 https://sfq.cyanfeathers.com/courses/LIFS6800
 https://sfq.cyanfeathers.com/courses/MAED5021
 https://sfq.cyanfeathers.com/courses/MAED5032
+https://sfq.cyanfeathers.com/courses/MAED5033
 https://sfq.cyanfeathers.com/courses/MAED5111
 https://sfq.cyanfeathers.com/courses/MAED5121
 https://sfq.cyanfeathers.com/courses/MAED5211
@@ -2218,6 +2325,9 @@ https://sfq.cyanfeathers.com/courses/MARK6901C
 https://sfq.cyanfeathers.com/courses/MARK6901D
 https://sfq.cyanfeathers.com/courses/MARK6901E
 https://sfq.cyanfeathers.com/courses/MARK6901F
+https://sfq.cyanfeathers.com/courses/MARK6901G
+https://sfq.cyanfeathers.com/courses/MARK6901H
+https://sfq.cyanfeathers.com/courses/MARK6901I
 https://sfq.cyanfeathers.com/courses/MARK6950
 https://sfq.cyanfeathers.com/courses/MASS5010
 https://sfq.cyanfeathers.com/courses/MASS5020
@@ -2230,6 +2340,7 @@ https://sfq.cyanfeathers.com/courses/MASS5200
 https://sfq.cyanfeathers.com/courses/MASS5210
 https://sfq.cyanfeathers.com/courses/MASS5240
 https://sfq.cyanfeathers.com/courses/MASS5250
+https://sfq.cyanfeathers.com/courses/MASS5260
 https://sfq.cyanfeathers.com/courses/MASS5980
 https://sfq.cyanfeathers.com/courses/MASS5981
 https://sfq.cyanfeathers.com/courses/MASS5982
@@ -2289,6 +2400,7 @@ https://sfq.cyanfeathers.com/courses/MATH4326
 https://sfq.cyanfeathers.com/courses/MATH4333
 https://sfq.cyanfeathers.com/courses/MATH4335
 https://sfq.cyanfeathers.com/courses/MATH4336
+https://sfq.cyanfeathers.com/courses/MATH4343
 https://sfq.cyanfeathers.com/courses/MATH4351
 https://sfq.cyanfeathers.com/courses/MATH4360
 https://sfq.cyanfeathers.com/courses/MATH4423
@@ -2297,6 +2409,7 @@ https://sfq.cyanfeathers.com/courses/MATH4425
 https://sfq.cyanfeathers.com/courses/MATH4426
 https://sfq.cyanfeathers.com/courses/MATH4427
 https://sfq.cyanfeathers.com/courses/MATH4428
+https://sfq.cyanfeathers.com/courses/MATH4429
 https://sfq.cyanfeathers.com/courses/MATH4432
 https://sfq.cyanfeathers.com/courses/MATH4511
 https://sfq.cyanfeathers.com/courses/MATH4512
@@ -2496,6 +2609,7 @@ https://sfq.cyanfeathers.com/courses/MECH1903
 https://sfq.cyanfeathers.com/courses/MECH1905
 https://sfq.cyanfeathers.com/courses/MECH1906
 https://sfq.cyanfeathers.com/courses/MECH1907
+https://sfq.cyanfeathers.com/courses/MECH1908
 https://sfq.cyanfeathers.com/courses/MECH2020
 https://sfq.cyanfeathers.com/courses/MECH2040
 https://sfq.cyanfeathers.com/courses/MECH2210
@@ -2616,6 +2730,9 @@ https://sfq.cyanfeathers.com/courses/MFIT5010
 https://sfq.cyanfeathers.com/courses/MFIT5011
 https://sfq.cyanfeathers.com/courses/MFIT5013
 https://sfq.cyanfeathers.com/courses/MFIT5014
+https://sfq.cyanfeathers.com/courses/MFIT6000C
+https://sfq.cyanfeathers.com/courses/MFIT6000D
+https://sfq.cyanfeathers.com/courses/MFIT6000E
 https://sfq.cyanfeathers.com/courses/MGCS5001
 https://sfq.cyanfeathers.com/courses/MGCS5006
 https://sfq.cyanfeathers.com/courses/MGCS5008
@@ -2730,6 +2847,8 @@ https://sfq.cyanfeathers.com/courses/MGMT5980
 https://sfq.cyanfeathers.com/courses/MGMT5981
 https://sfq.cyanfeathers.com/courses/MGMT5982
 https://sfq.cyanfeathers.com/courses/MGMT5983
+https://sfq.cyanfeathers.com/courses/MGMT5984
+https://sfq.cyanfeathers.com/courses/MGMT5985
 https://sfq.cyanfeathers.com/courses/MGMT5990
 https://sfq.cyanfeathers.com/courses/MGMT6500P
 https://sfq.cyanfeathers.com/courses/MGMT6500Q
@@ -2814,6 +2933,9 @@ https://sfq.cyanfeathers.com/courses/MIMT5300
 https://sfq.cyanfeathers.com/courses/MIMT5310
 https://sfq.cyanfeathers.com/courses/MIMT5350
 https://sfq.cyanfeathers.com/courses/MIMT5410
+https://sfq.cyanfeathers.com/courses/MIMT5450
+https://sfq.cyanfeathers.com/courses/MIMT5560
+https://sfq.cyanfeathers.com/courses/MIMT5570
 https://sfq.cyanfeathers.com/courses/MIMT5780
 https://sfq.cyanfeathers.com/courses/MIMT6110
 https://sfq.cyanfeathers.com/courses/MIMT6120
@@ -2826,14 +2948,17 @@ https://sfq.cyanfeathers.com/courses/MSBD5005
 https://sfq.cyanfeathers.com/courses/MSBD5006
 https://sfq.cyanfeathers.com/courses/MSBD5007
 https://sfq.cyanfeathers.com/courses/MSBD5008
+https://sfq.cyanfeathers.com/courses/MSBD5009
 https://sfq.cyanfeathers.com/courses/MSBD5010
 https://sfq.cyanfeathers.com/courses/MSBD5012
 https://sfq.cyanfeathers.com/courses/MSBD5013
 https://sfq.cyanfeathers.com/courses/MSBD5017
 https://sfq.cyanfeathers.com/courses/MSBD5018
 https://sfq.cyanfeathers.com/courses/MSBD5020
+https://sfq.cyanfeathers.com/courses/MSBD6000M
 https://sfq.cyanfeathers.com/courses/MSBD6000N
 https://sfq.cyanfeathers.com/courses/MSBD6000O
+https://sfq.cyanfeathers.com/courses/MSBD6000P
 https://sfq.cyanfeathers.com/courses/MSDM5001
 https://sfq.cyanfeathers.com/courses/MSDM5002
 https://sfq.cyanfeathers.com/courses/MSDM5003
@@ -2850,6 +2975,7 @@ https://sfq.cyanfeathers.com/courses/MSDM5059
 https://sfq.cyanfeathers.com/courses/MTLE5001
 https://sfq.cyanfeathers.com/courses/MTLE5110
 https://sfq.cyanfeathers.com/courses/MTLE5810
+https://sfq.cyanfeathers.com/courses/MTLE6000A
 https://sfq.cyanfeathers.com/courses/MTLE6000B
 https://sfq.cyanfeathers.com/courses/MTLE6980
 https://sfq.cyanfeathers.com/courses/NANO5100
@@ -2870,6 +2996,7 @@ https://sfq.cyanfeathers.com/courses/OCES3160
 https://sfq.cyanfeathers.com/courses/OCES3201
 https://sfq.cyanfeathers.com/courses/OCES3202
 https://sfq.cyanfeathers.com/courses/OCES3203
+https://sfq.cyanfeathers.com/courses/OCES3204
 https://sfq.cyanfeathers.com/courses/OCES3301
 https://sfq.cyanfeathers.com/courses/OCES3302
 https://sfq.cyanfeathers.com/courses/OCES4001
@@ -2890,6 +3017,7 @@ https://sfq.cyanfeathers.com/courses/OCES5320
 https://sfq.cyanfeathers.com/courses/OCES5400
 https://sfq.cyanfeathers.com/courses/OCES5401
 https://sfq.cyanfeathers.com/courses/OCES5402
+https://sfq.cyanfeathers.com/courses/OCES5403
 https://sfq.cyanfeathers.com/courses/PDEV6770B
 https://sfq.cyanfeathers.com/courses/PDEV6800Z
 https://sfq.cyanfeathers.com/courses/PHYS1001
@@ -2968,6 +3096,7 @@ https://sfq.cyanfeathers.com/courses/PHYS6810K
 https://sfq.cyanfeathers.com/courses/PHYS6810L
 https://sfq.cyanfeathers.com/courses/PHYS6810M
 https://sfq.cyanfeathers.com/courses/PPOL2110
+https://sfq.cyanfeathers.com/courses/PPOL3210
 https://sfq.cyanfeathers.com/courses/PPOL5110
 https://sfq.cyanfeathers.com/courses/PPOL5111
 https://sfq.cyanfeathers.com/courses/PPOL5120
@@ -2999,6 +3128,8 @@ https://sfq.cyanfeathers.com/courses/PPOL5380
 https://sfq.cyanfeathers.com/courses/PPOL5410
 https://sfq.cyanfeathers.com/courses/PPOL5420
 https://sfq.cyanfeathers.com/courses/PPOL5440
+https://sfq.cyanfeathers.com/courses/PPOL5450
+https://sfq.cyanfeathers.com/courses/PPOL5470
 https://sfq.cyanfeathers.com/courses/PPOL6100J
 https://sfq.cyanfeathers.com/courses/PPOL6100K
 https://sfq.cyanfeathers.com/courses/PPOL6100L
@@ -3012,6 +3143,7 @@ https://sfq.cyanfeathers.com/courses/PPOL6100T
 https://sfq.cyanfeathers.com/courses/PPOL6100U
 https://sfq.cyanfeathers.com/courses/PPOL6100V
 https://sfq.cyanfeathers.com/courses/PPOL6100W
+https://sfq.cyanfeathers.com/courses/PPOL6100X
 https://sfq.cyanfeathers.com/courses/PPOL6120
 https://sfq.cyanfeathers.com/courses/RMBI1010
 https://sfq.cyanfeathers.com/courses/RMBI1020
@@ -3067,11 +3199,16 @@ https://sfq.cyanfeathers.com/courses/SBMT6011R
 https://sfq.cyanfeathers.com/courses/SBMT6011S
 https://sfq.cyanfeathers.com/courses/SBMT6011T
 https://sfq.cyanfeathers.com/courses/SBMT6011U
+https://sfq.cyanfeathers.com/courses/SBMT6011V
+https://sfq.cyanfeathers.com/courses/SBMT6011W
+https://sfq.cyanfeathers.com/courses/SBMT6011X
 https://sfq.cyanfeathers.com/courses/SBMT6020A
 https://sfq.cyanfeathers.com/courses/SBMT6020B
 https://sfq.cyanfeathers.com/courses/SBMT6020C
 https://sfq.cyanfeathers.com/courses/SBMT6020D
 https://sfq.cyanfeathers.com/courses/SBMT6020E
+https://sfq.cyanfeathers.com/courses/SBMT6020F
+https://sfq.cyanfeathers.com/courses/SBMT6020G
 https://sfq.cyanfeathers.com/courses/SBMT6380C
 https://sfq.cyanfeathers.com/courses/SCIE1090C
 https://sfq.cyanfeathers.com/courses/SCIE1090D
@@ -3141,6 +3278,7 @@ https://sfq.cyanfeathers.com/courses/SOSC2400
 https://sfq.cyanfeathers.com/courses/SOSC2640
 https://sfq.cyanfeathers.com/courses/SOSC2740
 https://sfq.cyanfeathers.com/courses/SOSC2780
+https://sfq.cyanfeathers.com/courses/SOSC2800
 https://sfq.cyanfeathers.com/courses/SOSC2888A
 https://sfq.cyanfeathers.com/courses/SOSC2960
 https://sfq.cyanfeathers.com/courses/SOSC2970
@@ -3151,6 +3289,7 @@ https://sfq.cyanfeathers.com/courses/SOSC3000F
 https://sfq.cyanfeathers.com/courses/SOSC3000H
 https://sfq.cyanfeathers.com/courses/SOSC3000I
 https://sfq.cyanfeathers.com/courses/SOSC3000J
+https://sfq.cyanfeathers.com/courses/SOSC3000K
 https://sfq.cyanfeathers.com/courses/SOSC3001
 https://sfq.cyanfeathers.com/courses/SOSC3110
 https://sfq.cyanfeathers.com/courses/SOSC3120
@@ -3172,6 +3311,7 @@ https://sfq.cyanfeathers.com/courses/SOSC3720
 https://sfq.cyanfeathers.com/courses/SOSC3800
 https://sfq.cyanfeathers.com/courses/SOSC3850
 https://sfq.cyanfeathers.com/courses/SOSC3880
+https://sfq.cyanfeathers.com/courses/SOSC3888A
 https://sfq.cyanfeathers.com/courses/SOSC3900
 https://sfq.cyanfeathers.com/courses/SOSC3990
 https://sfq.cyanfeathers.com/courses/SOSC4000E
@@ -3195,6 +3335,7 @@ https://sfq.cyanfeathers.com/courses/SOSC5170
 https://sfq.cyanfeathers.com/courses/SOSC5250
 https://sfq.cyanfeathers.com/courses/SOSC5300
 https://sfq.cyanfeathers.com/courses/SOSC5340
+https://sfq.cyanfeathers.com/courses/SOSC5430
 https://sfq.cyanfeathers.com/courses/SOSC5440
 https://sfq.cyanfeathers.com/courses/SOSC5480
 https://sfq.cyanfeathers.com/courses/SOSC5500
@@ -3235,18 +3376,24 @@ https://sfq.cyanfeathers.com/courses/SSMA5210
 https://sfq.cyanfeathers.com/courses/SSMA5220
 https://sfq.cyanfeathers.com/courses/SUST1000
 https://sfq.cyanfeathers.com/courses/SUST1010
+https://sfq.cyanfeathers.com/courses/SUST1020
+https://sfq.cyanfeathers.com/courses/SUST1101
 https://sfq.cyanfeathers.com/courses/TEMG3950
 https://sfq.cyanfeathers.com/courses/TEMG4000G
+https://sfq.cyanfeathers.com/courses/TEMG4000H
 https://sfq.cyanfeathers.com/courses/TEMG4940C
 https://sfq.cyanfeathers.com/courses/TEMG4940D
 https://sfq.cyanfeathers.com/courses/TEMG4950L
 https://sfq.cyanfeathers.com/courses/TEMG4950M
 https://sfq.cyanfeathers.com/courses/TEMG4950N
+https://sfq.cyanfeathers.com/courses/TEMG4950O
 https://sfq.cyanfeathers.com/courses/TEMG4970A
 https://sfq.cyanfeathers.com/courses/TEMG4970B
 https://sfq.cyanfeathers.com/courses/TEMG4970C
 https://sfq.cyanfeathers.com/courses/TEMG4970D
+https://sfq.cyanfeathers.com/courses/UCOP3200
 https://sfq.cyanfeathers.com/courses/UROP3200
+https://sfq.cyanfeathers.com/courses/UTOP2910
 https://sfq.cyanfeathers.com/courses/WBBA2000A
 https://sfq.cyanfeathers.com/courses/WBBA2010
 https://sfq.cyanfeathers.com/courses/WBBA2030
@@ -3315,6 +3462,7 @@ https://sfq.cyanfeathers.com/instructors/actytang
 https://sfq.cyanfeathers.com/instructors/acvinching
 https://sfq.cyanfeathers.com/instructors/acwang
 https://sfq.cyanfeathers.com/instructors/acwilbur
+https://sfq.cyanfeathers.com/instructors/acwong
 https://sfq.cyanfeathers.com/instructors/acxinlei
 https://sfq.cyanfeathers.com/instructors/aczang
 https://sfq.cyanfeathers.com/instructors/aczh
@@ -3322,6 +3470,7 @@ https://sfq.cyanfeathers.com/instructors/aczheng
 https://sfq.cyanfeathers.com/instructors/aczhihwang
 https://sfq.cyanfeathers.com/instructors/admintta
 https://sfq.cyanfeathers.com/instructors/aesf6910y
+https://sfq.cyanfeathers.com/instructors/aesf6920a
 https://sfq.cyanfeathers.com/instructors/aexzhang
 https://sfq.cyanfeathers.com/instructors/aftabamin
 https://sfq.cyanfeathers.com/instructors/ahron
@@ -3352,16 +3501,20 @@ https://sfq.cyanfeathers.com/instructors/angelaho
 https://sfq.cyanfeathers.com/instructors/angelawu
 https://sfq.cyanfeathers.com/instructors/annawong
 https://sfq.cyanfeathers.com/instructors/annieshu
+https://sfq.cyanfeathers.com/instructors/ansonkwok
 https://sfq.cyanfeathers.com/instructors/anthonyc
 https://sfq.cyanfeathers.com/instructors/anthonylee
+https://sfq.cyanfeathers.com/instructors/antoinec
 https://sfq.cyanfeathers.com/instructors/anyirao
 https://sfq.cyanfeathers.com/instructors/aran
+https://sfq.cyanfeathers.com/instructors/arnojacobsen
 https://sfq.cyanfeathers.com/instructors/arunrai
 https://sfq.cyanfeathers.com/instructors/arya
 https://sfq.cyanfeathers.com/instructors/asarkar
 https://sfq.cyanfeathers.com/instructors/aucsjun
 https://sfq.cyanfeathers.com/instructors/aupakhung
 https://sfq.cyanfeathers.com/instructors/avalenzuela
+https://sfq.cyanfeathers.com/instructors/baojing
 https://sfq.cyanfeathers.com/instructors/barford
 https://sfq.cyanfeathers.com/instructors/barnie
 https://sfq.cyanfeathers.com/instructors/bashadbolt
@@ -3407,6 +3560,7 @@ https://sfq.cyanfeathers.com/instructors/botsim
 https://sfq.cyanfeathers.com/instructors/boyung
 https://sfq.cyanfeathers.com/instructors/bqianaa
 https://sfq.cyanfeathers.com/instructors/braudt
+https://sfq.cyanfeathers.com/instructors/brianachang
 https://sfq.cyanfeathers.com/instructors/brianlau
 https://sfq.cyanfeathers.com/instructors/brianluic
 https://sfq.cyanfeathers.com/instructors/bsheng
@@ -3417,6 +3571,8 @@ https://sfq.cyanfeathers.com/instructors/calvinhui
 https://sfq.cyanfeathers.com/instructors/camcam
 https://sfq.cyanfeathers.com/instructors/carmenkng
 https://sfq.cyanfeathers.com/instructors/carrieling
+https://sfq.cyanfeathers.com/instructors/carstenchong
+https://sfq.cyanfeathers.com/instructors/carychan
 https://sfq.cyanfeathers.com/instructors/caryk
 https://sfq.cyanfeathers.com/instructors/cassian
 https://sfq.cyanfeathers.com/instructors/catherinecwk
@@ -3470,6 +3626,7 @@ https://sfq.cyanfeathers.com/instructors/cesunbo
 https://sfq.cyanfeathers.com/instructors/cethao
 https://sfq.cyanfeathers.com/instructors/cetxue
 https://sfq.cyanfeathers.com/instructors/cevcli
+https://sfq.cyanfeathers.com/instructors/cewangy
 https://sfq.cyanfeathers.com/instructors/cewhlin
 https://sfq.cyanfeathers.com/instructors/cewshiu
 https://sfq.cyanfeathers.com/instructors/cewudi
@@ -3494,6 +3651,7 @@ https://sfq.cyanfeathers.com/instructors/chaohe
 https://sfq.cyanfeathers.com/instructors/chaolihk
 https://sfq.cyanfeathers.com/instructors/charlesz
 https://sfq.cyanfeathers.com/instructors/chaya
+https://sfq.cyanfeathers.com/instructors/chchngan
 https://sfq.cyanfeathers.com/instructors/chdai
 https://sfq.cyanfeathers.com/instructors/chemfksheong
 https://sfq.cyanfeathers.com/instructors/chencheng
@@ -3526,6 +3684,7 @@ https://sfq.cyanfeathers.com/instructors/chxyli
 https://sfq.cyanfeathers.com/instructors/chyeungl
 https://sfq.cyanfeathers.com/instructors/chyjquan
 https://sfq.cyanfeathers.com/instructors/chzlin
+https://sfq.cyanfeathers.com/instructors/cindytang
 https://sfq.cyanfeathers.com/instructors/cjinac
 https://sfq.cyanfeathers.com/instructors/cjsd
 https://sfq.cyanfeathers.com/instructors/ckl
@@ -3534,6 +3693,7 @@ https://sfq.cyanfeathers.com/instructors/cktang
 https://sfq.cyanfeathers.com/instructors/ckuehn
 https://sfq.cyanfeathers.com/instructors/clkwan
 https://sfq.cyanfeathers.com/instructors/cloh
+https://sfq.cyanfeathers.com/instructors/cmshun
 https://sfq.cyanfeathers.com/instructors/cnastanski
 https://sfq.cyanfeathers.com/instructors/coralpuig
 https://sfq.cyanfeathers.com/instructors/cornelia
@@ -3542,10 +3702,12 @@ https://sfq.cyanfeathers.com/instructors/cqlin
 https://sfq.cyanfeathers.com/instructors/crhee
 https://sfq.cyanfeathers.com/instructors/crystalluo
 https://sfq.cyanfeathers.com/instructors/csbb
+https://sfq.cyanfeathers.com/instructors/csejzhang
 https://sfq.cyanfeathers.com/instructors/csunab
 https://sfq.cyanfeathers.com/instructors/ctbea
 https://sfq.cyanfeathers.com/instructors/ctjac
 https://sfq.cyanfeathers.com/instructors/ctmyc
+https://sfq.cyanfeathers.com/instructors/cwf
 https://sfq.cyanfeathers.com/instructors/cxzhai
 https://sfq.cyanfeathers.com/instructors/cynthiahui
 https://sfq.cyanfeathers.com/instructors/cynthiastyau
@@ -3553,9 +3715,11 @@ https://sfq.cyanfeathers.com/instructors/czhang
 https://sfq.cyanfeathers.com/instructors/daisyyandu
 https://sfq.cyanfeathers.com/instructors/daix
 https://sfq.cyanfeathers.com/instructors/danielhslee
+https://sfq.cyanfeathers.com/instructors/dannyduan
 https://sfq.cyanfeathers.com/instructors/danqingw
 https://sfq.cyanfeathers.com/instructors/danwong
 https://sfq.cyanfeathers.com/instructors/danxu
+https://sfq.cyanfeathers.com/instructors/daoyuan
 https://sfq.cyanfeathers.com/instructors/dasagu
 https://sfq.cyanfeathers.com/instructors/davcook
 https://sfq.cyanfeathers.com/instructors/daveyip
@@ -3569,7 +3733,9 @@ https://sfq.cyanfeathers.com/instructors/ddxu
 https://sfq.cyanfeathers.com/instructors/deanhe
 https://sfq.cyanfeathers.com/instructors/dekai
 https://sfq.cyanfeathers.com/instructors/dengfengyan
+https://sfq.cyanfeathers.com/instructors/denniszhang
 https://sfq.cyanfeathers.com/instructors/desmond
+https://sfq.cyanfeathers.com/instructors/deyunliu
 https://sfq.cyanfeathers.com/instructors/dimhatzo
 https://sfq.cyanfeathers.com/instructors/dimitris
 https://sfq.cyanfeathers.com/instructors/dinghe
@@ -3584,6 +3750,7 @@ https://sfq.cyanfeathers.com/instructors/dmount
 https://sfq.cyanfeathers.com/instructors/dmunoz
 https://sfq.cyanfeathers.com/instructors/donaldchong
 https://sfq.cyanfeathers.com/instructors/donaldlow
+https://sfq.cyanfeathers.com/instructors/donchong
 https://sfq.cyanfeathers.com/instructors/dongdong
 https://sfq.cyanfeathers.com/instructors/dongwon
 https://sfq.cyanfeathers.com/instructors/dongzhang
@@ -3616,6 +3783,7 @@ https://sfq.cyanfeathers.com/instructors/eefumin
 https://sfq.cyanfeathers.com/instructors/eeguan
 https://sfq.cyanfeathers.com/instructors/eehthe
 https://sfq.cyanfeathers.com/instructors/eehyin
+https://sfq.cyanfeathers.com/instructors/eeiamjoe
 https://sfq.cyanfeathers.com/instructors/eejames
 https://sfq.cyanfeathers.com/instructors/eejinni
 https://sfq.cyanfeathers.com/instructors/eejlau
@@ -3630,6 +3798,7 @@ https://sfq.cyanfeathers.com/instructors/eeknlau
 https://sfq.cyanfeathers.com/instructors/eekursun
 https://sfq.cyanfeathers.com/instructors/eekwok
 https://sfq.cyanfeathers.com/instructors/eelea
+https://sfq.cyanfeathers.com/instructors/eelgao
 https://sfq.cyanfeathers.com/instructors/eelium
 https://sfq.cyanfeathers.com/instructors/eeluong
 https://sfq.cyanfeathers.com/instructors/eelyobas
@@ -3680,6 +3849,7 @@ https://sfq.cyanfeathers.com/instructors/eezhlin
 https://sfq.cyanfeathers.com/instructors/eezxli
 https://sfq.cyanfeathers.com/instructors/eezyzheng
 https://sfq.cyanfeathers.com/instructors/egalbert
+https://sfq.cyanfeathers.com/instructors/egalbertso
 https://sfq.cyanfeathers.com/instructors/egcatherine
 https://sfq.cyanfeathers.com/instructors/egian
 https://sfq.cyanfeathers.com/instructors/egjac
@@ -3703,6 +3873,7 @@ https://sfq.cyanfeathers.com/instructors/esaenyasiri
 https://sfq.cyanfeathers.com/instructors/eunyoungpark
 https://sfq.cyanfeathers.com/instructors/evaechen
 https://sfq.cyanfeathers.com/instructors/evaykip
+https://sfq.cyanfeathers.com/instructors/ewhwong
 https://sfq.cyanfeathers.com/instructors/fabrice
 https://sfq.cyanfeathers.com/instructors/fangjin
 https://sfq.cyanfeathers.com/instructors/fbkeller
@@ -3761,6 +3932,7 @@ https://sfq.cyanfeathers.com/instructors/gunther
 https://sfq.cyanfeathers.com/instructors/guoqinghua
 https://sfq.cyanfeathers.com/instructors/guoyusong
 https://sfq.cyanfeathers.com/instructors/guoyves
+https://sfq.cyanfeathers.com/instructors/gvalente
 https://sfq.cyanfeathers.com/instructors/gwang
 https://sfq.cyanfeathers.com/instructors/gzhu
 https://sfq.cyanfeathers.com/instructors/hagmann
@@ -3768,6 +3940,7 @@ https://sfq.cyanfeathers.com/instructors/haibinsu
 https://sfq.cyanfeathers.com/instructors/haipenglu
 https://sfq.cyanfeathers.com/instructors/haizhang
 https://sfq.cyanfeathers.com/instructors/halis
+https://sfq.cyanfeathers.com/instructors/hanjun
 https://sfq.cyanfeathers.com/instructors/hanswong
 https://sfq.cyanfeathers.com/instructors/hanyugao
 https://sfq.cyanfeathers.com/instructors/haydnpound
@@ -3776,6 +3949,7 @@ https://sfq.cyanfeathers.com/instructors/hbwang
 https://sfq.cyanfeathers.com/instructors/hchenby
 https://sfq.cyanfeathers.com/instructors/hcpo
 https://sfq.cyanfeathers.com/instructors/hczhu
+https://sfq.cyanfeathers.com/instructors/hejian
 https://sfq.cyanfeathers.com/instructors/hendry
 https://sfq.cyanfeathers.com/instructors/henrychang
 https://sfq.cyanfeathers.com/instructors/herrup
@@ -3804,6 +3978,7 @@ https://sfq.cyanfeathers.com/instructors/hmdprooi
 https://sfq.cyanfeathers.com/instructors/hmdrpip
 https://sfq.cyanfeathers.com/instructors/hmemilychen
 https://sfq.cyanfeathers.com/instructors/hmericsn
+https://sfq.cyanfeathers.com/instructors/hmfdewulf
 https://sfq.cyanfeathers.com/instructors/hmgadyair
 https://sfq.cyanfeathers.com/instructors/hmgth
 https://sfq.cyanfeathers.com/instructors/hmhjin
@@ -3827,11 +4002,14 @@ https://sfq.cyanfeathers.com/instructors/hmltfu
 https://sfq.cyanfeathers.com/instructors/hmmargaret
 https://sfq.cyanfeathers.com/instructors/hmmercedu
 https://sfq.cyanfeathers.com/instructors/hmmhwong
+https://sfq.cyanfeathers.com/instructors/hmmzeng
 https://sfq.cyanfeathers.com/instructors/hmnahumbrown
 https://sfq.cyanfeathers.com/instructors/hmnnng
+https://sfq.cyanfeathers.com/instructors/hmongaro
 https://sfq.cyanfeathers.com/instructors/hmpanping
 https://sfq.cyanfeathers.com/instructors/hmpetty
 https://sfq.cyanfeathers.com/instructors/hmptlee
+https://sfq.cyanfeathers.com/instructors/hmpyszeto
 https://sfq.cyanfeathers.com/instructors/hmqy
 https://sfq.cyanfeathers.com/instructors/hmqzguo
 https://sfq.cyanfeathers.com/instructors/hmsauyanchan
@@ -3858,6 +4036,7 @@ https://sfq.cyanfeathers.com/instructors/hmyfshan
 https://sfq.cyanfeathers.com/instructors/hmyhliu
 https://sfq.cyanfeathers.com/instructors/hmyming
 https://sfq.cyanfeathers.com/instructors/hmyzhang
+https://sfq.cyanfeathers.com/instructors/hmzlin
 https://sfq.cyanfeathers.com/instructors/hmzm
 https://sfq.cyanfeathers.com/instructors/hmzqin
 https://sfq.cyanfeathers.com/instructors/hmzyz
@@ -3865,12 +4044,14 @@ https://sfq.cyanfeathers.com/instructors/hnakamura
 https://sfq.cyanfeathers.com/instructors/hnyein
 https://sfq.cyanfeathers.com/instructors/hochan
 https://sfq.cyanfeathers.com/instructors/hokp
+https://sfq.cyanfeathers.com/instructors/hongbofu
 https://sfq.cyanfeathers.com/instructors/hongsongchou
 https://sfq.cyanfeathers.com/instructors/hongyuyu
 https://sfq.cyanfeathers.com/instructors/horner
 https://sfq.cyanfeathers.com/instructors/hpound
 https://sfq.cyanfeathers.com/instructors/huamin
 https://sfq.cyanfeathers.com/instructors/huangdr
+https://sfq.cyanfeathers.com/instructors/huangsl
 https://sfq.cyanfeathers.com/instructors/huangxun
 https://sfq.cyanfeathers.com/instructors/huangyg
 https://sfq.cyanfeathers.com/instructors/huili
@@ -3946,6 +4127,7 @@ https://sfq.cyanfeathers.com/instructors/jeffreywong
 https://sfq.cyanfeathers.com/instructors/jennyxu
 https://sfq.cyanfeathers.com/instructors/jensenli
 https://sfq.cyanfeathers.com/instructors/jfcai
+https://sfq.cyanfeathers.com/instructors/jfyu
 https://sfq.cyanfeathers.com/instructors/jgfnash
 https://sfq.cyanfeathers.com/instructors/jgoldenberg
 https://sfq.cyanfeathers.com/instructors/jgwang
@@ -3956,8 +4138,10 @@ https://sfq.cyanfeathers.com/instructors/jhwlee
 https://sfq.cyanfeathers.com/instructors/jiahongwei
 https://sfq.cyanfeathers.com/instructors/jialin
 https://sfq.cyanfeathers.com/instructors/jialiu
+https://sfq.cyanfeathers.com/instructors/jialuncao
 https://sfq.cyanfeathers.com/instructors/jiangqy
 https://sfq.cyanfeathers.com/instructors/jiheng
+https://sfq.cyanfeathers.com/instructors/jiinlai
 https://sfq.cyanfeathers.com/instructors/jiminzhao
 https://sfq.cyanfeathers.com/instructors/jimmy
 https://sfq.cyanfeathers.com/instructors/jinchen
@@ -3980,6 +4164,7 @@ https://sfq.cyanfeathers.com/instructors/jmchoiab
 https://sfq.cyanfeathers.com/instructors/jmjamison
 https://sfq.cyanfeathers.com/instructors/jnchoi
 https://sfq.cyanfeathers.com/instructors/joekwan
+https://sfq.cyanfeathers.com/instructors/joeqiao
 https://sfq.cyanfeathers.com/instructors/johncm
 https://sfq.cyanfeathers.com/instructors/johngriffin
 https://sfq.cyanfeathers.com/instructors/johnnychen
@@ -3989,10 +4174,12 @@ https://sfq.cyanfeathers.com/instructors/joneja
 https://sfq.cyanfeathers.com/instructors/josephkoc
 https://sfq.cyanfeathers.com/instructors/josephphi
 https://sfq.cyanfeathers.com/instructors/joshuakahr
+https://sfq.cyanfeathers.com/instructors/joshwang
 https://sfq.cyanfeathers.com/instructors/jpwang
 https://sfq.cyanfeathers.com/instructors/jpymak
 https://sfq.cyanfeathers.com/instructors/jqhuang
 https://sfq.cyanfeathers.com/instructors/jqljzl
+https://sfq.cyanfeathers.com/instructors/jrhan
 https://sfq.cyanfeathers.com/instructors/jsemmelhack
 https://sfq.cyanfeathers.com/instructors/jsjiang
 https://sfq.cyanfeathers.com/instructors/jteh
@@ -4026,6 +4213,7 @@ https://sfq.cyanfeathers.com/instructors/kaili
 https://sfq.cyanfeathers.com/instructors/kailiu
 https://sfq.cyanfeathers.com/instructors/karenchan
 https://sfq.cyanfeathers.com/instructors/karhade
+https://sfq.cyanfeathers.com/instructors/katarina
 https://sfq.cyanfeathers.com/instructors/kaul
 https://sfq.cyanfeathers.com/instructors/kaylaqi
 https://sfq.cyanfeathers.com/instructors/kcaoab
@@ -4033,6 +4221,7 @@ https://sfq.cyanfeathers.com/instructors/kccecia
 https://sfq.cyanfeathers.com/instructors/kcngae
 https://sfq.cyanfeathers.com/instructors/keamak
 https://sfq.cyanfeathers.com/instructors/kecmchan
+https://sfq.cyanfeathers.com/instructors/kedarwin
 https://sfq.cyanfeathers.com/instructors/kefgao
 https://sfq.cyanfeathers.com/instructors/kefrank
 https://sfq.cyanfeathers.com/instructors/kefsun
@@ -4040,8 +4229,10 @@ https://sfq.cyanfeathers.com/instructors/kehenry
 https://sfq.cyanfeathers.com/instructors/kehlam
 https://sfq.cyanfeathers.com/instructors/kehsing
 https://sfq.cyanfeathers.com/instructors/kehui
+https://sfq.cyanfeathers.com/instructors/keilhacker
 https://sfq.cyanfeathers.com/instructors/keithchan
 https://sfq.cyanfeathers.com/instructors/keithlaw
+https://sfq.cyanfeathers.com/instructors/kekjan
 https://sfq.cyanfeathers.com/instructors/kekmng
 https://sfq.cyanfeathers.com/instructors/kekuang
 https://sfq.cyanfeathers.com/instructors/kekyeung
@@ -4050,6 +4241,7 @@ https://sfq.cyanfeathers.com/instructors/kelvinyuen
 https://sfq.cyanfeathers.com/instructors/kemshao
 https://sfq.cyanfeathers.com/instructors/kenirong
 https://sfq.cyanfeathers.com/instructors/kennethho
+https://sfq.cyanfeathers.com/instructors/kennethleung
 https://sfq.cyanfeathers.com/instructors/kepgao
 https://sfq.cyanfeathers.com/instructors/keplyue
 https://sfq.cyanfeathers.com/instructors/keroc
@@ -4118,10 +4310,12 @@ https://sfq.cyanfeathers.com/instructors/lccjordan
 https://sfq.cyanfeathers.com/instructors/lcclaudia
 https://sfq.cyanfeathers.com/instructors/lcclaw
 https://sfq.cyanfeathers.com/instructors/lcclayton
+https://sfq.cyanfeathers.com/instructors/lccleung
 https://sfq.cyanfeathers.com/instructors/lcclive
 https://sfq.cyanfeathers.com/instructors/lccolin
 https://sfq.cyanfeathers.com/instructors/lccrystal
 https://sfq.cyanfeathers.com/instructors/lcdanyal
+https://sfq.cyanfeathers.com/instructors/lcdaya
 https://sfq.cyanfeathers.com/instructors/lcdchong
 https://sfq.cyanfeathers.com/instructors/lcderekwong
 https://sfq.cyanfeathers.com/instructors/lcdgaskell
@@ -4225,9 +4419,11 @@ https://sfq.cyanfeathers.com/instructors/lcshaunwong
 https://sfq.cyanfeathers.com/instructors/lcshawnm
 https://sfq.cyanfeathers.com/instructors/lcsheila
 https://sfq.cyanfeathers.com/instructors/lcshenchi
+https://sfq.cyanfeathers.com/instructors/lcsliu
 https://sfq.cyanfeathers.com/instructors/lcsonyip
 https://sfq.cyanfeathers.com/instructors/lcsstamper
 https://sfq.cyanfeathers.com/instructors/lcstanley
+https://sfq.cyanfeathers.com/instructors/lcstephanie
 https://sfq.cyanfeathers.com/instructors/lcsue
 https://sfq.cyanfeathers.com/instructors/lcsukyi
 https://sfq.cyanfeathers.com/instructors/lcsumiechan
@@ -4258,12 +4454,14 @@ https://sfq.cyanfeathers.com/instructors/leoniefoong
 https://sfq.cyanfeathers.com/instructors/leonsuen
 https://sfq.cyanfeathers.com/instructors/leungkt
 https://sfq.cyanfeathers.com/instructors/lflee
+https://sfq.cyanfeathers.com/instructors/lia
 https://sfq.cyanfeathers.com/instructors/liangz
 https://sfq.cyanfeathers.com/instructors/liaokezheng
 https://sfq.cyanfeathers.com/instructors/liaowei
 https://sfq.cyanfeathers.com/instructors/liaoy
 https://sfq.cyanfeathers.com/instructors/lihan
 https://sfq.cyanfeathers.com/instructors/lijianlu
+https://sfq.cyanfeathers.com/instructors/lillyli
 https://sfq.cyanfeathers.com/instructors/lim
 https://sfq.cyanfeathers.com/instructors/linfu
 https://sfq.cyanfeathers.com/instructors/lingpan
@@ -4274,6 +4472,7 @@ https://sfq.cyanfeathers.com/instructors/litla
 https://sfq.cyanfeathers.com/instructors/liuhb
 https://sfq.cyanfeathers.com/instructors/liuj
 https://sfq.cyanfeathers.com/instructors/lixin
+https://sfq.cyanfeathers.com/instructors/lixingbo
 https://sfq.cyanfeathers.com/instructors/lld
 https://sfq.cyanfeathers.com/instructors/longchen
 https://sfq.cyanfeathers.com/instructors/longjunwu
@@ -4291,10 +4490,12 @@ https://sfq.cyanfeathers.com/instructors/lzhang
 https://sfq.cyanfeathers.com/instructors/lzzhou
 https://sfq.cyanfeathers.com/instructors/maaching
 https://sfq.cyanfeathers.com/instructors/mabfchen
+https://sfq.cyanfeathers.com/instructors/mabibicai
 https://sfq.cyanfeathers.com/instructors/machas
 https://sfq.cyanfeathers.com/instructors/machchan
 https://sfq.cyanfeathers.com/instructors/machiang
 https://sfq.cyanfeathers.com/instructors/macjxie
+https://sfq.cyanfeathers.com/instructors/mackliu
 https://sfq.cyanfeathers.com/instructors/maclee
 https://sfq.cyanfeathers.com/instructors/macwyu
 https://sfq.cyanfeathers.com/instructors/macyang
@@ -4392,6 +4593,7 @@ https://sfq.cyanfeathers.com/instructors/maygao
 https://sfq.cyanfeathers.com/instructors/mayguo
 https://sfq.cyanfeathers.com/instructors/maykwok
 https://sfq.cyanfeathers.com/instructors/maypwu
+https://sfq.cyanfeathers.com/instructors/mayugao
 https://sfq.cyanfeathers.com/instructors/mayxian
 https://sfq.cyanfeathers.com/instructors/mayzheng
 https://sfq.cyanfeathers.com/instructors/mazgbao
@@ -4444,7 +4646,9 @@ https://sfq.cyanfeathers.com/instructors/michaelchen
 https://sfq.cyanfeathers.com/instructors/michaellai
 https://sfq.cyanfeathers.com/instructors/michaelmc
 https://sfq.cyanfeathers.com/instructors/mico
+https://sfq.cyanfeathers.com/instructors/mikepoon
 https://sfq.cyanfeathers.com/instructors/mile5203
+https://sfq.cyanfeathers.com/instructors/mimt5570ta
 https://sfq.cyanfeathers.com/instructors/minhaocheng
 https://sfq.cyanfeathers.com/instructors/mirandafung
 https://sfq.cyanfeathers.com/instructors/mitchli
@@ -4520,6 +4724,7 @@ https://sfq.cyanfeathers.com/instructors/pantnidhi
 https://sfq.cyanfeathers.com/instructors/parreaux
 https://sfq.cyanfeathers.com/instructors/pascale
 https://sfq.cyanfeathers.com/instructors/patrickchiu
+https://sfq.cyanfeathers.com/instructors/patypng
 https://sfq.cyanfeathers.com/instructors/pauljohnson
 https://sfq.cyanfeathers.com/instructors/paulyoo
 https://sfq.cyanfeathers.com/instructors/paumoching
@@ -4581,6 +4786,7 @@ https://sfq.cyanfeathers.com/instructors/qiangli
 https://sfq.cyanfeathers.com/instructors/qianliu
 https://sfq.cyanfeathers.com/instructors/qianzh
 https://sfq.cyanfeathers.com/instructors/qihuichen
+https://sfq.cyanfeathers.com/instructors/qijiashao
 https://sfq.cyanfeathers.com/instructors/qinxu
 https://sfq.cyanfeathers.com/instructors/qiongz
 https://sfq.cyanfeathers.com/instructors/qirz
@@ -4588,6 +4794,7 @@ https://sfq.cyanfeathers.com/instructors/qiyezheng
 https://sfq.cyanfeathers.com/instructors/qmoreau
 https://sfq.cyanfeathers.com/instructors/quan
 https://sfq.cyanfeathers.com/instructors/qyang
+https://sfq.cyanfeathers.com/instructors/qying
 https://sfq.cyanfeathers.com/instructors/qzhangmark
 https://sfq.cyanfeathers.com/instructors/rajendra
 https://sfq.cyanfeathers.com/instructors/rajshroff
@@ -4662,6 +4869,7 @@ https://sfq.cyanfeathers.com/instructors/shaohuais
 https://sfq.cyanfeathers.com/instructors/shbai
 https://sfq.cyanfeathers.com/instructors/shchanai
 https://sfq.cyanfeathers.com/instructors/sheng
+https://sfq.cyanfeathers.com/instructors/shensheng
 https://sfq.cyanfeathers.com/instructors/shicng
 https://sfq.cyanfeathers.com/instructors/shixm
 https://sfq.cyanfeathers.com/instructors/shlewis
@@ -4694,6 +4902,7 @@ https://sfq.cyanfeathers.com/instructors/sojinwang
 https://sfq.cyanfeathers.com/instructors/sojk
 https://sfq.cyanfeathers.com/instructors/sojohnma
 https://sfq.cyanfeathers.com/instructors/sojulian
+https://sfq.cyanfeathers.com/instructors/solei
 https://sfq.cyanfeathers.com/instructors/somsing
 https://sfq.cyanfeathers.com/instructors/songguo
 https://sfq.cyanfeathers.com/instructors/songxy
@@ -4707,6 +4916,7 @@ https://sfq.cyanfeathers.com/instructors/sowu
 https://sfq.cyanfeathers.com/instructors/soxld
 https://sfq.cyanfeathers.com/instructors/soyimin
 https://sfq.cyanfeathers.com/instructors/sozweig
+https://sfq.cyanfeathers.com/instructors/sqning
 https://sfq.cyanfeathers.com/instructors/sswang
 https://sfq.cyanfeathers.com/instructors/sswhko
 https://sfq.cyanfeathers.com/instructors/stanhmho
@@ -4716,6 +4926,7 @@ https://sfq.cyanfeathers.com/instructors/stevelee
 https://sfq.cyanfeathers.com/instructors/stevenlau
 https://sfq.cyanfeathers.com/instructors/suebrown
 https://sfq.cyanfeathers.com/instructors/sujata
+https://sfq.cyanfeathers.com/instructors/sund
 https://sfq.cyanfeathers.com/instructors/sunheepark
 https://sfq.cyanfeathers.com/instructors/sunjw
 https://sfq.cyanfeathers.com/instructors/sunwtam
@@ -4738,16 +4949,19 @@ https://sfq.cyanfeathers.com/instructors/tengtengchen
 https://sfq.cyanfeathers.com/instructors/terrancefung
 https://sfq.cyanfeathers.com/instructors/tgx
 https://sfq.cyanfeathers.com/instructors/thallemer
+https://sfq.cyanfeathers.com/instructors/thjcheung
 https://sfq.cyanfeathers.com/instructors/thomashu
 https://sfq.cyanfeathers.com/instructors/thornquist
 https://sfq.cyanfeathers.com/instructors/tianbing
 https://sfq.cyanfeathers.com/instructors/tianlingjin
 https://sfq.cyanfeathers.com/instructors/tianlong
+https://sfq.cyanfeathers.com/instructors/tianyuhan
 https://sfq.cyanfeathers.com/instructors/timkttse
 https://sfq.cyanfeathers.com/instructors/tingchoy
 https://sfq.cyanfeathers.com/instructors/tklam
 https://sfq.cyanfeathers.com/instructors/tombain
 https://sfq.cyanfeathers.com/instructors/tongliu
+https://sfq.cyanfeathers.com/instructors/tongmingqu
 https://sfq.cyanfeathers.com/instructors/tongzhang
 https://sfq.cyanfeathers.com/instructors/tonyhe
 https://sfq.cyanfeathers.com/instructors/tonywkf
@@ -4759,6 +4973,7 @@ https://sfq.cyanfeathers.com/instructors/ttz
 https://sfq.cyanfeathers.com/instructors/tuananh
 https://sfq.cyanfeathers.com/instructors/tuchoi
 https://sfq.cyanfeathers.com/instructors/twchen
+https://sfq.cyanfeathers.com/instructors/twhfok
 https://sfq.cyanfeathers.com/instructors/tzeling
 https://sfq.cyanfeathers.com/instructors/ubhattac
 https://sfq.cyanfeathers.com/instructors/ulfrichter
@@ -4788,6 +5003,7 @@ https://sfq.cyanfeathers.com/instructors/wenbowang
 https://sfq.cyanfeathers.com/instructors/wendyg
 https://sfq.cyanfeathers.com/instructors/wenjiawang
 https://sfq.cyanfeathers.com/instructors/wenqi
+https://sfq.cyanfeathers.com/instructors/wentaox
 https://sfq.cyanfeathers.com/instructors/wenwangww
 https://sfq.cyanfeathers.com/instructors/wenweiche
 https://sfq.cyanfeathers.com/instructors/whluo
@@ -4803,6 +5019,7 @@ https://sfq.cyanfeathers.com/instructors/wooyoung
 https://sfq.cyanfeathers.com/instructors/wooyunyang
 https://sfq.cyanfeathers.com/instructors/wpyip
 https://sfq.cyanfeathers.com/instructors/wqg
+https://sfq.cyanfeathers.com/instructors/wtchem
 https://sfq.cyanfeathers.com/instructors/wuhoifai
 https://sfq.cyanfeathers.com/instructors/wupc
 https://sfq.cyanfeathers.com/instructors/wuxiaoran
@@ -4816,6 +5033,7 @@ https://sfq.cyanfeathers.com/instructors/xhzheng
 https://sfq.cyanfeathers.com/instructors/xianchen
 https://sfq.cyanfeathers.com/instructors/xiangru
 https://sfq.cyanfeathers.com/instructors/xianxu
+https://sfq.cyanfeathers.com/instructors/xiaodongy
 https://sfq.cyanfeathers.com/instructors/xiaojunzhang
 https://sfq.cyanfeathers.com/instructors/xiaoweiz
 https://sfq.cyanfeathers.com/instructors/xiepeng
@@ -4824,6 +5042,7 @@ https://sfq.cyanfeathers.com/instructors/xinzhoug
 https://sfq.cyanfeathers.com/instructors/xiusongshi
 https://sfq.cyanfeathers.com/instructors/xjzhao
 https://sfq.cyanfeathers.com/instructors/xlwangfin
+https://sfq.cyanfeathers.com/instructors/xmouyang
 https://sfq.cyanfeathers.com/instructors/xpzhou
 https://sfq.cyanfeathers.com/instructors/xqiaoaa
 https://sfq.cyanfeathers.com/instructors/xuanli
@@ -4839,6 +5058,7 @@ https://sfq.cyanfeathers.com/instructors/xuzili
 https://sfq.cyanfeathers.com/instructors/xxmeng
 https://sfq.cyanfeathers.com/instructors/xyhua
 https://sfq.cyanfeathers.com/instructors/yandickson
+https://sfq.cyanfeathers.com/instructors/yangb
 https://sfq.cyanfeathers.com/instructors/yangharry
 https://sfq.cyanfeathers.com/instructors/yangl
 https://sfq.cyanfeathers.com/instructors/yanglu
@@ -4854,6 +5074,7 @@ https://sfq.cyanfeathers.com/instructors/yarime
 https://sfq.cyanfeathers.com/instructors/yasutora
 https://sfq.cyanfeathers.com/instructors/yatmingso
 https://sfq.cyanfeathers.com/instructors/ybchan
+https://sfq.cyanfeathers.com/instructors/ydfeng
 https://sfq.cyanfeathers.com/instructors/ydingai
 https://sfq.cyanfeathers.com/instructors/yduanan
 https://sfq.cyanfeathers.com/instructors/yeelcjohnny
@@ -4867,10 +5088,12 @@ https://sfq.cyanfeathers.com/instructors/yhsong
 https://sfq.cyanfeathers.com/instructors/yichen
 https://sfq.cyanfeathers.com/instructors/yichengz
 https://sfq.cyanfeathers.com/instructors/yifanshen
+https://sfq.cyanfeathers.com/instructors/yifanzhang
 https://sfq.cyanfeathers.com/instructors/yifeicui
 https://sfq.cyanfeathers.com/instructors/yike
 https://sfq.cyanfeathers.com/instructors/yilong
 https://sfq.cyanfeathers.com/instructors/yimincheng
+https://sfq.cyanfeathers.com/instructors/yingl
 https://sfq.cyanfeathers.com/instructors/yingtianli
 https://sfq.cyanfeathers.com/instructors/yingxue
 https://sfq.cyanfeathers.com/instructors/yiukinkwok
@@ -4886,10 +5109,12 @@ https://sfq.cyanfeathers.com/instructors/yoonseobkim
 https://sfq.cyanfeathers.com/instructors/younghuh
 https://sfq.cyanfeathers.com/instructors/yqsong
 https://sfq.cyanfeathers.com/instructors/yqtian
+https://sfq.cyanfeathers.com/instructors/yuanlp
 https://sfq.cyanfeathers.com/instructors/yuany
 https://sfq.cyanfeathers.com/instructors/yuehou
 https://sfq.cyanfeathers.com/instructors/yukinori
 https://sfq.cyanfeathers.com/instructors/yumiansu
+https://sfq.cyanfeathers.com/instructors/yunyasong
 https://sfq.cyanfeathers.com/instructors/yuzhangcse
 https://sfq.cyanfeathers.com/instructors/yyiu
 https://sfq.cyanfeathers.com/instructors/yyli
@@ -4916,7 +5141,9 @@ https://sfq.cyanfeathers.com/instructors/zhitaoyin
 https://sfq.cyanfeathers.com/instructors/zhliu
 https://sfq.cyanfeathers.com/instructors/zhongminglu
 https://sfq.cyanfeathers.com/instructors/zhongsy
+https://sfq.cyanfeathers.com/instructors/zhousammy
 https://sfq.cyanfeathers.com/instructors/zhularry
+https://sfq.cyanfeathers.com/instructors/zihaohu
 https://sfq.cyanfeathers.com/instructors/zilim
 https://sfq.cyanfeathers.com/instructors/zilong
 https://sfq.cyanfeathers.com/instructors/zjx
