@@ -15,8 +15,6 @@ export default async function Page({ params }: Args) {
     return <InstructorChart itsc={await params.then(p => p.itsc)} />
 }
 
-export const runtime = 'edge';
-
 export async function generateMetadata({ params }: Args) {
     const instructorName = getNameByItsc(await params.then(p => p.itsc));
 

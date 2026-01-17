@@ -26,8 +26,6 @@ export default async function Page({ params }: Args) {
     return <CourseChart courseCode={await params.then(p => p.code)} />
 }
 
-export const runtime = 'edge';
-
 export async function generateMetadata({ params }: Args): Promise<Metadata> {
     const courseCodeWithSpace = addSpaceToCourseCode(await params.then(p => p.code));
 
