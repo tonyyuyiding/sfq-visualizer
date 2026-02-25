@@ -95,6 +95,9 @@ export default function Home() {
         <h2 className="text-xl font-bold py-2 mt-2" id="changelog">Changelog</h2>
         <ul className="list-disc list-inside ml-4">
           <li>
+            2026-02-25: Add data for Summer and Fall 2025.
+          </li>
+          <li>
             2025-08-01: Add data for Spring 2025.
           </li>
           <li>
