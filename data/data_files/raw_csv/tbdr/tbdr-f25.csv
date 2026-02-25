@@ -1,0 +1,96 @@
+Academic Year,Term,Level of Statistics,School,Department Code,Department Name,No. of Sections Evaluated,Response Rate,Course Overall - UG (Small),Course Overall - UG (Medium),Course Overall - UG (Large),Course Overall - UG Mean,Course Overall - PG (Small),Course Overall - PG (Medium),Course Overall - PG Mean,Course Overall - Overall,Instructor Overall - UG (Small),Instructor Overall - UG (Medium),Instructor Overall - UG (Large),Instructor Overall - UG Mean,Instructor Overall - PG (Small),Instructor Overall - PG (Medium),Instructor Overall - PG Mean,Instructor Overall - Overall
+25-26,Fall,University,-,-,-,1676.0,0.46,3.97,4.06,4.01,4.04,4.54,4.53,4.53,4.23,4.33,4.22,4.09,4.19,4.6,4.63,4.62,4.36
+25-26,Fall,School,SBM,-,-,493.0,0.436,4.14,4.05,3.91,4.05,4.36,4.47,4.45,4.26,4.39,4.2,4.01,4.2,4.41,4.56,4.54,4.37
+25-26,Fall,Department,SBM,ACCT,Accounting,59.0,0.413,-,4.05,3.83,4.04,4.73,4.63,4.63,4.24,-,4.19,3.88,4.17,4.82,4.7,4.7,4.35
+25-26,Fall,Department,SBM,ECON,Economics,71.0,0.439,4.78,4.01,-,4.03,4.51,4.72,4.67,4.32,4.83,4.14,-,4.16,4.54,4.76,4.72,4.42
+25-26,Fall,Department,SBM,FOFB,Family office and Family Business,9.0,0.791,-,-,-,-,4.56,4.04,4.23,4.23,-,-,-,-,4.72,4.27,4.41,4.41
+25-26,Fall,Department,SBM,FINA,Finance,70.0,0.441,-,4.01,4,4.01,4.69,4.65,4.65,4.43,-,4.09,4.28,4.1,4.82,4.74,4.75,4.52
+25-26,Fall,Department,SBM,GBUS,Global Business,4.0,0.386,-,4.27,-,4.27,-,-,-,4.27,-,4.46,-,4.46,-,-,-,4.46
+25-26,Fall,Department,SBM,ISOM,"Information Systems, Business Statistics and Operations Management",150.0,0.408,4.06,4.07,-,4.07,4.13,4.39,4.35,4.23,4.31,4.21,-,4.21,4.14,4.5,4.44,4.34
+25-26,Fall,Department,SBM,MGMT,Management,75.0,0.405,3.74,4.01,-,4,4.41,4.33,4.34,4.08,4.13,4.22,-,4.21,4.72,4.44,4.46,4.27
+25-26,Fall,Department,SBM,MARK,Marketing,44.0,0.597,4.17,4.17,-,4.17,4.18,4.2,4.19,4.19,4.41,4.28,-,4.3,4.34,4.3,4.31,4.3
+25-26,Fall,Department,SBM,MIMT,MSc Program in International Management,12.0,0.507,-,-,-,-,4.08,4.28,4.27,4.27,-,-,-,-,4.54,4.47,4.47,4.47
+25-26,Fall,Department,SBM,RMBI,Risk Management and Business Intelligence,4.0,0.295,3.86,4.43,-,4.29,-,-,-,4.29,4.29,4.52,-,4.46,-,-,-,4.46
+25-26,Fall,Department,SBM,SBMT,School of Business and Management,3.0,0.378,-,-,-,-,-,4.6,4.6,4.6,-,-,-,-,-,4.64,4.64,4.64
+25-26,Fall,Department,SBM,WBBA,SF Program in World Business,1.0,0.788,-,4.35,-,4.35,-,-,-,4.35,-,4.62,-,4.62,-,-,-,4.62
+25-26,Fall,School,SENG,-,-,349.0,0.439,4.24,4.07,3.98,4.04,4.65,4.61,4.6,4.3,4.38,4.23,4.07,4.18,4.72,4.7,4.69,4.4
+25-26,Fall,Department,SENG,ARIN, MSc in Artificial Intelligence ,7.0,0.552,-,-,-,-,-,4.37,4.27,4.27,-,-,-,-,-,4.58,4.45,4.45
+25-26,Fall,Department,SENG,MAIE, MSc in Artificial Intelligence and Entrepreneurship ,7.0,0.67,-,-,-,-,-,4.39,4.39,4.39,-,-,-,-,-,4.58,4.58,4.58
+25-26,Fall,Department,SENG,CENG,Chemical and Biological Engineering,25.0,0.559,4.05,3.89,3.96,3.92,4.78,4.5,4.55,4.05,4.29,4.06,4.14,4.1,4.83,4.61,4.65,4.21
+25-26,Fall,Department,SENG,CIVL,Civil and Environmental Engineering,30.0,0.362,4.45,3.92,3.74,3.81,4.58,4.76,4.71,3.94,4.46,4.04,3.92,3.97,4.73,4.78,4.77,4.06
+25-26,Fall,Department,SENG,CIEM,Civil Infrastructural Engineering and Management,10.0,0.351,-,-,-,-,4.22,4.42,4.4,4.4,-,-,-,-,4.44,4.47,4.47,4.47
+25-26,Fall,Department,SENG,COMP,Computer Science and Engineering,76.0,0.397,4.25,4.11,4.22,4.14,4.92,4.53,4.6,4.2,4.38,4.35,4.41,4.37,4.92,4.64,4.69,4.41
+25-26,Fall,Department,SENG,ELEC,Electronic and Computer Engineering,46.0,0.398,4.46,3.97,4.11,4.07,4.73,4.52,4.58,4.18,4.61,4.04,4.11,4.09,4.79,4.61,4.66,4.23
+25-26,Fall,Department,SENG,ENEG,Energy Technology,4.0,0.644,4.1,-,-,4.1,4.44,-,4.44,4.26,4.15,-,-,4.15,4.5,-,4.5,4.32
+25-26,Fall,Department,SENG,EEMT,Engineering Enterprise Management,5.0,0.529,-,-,-,-,-,4.73,4.73,4.73,-,-,-,-,-,4.81,4.81,4.81
+25-26,Fall,Department,SENG,IEDA,Industrial Engineering and Decision Analytics,27.0,0.331,4.18,4.11,3.83,4.06,-,4.5,4.5,4.08,4.37,4.2,3.83,4.15,-,4.77,4.77,4.18
+25-26,Fall,Department,SENG,CSIT,Information Technology,8.0,0.392,-,-,-,-,5,4.62,4.66,4.66,-,-,-,-,5,4.76,4.79,4.79
+25-26,Fall,Department,SENG,IBTM,Intelligent Building Technology and Management,6.0,0.622,-,-,-,-,-,4.67,4.67,4.67,-,-,-,-,-,4.72,4.72,4.72
+25-26,Fall,Department,SENG,MECH,Mechanical Engineering,28.0,0.396,4.18,4.27,3.76,4.04,4.6,4.71,4.67,4.17,4.41,4.36,3.86,4.14,4.6,4.78,4.71,4.26
+25-26,Fall,Department,SENG,BEHI,MSc in Biomolecular Engineering and Health Informatics,5.0,0.656,-,-,-,-,-,4.48,4.48,4.48,-,-,-,-,-,4.6,4.6,4.6
+25-26,Fall,Department,SENG,MCEE,MSc in Chemical and Energy Engineering,9.0,0.661,-,-,-,-,-,4.76,4.76,4.76,-,-,-,-,-,4.83,4.81,4.81
+25-26,Fall,Department,SENG,ENGG,School of Engineering,7.0,0.513,4,3.95,-,3.95,-,4.5,4.5,4.06,3.8,4.13,-,4.12,-,4.53,4.53,4.16
+25-26,Fall,Department,SENG,EESM,Self-Financed Electrical and Electronic Engineering Postgraduate Programs,18.0,0.62,-,-,-,-,-,4.61,4.61,4.61,-,-,-,-,-,4.69,4.69,4.69
+25-26,Fall,Department,SENG,JEVE,"Self-Financed Graduate Diploma and MSc Program in Environmental Engineering, and Environmental Science",7.0,0.5,-,-,-,-,-,4.8,4.8,4.8,-,-,-,-,-,4.86,4.86,4.86
+25-26,Fall,Department,SENG,AESF,Self-Financed Mechanical and Aerospace Engineering Postgraduate Programs,8.0,0.546,-,-,-,-,4.63,4.66,4.66,4.66,-,-,-,-,4.77,4.7,4.71,4.71
+25-26,Fall,Department,SENG,MSBD,Self-Financed MSc Program in Big Data Technology,8.0,0.356,-,-,-,-,-,4.43,4.48,4.48,-,-,-,-,-,4.48,4.53,4.53
+25-26,Fall,Department,SENG,MESF,Self-Financed MSc Program in Mechanical Engineering,7.0,0.594,-,-,-,-,-,4.77,4.77,4.77,-,-,-,-,-,4.85,4.85,4.85
+25-26,Fall,Department,SENG,UTOP,Undergraduate Teaching Opportunities,1.0,0.3,-,3.78,-,3.78,-,-,-,3.78,-,4.36,-,4.36,-,-,-,4.36
+25-26,Fall,School,SHSS,-,-,110.0,0.472,4.44,4.17,4.1,4.15,4.79,4.61,4.63,4.32,4.3,4.29,4.25,4.27,4.83,4.72,4.73,4.47
+25-26,Fall,Department,SHSS,HUMA,Humanities,45.0,0.426,4.71,4.15,4.07,4.12,4.75,4.54,4.65,4.19,4.71,4.24,4.27,4.26,4.8,4.55,4.7,4.32
+25-26,Fall,Department,SHSS,HMMA,MA Program in Chinese Culture,3.0,0.787,-,-,-,-,-,4.67,4.67,4.67,-,-,-,-,-,4.76,4.76,4.76
+25-26,Fall,Department,SHSS,MASS,Master of Arts in Social Science,10.0,0.669,-,-,-,-,-,4.6,4.6,4.6,-,-,-,-,-,4.74,4.74,4.74
+25-26,Fall,Department,SHSS,MGCS,MSc Program in Global China Studies,9.0,0.797,-,-,-,-,-,4.69,4.69,4.69,-,-,-,-,-,4.75,4.75,4.75
+25-26,Fall,Department,SHSS,MILE,MSc Program in International Language Education,6.0,0.933,-,-,-,-,-,4.55,4.55,4.55,-,-,-,-,-,4.69,4.69,4.69
+25-26,Fall,Department,SHSS,HSS,School of Humanities & Social Science,3.0,0.323,4.1,-,-,4.1,-,-,-,4.1,4.03,-,-,4.03,-,-,-,4.03
+25-26,Fall,Department,SHSS,SOSC,Social Science,34.0,0.381,4.53,4.21,4.17,4.2,4.87,-,4.87,4.24,4.59,4.36,4.23,4.32,4.89,-,4.89,4.35
+25-26,Fall,School,SSCI,-,-,279.0,0.44,4.29,4.06,4,4.03,4.59,4.53,4.54,4.14,4.49,4.15,4.08,4.11,4.64,4.63,4.64,4.23
+25-26,Fall,Department,SSCI,CHMS,Analytical Chemistry,4.0,0.579,-,-,-,-,-,4.75,4.75,4.75,-,-,-,-,-,4.77,4.77,4.77
+25-26,Fall,Department,SSCI,BTEC,Biotechnology,6.0,0.482,-,-,-,-,-,4.4,4.4,4.4,-,-,-,-,-,4.5,4.5,4.5
+25-26,Fall,Department,SSCI,CHEM,Chemistry,43.0,0.476,4.3,4.09,3.95,4.03,4.45,4.69,4.59,4.05,4.41,4.19,4.08,4.13,4.33,4.71,4.54,4.15
+25-26,Fall,Department,SSCI,DASC,Data Analytics in Science,6.0,0.461,3.82,4.11,-,4.08,-,-,-,4.08,4.09,4.21,-,4.2,-,-,-,4.2
+25-26,Fall,Department,SSCI,LIFS,Life Science,38.0,0.419,4.68,4.1,4.02,4.06,4.48,4.54,4.53,4.11,4.76,4.17,4.03,4.1,4.65,4.66,4.66,4.22
+25-26,Fall,Department,SSCI,MATH,Mathematics,84.0,0.395,4.14,3.97,4.02,4.01,4.63,4.58,4.64,4.06,4.27,3.96,4.06,4.04,4.69,4.63,4.7,4.09
+25-26,Fall,Department,SSCI,MSDM,MSc in Data-Driven Modeling Program,7.0,0.666,-,-,-,-,-,4.47,4.47,4.47,-,-,-,-,-,4.65,4.65,4.65
+25-26,Fall,Department,SSCI,DRAP,MSc in Drug Regulatory Affairs and Policy,6.0,0.345,-,-,-,-,-,4.57,4.57,4.57,-,-,-,-,-,4.68,4.68,4.68
+25-26,Fall,Department,SSCI,MSPY,MSc in Physics,7.0,0.693,-,-,-,-,4.83,4.27,4.29,4.29,-,-,-,-,4.33,4.43,4.43,4.43
+25-26,Fall,Department,SSCI,MAED,MSc Program in Mathematics for Educators,5.0,0.759,-,-,-,-,-,4.65,4.65,4.65,-,-,-,-,-,4.71,4.71,4.71
+25-26,Fall,Department,SSCI,NANO,NANO Science and Technology,1.0,0.75,-,-,-,-,4.67,-,4.67,4.67,-,-,-,-,4.83,-,4.83,4.83
+25-26,Fall,Department,SSCI,OCES,Ocean Science,22.0,0.506,3.75,4.21,4.12,4.15,4.47,4.41,4.41,4.2,4.25,4.49,4.24,4.3,4.71,4.49,4.52,4.33
+25-26,Fall,Department,SSCI,PHYS,Physics,39.0,0.431,4.25,3.99,3.94,3.96,4.78,4.71,4.73,4.0,4.67,4.08,4.11,4.1,4.83,4.76,4.78,4.14
+25-26,Fall,Department,SSCI,SCIE,School of Science,2.0,0.556,4.25,4.59,-,4.48,-,-,-,4.48,3.88,4.59,-,4.36,-,-,-,4.36
+25-26,Fall,Department,SSCI,MAFS,Self-Financed MSc Program in Mathematics (Financial Mathematics and Statistics),9.0,0.364,-,-,-,-,4.67,4.64,4.64,4.64,-,-,-,-,4.67,4.72,4.72,4.72
+25-26,Fall,School,LANG/LABU/LAGR,-,-,327.0,0.629,3.89,4.01,-,3.94,4.83,4.65,4.7,4.04,4.3,4.35,-,4.32,4.85,4.78,4.8,4.38
+25-26,Fall,Department,LANG/LABU/LAGR,LANG,Language,317.0,0.637,3.91,4.01,-,3.96,4.83,4.65,4.7,4.06,4.32,4.35,-,4.33,4.85,4.78,4.8,4.39
+25-26,Fall,Department,LANG/LABU/LAGR,LABU,Language for Business,10.0,0.327,2.96,-,-,2.96,-,-,-,2.96,3.7,-,-,3.7,-,-,-,3.7
+25-26,Fall,School,AIS,-,-,105.0,0.558,4.47,4.07,-,4.1,4.49,4.6,4.54,4.4,4.64,4.24,-,4.26,4.62,4.65,4.61,4.49
+25-26,Fall,Department,AIS,CTDL,Critical Thinking and Data Literacy,4.0,0.302,-,3.77,-,3.77,-,-,-,3.77,-,3.98,-,3.98,-,-,-,3.98
+25-26,Fall,Department,AIS,AMCC,Division of Arts and Machine Creativity,11.0,0.814,-,-,-,-,4.52,4.5,4.5,4.5,-,-,-,-,4.67,4.61,4.63,4.63
+25-26,Fall,Department,AIS,EMIA,Division of Emerging Interdisciplinary Areas,9.0,0.681,-,4.2,-,4.2,4.9,4.9,4.9,4.34,-,4.4,-,4.4,5,4.95,4.97,4.51
+25-26,Fall,Department,AIS,ENVR,Environment and Sustainability,19.0,0.465,4,3.92,-,3.92,4.24,4.71,4.31,4.06,4.14,4.18,-,4.18,4.61,4.82,4.47,4.28
+25-26,Fall,Department,AIS,EVSM,Environmental Science and Management,5.0,0.575,-,-,-,-,-,4.57,4.56,4.56,-,-,-,-,-,4.62,4.61,4.61
+25-26,Fall,Department,AIS,ISDN,Integrative Systems and Design,24.0,0.539,4.52,4.19,-,4.25,4.5,4.69,4.65,4.47,4.7,4.29,-,4.36,4.57,4.75,4.71,4.53
+25-26,Fall,Department,AIS,AISC,Interdisciplinary Studies,1.0,1.0,4.78,-,-,4.78,-,-,-,4.78,4.78,-,-,4.78,-,-,-,4.78
+25-26,Fall,Department,AIS,PPOL,Public Policy,25.0,0.646,-,4.67,-,4.67,4.45,4.57,4.56,4.57,-,4.74,-,4.74,4.53,4.6,4.59,4.6
+25-26,Fall,Department,AIS,MTLE,Self-Financed MSc Program in Technology Leadership and Entrepreneurship,5.0,0.494,-,-,-,-,-,4.6,4.6,4.6,-,-,-,-,-,4.69,4.69,4.69
+25-26,Fall,Department,AIS,TEMG,Technology and Management,2.0,0.439,4.33,4.75,-,4.61,-,-,-,4.61,4.67,4.75,-,4.72,-,-,-,4.72
+25-26,Fall,School,OTHERS,-,-,15.0,0.525,4.08,4.58,4.41,4.44,-,4.24,4.24,4.3,4.38,4.45,4.48,4.46,-,4.48,4.48,4.47
+25-26,Fall,Department,OTHERS,CEI,Center for Education Innovation,8.0,0.586,-,-,-,-,-,4.24,4.24,4.24,-,-,-,-,-,4.48,4.48,4.48
+25-26,Fall,Department,OTHERS,DSTO,Dean of Students' Office,2.0,0.433,-,4.65,-,4.65,-,-,-,4.65,-,4.42,-,4.42,-,-,-,4.42
+25-26,Fall,Department,OTHERS,UROP,Undergraduate Research Opportunities Program,5.0,0.406,4.08,4.5,4.41,4.39,-,-,-,4.39,4.38,4.5,4.48,4.47,-,-,-,4.47
+,,,,,,,,,,,,,,,,,,,,,,,
+Key:,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Small UG: Undergraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium UG: Undergraduate courses with enrolment from 21 - 100,,,,,,,,,,,,,,,,,,,,,,,
+Large UG: Undergraduate courses with enrolment over 100,,,,,,,,,,,,,,,,,,,,,,,
+UG Mean: Mean of responses of all UG courses,,,,,,,,,,,,,,,,,,,,,,,
+Small PG: Postgraduate courses with enrolment up to 20,,,,,,,,,,,,,,,,,,,,,,,
+Medium PG: Postgraduate courses with enrolment from 21 - 100,,,,,,,,,,,,,,,,,,,,,,,
+PG Mean: Mean of responses of all PG courses,,,,,,,,,,,,,,,,,,,,,,,
+Overall: Mean of responses of all courses,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+"If there is no entry, there were no classes of the type indicated.",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by HKUST,,,,,,,,,,,,,,,,,,,,,,,
+15 February 2026,,,,,,,,,,,,,,,,,,,,,,,

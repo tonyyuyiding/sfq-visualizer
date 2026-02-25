@@ -1,0 +1,53 @@
+Academic Year,Term,Level of Statistics,School,Dept,Course Group,Course No,Section,Course Code,Section Code,Survey Name,Instructor's Name,Instructor's ITSC,Enrolment,Response Rate,Low Response Rate Indicator,Response Rate (Adjusted),Number of Sections Evaluated,Course Overall - Mean,Course Overall - Mean (Adjusted),Course Overall - SD,Course Overall -  SD (Adjusted),Instructor Overall - Mean,Instructor Overall - Mean (Adjusted),Instructor Overall - SD,Instructor Overall - SD (Adjusted)
+24-25,SUMMER,School,SHSS,-,-,-,-,-,-,-,-,-,-,0.332,,-,13,4.21,-,0.95,-,4.33,-,0.91,-
+24-25,SUMMER,Dept / Course Group,SHSS,HUMA,-,-,-,-,-,-,-,-,-,0.322,,-,6,4.03,-,1.13,-,4.19,-,1.12,-
+24-25,SUMMER,Dept / Course Group,SHSS,SOSC,-,-,-,-,-,-,-,-,-,0.336,,-,7,4.29,-,0.84,-,4.4,-,0.8,-
+24-25,SUMMER,Course,SHSS,HUMA,HUMA,1102,-,24-25-SUMMER-HUMA-1102,-,-,-,-,-,0.37,,-,1,4.2,-,0.85,-,4.5,-,0.57,-
+24-25,SUMMER,Section,SHSS,HUMA,HUMA,1102,L1,24-25-SUMMER-HUMA-1102,24-25-SUMMER-HUMA-1102-L1,-,-,-,81,0.37,,-,-,4.2,-,0.85,-,4.5,-,0.57,-
+24-25,SUMMER,Instructor,SHSS,HUMA,HUMA,1102,L1,24-25-SUMMER-HUMA-1102,24-25-SUMMER-HUMA-1102-L1,24-25-SUMMER-HUMA-1102-L1-SI1,"KAILA, Ilari",kaila,81,0.37,,0.346,-,4.2,4.25,0.85,0.75,4.5,4.54,0.57,0.51
+24-25,SUMMER,Course,SHSS,HUMA,HUMA,1154,-,24-25-SUMMER-HUMA-1154,-,-,-,-,-,0.643,Y,-,1,4.44,-,1.33,-,4.44,-,1.33,-
+24-25,SUMMER,Section,SHSS,HUMA,HUMA,1154,L1,24-25-SUMMER-HUMA-1154,24-25-SUMMER-HUMA-1154-L1,-,-,-,14,0.643,Y,-,-,4.44,-,1.33,-,4.44,-,1.33,-
+24-25,SUMMER,Instructor,SHSS,HUMA,HUMA,1154,L1,24-25-SUMMER-HUMA-1154,24-25-SUMMER-HUMA-1154-L1,24-25-SUMMER-HUMA-1154-L1-SI1,"CHU, Birdy Shun",hmshun,14,0.643,Y,0.5,-,4.44,4.86,1.33,0.38,4.44,4.86,1.33,0.38
+24-25,SUMMER,Course,SHSS,HUMA,HUMA,1157,-,24-25-SUMMER-HUMA-1157,-,-,-,-,-,0.545,,-,1,4.61,-,0.5,-,4.72,-,0.46,-
+24-25,SUMMER,Section,SHSS,HUMA,HUMA,1157,L1,24-25-SUMMER-HUMA-1157,24-25-SUMMER-HUMA-1157-L1,-,-,-,33,0.545,,-,-,4.61,-,0.5,-,4.72,-,0.46,-
+24-25,SUMMER,Instructor,SHSS,HUMA,HUMA,1157,L1,24-25-SUMMER-HUMA-1157,24-25-SUMMER-HUMA-1157-L1,24-25-SUMMER-HUMA-1157-L1-SI1,"DROSCHA, Isaac",droscha,33,0.545,,0.485,-,4.61,4.63,0.5,0.5,4.72,4.75,0.46,0.45
+24-25,SUMMER,Course,SHSS,HUMA,HUMA,1622,-,24-25-SUMMER-HUMA-1622,-,-,-,-,-,0.318,Y,-,1,3.67,-,1.18,-,3.67,-,1.33,-
+24-25,SUMMER,Section,SHSS,HUMA,HUMA,1622,L1,24-25-SUMMER-HUMA-1622,24-25-SUMMER-HUMA-1622-L1,-,-,-,85,0.318,Y,-,-,3.67,-,1.18,-,3.67,-,1.33,-
+24-25,SUMMER,Instructor,SHSS,HUMA,HUMA,1622,L1,24-25-SUMMER-HUMA-1622,24-25-SUMMER-HUMA-1622-L1,24-25-SUMMER-HUMA-1622-L1-SI1,"Prof. CHEE, Pui Yee",hmlizchee,85,0.318,Y,0.294,-,3.67,3.72,1.18,1.06,3.67,3.72,1.33,1.24
+24-25,SUMMER,Course,SHSS,HUMA,HUMA,2050,-,24-25-SUMMER-HUMA-2050,-,-,-,-,-,0.132,Y,-,1,4.0,-,1.73,-,4.8,-,0.45,-
+24-25,SUMMER,Section,SHSS,HUMA,HUMA,2050,L1,24-25-SUMMER-HUMA-2050,24-25-SUMMER-HUMA-2050-L1,-,-,-,38,0.132,Y,-,-,4.0,-,1.73,-,4.8,-,0.45,-
+24-25,SUMMER,Instructor,SHSS,HUMA,HUMA,2050,L1,24-25-SUMMER-HUMA-2050,24-25-SUMMER-HUMA-2050-L1,24-25-SUMMER-HUMA-2050-L1-SI1,"LI, Dechao",hmdcli,38,0.132,Y,0.079,-,4.0,4.67,1.73,0.58,4.8,5,0.45,0
+24-25,SUMMER,Course,SHSS,HUMA,HUMA,2661,-,24-25-SUMMER-HUMA-2661,-,-,-,-,-,0.203,Y,-,1,3.36,-,1.39,-,3.5,-,1.51,-
+24-25,SUMMER,Section,SHSS,HUMA,HUMA,2661,L1,24-25-SUMMER-HUMA-2661,24-25-SUMMER-HUMA-2661-L1,-,-,-,70,0.203,Y,-,-,3.36,-,1.39,-,3.5,-,1.51,-
+24-25,SUMMER,Instructor,SHSS,HUMA,HUMA,2661,L1,24-25-SUMMER-HUMA-2661,24-25-SUMMER-HUMA-2661-L1,24-25-SUMMER-HUMA-2661-L1-SI1,"KWONG, Anna Yee Ngan",hmakwong,70,0.203,Y,0.174,-,3.36,3.42,1.39,1.24,3.5,3.58,1.51,1.38
+24-25,SUMMER,Course,SHSS,SOSC,SOSC,1440,-,24-25-SUMMER-SOSC-1440,-,-,-,-,-,0.32,Y,0.24,1,4.25,4.17,0.46,0.41,4.13,4.33,1.13,0.82
+24-25,SUMMER,Section,SHSS,SOSC,SOSC,1440,L1,24-25-SUMMER-SOSC-1440,24-25-SUMMER-SOSC-1440-L1,-,-,-,25,0.32,Y,0.24,-,4.25,4.17,0.46,0.41,4.13,4.33,1.13,0.82
+24-25,SUMMER,Instructor,SHSS,SOSC,SOSC,1440,L1,24-25-SUMMER-SOSC-1440,24-25-SUMMER-SOSC-1440-L1,24-25-SUMMER-SOSC-1440-L1-SI,"WANG, Wen",wenwangww,25,0.32,Y,0.24,-,4.25,4.17,0.46,0.41,4.13,4.33,1.13,0.82
+24-25,SUMMER,Course,SHSS,SOSC,SOSC,1662,-,24-25-SUMMER-SOSC-1662,-,-,-,-,-,0.288,,0.276,1,4.32,4.36,0.79,0.68,4.39,4.43,0.79,0.68
+24-25,SUMMER,Section,SHSS,SOSC,SOSC,1662,LX,24-25-SUMMER-SOSC-1662,24-25-SUMMER-SOSC-1662-LX,-,-,-,351,0.288,,0.276,-,4.32,4.36,0.79,0.68,4.39,4.43,0.79,0.68
+24-25,SUMMER,Instructor,SHSS,SOSC,SOSC,1662,LX,24-25-SUMMER-SOSC-1662,24-25-SUMMER-SOSC-1662-LX,24-25-SUMMER-SOSC-1662-LX-SI,"GROVES, Julian Mcallister",sojulian,351,0.288,,0.276,-,4.32,4.36,0.79,0.68,4.39,4.43,0.79,0.68
+24-25,SUMMER,Course,SHSS,SOSC,SOSC,1969,-,24-25-SUMMER-SOSC-1969,-,-,-,-,-,0.314,,-,2,4.29,-,0.8,-,4.53,-,0.68,-
+24-25,SUMMER,Section,SHSS,SOSC,SOSC,1969,L1,24-25-SUMMER-SOSC-1969,24-25-SUMMER-SOSC-1969-L1,-,-,-,119,0.387,,0.37,-,4.41,4.48,0.8,0.63,4.7,4.73,0.55,0.5
+24-25,SUMMER,Instructor,SHSS,SOSC,SOSC,1969,L1,24-25-SUMMER-SOSC-1969,24-25-SUMMER-SOSC-1969-L1,24-25-SUMMER-SOSC-1969-L1-SI,"SIU, Yat Fan",nicsiu,119,0.387,,0.37,-,4.41,4.48,0.8,0.63,4.7,4.73,0.55,0.5
+24-25,SUMMER,Section,SHSS,SOSC,SOSC,1969,L2,24-25-SUMMER-SOSC-1969,24-25-SUMMER-SOSC-1969-L2,-,-,-,104,0.231,Y,0.212,-,4.04,4.09,0.75,0.61,4.21,4.27,0.78,0.63
+24-25,SUMMER,Instructor,SHSS,SOSC,SOSC,1969,L2,24-25-SUMMER-SOSC-1969,24-25-SUMMER-SOSC-1969-L2,24-25-SUMMER-SOSC-1969-L2-SI,"SHU, Tse Mei Annie",annieshu,104,0.231,Y,0.212,-,4.04,4.09,0.75,0.61,4.21,4.27,0.78,0.63
+24-25,SUMMER,Course,SHSS,SOSC,SOSC,2330,-,24-25-SUMMER-SOSC-2330,-,-,-,-,-,0.321,Y,0.25,1,4.67,4.71,0.5,0.49,4.56,4.71,0.73,0.49
+24-25,SUMMER,Section,SHSS,SOSC,SOSC,2330,L1,24-25-SUMMER-SOSC-2330,24-25-SUMMER-SOSC-2330-L1,-,-,-,28,0.321,Y,0.25,-,4.67,4.71,0.5,0.49,4.56,4.71,0.73,0.49
+24-25,SUMMER,Instructor,SHSS,SOSC,SOSC,2330,L1,24-25-SUMMER-SOSC-2330,24-25-SUMMER-SOSC-2330-L1,24-25-SUMMER-SOSC-2330-L1-SI,"WONG,James K.",jameskalei,28,0.321,Y,0.25,-,4.67,4.71,0.5,0.49,4.56,4.71,0.73,0.49
+24-25,SUMMER,Course,SHSS,SOSC,SOSC,2740,-,24-25-SUMMER-SOSC-2740,-,-,-,-,-,0.8,,0.75,1,4.03,4.1,1.18,1.06,4.09,4.17,1.0,0.83
+24-25,SUMMER,Section,SHSS,SOSC,SOSC,2740,L1,24-25-SUMMER-SOSC-2740,24-25-SUMMER-SOSC-2740-L1,-,-,-,40,0.8,,0.75,-,4.03,4.1,1.18,1.06,4.09,4.17,1.0,0.83
+24-25,SUMMER,Instructor,SHSS,SOSC,SOSC,2740,L1,24-25-SUMMER-SOSC-2740,24-25-SUMMER-SOSC-2740-L1,24-25-SUMMER-SOSC-2740-L1-SI,"GROVES, Julian Mcallister",sojulian,40,0.8,,0.75,-,4.03,4.1,1.18,1.06,4.09,4.17,1.0,0.83
+24-25,SUMMER,Course,SHSS,SOSC,SOSC,3000J,-,24-25-SUMMER-SOSC-3000J,-,-,-,-,-,0.875,Y,0.625,1,4.57,4.6,0.53,0.55,4.71,4.8,0.49,0.45
+24-25,SUMMER,Section,SHSS,SOSC,SOSC,3000J,L1,24-25-SUMMER-SOSC-3000J,24-25-SUMMER-SOSC-3000J-L1,-,-,-,8,0.875,Y,0.625,-,4.57,4.6,0.53,0.55,4.71,4.8,0.49,0.45
+24-25,SUMMER,Instructor,SHSS,SOSC,SOSC,3000J,L1,24-25-SUMMER-SOSC-3000J,24-25-SUMMER-SOSC-3000J-L1,24-25-SUMMER-SOSC-3000J-L1-SI,"PAPYSHEV, Gleb",gleb,8,0.875,Y,0.625,-,4.57,4.6,0.53,0.55,4.71,4.8,0.49,0.45
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Adjusted statistics are provided as a reference with extreme responses being excluded. They are calculated by discarding the top 1.5% AND bottom 1.5% responses. The number of discarded response(s) of each end is rounded UP to the nearest integer. The resultant data set will be used to calculate adjusted statistics in this report.,,,,,,,,,,,,,,,,,,,,,,,,,
+"No section/course level adjusted statistics will be calculated if (i) one or more survey(s) receive(s) less than 3 responses; or (ii) this section/course is taught by multiple instructors, teaching support staff, and/or teaching assistants. It will be left blank in the cells.",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. The response rate shown is the response rate for the instructor/course overall question, whichever is the higher. It is calculated as the number of responses received for the question divided by the maximum possible number of responses.",,,,,,,,,,,,,,,,,,,,,,,,,
+3. Low response rate indicator indicates surveys whose response rates are too low for reliable comparison.,,,,,,,,,,,,,,,,,,,,,,,,,
+4. A section may be counted towards multiple programs/departments which are affiliated with the same or different school(s). Hence the total number of sections for all programs/departments may not necessarily tally with the number of sections for their home school.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Report prepared by Academic Quality Advancement Team,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-08-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,
